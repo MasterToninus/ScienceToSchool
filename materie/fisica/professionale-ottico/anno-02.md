@@ -29,40 +29,54 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 La sequenza riguarda Ottica e Ottica applicata e va raccordata con Scienze integrate, laboratori e discipline sanitarie. Il programma Plana consultato è un esempio di quinta, non una scansione vincolante dell’intero quinquennio.
 
+**Prerequisiti e progressione.** Dalla prima: costruzione dei raggi, immagini, segni e misura delle distanze. Prima di Snell introdurre il seno necessario; prima dei poteri usare reciprocali e metri. Le letture strumentali sono guidate e concordate con il laboratorio: non si presume già acquisita una competenza clinica. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La proposta copre il contributo fisico di Ottica/Ottica applicata. Le competenze professionali d’asse richiedono anche laboratori, optometria, contattologia e discipline sanitarie: non sono dichiarate integralmente raggiunte da queste ore. Le compresenze non raddoppiano il tempo dello studente. Nello scenario B le ore aggiuntive servono a più campioni, esercitazioni e prove autonome sullo stesso nucleo; non a replicare una spiegazione. Preparazione e relazione delle prove sono incluse nei punti, valutazione e restituzione nella riserva.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Rifrazione e indice
-
-**Subtotale del nucleo: 12 ore.**
-
-- **7 ore.** Misurare angoli d’incidenza e rifrazione e ricavare un indice con la legge di Snell; collegare indice e velocità della luce nel mezzo.
-- **5 ore.** Confrontare passaggio verso un mezzo più o meno rifrangente; studiare angolo limite e riflessione totale in configurazioni controllate.
-
-### Diottri, prismi e dispersione
 
 **Subtotale del nucleo: 10 ore.**
 
-- **5 ore.** Riconoscere la deviazione dei raggi attraverso superfici piane e curve e distinguere deviazione e spostamento laterale.
-- **5 ore.** Osservare un prisma e descrivere qualitativamente la dipendenza dell’indice dal colore, preparando lo studio delle aberrazioni cromatiche.
+- **4 ore.** Introdurre seno dell’angolo con tabella o calcolatrice e applicare Snell; misurare incidenza/rifrazione e ricavare l’indice.
+- **3 ore.** Collegare indice e velocità nel mezzo; studiare angolo limite e riflessione totale.
+- **3 ore.** Confrontare una guida di luce o una fibra didattica con il modello di riflessione totale; specificare condizioni e limiti.
+
+
+### Diottri, prismi e dispersione
+
+**Subtotale del nucleo: 8 ore.**
+
+- **4 ore.** Riconoscere la deviazione dei raggi attraverso superfici piane e curve e distinguere deviazione e spostamento laterale.
+- **4 ore.** Osservare un prisma e descrivere qualitativamente la dipendenza dell’indice dal colore, preparando lo studio delle aberrazioni cromatiche.
+
 
 ### Lenti sottili
 
-**Subtotale del nucleo: 12 ore.**
+**Subtotale del nucleo: 10 ore.**
 
-- **5 ore.** Classificare lenti convergenti e divergenti mediante il comportamento dei raggi, senza basarsi soltanto sul nome della forma.
-- **7 ore.** Individuare asse, centro ottico e fuochi e costruire immagini con i raggi principali; precisare quando il modello di lente sottile è accettabile.
+- **4 ore.** Classificare lenti convergenti e divergenti mediante il comportamento dei raggi, senza basarsi soltanto sul nome della forma.
+- **6 ore.** Individuare asse, centro ottico e fuochi e costruire immagini con i raggi principali; precisare quando il modello di lente sottile è accettabile.
+
 
 ### Distanze coniugate e potere diottrico
 
 **Subtotale del nucleo: 10 ore.**
 
-- **5 ore.** Usare la relazione dei punti coniugati con una convenzione dei segni esplicita; calcolare ingrandimento e orientamento dell’immagine.
-- **5 ore.** Convertire distanza focale in potere diottrico, con la focale in metri; confrontare lenti di segno e potere diversi.
+- **4 ore.** Usare la relazione dei punti coniugati con una convenzione dei segni esplicita; calcolare ingrandimento e orientamento dell’immagine.
+- **4 ore.** Convertire distanza focale in potere diottrico, con la focale in metri; confrontare lenti di segno e potere diversi.
+- **2 ore.** Distinguere lente sferica e cilindrica su un reticolo e riconoscere i meridiani principali; raccordare la terminologia con il laboratorio di lenti oftalmiche.
 
-### Misura e controllo di una lente
 
-**Subtotale del nucleo: 10 ore.**
+### Misura e controllo delle lenti
+
+**Subtotale del nucleo: 16 ore.**
 
 - **5 ore.** Stimare la focale di una lente convergente da più configurazioni oggetto-immagine e confrontare i risultati.
-- **5 ore.** Documentare messa a fuoco, allineamento e incertezza delle distanze; distinguere dato nominale, valore misurato e conclusione sulla compatibilità.
+- **4 ore.** Individuare il centro ottico con una prova geometrica e confrontare la potenza della lente campione con una lettura guidata al diottrometro o frontifocometro, in raccordo con il laboratorio.
+- **4 ore.** Leggere segno, potere e asse riportati nella scheda di una lente; il montaggio e la marcatura pratica appartengono al laboratorio coordinato, non sono duplicati in questa quota.
+- **3 ore.** Documentare messa a fuoco, allineamento e incertezza delle distanze; distinguere dato nominale, valore misurato e conclusione sulla compatibilità.
 
 ### Riserva per consolidamento e valutazione
 
@@ -86,6 +100,7 @@ F. Catalano, *Elementi di ottica generale*, Zanichelli, ISBN 9788808097866. Sele
 
 ## Fonti consultate per questa proposta
 
+- [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
 - [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.

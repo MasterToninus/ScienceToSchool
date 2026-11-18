@@ -24,3 +24,7 @@ Le schede annuali sono versioni **Tentative generate tramite IA**, da rivedere c
 ## Ore e distribuzione didattica
 
 Ogni scheda riporta il carico documentato, le eventuali varianti di ordinamento e una proposta IA di ore per punto, con subtotali e riserva. Gli scenari alternativi non si sommano; gli intervalli professionali richiedono il PTOF. [Audit delle fonti orarie](../../../docs/ricerca-ai/carico-didattico-informatica.md).
+
+## Revisione critica dei programmi
+
+Le proposte distinguono prerequisiti, nuclei e bilanci di ciascuna disciplina, con scenari alternativi e verifica dei totali. Il [rapporto di revisione critica](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md) documenta copertura, correzioni e limiti per tutte le schede di Informatica ed Elettronica. Le tracce precedenti sono conservate come esempi senza ore aggiuntive.

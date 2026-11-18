@@ -28,33 +28,51 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Il D.P.R. 222/2024 documenta la collocazione della disciplina. Il confronto con gli altri licei e le applicazioni alle filiere sono una proposta didattica; non si ricavano contenuti annuali dal solo quadro orario.
 
+**Prerequisiti e progressione.** In ingresso: proporzioni, equazioni lineari, aree, grafici cartesiani; vettori e lettura delle pendenze sono introdotti nei primi nuclei. Il moto precede Newton, i bilanci precedono le applicazioni gravitazionali. La verifica iniziale e gli eventuali richiami rientrano nella riserva. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** L’applicazione d’indirizzo usa i dati o il modello già introdotti: le sue ore finanziano interpretazione e trasferimento al contesto, non una seconda spiegazione del nucleo. Nella riserva, le ore di verifica includono somministrazione e restituzione; il recupero è separato. Le attività finali sono consegne entro questi tempi. Il confronto curricolare usa l’allegato 2 del D.P.R. 222/2024, sezione Fisica: le applicazioni di filiera sono una scelta didattica, non ulteriori nuclei nazionali.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Misure e rappresentazioni
 
-**Subtotale del nucleo: 9 ore.**
+**Subtotale del nucleo: 7 ore.**
 
-- **5 ore.** Misurare lunghezze, masse e tempi con strumenti semplici; usare unità SI, ordini di grandezza e cifre significative.
-- **4 ore.** Ricavare densità da massa e volume e leggere grafici con unità e incertezze; distinguere dato, interpretazione e previsione.
+- **4 ore.** Misurare lunghezze, masse e tempi con strumenti semplici; usare unità SI, ordini di grandezza e cifre significative.
+- **3 ore.** Ricavare densità da massa e volume e leggere grafici con unità e incertezze; distinguere dato, interpretazione e previsione.
 
-### Vettori, forze ed equilibrio
 
-**Subtotale del nucleo: 9 ore.**
+### Vettori, forze ed equilibrio dei solidi
 
-- **5 ore.** Comporre forze e costruire il diagramma di un corpo, distinguendo peso, reazione vincolare, tensione e attrito.
-- **4 ore.** Descrivere equilibrio, momento e baricentro; introdurre pressione, legge di Stevino e galleggiamento per confrontare equilibrio di solidi e fluidi.
+**Subtotale del nucleo: 6 ore.**
+
+- **3 ore.** Comporre forze e costruire il diagramma di un corpo, distinguendo peso, reazione vincolare, tensione e attrito.
+- **3 ore.** Usare momento di una forza e baricentro per l’equilibrio di una leva o di un corpo rigido; controllare una previsione con un modello da banco.
+
+
+### Equilibrio dei fluidi
+
+**Subtotale del nucleo: 4 ore.**
+
+- **2 ore.** Distinguere forza e pressione; applicare la legge di Stevino e il principio di Pascal a un liquido in quiete.
+- **2 ore.** Prevedere il galleggiamento con la spinta di Archimede e confrontare il risultato con un campione di densità nota.
+
 
 ### Moto e sistemi di riferimento
 
 **Subtotale del nucleo: 8 ore.**
 
 - **4 ore.** Distinguere traiettoria e grafici posizione-tempo o velocità-tempo; calcolare velocità e accelerazione in moti rettilinei semplici.
-- **4 ore.** Interpretare caduta libera e moto circolare mediante un riferimento dichiarato, riconoscendo le approssimazioni del modello.
+- **4 ore.** Interpretare caduta libera e moto circolare uniforme, distinguendo velocità e accelerazione; limitare il calcolo a casi elementari con riferimento dichiarato.
+
 
 ### Principi della dinamica
 
 **Subtotale del nucleo: 8 ore.**
 
-- **4 ore.** Collegare la risultante delle forze all’accelerazione e riconoscere il ruolo della massa; verificare casi di moto a forza risultante nulla.
-- **4 ore.** Distinguere interazione e movimento e riconoscere che azione e reazione agiscono su corpi diversi; analizzare un semplice caso con attrito.
+- **4 ore.** Usare i tre principi di Newton e distinguere massa inerziale e peso; costruire il diagramma delle forze prima di applicare F = ma.
+- **4 ore.** Confrontare riferimenti inerziali e accelerati e la relatività di Galilei mediante un esempio di trasporto; distinguere azione-reazione, attrito e forze apparenti.
+
 
 ### Lavoro, energia e quantità di moto
 
@@ -63,12 +81,14 @@ Il D.P.R. 222/2024 documenta la collocazione della disciplina. Il confronto con 
 - **4 ore.** Impostare bilanci di energia cinetica e potenziale, includendo lavoro e dissipazione; distinguere energia e potenza.
 - **4 ore.** Introdurre quantità di moto e impulso con urti semplici, scegliendo il sistema e discutendo quando il bilancio è applicabile.
 
+
 ### Gravitazione e sviluppo dei modelli
 
-**Subtotale del nucleo: 6 ore.**
+**Subtotale del nucleo: 7 ore.**
 
-- **3 ore.** Collegare caduta dei corpi, orbite e gravitazione universale; leggere le leggi di Keplero come regolarità quantitative.
-- **3 ore.** Confrontare una spiegazione storica e un modello fisico attraverso le rispettive previsioni. Consolidare questi temi all’avvio della quarta se il lavoro su misure e dinamica richiede più tempo.
+- **4 ore.** Collegare caduta dei corpi, orbite e gravitazione universale; leggere le leggi di Keplero come regolarità quantitative.
+- **3 ore.** Confrontare modelli geocentrico ed eliocentrico e la sintesi newtoniana mediante osservazioni e previsioni. Eventuali riprese in quarta sostituiscono esercizi della riserva, senza trasferire automaticamente un intero nucleo.
+
 
 ### Meccanica di una filiera
 
@@ -99,6 +119,7 @@ Ugo Amaldi, *Le traiettorie della fisica.azzurro*, 3ª ed., Zanichelli. Il volum
 
 ## Fonti consultate per questa proposta
 
+- [Presidenza della Repubblica — D.P.R. 222/2024, allegato 2, sezione Fisica](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25G00020&art.dataPubblicazioneGazzetta=2025-02-19&art.flagTipoArticolo=2&art.idArticolo=1&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1) — Indicazioni specifiche del Made in Italy, consultate il 18/11/2026.
 - [Presidenza della Repubblica — D.P.R. 222/2024, allegato 3, liceo del Made in Italy](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25G00020&art.dataPubblicazioneGazzetta=2025-02-19&art.flagTipoArticolo=3&art.idArticolo=1&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1) — Piano degli studi, allegato 3.
 - [MIUR — D.M. 211/2010, Indicazioni nazionali per i licei](https://umi.dm.unibo.it/wp-content/uploads/2013/10/4_DM_211_10_GU_275_-14_12_10.pdf) — Sezioni Fisica dell’allegato pertinente.
 - [Zanichelli — Le traiettorie della fisica.azzurro, terza edizione, scheda editoriale](https://staticmy.zanichelli.it/catalogo/assets/aP16.9788808961808.pdf) — Scheda editoriale; affinità tematica.

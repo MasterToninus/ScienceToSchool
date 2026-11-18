@@ -21,57 +21,67 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Variazione, segnali e misure.** Nel 2026/27 questa classe prosegue nel precedente ordinamento. Consultare [le linee guida del settore](https://www.gazzettaufficiale.it/eli/id/2012/03/30/12A03290/sg). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva. Le unità nuove vanno svolte nell’ordine dei prerequisiti indicati nei punti. Per le nuove coorti questa scansione resta una proposta da raccordare ai risultati del profilo e alle indicazioni attuative: non trasferisce automaticamente ogni dettaglio della Direttiva 4/2012 al nuovo ordinamento. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (entrambi i quadri). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Numeri complessi e coordinate
+### Numeri complessi
 
-**Subtotale: 12 h.**
+**Subtotale: 10 h.**
 
-- **4 h** — Introdurre l'unità immaginaria e il piano complesso; operare in forma algebrica e riconoscere il coniugato.
-- **5 h** — Passare a modulo e argomento e interpretare geometricamente prodotto e rotazione.
-- **3 h** — Usare potenze e radici in casi semplici e spiegare il rapporto tra soluzioni reali e complesse di un'equazione.
-
-### Trigonometria e fenomeni periodici
-
-**Subtotale: 15 h.**
-
-- **5 h** — Passare fra gradi e radianti e leggere seno, coseno e tangente sulla circonferenza goniometrica.
-- **6 h** — Risolvere triangoli e semplici equazioni goniometriche; scegliere formule e teoremi in relazione al problema.
-- **4 h** — Modellizzare un segnale periodico indicando ampiezza, periodo e fase, senza confondere il modello con la misura.
+- **5 h** — Introdurre unità immaginaria, coniugato e operazioni in forma algebrica; rappresentare i risultati nel piano.
+- **5 h** — Dopo la trigonometria, passare a modulo e argomento; interpretare prodotti, potenze e radici e il numero delle soluzioni di equazioni semplici.
 
 ### Limiti e continuità
 
 **Subtotale: 13 h.**
 
-- **4 h** — Esplorare il comportamento locale e all'infinito con grafici e valori numerici, indicando che una tabella non costituisce una dimostrazione.
-- **5 h** — Calcolare limiti elementari e riconoscere forme indeterminate; classificare le discontinuità e trovare gli asintoti.
-- **4 h** — Usare i teoremi pertinenti esplicitandone le ipotesi e confrontare il limite matematico con i limiti del modello.
+- **4 h** — Definire limite di successione e funzione con rappresentazioni coerenti; distinguere infinito e numero molto grande.
+- **6 h** — Calcolare limiti significativi, riconoscere indeterminazioni, continuità, discontinuità e asintoti.
+- **3 h** — Applicare teoremi di continuità dichiarandone le ipotesi; usare un controesempio e un caso di ricerca di uno zero.
 
 ### Derivata e studio di funzione
 
-**Subtotale: 18 h.**
+**Subtotale: 19 h.**
 
-- **6 h** — Passare dal rapporto incrementale alla derivata e interpretarla come pendenza e tasso istantaneo con unità corrette.
-- **7 h** — Applicare le regole di derivazione, studiare monotonia, estremi e concavità e costruire un grafico motivato.
-- **5 h** — Formulare un problema di ottimizzazione, verificare dominio ed estremi dell'intervallo e discutere l'ammissibilità della soluzione.
+- **5 h** — Costruire il rapporto incrementale e la derivata; interpretare tangente, velocità e unità del tasso.
+- **7 h** — Derivare funzioni elementari, prodotti, quozienti e composizioni semplici; distinguere continuità e derivabilità.
+- **7 h** — Usare monotonia, estremi, concavità e teoremi pertinenti per uno studio di funzione e un problema di ottimizzazione con vincoli.
 
-### Calcolo combinatorio e probabilità condizionata
+### Integrali e accumulazione
 
-**Subtotale: 12 h.**
+**Subtotale: 13 h.**
 
-- **4 h** — Scegliere tra disposizioni, permutazioni e combinazioni spiegando ruolo dell'ordine e delle ripetizioni.
-- **5 h** — Calcolare probabilità condizionate, probabilità totale e semplici casi di Bayes mediante un albero o una tabella.
-- **3 h** — Distinguere indipendenza e incompatibilità e valutare l'effetto delle frequenze di base sull'interpretazione di un risultato.
+- **4 h** — Passare da somme di contributi all’integrale definito e alle primitive; interpretare area con segno e teorema fondamentale.
+- **5 h** — Integrare funzioni elementari e calcolare aree o totali in casi semplici; controllare segno e unità.
+- **4 h** — Confrontare rettangoli e trapezi, passo ed errore; calcolare un volume per sezioni dopo il raccordo geometrico.
 
-### Modelli di variazione e raccordo con la fisica
+### Conteggio e probabilità condizionata
 
-**Subtotale: 9 h.**
+**Subtotale: 10 h.**
 
-- **3 h** — Interpretare una relazione tra una grandezza e la sua velocità di variazione e identificare il dato iniziale.
-- **3 h** — Confrontare un modello differenziale elementare con una simulazione a passi discreti; verificare una soluzione per sostituzione.
-- **3 h** — Discutere il ruolo delle ipotesi e la stabilità della previsione al cambiare dei parametri; trattare il nucleo come approfondimento da calibrare.
+- **5 h** — Motivare permutazioni, disposizioni e combinazioni, anche mediante il binomio di Newton; evitare il solo riconoscimento meccanico di formule.
+- **5 h** — Usare probabilità condizionata, totale e Bayes con alberi e tabelle; distinguere indipendenza e incompatibilità e discutere frequenze di base.
+
+### Variabili aleatorie e distribuzioni
+
+**Subtotale: 10 h.**
+
+- **5 h** — Associare una variabile discreta agli esiti; calcolare valore atteso e varianza e interpretare un gioco equo.
+- **5 h** — Studiare binomiale e normale: verificare ipotesi, confrontare distribuzione discreta e area di probabilità e usare simulazioni.
+
+### Metodi numerici e algoritmi
+
+**Subtotale: 4 h.**
+
+- **2 h** — Applicare bisezione e, dopo le derivate, Newton a casi con ipotesi controllate; confrontare arresto, accuratezza e convergenza.
+- **2 h** — Confrontare iterazione e ricorsione su esempi; verificare il risultato e distinguere errore dei dati, del modello e del calcolo.
 
 ### Declinazione per il percorso
 
@@ -81,10 +91,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

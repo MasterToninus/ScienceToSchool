@@ -29,43 +29,106 @@ Il riferimento principale è Conduzione del mezzo navale. Le varianti degli appa
 
 Confrontare fonti di posizione e condizioni idrodinamiche per documentare un viaggio simulato.
 
+
+## Prerequisiti e progressione
+
+Piano di viaggio, astronomia, meteorologia e stabilità del IV; vettori e moto relativo prima di radar e anticollisione.
+
+**Esito atteso a fine anno:** Analizzare una traversata completa con sistemi integrati, carico, guardia e scenari di emergenza simulati.
+
+Raccordo: [scheda dell’anno precedente](anno-04.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Le applicazioni avanzate restano introduttive o guidate: calcoli astronomici, radar, navigazione integrata, prestazioni, comunicazioni ed emergenze sono affrontati solo dove indicati nelle unità e su dati o simulatori didattici predisposti. Non si presume padronanza operativa né copertura certificata di STCW, requisiti aeronautici o titoli della pesca. Per tali percorsi serve una verifica separata del curricolo accreditato e dell’addestramento richiesto.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 264 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 264 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Sistemi integrati di navigazione — 34 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze della navigazione, struttura e conduzione del mezzo | 228 | 36 | 264 |
 
-- **15 ore** — Rappresentare il contributo di posizione satellitare, radar e cartografia elettronica in uno schema funzionale.
-- **19 ore** — Confrontare dati di sistemi diversi senza considerarli automaticamente indipendenti o privi di errore.
+### D1 · Scienze della navigazione, struttura e conduzione del mezzo — 264 ore
 
-### Maree e correnti — 33 ore
+#### D1.0 · Diagnosi e raccordo — 6 ore
 
-- **15 ore** — Leggere istanti e altezze da una tavola didattica e dichiararne il riferimento.
-- **18 ore** — Comporre una corrente assegnata con il moto del mezzo e discutere lo scarto rispetto alla stima.
+- **6 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Controllo della qualità dei dati — 36 ore
+#### D1.1 · Raccordo astronomico e controllo della posizione — 30 ore
 
-- **16 ore** — Individuare salti, ritardi, valori mancanti e differenze di riferimento in una traccia registrata.
-- **20 ore** — Documentare le correzioni e mantenere distinguibili dati originali e ricostruzioni.
+- **6 ore** — Risolvere un caso astronomico con dati incompleti o incerti.
+- **8 ore** — Confrontare risultati con stima e riferimenti indipendenti.
+- **8 ore** — Riconoscere condizioni che rendono una misura inattendibile.
+- **8 ore** — Documentare calcoli e scelta della soluzione.
 
-### Rapporto di viaggio simulato — 31 ore
+#### D1.2 · Radar e cinematica — 36 ore
 
-- **14 ore** — Ricostruire eventi e comunicazioni mediante una cronologia comune e fonti identificabili.
-- **17 ore** — Per la variante apparati analizzare il raccordo ponte–sala macchine e i limiti dell'informazione disponibile.
+- **6 ore** — Descrivere misure radar, errori e rappresentazione.
+- **8 ore** — Costruire triangoli di moto relativo e assoluto.
+- **12 ore** — Interpretare casi didattici di incontro e distanza minima.
+- **10 ore** — Confrontare informazione radar, ARPA e AIS senza automatismi decisionali.
 
-### Attività di laboratorio e applicazione — 77 ore
+#### D1.3 · Navigazione integrata — 36 ore
 
-- **23 ore** — Confrontare su un tracciato registrato i dati di sistemi diversi e distinguere errore sistematico e dispersione.
-- **27 ore** — Interpretare curve di marea e vettori di corrente. Separare i dati misurati dalle previsioni.
-- **27 ore** — Ricostruire cronologia e comunicazioni da un caso di studio. Per l’articolazione apparati concentrare la relazione sull’interfaccia fra ponte e sala macchine.
+- **6 ore** — Descrivere GNSS, ecoscandaglio, log e girobussola.
+- **8 ore** — Confrontare coordinate, datum, precisione e allarmi.
+- **12 ore** — Leggere cartografia elettronica e funzioni ECDIS in simulazione.
+- **10 ore** — Verificare dati discordanti e limiti dei sistemi automatici.
 
-### Verifiche, recupero e consolidamento — 53 ore
+#### D1.4 · Maree, meteo e pianificazione — 36 ore
 
-- **26 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **16 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **11 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Interpretare tavole di marea e correnti su dati didattici.
+- **8 ore** — Stimare effetti su tempi, fondali e itinerario assegnato.
+- **12 ore** — Confrontare previsioni, onde e prestazioni del mezzo.
+- **10 ore** — Revisionare il piano con margini e incertezze dichiarate.
 
-**Totale della proposta: 264 ore = 211 ore nei nuclei e nelle applicazioni + 53 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Carico e stabilità — 36 ore
+
+- **6 ore** — Calcolare effetti elementari di imbarco e spostamento dei pesi.
+- **8 ore** — Leggere informazioni di stabilità e limiti forniti dal docente.
+- **12 ore** — Confrontare esigenze di stivaggio e conservazione del carico.
+- **10 ore** — Registrare controlli e decisioni del caso simulato.
+
+#### D1.6 · Guardia e comunicazioni — 30 ore
+
+- **6 ore** — Analizzare organizzazione della guardia e fattore umano.
+- **8 ore** — Interpretare situazioni didattiche con regole di precedenza fornite.
+- **8 ore** — Distinguere funzioni di VTS, GMDSS e segnalamenti.
+- **8 ore** — Eseguire comunicazioni simulate e documentarne i passaggi.
+
+#### D1.7 · Emergenze, ambiente e rapporto — 24 ore
+
+- **4 ore** — Analizzare ruoli e coordinamento in scenari di soccorso simulati.
+- **6 ore** — Riconoscere misure di prevenzione dell’inquinamento da fonti fornite.
+- **8 ore** — Confrontare piano ed eventi del viaggio didattico.
+- **6 ore** — Presentare rapporto, errori e azioni correttive senza valenza abilitante.
+
+#### D1.8 · Verifiche, restituzione e recupero — 30 ore
+
+- **9 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **9 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **6 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **6 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 264 ore = 228 ore di nuclei e applicazioni + 6 ore di diagnosi + 18 ore di verifiche/restituzione + 12 ore di recupero/consolidamento.**
+
+**Totale della proposta: 264 ore = 228 ore nei nuclei e nelle applicazioni + 36 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Sistemi integrati di navigazione.** Rappresentare il contributo di posizione satellitare, radar e cartografia elettronica in uno schema funzionale. Confrontare dati di sistemi diversi senza considerarli automaticamente indipendenti o privi di errore.
+
+**Maree e correnti.** Leggere istanti e altezze da una tavola didattica e dichiararne il riferimento. Comporre una corrente assegnata con il moto del mezzo e discutere lo scarto rispetto alla stima.
+
+**Controllo della qualità dei dati.** Individuare salti, ritardi, valori mancanti e differenze di riferimento in una traccia registrata. Documentare le correzioni e mantenere distinguibili dati originali e ricostruzioni.
+
+**Rapporto di viaggio simulato.** Ricostruire eventi e comunicazioni mediante una cronologia comune e fonti identificabili. Per la variante apparati analizzare il raccordo ponte–sala macchine e i limiti dell'informazione disponibile.
+
+**Attività di laboratorio e applicazione.** Confrontare su un tracciato registrato i dati di sistemi diversi e distinguere errore sistematico e dispersione. Interpretare curve di marea e vettori di corrente. Separare i dati misurati dalle previsioni. Ricostruire cronologia e comunicazioni da un caso di studio. Per l’articolazione apparati concentrare la relazione sull’interfaccia fra ponte e sala macchine.
 
 ## Compito e verifica
 
@@ -93,3 +156,8 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 - [Documento di classe V E CMN, a.s. 2024/25](https://www.iissarena.edu.it/images/documenti/doc2024_25/15_maggio/5E_NAU%2015mag2025.pdf) — IISS Don Michele Arena; Sezione Scienze della navigazione, p. 18: astronomia, radar, meteomare e sistemi integrati.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+
+- [Duca degli Abruzzi, programmazione Scienze della navigazione CMN 5, 2026/27](https://www.itnipiaducabruzzi.edu.it/download/859/navigazione-e-logistica-fisica-e-macchine-discipline-stcw/10171/scienze-della-navigazione-5-anno-cmn-casel-2026.doc) — documento scaricato; consultazione testuale parziale dei moduli, non verifica di conformità STCW.

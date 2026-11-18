@@ -21,49 +21,59 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Accumulo, approssimazione e affidabilità.** Nel 2026/27 questa classe prosegue nel precedente ordinamento. Consultare [le linee guida del settore](https://www.gazzettaufficiale.it/eli/id/2012/03/30/12A03290/sg). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e derivate nel punto della sequenza in cui sono richiamati. Prima dell’inferenza servono variabili aleatorie, media e varianza. Per le nuove coorti questa scansione resta una proposta da raccordare ai risultati del profilo e alle indicazioni attuative: non trasferisce automaticamente ogni dettaglio della Direttiva 4/2012 al nuovo ordinamento. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (entrambi i quadri). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Integrali, aree e accumulazione
+### Tecniche e applicazioni integrali
 
 **Subtotale: 25 h.**
 
-- **8 h** — Confrontare somme di contributi, area con segno e integrale definito; distinguere integrale e primitiva.
-- **10 h** — Calcolare integrali elementari e applicare il teorema fondamentale del calcolo nei casi studiati.
-- **7 h** — Stimare un totale o un'area con rettangoli e trapezi e valutare l'effetto del passo sulla risposta numerica.
+- **10 h** — Consolidare primitive e teorema fondamentale; applicare sostituzione e integrazione per parti a casi scelti.
+- **9 h** — Calcolare aree e volumi con sezioni, distinguendo integrale con segno e misura geometrica.
+- **6 h** — Usare quadrature numeriche, errore e confronto con un caso esatto; applicare un integrale a dati tecnici.
 
-### Variabili aleatorie e distribuzioni
+### Coordinate nello spazio
 
-**Subtotale: 18 h.**
+**Subtotale: 12 h.**
 
-- **6 h** — Associare una variabile numerica a un esperimento e costruirne la distribuzione; interpretare valore atteso e varianza.
-- **7 h** — Applicare il modello binomiale verificando numero di prove, probabilità costante e indipendenza.
-- **5 h** — Confrontare un modello discreto con una distribuzione continua, interpretando l'area come probabilità e discutendo l'adeguatezza ai dati.
+- **6 h** — Usare coordinate, vettori e distanza nello spazio; rappresentare rette e piani e controllare semplici intersezioni.
+- **6 h** — Ricavare l’equazione di una sfera e discutere posizione rispetto a un piano; raccordare volume geometrico e, dopo gli integrali, volume per sezioni.
 
-### Campionamento e inferenza introduttiva
+### Campionamento e inferenza
 
 **Subtotale: 16 h.**
 
-- **5 h** — Distinguere popolazione, campione, parametro e stima; riconoscere selezione distorta e non risposta.
-- **6 h** — Simulare campioni ripetuti e osservare la variabilità della media o della proporzione campionaria.
-- **5 h** — Interpretare un intervallo di stima con le sue ipotesi; nei percorsi pertinenti introdurre il confronto con un'ipotesi nulla senza automatismi decisionali.
+- **8 h** — Dopo media, varianza e distribuzioni, distinguere parametro, stimatore e campione; simulare distribuzioni campionarie.
+- **8 h** — Interpretare stime puntuali e intervalli per media o proporzione, con ipotesi e limiti; evitare interpretazioni probabilistiche scorrette del singolo intervallo.
 
-### Algoritmi e approssimazioni
+### Modelli a più variabili e strutture discrete
 
-**Subtotale: 11 h.**
+**Subtotale: 13 h.**
 
-- **3 h** — Tradurre un procedimento in passi riproducibili con dati iniziali, criterio di arresto e controllo degli errori.
-- **5 h** — Confrontare bisezione e, quando i prerequisiti lo consentono, metodo di Newton su un'equazione.
-- **3 h** — Verificare una soluzione numerica nel problema originale e distinguere precisione del calcolo, errore dei dati ed errore del modello.
+- **4 h** — Rappresentare funzioni di due variabili con tabelle e curve di livello; costruire variabili, vincoli e obiettivo.
+- **5 h** — Risolvere una programmazione lineare a due variabili graficamente; confrontare scelte in certezza e in rischio dopo il valore atteso.
+- **4 h** — Confrontare insiemi finiti, numerabili e non numerabili mediante corrispondenze; collegare una ricorsione e la cardinalità senza confondere infinito potenziale e limite numerico.
 
-### Argomentare, verificare e comunicare
+### Modelli di variazione
 
-**Subtotale: 9 h.**
+**Subtotale: 6 h.**
 
-- **3 h** — Esplicitare ipotesi e conclusioni, distinguendo un esempio favorevole da una prova generale.
-- **3 h** — Confrontare una soluzione simbolica, una geometrica e una numerica, verificando che rispondano alla stessa domanda.
-- **3 h** — Preparare una breve relazione con dati, passaggi essenziali, controllo del risultato e limiti della conclusione.
+- **3 h** — Dopo derivate e integrali, interpretare un’equazione differenziale elementare con dato iniziale e verificarne una soluzione.
+- **3 h** — Confrontare crescita o decadimento con passi discreti e analizzare sensibilità ai parametri; limitarsi a uno o due modelli, non a un corso generale di equazioni differenziali.
+
+### Metodi numerici e algoritmi
+
+**Subtotale: 7 h.**
+
+- **4 h** — Applicare bisezione e, dopo le derivate, Newton a casi con ipotesi controllate; confrontare arresto, accuratezza e convergenza.
+- **3 h** — Confrontare iterazione e ricorsione su esempi; verificare il risultato e distinguere errore dei dati, del modello e del calcolo.
 
 ### Declinazione per il percorso
 
@@ -73,10 +83,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

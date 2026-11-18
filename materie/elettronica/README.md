@@ -13,3 +13,7 @@ Le schede uniscono attività di misura, lettura degli schemi, progettazione e ve
 | [Gestione e controllo delle reti e degli impianti nel professionale Gestione delle acque](professionale-gestione-acque/README.md) | 3, 4, 5 |
 
 Le proposte annuali sono **Tentative generate tramite IA**. Il [catalogo delle fonti consultate](../../docs/ricerca-ai/fonti-programmi/elettronica.md) documenta ricerca autonoma, copertura dei percorsi e limiti.
+
+## Revisione critica dei programmi
+
+Le proposte distinguono prerequisiti, nuclei e bilanci di ciascuna disciplina, con scenari alternativi e verifica dei totali. Il [rapporto di revisione critica](../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md) documenta copertura, correzioni e limiti per tutte le schede di Informatica ed Elettronica. Le tracce precedenti sono conservate come esempi senza ore aggiuntive.

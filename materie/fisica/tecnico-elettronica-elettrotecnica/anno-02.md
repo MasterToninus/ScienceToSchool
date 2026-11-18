@@ -28,47 +28,68 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per Fondamenti di elettrotecnica ed elettronica del nuovo ordinamento: prima dal 2026/27 e seconda dal 2027/28. Non sostituisce la componente fisica delle Scienze sperimentali.
 
+**Prerequisiti e progressione.** Dalla prima: Ohm, Kirchhoff elementare, multimetro, potenza e schemi. Sinusoidi ed esponenziali sono introdotte come grafici nel nucleo pertinente; non si presume l’analisi matematica. Prima di sensori e logica, distinguere segnale analogico, soglia e livello elettrico. Arduino, amplificatori operazionali e fasori del manuale sono estensioni da programmare separatamente, non obiettivi impliciti delle 132 ore. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La disciplina degli Elementi di base è distinta dalle Scienze sperimentali: le ore non si sommano per finanziare due volte la stessa prova. Gli Orientamenti 2026 non fissano qui una lista annuale esaustiva; la scelta richiede curricolo d’istituto. Ogni montaggio e analisi è incluso nel punto relativo; il rapporto riusa i dati acquisiti. La riserva comprende valutazione con restituzione e recupero, non altre prove complete.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Segnali nel tempo
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Descrivere periodo, frequenza, ampiezza, valore medio e livelli di un segnale; leggere correttamente gli assi temporali.
-- **9 ore.** Confrontare segnali continui, periodici e impulsivi e riconoscere i limiti di campionamento e visualizzazione dello strumento.
+- **5 ore.** Leggere periodo, frequenza, ampiezza e valore medio nei grafici di segnali continui, periodici e impulsivi.
+- **5 ore.** Introdurre sinusoide e valore efficace mediante un grafico e dati forniti; l’analisi con fasori resta successiva.
+- **4 ore.** Impostare base dei tempi e scala verticale dello strumento reale o simulato.
+- **4 ore.** Confrontare due campionamenti e riconoscere limiti di visualizzazione, rumore e possibili ambiguità.
 
-### Condensatori e circuiti RC
+
+### Condensatori, induttori e transitori
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Collegare carica, capacità, tensione ed energia di un condensatore.
-- **9 ore.** Studiare carica e scarica in un circuito RC e stimare la costante di tempo dai dati, esplicitando le condizioni iniziali.
+- **5 ore.** Collegare carica, capacità, tensione ed energia di un condensatore.
+- **6 ore.** Studiare carica/scarica RC con curve e stima della costante di tempo; introdurre l’esponenziale graficamente, senza equazioni differenziali.
+- **4 ore.** Descrivere campo di una bobina, induzione ed energia immagazzinata; confrontare qualitativamente transitori capacitivi e induttivi.
+- **3 ore.** Interpretare funzione di una bobina/relè e protezione del comando su uno schema già predisposto.
+
 
 ### Diodi e componenti non lineari
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Confrontare curva caratteristica di resistore e diodo e riconoscere polarità e soglia come elementi di un modello approssimato.
-- **9 ore.** Dimensionare in modo guidato un indicatore LED con resistenza di limitazione, verificando valori nominali e misura a bassissima tensione.
+- **5 ore.** Confrontare caratteristica di resistore e diodo, polarità e limiti del modello a soglia.
+- **5 ore.** Calcolare la resistenza di limitazione di un LED da dati nominali e tolleranze.
+- **4 ore.** Verificare il circuito a bassissima tensione e confrontare due punti di funzionamento.
+- **4 ore.** Usare un transistor come interruttore guidato per separare comando e carico; il dimensionamento completo è rinviato al triennio.
+
 
 ### Logica combinatoria
 
 **Subtotale del nucleo: 22 ore.**
 
-- **9 ore.** Tradurre una richiesta di funzionamento in variabili booleane, tavola di verità e funzioni AND, OR e NOT.
-- **13 ore.** Costruire una rete combinatoria semplice e verificarla per tutte le combinazioni degli ingressi, distinguendo simboli logici e livelli elettrici.
+- **4 ore.** Introdurre rappresentazione binaria, bit e variabili logiche; distinguere numero codificato e stato elettrico.
+- **6 ore.** Tradurre una richiesta in tavola di verità ed espressioni AND, OR e NOT.
+- **6 ore.** Costruire una rete a due ingressi in simulazione e controllare tutte le combinazioni.
+- **6 ore.** Confrontare livelli reali, soglie e risposta temporale con il modello logico ideale, senza affrontare una sintesi MSI completa.
+
 
 ### Sensori e interfacce
 
 **Subtotale del nucleo: 16 ore.**
 
-- **8 ore.** Collegare variazione della grandezza fisica, risposta del sensore e soglia di un circuito di segnalazione.
-- **8 ore.** Confrontare rumore, saturazione e tempi di risposta con il comportamento ideale simulato.
+- **5 ore.** Collegare grandezza fisica e risposta del sensore con curva di taratura.
+- **5 ore.** Interpretare un’interfaccia a soglia già predisposta e definire quando l’indicatore deve attivarsi.
+- **6 ore.** Verificare rumore, saturazione e tempo di risposta, distinguendo valore analogico e stato logico.
+
 
 ### Prototipo e verifica
 
 **Subtotale del nucleo: 16 ore.**
 
-- **8 ore.** Documentare schema, valori dei componenti, tabella di prova e risultati di un indicatore a due ingressi.
-- **8 ore.** Motivare gli scarti tra simulazione e dispositivo e individuare la misura utile a diagnosticare un comportamento inatteso.
+- **5 ore.** Integrare i moduli già verificati in un indicatore a due ingressi con schema e valori motivati.
+- **5 ore.** Eseguire la tabella di prova completa e un caso limite, confrontando simulazione e misura.
+- **6 ore.** Diagnosticare uno scarto con una misura mirata e redigere il rapporto conclusivo; la verifica individuale usa la riserva.
 
 ### Riserva per consolidamento e valutazione
 

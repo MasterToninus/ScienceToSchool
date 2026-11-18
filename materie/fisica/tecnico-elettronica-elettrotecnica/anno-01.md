@@ -28,47 +28,67 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per Fondamenti di elettrotecnica ed elettronica del nuovo ordinamento: prima dal 2026/27 e seconda dal 2027/28. Non sostituisce la componente fisica delle Scienze sperimentali.
 
+**Prerequisiti e progressione.** In ingresso: proporzioni, formule inverse, rette e unità; richiamare i sistemi lineari necessari prima di Kirchhoff. L’uso del multimetro precede la misura della caratteristica. Non si presuppongono già svolti campi, fasori o numeri complessi; i circuiti sono in continua. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La disciplina degli Elementi di base è distinta dalle Scienze sperimentali: le ore non si sommano per finanziare due volte la stessa prova. Gli Orientamenti 2026 non fissano qui una lista annuale esaustiva; la scelta richiede curricolo d’istituto. Ogni montaggio e analisi è incluso nel punto relativo; il rapporto riusa i dati acquisiti. La riserva comprende valutazione con restituzione e recupero, non altre prove complete.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Grandezze e materiali elettrici
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Distinguere carica, corrente, tensione, resistenza e potenza e associare a ciascuna simbolo e unità.
-- **9 ore.** Confrontare conduttori e isolanti e descrivere qualitativamente il ruolo del materiale e della temperatura nella resistenza.
+- **5 ore.** Distinguere carica, corrente, tensione e resistenza con simboli e unità; introdurre energia e potenza su un circuito semplice.
+- **4 ore.** Usare prefissi SI, proporzioni e segni per tradurre una scheda di componente in grandezze misurabili.
+- **5 ore.** Confrontare conduttori e isolanti attraverso resistività e geometria, a temperatura dichiarata.
+- **4 ore.** Interpretare la variazione di resistenza con la temperatura mediante dati; distinguere modello lineare e limite d’impiego.
+
+
+### Misure elettriche e tolleranze
+
+**Subtotale del nucleo: 18 ore.**
+
+- **5 ore.** Scegliere funzione, portata e collegamento del multimetro su un circuito predisposto a bassissima tensione.
+- **4 ore.** Distinguere lettura di tensione e corrente e prevedere l’effetto di un collegamento errato prima della prova.
+- **5 ore.** Confrontare valori nominali, tolleranza dei resistori e specifiche dello strumento.
+- **4 ore.** Ripetere una misura e registrare risoluzione e scarti, evitando di confondere tolleranza e incertezza.
+
 
 ### Schema, circuito e legge di Ohm
 
 **Subtotale del nucleo: 22 ore.**
 
-- **9 ore.** Passare da un montaggio a uno schema distinguendo nodi, rami e componenti.
-- **13 ore.** Misurare o simulare la caratteristica tensione-corrente di un resistore e riconoscere l’intervallo in cui il comportamento è ohmico.
+- **5 ore.** Tradurre montaggio e schema: componenti, nodi, rami e polarità.
+- **4 ore.** Predire la curva tensione-corrente di un resistore e scegliere i punti da acquisire.
+- **7 ore.** Montare, acquisire e ripetere una caratteristica ohmica; ricavare la resistenza dalla pendenza.
+- **6 ore.** Confrontare curva, equazione e valori nominali, controllando l’intervallo ohmico e l’effetto del riscaldamento.
+
 
 ### Reti resistive in continua
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Calcolare resistenze equivalenti e distribuzione di corrente e tensione in serie e parallelo.
-- **9 ore.** Usare i bilanci ai nodi e alle maglie per controllare il risultato e riconoscere errori di segno o collegamento.
+- **6 ore.** Risolvere serie, parallelo e semplici reti miste con resistenze equivalenti.
+- **6 ore.** Usare Kirchhoff ai nodi e alle maglie con convenzioni di segno; limitare i sistemi a due incognite.
+- **6 ore.** Controllare una previsione con simulazione e misure selettive e localizzare un errore di collegamento.
 
-### Misure e tolleranze
-
-**Subtotale del nucleo: 18 ore.**
-
-- **9 ore.** Scegliere funzione, portata e collegamento del multimetro; distinguere misura di tensione e corrente.
-- **9 ore.** Confrontare valori nominali e reali di componenti e strumenti, documentando tolleranze e ripetibilità in circuiti a bassissima tensione.
 
 ### Energia e potenza nei componenti
 
 **Subtotale del nucleo: 16 ore.**
 
-- **8 ore.** Calcolare energia erogata e potenza dissipata e verificarne la coerenza con la tensione e la corrente.
-- **8 ore.** Leggere limiti dichiarati di un componente e discutere perché una previsione elettrica deve essere confrontata con le condizioni di impiego.
+- **5 ore.** Calcolare potenza dissipata ed energia erogata, controllando unità e bilancio.
+- **5 ore.** Confrontare valori nominali e limiti termici di un componente.
+- **6 ore.** Verificare un caso a due condizioni di carico e motivare lo scarto dal componente ideale.
+
 
 ### Dallo schema alla relazione
 
 **Subtotale del nucleo: 16 ore.**
 
-- **8 ore.** Confrontare risultato analitico, simulazione e prova fisica indicando gli elementi ideali del simulatore.
-- **8 ore.** Produrre una tabella delle misure e una relazione che motivi scarti, correzioni dello schema e limiti del modello.
+- **5 ore.** Confrontare calcolo, simulazione e dati già acquisiti sulla stessa rete.
+- **5 ore.** Identificare componenti ideali del simulatore ed effetto degli strumenti reali.
+- **6 ore.** Produrre tabella e relazione con scarti, correzioni e un limite dichiarato; non ripetere la misura della caratteristica.
 
 ### Riserva per consolidamento e valutazione
 

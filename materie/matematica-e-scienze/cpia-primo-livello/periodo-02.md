@@ -19,58 +19,102 @@
 
 **Quadro.** Il secondo periodo mira alle competenze dell'obbligo di istruzione. Nelle Linee guida l'asse matematico comprende algebra, geometria, relazioni e funzioni, dati e previsioni. Per l'asse scientifico-tecnologico sono centrali le scienze della Terra e la biologia. La selezione e i tempi delle unità dipendono dal patto formativo e dalle competenze documentate in ingresso. [DM 12 marzo 2015, allegato A.2](https://www.gazzettaufficiale.it/eli/id/2015/06/08/15A04226/sg)
 
+## Prerequisiti, sequenza e sostenibilità
+
+La diagnosi distingue competenze disciplinari e padronanza dell’italiano; usare anche rappresentazioni, esperienze lavorative e spiegazioni orali. Calcolo e misure precedono formule e modelli, cellula precede genetica, proporzioni precedono bilanci e probabilità. Riconoscimento dei crediti e patto formativo determinano il percorso individuale: non sono un’unità disciplinare aggiuntiva e non duplicano le ore di accoglienza già comprese nell’ordinamento.
+
+Le 99 h scientifico-tecnologiche del secondo periodo sono qui articolate su Terra, viventi, energia, ambiente e salute, come negli allegati nazionali; non diventano un corso completo separato di fisica e chimica. Le abilità digitali sostengono indagine e comunicazione nelle ore già previste.
+
+[Revisione critica e lettura degli allegati nazionali](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
-**Ripartizione Tentative generata dall’IA:** **297 ore** (periodo: matematica 198 + asse scientifico 99). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
+**Ripartizione Tentative generata dall’IA: 297 h per il periodo**, Matematica 198 h + Scienze 99 h. Non è un orario settimanale o annuale nazionale. Il piano comprende esercitazioni, applicazioni e prove; le attività successive usano le stesse ore.
 
-Nel piano di 297 ore: i primi due nuclei usano 168 ore matematiche; i due scientifici 72. Progetto/patto: 12 ore matematiche e 6 scientifiche. Riserva: 18 ore matematiche e 21 scientifiche. Totali: asse matematico 198, asse scientifico 99.
+### Matematica — calcolo e algebra
 
-### Matematica — algebra e funzioni
+**Subtotale: 48 h.**
 
-**Subtotale: 88 h.**
+- **12 h** — Consolidare razionali, reali, potenze, radicali e percentuali, usando stime e strumenti di calcolo.
+- **12 h** — Operare con monomi e polinomi, prodotti notevoli e fattorizzazioni prima delle equazioni.
+- **12 h** — Risolvere equazioni e disequazioni di primo grado e sistemi lineari, anche graficamente.
+- **12 h** — Risolvere equazioni e disequazioni quadratiche e semplici casi fratti con dominio e verifica.
 
-- **27 h** — Consolidare calcolo numerico e letterale e risolvere equazioni, disequazioni e sistemi lineari.
-- **35 h** — Leggere funzione affine e quadratica in formule, tabelle e grafici; trattare i casi di secondo grado pertinenti al problema.
-- **26 h** — Confrontare tariffe o quantità produttive con vincoli espliciti e controllare la soglia calcolata.
+### Matematica — funzioni e modelli
 
-### Matematica — geometria e incertezza
+**Subtotale: 40 h.**
 
-**Subtotale: 80 h.**
+- **10 h** — Usare insiemi, dominio e corrispondenza; confrontare composizione e inversa su esempi elementari.
+- **12 h** — Studiare funzioni affini e quadratiche, zeri e segno attraverso formule, tabelle e grafici.
+- **10 h** — Rappresentare proporzionalità inversa e andamenti circolari/periodici in casi semplici, dopo il raccordo geometrico.
+- **8 h** — Confrontare tariffe e quantità con vincoli, individuando soglie e significato dei parametri.
 
-- **24 h** — Usare piano cartesiano, Pitagora, similitudine e misura di figure per controllare un progetto semplice.
-- **32 h** — Descrivere dati mediante frequenze, posizione e variabilità e costruire un confronto tra gruppi.
-- **24 h** — Calcolare probabilità elementari e motivare perché una piccola indagine non rappresenta necessariamente una popolazione.
-
-### Scienze — sistemi terrestri
-
-**Subtotale: 36 h.**
-
-- **11 h** — Descrivere atmosfera, idrosfera, ciclo delle rocce e relazioni tra superficie e interno della Terra.
-- **14 h** — Leggere dati su acqua, precipitazioni o qualità ambientale, citando unità, intervallo temporale e fonte.
-- **11 h** — Collegare un fenomeno sismico o vulcanico al modello geologico e riconoscere i limiti di una previsione.
-
-### Scienze — biologia e relazioni
+### Matematica — geometria e argomentazione
 
 **Subtotale: 36 h.**
 
-- **11 h** — Confrontare cellule, metabolismo e scambi di materia ed energia.
-- **14 h** — Collegare genetica, riproduzione ed evoluzione mediante modelli introduttivi e casi espliciti.
-- **11 h** — Descrivere corpo umano, ecosistemi e interazioni ambientali con schemi che distinguano componenti e relazioni.
+- **10 h** — Distinguere definizione, ipotesi e tesi; usare rette, triangoli, quadrilateri e congruenza.
+- **10 h** — Usare circonferenza, aree, Pitagora, Euclide e Talete in problemi con figure esplicite.
+- **8 h** — Confrontare isometrie e similitudini e scale di lunghezze, aree e volumi.
+- **8 h** — Rappresentare solidi e risolvere problemi di superficie, volume e dimensioni di un oggetto.
 
-### Progetto e patto formativo
+### Matematica — dati e probabilità
+
+**Subtotale: 24 h.**
+
+- **8 h** — Organizzare dati, frequenze e grafici secondo il tipo di carattere.
+- **8 h** — Calcolare e interpretare media, mediana e variabilità senza confondere campione e popolazione.
+- **8 h** — Costruire probabilità elementari e composte e distinguere indipendenza, incompatibilità e frequenza.
+
+### Matematica — applicazioni e autonomia
+
+**Subtotale: 26 h.**
+
+- **10 h** — Progettare la soluzione di un problema abitativo, produttivo o di consumo con dati e vincoli dichiarati.
+- **8 h** — Usare foglio di calcolo o rappresentazione grafica per controllare modello e risultato.
+- **8 h** — Documentare e discutere una soluzione in un contesto nuovo, con modalità linguisticamente accessibili.
+
+### Scienze — sistema Terra
+
+**Subtotale: 22 h.**
+
+- **6 h** — Spiegare moti della Terra, coordinate geografiche e stagioni con modelli e rappresentazioni.
+- **8 h** — Studiare minerali, ciclo delle rocce, struttura terrestre e rischi sismici e vulcanici.
+- **8 h** — Collegare idrosfera, correnti, atmosfera e clima a dati ambientali e uso delle risorse.
+
+### Scienze — biologia ed evoluzione
+
+**Subtotale: 24 h.**
+
+- **8 h** — Confrontare livelli di organizzazione, cellule procariote/eucariote e virus; distinguere viventi e modelli di origine della vita.
+- **8 h** — Descrivere riproduzione cellulare, DNA e sintesi proteica, genetica e un caso di biotecnologia con limiti ed implicazioni.
+- **8 h** — Collegare diversità, adattamento ed evoluzione, compresa l’evoluzione umana, senza letture finalistiche.
+
+### Scienze — ecosistemi, energia e risorse
 
 **Subtotale: 18 h.**
 
-- **6 h** — Scegliere tempi e approfondimenti in base alle competenze riconosciute e agli obiettivi ancora da raggiungere.
-- **7 h** — Produrre una relazione quantitativa e una spiegazione scientifica riferite allo stesso problema.
-- **5 h** — Valutare separatamente modello, calcolo, qualità dei dati e comunicazione, offrendo modalità espressive accessibili.
+- **6 h** — Confrontare fotosintesi e respirazione, autotrofia ed eterotrofia mediante bilanci elementari di materia ed energia.
+- **6 h** — Studiare reti alimentari, cicli biogeochimici e relazioni fra popolazioni e risorse.
+- **6 h** — Confrontare consumi, trasformazioni energetiche, gestione dei rifiuti e impatti ambientali con dati e misure.
+
+### Scienze — corpo, salute e indagine
+
+**Subtotale: 21 h.**
+
+- **6 h** — Collegare apparati e omeostasi; interpretare salute e prevenzione con fonti pubbliche affidabili.
+- **6 h** — Trattare alimentazione, dipendenze e prevenzione delle infezioni, distinguendo educazione scientifica e diagnosi individuale.
+- **5 h** — Progettare una piccola indagine ambientale, documentando protocollo, strumenti e dati.
+- **4 h** — Comunicare risultati e limiti, collegando la spiegazione scientifica al modello quantitativo senza doppio conteggio delle ore.
 
 ### Verifiche, restituzione e recupero
 
-- **20 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **19 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 38 h.**
 
-**Totale del piano: 297 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **24 h** — Matematica: diagnosi disciplinare, prova pratica, restituzione e recupero.
+- **14 h** — Scienze: diagnosi disciplinare, spiegazione di un fenomeno, restituzione e recupero.
+
+**Totale del piano: 297 h.** Matematica 174+24=198; Scienze 85+14=99.
 
 ## Unità integrate e prodotti attesi
 

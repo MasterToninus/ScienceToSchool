@@ -25,43 +25,120 @@ I due monte ore sono biennali. La scuola stabilisce come distribuirli fra prima 
 
 Previsualizzare una breve sequenza e renderla comprensibile a un osservatore estraneo al progetto.
 
+
+## Prerequisiti e progressione
+
+Brief, composizione, acquisizione e archivio dell’anno I; controllo iniziale di raster, risoluzione ed esposizione.
+
+**Esito atteso a fine anno:** Progettare un prodotto coordinato e realizzare una breve sequenza audiovisiva intelligibile.
+
+Raccordo: [scheda dell’anno precedente](anno-01.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 165 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 165 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Racconto per immagini — 21 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie della comunicazione visiva | 84 | 15 | 99 |
+| Linguaggi fotografici e dell’audiovisivo | 54 | 12 | 66 |
 
-- **10 ore** — Scomporre un evento in azioni e scegliere immagini che forniscano informazioni distinte.
-- **11 ore** — Confrontare ordine cronologico e montaggio alternativo spiegando quali inferenze cambiano.
+### D1 · Tecnologie della comunicazione visiva — 99 ore
 
-### Registrazione sonora — 24 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **11 ore** — Riconoscere voce, ambiente, rumore e silenzio nella registrazione di una scena.
-- **13 ore** — Confrontare due distanze dal microfono controllando intelligibilità e variazioni indesiderate del livello.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Montaggio essenziale — 24 ore
+#### D1.1 · Raccordo e gerarchia — 18 ore
 
-- **11 ore** — Sincronizzare una breve azione con una traccia sonora e curare inizio e fine dei frammenti.
-- **13 ore** — Utilizzare raccordi semplici motivando la durata delle immagini e delle pause.
+- **4 ore** — Rivedere un prodotto dell’anno I e identificarne i difetti.
+- **4 ore** — Comporre testo e immagine su una griglia.
+- **6 ore** — Confrontare famiglie di caratteri e leggibilità.
+- **4 ore** — Adattare la gerarchia a destinatari differenti.
 
-### Esportazione e controllo — 23 ore
+#### D1.2 · Immagini e colore — 21 ore
 
-- **10 ore** — Distinguere file di progetto e file esportato, conservando le risorse necessarie alla revisione.
-- **13 ore** — Confrontare ascolto e leggibilità su due dispositivi, annotando difetti e correzioni.
+- **4 ore** — Distinguere acquisizione, correzione e manipolazione.
+- **5 ore** — Gestire livelli e maschere in interventi semplici.
+- **6 ore** — Confrontare resa cromatica su schermo e stampa.
+- **6 ore** — Documentare origine e versioni dei materiali.
 
-### Attività di laboratorio e applicazione — 40 ore
+#### D1.3 · Progetto coordinato — 21 ore
 
-- **12 ore** — Tradurre un evento in sei immagini ordinate, confrontando due successioni.
-- **14 ore** — Registrare voce e ambiente, riconoscendo gli effetti della distanza dal microfono.
-- **14 ore** — Accostare immagine e suono, esportare il prodotto e verificare l’intelligibilità su due dispositivi.
+- **4 ore** — Scrivere un brief per una piccola iniziativa culturale.
+- **5 ore** — Progettare avviso, scheda e formato digitale coerenti.
+- **6 ore** — Preparare prototipi con accessibilità di base.
+- **6 ore** — Revisionare dopo una prova con utenti simulati.
 
-### Verifiche, recupero e consolidamento — 33 ore
+#### D1.4 · Consegna e controllo — 24 ore
 
-- **16 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **10 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **7 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Definire dimensioni e formati delle uscite.
+- **6 ore** — Verificare leggibilità e completezza dei collegamenti.
+- **8 ore** — Esportare e confrontare i risultati su dispositivi diversi.
+- **6 ore** — Archiviare sorgenti e relazione sintetica.
 
-**Totale della proposta: 165 ore = 132 ore nei nuclei e nelle applicazioni + 33 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+### D2 · Linguaggi fotografici e dell’audiovisivo — 66 ore
+
+#### D2.0 · Diagnosi e raccordo — 2 ore
+
+- **2 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Sequenza e storyboard — 18 ore
+
+- **4 ore** — Analizzare raccordi e successione delle inquadrature.
+- **4 ore** — Scomporre un’azione in una scaletta realizzabile.
+- **6 ore** — Disegnare storyboard e copertura essenziale.
+- **4 ore** — Provare una sequenza fotografica prima del video.
+
+#### D2.2 · Ripresa e suono — 18 ore
+
+- **4 ore** — Riprendere una breve scena con continuità.
+- **4 ore** — Registrare voce e ambiente controllando il rumore.
+- **6 ore** — Verificare livelli, fuoco e durata dei materiali.
+- **4 ore** — Organizzare clip e annotazioni per il montaggio.
+
+#### D2.3 · Montaggio e uscita — 18 ore
+
+- **4 ore** — Montare azione e suono secondo lo storyboard.
+- **4 ore** — Confrontare due ritmi e motivare la scelta.
+- **6 ore** — Inserire titoli, crediti e sottotitoli essenziali.
+- **4 ore** — Esportare e collaudare la sequenza con criteri dichiarati.
+
+#### D2.4 · Verifiche, restituzione e recupero — 10 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **2 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **2 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 66 ore = 54 ore di nuclei e applicazioni + 2 ore di diagnosi + 6 ore di verifiche/restituzione + 4 ore di recupero/consolidamento.**
+
+**Totale della proposta: 165 ore = 138 ore nei nuclei e nelle applicazioni + 27 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Racconto per immagini.** Scomporre un evento in azioni e scegliere immagini che forniscano informazioni distinte. Confrontare ordine cronologico e montaggio alternativo spiegando quali inferenze cambiano.
+
+**Registrazione sonora.** Riconoscere voce, ambiente, rumore e silenzio nella registrazione di una scena. Confrontare due distanze dal microfono controllando intelligibilità e variazioni indesiderate del livello.
+
+**Montaggio essenziale.** Sincronizzare una breve azione con una traccia sonora e curare inizio e fine dei frammenti. Utilizzare raccordi semplici motivando la durata delle immagini e delle pause.
+
+**Esportazione e controllo.** Distinguere file di progetto e file esportato, conservando le risorse necessarie alla revisione. Confrontare ascolto e leggibilità su due dispositivi, annotando difetti e correzioni.
+
+**Attività di laboratorio e applicazione.** Tradurre un evento in sei immagini ordinate, confrontando due successioni. Registrare voce e ambiente, riconoscendo gli effetti della distanza dal microfono. Accostare immagine e suono, esportare il prodotto e verificare l’intelligibilità su due dispositivi.
 
 ## Compito e verifica
 
@@ -89,3 +166,6 @@ Il profilo nazionale sostiene la produzione di servizi culturali e audiovisivi. 
 - [Corso di linguaggio audiovisivo e multimediale, Michele Corsi, ISBN 9788820378868](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159) — Hoepli; Indice pubblico: narrazione, inquadratura, messinscena, montaggio e sonoro.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

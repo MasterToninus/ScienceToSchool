@@ -19,9 +19,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Specializzazione post-diploma, Applicazioni informatiche: 66 ore.
+- **Specializzazione post diploma: 66 ore**: 66 = **66 ore**; Applicazioni informatiche 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nel tecnico agrario](README.md)
 
@@ -31,41 +33,55 @@ La specializzazione annuale si può frequentare dopo il diploma dell’articolaz
 
 ## Programma proposto per nuclei tematici
 
-1. Rappresentare uve, lotti, vasche, misure e movimenti in tabelle collegate. Distinguere identificativo di un lotto e identificativo di una misurazione.
-2. Importare dati di cantina da file eterogenei, documentare le unità e costruire controlli automatici per duplicati e dati fuori intervallo.
-3. Aggregare le misure per lotto e intervallo temporale. Tracciare una curva dell’andamento di una fermentazione e interpretarla insieme al docente di Enologia.
-4. Redigere un breve rapporto che ricostruisca la provenienza dei dati e le operazioni che collegano materia prima e prodotto finito.
+**Prerequisiti e avvio.** Diploma e prerequisiti di Enologia; diagnosi iniziale su foglio elettronico e dati relazionali.
 
-### Informazioni di cantina — 12 ore
+**Raccordo e progressione.** Specializzazione successiva al diploma, non una sesta classe ordinaria. D1 integra anche dati territoriali e sensoriali.
 
-- **7 ore** — Modellare conferimenti, lotti, vasche, campioni e movimenti mediante tabelle collegate.
-- **5 ore** — Ricostruire trasformazioni e trasferimenti di un lotto preservando la storia degli eventi.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Specializzazione post diploma: 66 ore
 
-### Importazione e validazione — 15 ore
+#### S1D1 · Applicazioni informatiche — 66 ore
 
-- **8 ore** — Definire campi, unità e formati per dati da strumenti e registrazioni manuali.
-- **7 ore** — Controllare duplicati, date e riferimenti mancanti, conservando l’originale e documentando correzioni.
+##### S1D1N1 · Tracciabilità — 16 ore
 
+- **8 ore** — Modellare uve, lotti, vasche, misure e movimenti con identificativi distinti.
+- **8 ore** — Ricostruire trasferimenti e trasformazioni con query o filtri su dati sintetici.
 
-### Analisi dei processi — 15 ore
+##### S1D1N2 · Qualità e analisi — 14 ore
 
-- **8 ore** — Rappresentare serie temporali di temperatura o misure concordate con il docente di Enologia.
-- **7 ore** — Confrontare lotti e periodi distinguendo differenze descrittive, problemi di misura e interpretazioni del processo.
+- **6 ore** — Importare file eterogenei controllando unità, date e duplicati.
+- **8 ore** — Rappresentare fermentazioni e confrontare lotti con il docente di Enologia.
 
+##### S1D1N3 · Vigneto e territorio — 14 ore
 
-### Tracciabilità e report — 14 ore
+- **6 ore** — Associare misure di sensori e stazioni meteo a posizioni GIS.
+- **8 ore** — Confrontare una mappa o un dato da drone con rilievi e metadati, esplicitando risoluzione e limiti.
 
-- **8 ore** — Preparare interrogazioni o filtri per seguire un lotto e ricavare un rapporto ripetibile.
-- **6 ore** — Documentare accessi e controlli; il prototipo non sostituisce registri obbligatori o procedure validate di cantina.
+##### S1D1N4 · Rapporto riproducibile — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Integrare dati di vigneto e cantina in una sintesi documentata.
+- **6 ore** — Verificare ruoli, accessi e provenienza; il prototipo non sostituisce registri obbligatori.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Specializzazione post diploma: 66 ore | Applicazioni informatiche | 56 | 10 | **66 ore** |
+
+**Totale Specializzazione post diploma: 66 ore: 66 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, allegato D-1, profilo pp. 1–2; accesso §3.2](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -83,3 +99,28 @@ Da un archivio ipotetico di due vendemmie, ricostruire la storia di un lotto dop
 - [The Document Foundation, Calc Guide 7.2 – Using Pivot Tables](https://books.libreoffice.org/en/CG72/CG7208-PivotTables.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+1. Rappresentare uve, lotti, vasche, misure e movimenti in tabelle collegate. Distinguere identificativo di un lotto e identificativo di una misurazione.
+2. Importare dati di cantina da file eterogenei, documentare le unità e costruire controlli automatici per duplicati e dati fuori intervallo.
+3. Aggregare le misure per lotto e intervallo temporale. Tracciare una curva dell’andamento di una fermentazione e interpretarla insieme al docente di Enologia.
+4. Redigere un breve rapporto che ricostruisca la provenienza dei dati e le operazioni che collegano materia prima e prodotto finito.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Modellare conferimenti, lotti, vasche, campioni e movimenti mediante tabelle collegate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Ricostruire trasformazioni e trasferimenti di un lotto preservando la storia degli eventi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Definire campi, unità e formati per dati da strumenti e registrazioni manuali. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Controllare duplicati, date e riferimenti mancanti, conservando l’originale e documentando correzioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rappresentare serie temporali di temperatura o misure concordate con il docente di Enologia. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare lotti e periodi distinguendo differenze descrittive, problemi di misura e interpretazioni del processo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare interrogazioni o filtri per seguire un lotto e ricavare un rapporto ripetibile. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Documentare accessi e controlli; il prototipo non sostituisce registri obbligatori o procedure validate di cantina. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

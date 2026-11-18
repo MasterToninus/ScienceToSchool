@@ -36,3 +36,5 @@ Le schede sono versioni **Tentative generate tramite IA**, in attesa di revision
 ## Carico didattico e tempi
 
 Le schede di anno o periodo riportano carichi orari, fonti e ripartizione Tentative dei tempi per punto. [Quadri e limiti per Matematica e scienze](../../../docs/ricerca-ai/carico-didattico-matematica.md) · [Metodo comune e coorti](../../../docs/ricerca-ai/carico-didattico.md).
+
+[Revisione critica di completezza, prerequisiti e tempi — 18/11/2026](../../../docs/ricerca-ai/revisione-critica-matematica.md). Le schede restano bozze IA da validare sul curricolo e nella classe.

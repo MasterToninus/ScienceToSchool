@@ -26,43 +26,83 @@ Il [D.L. 170/2026, art. 9, tabella 3](https://www.gazzettaufficiale.it/eli/gu/20
 
 Usare una mappa locale e dati di orario per descrivere il trasferimento di un passeggero o di una merce.
 
+
+## Prerequisiti e progressione
+
+Lettura di mappe e tabelle, unità e proporzioni della scuola precedente; non sono richieste nozioni di navigazione.
+
+**Esito atteso a fine anno:** Confrontare reti, mezzi e itinerari, distinguendo vincoli fisici e dati del servizio.
+
+Per la prima coorte del nuovo ordinamento, questa articolazione didattica è provvisoria: la scheda del secondo anno previgente non costituisce automaticamente la sua prosecuzione normativa.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 132 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 132 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Reti e modi di trasporto — 20 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze e tecnologie dei trasporti | 114 | 18 | 132 |
 
-- **9 ore** — Riconoscere nodi, archi e punti di interscambio in una rete locale reale.
-- **11 ore** — Distinguere servizio, linea e itinerario senza confondere infrastruttura e mezzo.
+### D1 · Scienze e tecnologie dei trasporti — 132 ore
 
-### Misure e rappresentazione — 19 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **9 ore** — Leggere scale e distanze da una mappa dichiarando la fonte dei dati.
-- **10 ore** — Confrontare distanza in linea d'aria e percorso effettivo con unità coerenti.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Orari e tempi di viaggio — 19 ore
+#### D1.1 · Sistema dei trasporti — 24 ore
 
-- **9 ore** — Ricostruire durata, attese e coincidenze da orari datati.
-- **10 ore** — Calcolare velocità media distinguendo tempo in movimento e tempo complessivo.
+- **4 ore** — Distinguere persone, merci, flussi e servizi.
+- **6 ore** — Confrontare modi stradale, ferroviario, marittimo e aereo.
+- **8 ore** — Riconoscere nodi, archi e connessioni di una rete.
+- **6 ore** — Descrivere ruoli e funzioni con esempi locali.
 
-### Confronto degli itinerari — 17 ore
+#### D1.2 · Mezzi e infrastrutture — 30 ore
 
-- **8 ore** — Confrontare percorso diretto e percorso con trasbordo per lo stesso bisogno.
-- **9 ore** — Motivare la scelta e segnalare informazioni mancanti su disponibilità e affidabilità del servizio.
+- **6 ore** — Riconoscere componenti e funzioni essenziali dei mezzi.
+- **8 ore** — Collegare veicolo, terminale e infrastruttura.
+- **8 ore** — Confrontare capacità, ingombri e vincoli.
+- **8 ore** — Individuare rischi e comportamenti sicuri nell’osservazione.
 
-### Attività di laboratorio e applicazione — 31 ore
+#### D1.3 · Misure e rappresentazione — 30 ore
 
-- **9 ore** — Classificare nodi, collegamenti e mezzi di una rete reale. Distinguere percorso, linea e singolo servizio.
-- **11 ore** — Calcolare lunghezza, durata e velocità media con unità coerenti. Motivare le differenze fra distanza stradale e distanza in linea d’aria.
-- **11 ore** — Confrontare sulla stessa relazione un itinerario diretto e uno con trasbordo, tenendo conto dei tempi di attesa.
+- **6 ore** — Convertire distanza, tempo, velocità, massa e volume.
+- **8 ore** — Leggere coordinate, scala e orientamento.
+- **8 ore** — Rappresentare un percorso su carta.
+- **8 ore** — Controllare coerenza e precisione dei dati.
 
-### Verifiche, recupero e consolidamento — 26 ore
+#### D1.4 · Itinerari e informazione — 30 ore
 
-- **13 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **8 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **5 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Leggere orari e calcolare attese e coincidenze.
+- **8 ore** — Confrontare percorsi con più criteri.
+- **8 ore** — Distinguere dato osservato, previsto e stimato.
+- **8 ore** — Presentare una scelta motivata con tabella e mappa.
 
-**Totale della proposta: 132 ore = 106 ore nei nuclei e nelle applicazioni + 26 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 132 ore = 114 ore nei nuclei e nelle applicazioni + 18 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Reti e modi di trasporto.** Riconoscere nodi, archi e punti di interscambio in una rete locale reale. Distinguere servizio, linea e itinerario senza confondere infrastruttura e mezzo.
+
+**Misure e rappresentazione.** Leggere scale e distanze da una mappa dichiarando la fonte dei dati. Confrontare distanza in linea d'aria e percorso effettivo con unità coerenti.
+
+**Orari e tempi di viaggio.** Ricostruire durata, attese e coincidenze da orari datati. Calcolare velocità media distinguendo tempo in movimento e tempo complessivo.
+
+**Confronto degli itinerari.** Confrontare percorso diretto e percorso con trasbordo per lo stesso bisogno. Motivare la scelta e segnalare informazioni mancanti su disponibilità e affidabilità del servizio.
+
+**Attività di laboratorio e applicazione.** Classificare nodi, collegamenti e mezzi di una rete reale. Distinguere percorso, linea e singolo servizio. Calcolare lunghezza, durata e velocità media con unità coerenti. Motivare le differenze fra distanza stradale e distanza in linea d’aria. Confrontare sulla stessa relazione un itinerario diretto e uno con trasbordo, tenendo conto dei tempi di attesa.
 
 ## Compito e verifica
 
@@ -89,3 +129,6 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida e i
 - [STA – Scienze e tecnologie applicate, Trasporti e logistica, ISBN 9788820346607](https://www.hoeplieditore.it/scuola/articolo/sta-scienze-e-tecnologie-applicate-trasporti-e-logistica-luigi-caligaris/9788820346607/1906) — Hoepli / Caligaris e altri; Destinazione e descrizione dell'opera.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di trasporti e logistica](../../../docs/ricerca-ai/fonti-programmi/trasporti-e-logistica.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

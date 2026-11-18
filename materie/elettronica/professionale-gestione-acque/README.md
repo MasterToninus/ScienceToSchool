@@ -1,6 +1,6 @@
 # Gestione e controllo di reti e impianti nel professionale Gestione delle acque
 
-A-40 e A-42 sono previste per *Tecniche di gestione e controllo delle reti ed impianti civili ed industriali* nel triennio di Gestione delle acque e risanamento ambientale. Il quadro assegna 165-198 ore in ciascuno dei tre anni. Le schede sviluppano il versante della misura e del controllo. Il curricolo della scuola stabilisce il peso della parte idraulica e delle compresenze. [DM 33/2020, prospetto 3E](https://www.istruzioneer.gov.it/wp-content/uploads/2020/11/3E-Gestione-delle-acque-e-risanamento-ambientale-QO-biennio-triennio.pdf).
+A-40 e A-42 sono previste per *Tecniche di gestione e controllo delle reti ed impianti civili ed industriali* nel triennio di Gestione delle acque e risanamento ambientale. Il quadro assegna 165-198 ore in ciascuno dei tre anni. Le schede propongono un piano integrato con reti idrauliche, pompe, misura e controllo. Il curricolo della scuola ne conferma la ripartizione e le compresenze. [DM 33/2020, prospetto 3E](https://www.istruzioneer.gov.it/wp-content/uploads/2020/11/3E-Gestione-delle-acque-e-risanamento-ambientale-QO-biennio-triennio.pdf).
 
 | Classe | Tema della proposta |
 | --- | --- |
@@ -15,3 +15,7 @@ Le schede annuali sono versioni **Tentative generate tramite IA**, da rivedere c
 ## Ore e distribuzione didattica
 
 Ogni scheda riporta il carico documentato, le eventuali varianti di ordinamento e una proposta IA di ore per punto, con subtotali e riserva. Gli scenari alternativi non si sommano; gli intervalli professionali richiedono il PTOF. [Audit delle fonti orarie](../../../docs/ricerca-ai/carico-didattico-elettronica.md).
+
+## Revisione critica dei programmi
+
+Le proposte distinguono prerequisiti, nuclei e bilanci di ciascuna disciplina, con scenari alternativi e verifica dei totali. Il [rapporto di revisione critica](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md) documenta copertura, correzioni e limiti per tutte le schede di Informatica ed Elettronica. Le tracce precedenti sono conservate come esempi senza ore aggiuntive.

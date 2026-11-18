@@ -1,5 +1,7 @@
 # Fonti per i programmi di Elettronica
 
+**Aggiornamento della revisione critica, 18/11/2026:** [fonti nuovamente esaminate, recuperi e correzioni](../revisione-critica-informatica-elettronica.md). I limiti di accesso descritti nella ricognizione sottostante vanno letti insieme agli esiti successivi di questo rapporto; non implicano che un documento recuperato in seguito sia ancora non consultato.
+
 Ricerca autonoma tramite IA consultata il **18 novembre 2026 (2026-11-18)**. Il [registro IA, AI-0014](../../interazioni-ai/registro.md#ai-0014) documenta l’attività; [AI-0003](../../interazioni-ai/registro.md#ai-0003) documenta la progettazione delle schede. Questo catalogo conserva fonti e impiego tematico, senza creare un secondo registro di attività.
 
 ## Metodo e limiti

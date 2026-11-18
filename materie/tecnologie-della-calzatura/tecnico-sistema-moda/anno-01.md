@@ -26,42 +26,83 @@ Tecnologie della calzatura. Istruzione tecnica, Sistema moda.
 
 Il nuovo piano prevede il Laboratorio di tecniche creative per il tessile/moda. Le classi individuate sono A-34, A-35 e A-44. Il biennio è comune alle due articolazioni, qui con una proposta di attività coerente con il successivo triennio. Per la coorte entrata nella prima del 2026/27, questo anno cade nel 2026/27. [DM 71/2026, allegato 10 «Sistema moda»](https://www.ufficioscolasticoregionalelazio.it/2026/06/08/decreto-ministeriale-n-71-del-29-aprile-2026/).
 
+
+## Prerequisiti e progressione
+
+Misure, osservazione e disegno elementare; non si presuppone esperienza di modellistica.
+
+**Esito atteso a fine anno:** Riconoscere materiali e componenti della moda, rappresentando una calzatura come caso orientativo.
+
+Per la prima coorte del nuovo ordinamento, questa articolazione didattica è provvisoria: la scheda del secondo anno previgente non costituisce automaticamente la sua prosecuzione normativa.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 132 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 132 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Componenti e funzione — 20 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Laboratorio di tecniche creative e progettazione di base | 114 | 18 | 132 |
 
-- **9 ore** — Riconoscere tomaia, fodera, sottopiede, suola e principali unioni su campioni o immagini.
-- **11 ore** — Collegare ogni componente a protezione, sostegno, comfort o finitura senza attribuire prestazioni non provate.
+### D1 · Laboratorio di tecniche creative e progettazione di base — 132 ore
 
-### Osservazione dei materiali — 19 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **9 ore** — Confrontare materiali tessili, pelle e altri campioni per superficie, flessibilità e spessore.
-- **10 ore** — Separare caratteristiche osservabili dalle informazioni riportate sulla scheda del produttore.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Disegno del prodotto — 19 ore
+#### D1.1 · Materiali e filiera comune — 24 ore
 
-- **9 ore** — Rappresentare vista laterale e dall'alto usando proporzioni e linee leggibili.
-- **10 ore** — Annotare parti, materiali e dimensioni indicative senza confondere disegno illustrativo e tecnico.
+- **4 ore** — Distinguere fibre, tessuti, pelli e materiali sintetici.
+- **6 ore** — Ricostruire il percorso dal materiale al prodotto moda.
+- **8 ore** — Confrontare capi, calzature e accessori per funzione.
+- **6 ore** — Registrare campioni senza anticipare una specializzazione obbligatoria.
 
-### Forma e destinazione d'uso — 17 ore
+#### D1.2 · Componenti e uso — 30 ore
 
-- **8 ore** — Confrontare modelli di periodi o usi diversi distinguendo funzione e scelta stilistica.
-- **9 ore** — Preparare una scheda campione con immagini di provenienza identificata e lessico essenziale.
+- **6 ore** — Riconoscere tomaia, fodera, fondo e accessori.
+- **8 ore** — Collegare componenti e destinazione della calzatura.
+- **8 ore** — Osservare rigidità, flessibilità e superficie dei materiali.
+- **8 ore** — Preparare una scheda comparativa di prodotti.
 
-### Attività di laboratorio e applicazione — 31 ore
+#### D1.3 · Disegno e forma — 30 ore
 
-- **14 ore** — Tomaia, fodera, sottopiede, suola e loro funzioni. Riconoscere materiali tessili e distinguere una caratteristica osservabile da una dichiarata dal produttore.
-- **17 ore** — Rappresentare lo stesso modello in vista laterale e dall’alto mantenendo le proporzioni. Collocarlo in una breve storia delle forme d’uso.
+- **6 ore** — Rilevare dimensioni e proporzioni di un campione.
+- **8 ore** — Disegnare viste e particolari essenziali.
+- **8 ore** — Sperimentare colore e combinazione dei materiali.
+- **8 ore** — Raccogliere riferimenti visivi citando le fonti.
 
-### Verifiche, recupero e consolidamento — 26 ore
+#### D1.4 · Proposta orientativa — 30 ore
 
-- **13 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **8 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **5 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Definire funzione e destinatario di un accessorio.
+- **8 ore** — Preparare una tavola con materiali e varianti.
+- **8 ore** — Realizzare una sagoma di carta con strumenti autorizzati.
+- **8 ore** — Presentare rapporti fra forma, materiale e uso.
 
-**Totale della proposta: 132 ore = 106 ore nei nuclei e nelle applicazioni + 26 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 132 ore = 114 ore nei nuclei e nelle applicazioni + 18 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Componenti e funzione.** Riconoscere tomaia, fodera, sottopiede, suola e principali unioni su campioni o immagini. Collegare ogni componente a protezione, sostegno, comfort o finitura senza attribuire prestazioni non provate.
+
+**Osservazione dei materiali.** Confrontare materiali tessili, pelle e altri campioni per superficie, flessibilità e spessore. Separare caratteristiche osservabili dalle informazioni riportate sulla scheda del produttore.
+
+**Disegno del prodotto.** Rappresentare vista laterale e dall'alto usando proporzioni e linee leggibili. Annotare parti, materiali e dimensioni indicative senza confondere disegno illustrativo e tecnico.
+
+**Forma e destinazione d'uso.** Confrontare modelli di periodi o usi diversi distinguendo funzione e scelta stilistica. Preparare una scheda campione con immagini di provenienza identificata e lessico essenziale.
+
+**Attività di laboratorio e applicazione.** Tomaia, fodera, sottopiede, suola e loro funzioni. Riconoscere materiali tessili e distinguere una caratteristica osservabile da una dichiarata dal produttore. Rappresentare lo stesso modello in vista laterale e dall’alto mantenendo le proporzioni. Collocarlo in una breve storia delle forme d’uso.
 
 ## Prova di apprendimento
 
@@ -83,3 +124,6 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida pre
 - [Progettazione tecnica capo calzaturiero, repertorio Lazio](https://www.inapp.gov.it/atlantelavoro/competenza/?id_uc=27973) — INAPP, Atlante del Lavoro; Risultati attesi RA1/RA2 e scheda tecnica del modello.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie della calzatura](../../../docs/ricerca-ai/fonti-programmi/tecnologie-della-calzatura.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

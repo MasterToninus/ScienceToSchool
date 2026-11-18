@@ -31,42 +31,134 @@ Il nuovo piano comprende Tecnologie dei materiali e processi produttivi e Ideazi
 
 Nella classe frequentata nel 2026/27 il piano precedente comprende le tecnologie dei materiali e dei processi della moda e l’ideazione, progettazione e industrializzazione dei prodotti moda. [DM 259/2017, tabella A](https://www.unife.it/it/corsi/formazione-insegnanti/30-e-60-cfu/documenti-60-30-cfu_2025/dm-259_17_tabella-a.pdf).
 
+
+## Prerequisiti e progressione
+
+Filatura, tessitura, maglieria e scheda tecnica del III; modello base e CAD prima di sviluppo e piazzamento.
+
+**Esito atteso a fine anno:** Progettare e verificare un ciclo di confezione collegando trattamenti, accessori, modelli e organizzazione.
+
+Raccordo: [scheda dell’anno precedente](anno-03.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 330 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 330 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Materiali di completamento — 43 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie dei materiali e dei processi produttivi e organizzativi della moda | 114 | 18 | 132 |
+| Ideazione, progettazione e industrializzazione dei prodotti moda | 174 | 24 | 198 |
 
-- **20 ore** — Selezionare tessuto esterno, fodera, rinforzi e accessori in relazione al prototipo.
-- **23 ore** — Motivare compatibilità, verso e comportamento osservato evitando equivalenze basate sul solo aspetto.
+### D1 · Tecnologie dei materiali e dei processi produttivi e organizzativi della moda — 132 ore
 
-### Modello e digitalizzazione — 46 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **21 ore** — Rilevare profili, tacche, margini e riferimenti del modello in un disegno controllato.
-- **25 ore** — Verificare scala e simmetria del file digitale confrontandolo con una stampa campione.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Piazzamento e sala taglio — 43 ore
+#### D1.1 · Nobilitazioni e compatibilità — 24 ore
 
-- **20 ore** — Confrontare due piazzamenti tenendo conto di altezza utile, verso e difetti del tessuto.
-- **23 ore** — Calcolare resa e sfrido distinguendo margini di lavorazione e materiale effettivamente utilizzabile.
+- **4 ore** — Confrontare preparazione, tintura, stampa e finissaggio.
+- **6 ore** — Collegare processo e compatibilità delle fibre.
+- **8 ore** — Leggere parametri e difetti su dati forniti.
+- **6 ore** — Motivare trattamento e controlli per un uso assegnato.
 
-### Documentazione della confezione — 46 ore
+#### D1.2 · Materiali di completamento — 30 ore
 
-- **21 ore** — Ordinare i pezzi e associare a ciascuno quantità e operazioni previste.
-- **25 ore** — Controllare coerenza fra modello, distinta e prototipo prima di stimare una piccola serie.
+- **6 ore** — Confrontare fodere, interfodere e rinforzi.
+- **8 ore** — Selezionare fili, chiusure e accessori.
+- **8 ore** — Valutare compatibilità di manutenzione e comportamento.
+- **8 ore** — Documentare la scelta con schede e campioni.
 
-### Attività di laboratorio e applicazione — 86 ore
+#### D1.3 · Taglio e confezione — 30 ore
 
-- **39 ore** — Selezionare tessuto esterno, fodera e accessori sulla base del prototipo. Individuare vincoli di verso, simmetria e tolleranza nella preparazione al taglio.
-- **47 ore** — Digitalizzare il profilo dei pezzi e confrontare due piazzamenti. Stimare resa e scarto a parità di quantità richiesta.
+- **6 ore** — Ricostruire stesura, taglio, assemblaggio e finitura.
+- **8 ore** — Leggere schemi di macchine e punti di cucitura.
+- **8 ore** — Confrontare parametri, difetti e rimedi.
+- **8 ore** — Individuare rischi e controlli del ciclo.
 
-### Verifiche, recupero e consolidamento — 66 ore
+#### D1.4 · Produzione e qualità — 30 ore
 
-- **33 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **20 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **13 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Rilevare tempi e consumi di una piccola lavorazione.
+- **8 ore** — Confrontare metodi e postazioni.
+- **8 ore** — Preparare un piano di controllo in processo.
+- **8 ore** — Redigere rapporto su risultati, scarti e correzioni.
 
-**Totale della proposta: 330 ore = 264 ore nei nuclei e nelle applicazioni + 66 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+### D2 · Ideazione, progettazione e industrializzazione dei prodotti moda — 198 ore
+
+#### D2.0 · Diagnosi e raccordo — 4 ore
+
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Moda e comunicazione — 30 ore
+
+- **6 ore** — Analizzare evoluzioni del primo Novecento e relazioni con le arti.
+- **8 ore** — Confrontare comunicazione, silhouette e materiali.
+- **8 ore** — Sviluppare ricerca di tendenza senza confonderla con previsione certa.
+- **8 ore** — Definire tema, pubblico e requisiti della proposta.
+
+#### D2.2 · Modello e trasformazioni — 36 ore
+
+- **6 ore** — Riprendere modello base e vestibilità.
+- **8 ore** — Progettare trasformazioni coerenti con il materiale.
+- **12 ore** — Disegnare dettagli, margini e componenti.
+- **10 ore** — Verificare un prototipo e registrarne le correzioni.
+
+#### D2.3 · CAD e sviluppo — 36 ore
+
+- **6 ore** — Digitalizzare tracciati con controllo delle misure.
+- **8 ore** — Organizzare livelli e versioni del modello.
+- **12 ore** — Eseguire uno sviluppo taglie guidato.
+- **10 ore** — Verificare corrispondenze e tolleranze fra pezzi.
+
+#### D2.4 · Piazzamento e industrializzazione — 42 ore
+
+- **8 ore** — Costruire piazzamenti rispettando verso e vincoli del tessuto.
+- **10 ore** — Calcolare resa e fabbisogno.
+- **12 ore** — Predisporre distinta e sequenza di confezione.
+- **12 ore** — Confrontare due soluzioni a parità di requisiti.
+
+#### D2.5 · Mini-collezione e dossier — 30 ore
+
+- **6 ore** — Progettare varianti coerenti di un tema.
+- **8 ore** — Coordinare tessuti, colori e accessori.
+- **8 ore** — Preparare schede tecniche e tavole di presentazione.
+- **8 ore** — Discutere producibilità e modifiche dopo la prova.
+
+#### D2.6 · Verifiche, restituzione e recupero — 20 ore
+
+- **6 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **6 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 198 ore = 174 ore di nuclei e applicazioni + 4 ore di diagnosi + 12 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+**Totale della proposta: 330 ore = 288 ore nei nuclei e nelle applicazioni + 42 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Materiali di completamento.** Selezionare tessuto esterno, fodera, rinforzi e accessori in relazione al prototipo. Motivare compatibilità, verso e comportamento osservato evitando equivalenze basate sul solo aspetto.
+
+**Modello e digitalizzazione.** Rilevare profili, tacche, margini e riferimenti del modello in un disegno controllato. Verificare scala e simmetria del file digitale confrontandolo con una stampa campione.
+
+**Piazzamento e sala taglio.** Confrontare due piazzamenti tenendo conto di altezza utile, verso e difetti del tessuto. Calcolare resa e sfrido distinguendo margini di lavorazione e materiale effettivamente utilizzabile.
+
+**Documentazione della confezione.** Ordinare i pezzi e associare a ciascuno quantità e operazioni previste. Controllare coerenza fra modello, distinta e prototipo prima di stimare una piccola serie.
+
+**Attività di laboratorio e applicazione.** Selezionare tessuto esterno, fodera e accessori sulla base del prototipo. Individuare vincoli di verso, simmetria e tolleranza nella preparazione al taglio. Digitalizzare il profilo dei pezzi e confrontare due piazzamenti. Stimare resa e scarto a parità di quantità richiesta.
 
 ## Prova di apprendimento
 
@@ -88,3 +180,6 @@ Per il tecnico, il D.M. 29/2026 avvia le prime 2026/27; le linee guida 2012 rest
 - [Programmazione Tecnologie applicate ai materiali e processi produttivi, classe IV](https://www.cattaneodeledda.edu.it/allegati/3549/tecnologie_applicate_materiali_processi_produttivi_tessili_abbigliamento_4%5EPTS.pdf) — IIS Cattaneo-Deledda; Nobilitazione, materiali di completamento e organizzazione della produzione; PDF 6 pagine.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

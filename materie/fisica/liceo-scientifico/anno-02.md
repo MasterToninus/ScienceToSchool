@@ -26,6 +26,12 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno raccordati fra terza e quarta in base al percorso effettivamente svolto.
 
+**Prerequisiti e progressione.** Dalla prima: vettori, forze, grafici e incertezza. Servono equazioni lineari e lettura di pendenze/aree; per la caduta usare equazioni quadratiche guidate, senza derivazione formale. Newton precede i bilanci energetici. Il caso di lancio sportivo usa componenti ricavate dal video, senza presumere una trigonometria completa. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le esperienze hanno una sola raccolta di dati: i nuclei applicativi ne curano l’interpretazione specifica. Preparazione, montaggio e analisi sono compresi nei punti indicati; le prove individuali e la restituzione usano la riserva. Gli approfondimenti facoltativi sostituiscono un esercizio dello stesso nucleo, senza aggiungere ore.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Descrivere il moto
 
 **Subtotale del nucleo: 10 ore.**
@@ -33,12 +39,14 @@ L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno ra
 - **5 ore.** Definire sistema di riferimento, posizione, spostamento e intervallo di tempo; leggere grafici posizione-tempo senza scambiarli con traiettorie.
 - **5 ore.** Ricavare velocità e accelerazione medie; confrontare moto rettilineo uniforme e uniformemente accelerato, usando pendenze e aree dei grafici.
 
+
 ### Caduta e moti nel piano
 
 **Subtotale del nucleo: 9 ore.**
 
 - **5 ore.** Studiare caduta libera e lancio verticale separando il modello senza resistenza dell’aria dai dati reali.
-- **4 ore.** Scomporre il moto di un proiettile nelle componenti orizzontale e verticale; introdurre il moto circolare uniforme e il significato dell’accelerazione centripeta.
+- **4 ore.** Esaminare un lancio orizzontale mediante due grafici temporali e osservare il moto circolare uniforme; riconoscere qualitativamente l’accelerazione centripeta. La trattazione vettoriale e quantitativa generale è prevista in terza.
+
 
 ### Dalle forze al movimento
 
@@ -47,6 +55,7 @@ L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno ra
 - **4 ore.** Applicare i tre principi di Newton a un sistema scelto; distinguere coppie azione-reazione da forze che agiscono sul medesimo corpo.
 - **7 ore.** Costruire diagrammi delle forze per piani inclinati, attrito e sistemi trainati; controllare segni, unità e casi limite delle equazioni.
 
+
 ### Lavoro, energia e potenza
 
 **Subtotale del nucleo: 8 ore.**
@@ -54,12 +63,14 @@ L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno ra
 - **4 ore.** Calcolare lavoro per forze costanti e interpretare energia cinetica, energia potenziale gravitazionale ed elastica.
 - **4 ore.** Scrivere bilanci energetici con dissipazione per attrito; distinguere energia trasferita, potenza media e rendimento di una trasformazione.
 
+
 ### Temperatura e scambi di calore
 
 **Subtotale del nucleo: 8 ore.**
 
 - **4 ore.** Distinguere temperatura, calore ed energia interna; utilizzare scale Celsius e kelvin e descrivere dilatazione ed equilibrio termico.
 - **4 ore.** Impostare semplici bilanci calorimetrici con calore specifico e calore latente; leggere riscaldamenti e passaggi di stato su un grafico.
+
 
 ### Trasporto termico e controllo sperimentale
 

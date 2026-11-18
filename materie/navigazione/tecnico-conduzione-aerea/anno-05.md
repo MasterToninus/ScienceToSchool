@@ -27,43 +27,106 @@ La tabella riguarda la disciplina di navigazione. Le righe dei due ordinamenti s
 
 Motivare la scelta delle fonti informative in un caso simulato integrando navigazione, meteorologia e gestione del traffico.
 
+
+## Prerequisiti e progressione
+
+Cartografia, radioaiuti, meteo, massa e centraggio del IV; consolidare vento e moto relativo prima dei problemi tattici.
+
+**Esito atteso a fine anno:** Valutare un piano complesso simulato integrando sistemi, autonomia, ambiente e fattore umano.
+
+Raccordo: [scheda dell’anno precedente](anno-04.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Le applicazioni avanzate restano introduttive o guidate: calcoli astronomici, radar, navigazione integrata, prestazioni, comunicazioni ed emergenze sono affrontati solo dove indicati nelle unità e su dati o simulatori didattici predisposti. Non si presume padronanza operativa né copertura certificata di STCW, requisiti aeronautici o titoli della pesca. Per tali percorsi serve una verifica separata del curricolo accreditato e dell’addestramento richiesto.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 264 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 264 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Navigazione stimata e osservata — 34 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze della navigazione, struttura e conduzione del mezzo | 228 | 36 | 264 |
 
-- **15 ore** — Confrontare posizioni calcolate, registrate e mancanti in una traccia di volo simulata.
-- **19 ore** — Separare errore sistematico, variabilità e ritardo del dato nella lettura degli scostamenti.
+### D1 · Scienze della navigazione, struttura e conduzione del mezzo — 264 ore
 
-### Sistemi di assistenza e rilevamento — 33 ore
+#### D1.0 · Diagnosi e raccordo — 6 ore
 
-- **15 ore** — Descrivere a blocchi funzioni di radionavigazione, localizzazione satellitare e sorveglianza.
-- **18 ore** — Confrontare che cosa misura ciascun sistema e quali informazioni non fornisce da solo.
+- **6 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Scenario meteorologico e pianificazione simulata — 36 ore
+#### D1.1 · Rotte e analisi del percorso — 30 ore
 
-- **16 ore** — Costruire un confronto fra scenari con dati archiviati e ipotesi dichiarate.
-- **20 ore** — Valutare effetti di vento e tempo di percorrenza mantenendo separati calcolo didattico e decisione operativa.
+- **6 ore** — Riprendere lossodromia e ortodromia su casi graduati.
+- **8 ore** — Leggere profilo verticale e orizzontale di un percorso.
+- **8 ore** — Confrontare navigazione stimata e rilevata.
+- **8 ore** — Controllare errori e coerenza dei calcoli.
 
-### Analisi del caso e comunicazioni — 31 ore
+#### D1.2 · Autonomia e moto relativo — 36 ore
 
-- **14 ore** — Ricostruire cronologia, soggetti e scambi informativi di una simulazione.
-- **17 ore** — Motivare le conclusioni con dati e segnalare informazioni insufficienti, evitando attribuzioni di certezza non supportate.
+- **6 ore** — Modellare autonomia e raggio d’azione con dati forniti.
+- **8 ore** — Confrontare alternative al variare del vento.
+- **12 ore** — Risolvere semplici problemi didattici di punto critico e moto relativo.
+- **10 ore** — Discutere ipotesi e limiti del modello.
 
-### Attività di laboratorio e applicazione — 77 ore
+#### D1.3 · Sistemi di navigazione — 36 ore
 
-- **23 ore** — Confrontare una traccia stimata e una traccia osservata. Descrivere precisione, intervallo di misura, ritardi e dati mancanti.
-- **27 ore** — Ricostruire le funzioni dei servizi aeroportuali e di traffico. Distinguere osservazioni, comunicazioni e decisioni nel racconto di un caso.
-- **27 ore** — Valutare due scenari meteorologici su una serie archiviata e motivare l’effetto di una fonte non aggiornata sull’interpretazione.
+- **6 ore** — Confrontare VOR, DME, ILS e sistemi satellitari.
+- **8 ore** — Descrivere principi della navigazione inerziale e integrata.
+- **12 ore** — Interpretare indicatori, errori e integrità del dato.
+- **10 ore** — Confrontare soluzioni senza trattarle come istruzioni operative.
 
-### Verifiche, recupero e consolidamento — 53 ore
+#### D1.4 · Traffico e comunicazioni — 36 ore
 
-- **26 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **16 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **11 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Distinguere sorveglianza, assistenza e gestione del traffico.
+- **8 ore** — Leggere strutture dello spazio aereo su materiale didattico.
+- **12 ore** — Esercitare fraseologia e scambio di informazioni in simulazione.
+- **10 ore** — Analizzare un caso di incomprensione e correzione.
 
-**Totale della proposta: 264 ore = 211 ore nei nuclei e nelle applicazioni + 53 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Meteorologia e pianificazione — 36 ore
+
+- **6 ore** — Integrare carte, osservazioni e previsioni con validità dichiarata.
+- **8 ore** — Riconoscere condizioni limitanti in scenari forniti.
+- **12 ore** — Confrontare itinerari e alternative su base documentata.
+- **10 ore** — Motivare una revisione del piano senza sostituire procedure operative.
+
+#### D1.6 · Prestazioni e fattore umano — 30 ore
+
+- **6 ore** — Confrontare massa, centraggio e prestazioni su tabelle.
+- **8 ore** — Analizzare carico di lavoro e consapevolezza della situazione.
+- **8 ore** — Ripartire ruoli e controlli in una simulazione di squadra.
+- **8 ore** — Documentare limiti e incertezze della decisione.
+
+#### D1.7 · Caso integrato finale — 24 ore
+
+- **4 ore** — Preparare un piano didattico con tempi, dati e fonti.
+- **6 ore** — Gestire una perturbazione simulata e registrare le revisioni.
+- **8 ore** — Confrontare strumenti e controlli indipendenti.
+- **6 ore** — Presentare rapporto e discussione critica del caso.
+
+#### D1.8 · Verifiche, restituzione e recupero — 30 ore
+
+- **9 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **9 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **6 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **6 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 264 ore = 228 ore di nuclei e applicazioni + 6 ore di diagnosi + 18 ore di verifiche/restituzione + 12 ore di recupero/consolidamento.**
+
+**Totale della proposta: 264 ore = 228 ore nei nuclei e nelle applicazioni + 36 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Navigazione stimata e osservata.** Confrontare posizioni calcolate, registrate e mancanti in una traccia di volo simulata. Separare errore sistematico, variabilità e ritardo del dato nella lettura degli scostamenti.
+
+**Sistemi di assistenza e rilevamento.** Descrivere a blocchi funzioni di radionavigazione, localizzazione satellitare e sorveglianza. Confrontare che cosa misura ciascun sistema e quali informazioni non fornisce da solo.
+
+**Scenario meteorologico e pianificazione simulata.** Costruire un confronto fra scenari con dati archiviati e ipotesi dichiarate. Valutare effetti di vento e tempo di percorrenza mantenendo separati calcolo didattico e decisione operativa.
+
+**Analisi del caso e comunicazioni.** Ricostruire cronologia, soggetti e scambi informativi di una simulazione. Motivare le conclusioni con dati e segnalare informazioni insufficienti, evitando attribuzioni di certezza non supportate.
+
+**Attività di laboratorio e applicazione.** Confrontare una traccia stimata e una traccia osservata. Descrivere precisione, intervallo di misura, ritardi e dati mancanti. Ricostruire le funzioni dei servizi aeroportuali e di traffico. Distinguere osservazioni, comunicazioni e decisioni nel racconto di un caso. Valutare due scenari meteorologici su una serie archiviata e motivare l’effetto di una fonte non aggiornata sull’interpretazione.
 
 ## Compito e verifica
 
@@ -92,3 +155,6 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 - [Approfondimento tecnico TAF](https://www.meteoam.it/it/documentazione-tecnica/taf) — Aeronautica Militare, Servizio Meteorologico; Codifica di vento, visibilità, nubi, validità e cambiamenti previsti.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

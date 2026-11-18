@@ -20,6 +20,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Periodicità e spazio.** Gli obiettivi del secondo biennio sono definiti per l’indirizzo nelle [Indicazioni nazionali, DM 211/2010](https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=010G0232&atto.dataPubblicazioneGazzetta=2010-12-14&tipoSerie=serie_generale&tipoVigenza=originario). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva. Le unità nuove vanno svolte nell’ordine dei prerequisiti indicati nei punti. Con 66 h annue sono richiesti casi elementari e pochi problemi significativi: evitare lunghe casistiche di equazioni, tecniche di integrazione o dimostrazioni ripetitive. Gli integrali restano presenti, come previsto dalle Indicazioni. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **66 ore** (percorso comune). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
@@ -28,41 +34,38 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Subtotale: 12 h.**
 
-- **4 h** — Interpretare base, esponente e condizioni del logaritmo; confrontare crescita e decadimento.
-- **5 h** — Risolvere equazioni e disequazioni elementari rispettando domini e monotonia.
-- **3 h** — Stimare un tempo di raddoppio o dimezzamento e discutere per quali intervalli il modello descrive i dati.
+- **4 h** — Costruire esponenziale e logaritmo come funzioni inverse, precisando domini, basi e monotonia.
+- **4 h** — Risolvere equazioni e disequazioni semplici, confrontando forma simbolica e grafico; usare anche scale semilogaritmiche.
+- **4 h** — Studiare crescita, decadimento e tempi di raddoppio; introdurre il numero e e i limiti di un modello ricavato da dati.
 
-### Trigonometria e fenomeni periodici
+### Trigonometria e modelli periodici
 
-**Subtotale: 14 h.**
+**Subtotale: 16 h.**
 
-- **4 h** — Passare fra gradi e radianti e leggere seno, coseno e tangente sulla circonferenza goniometrica.
-- **6 h** — Risolvere triangoli e semplici equazioni goniometriche; scegliere formule e teoremi in relazione al problema.
-- **4 h** — Modellizzare un segnale periodico indicando ampiezza, periodo e fase, senza confondere il modello con la misura.
+- **5 h** — Passare da gradi a radianti, definire seno, coseno e tangente e leggere ampiezza, periodo e fase.
+- **6 h** — Usare identità fondamentali, formule di addizione e duplicazione e risolvere equazioni goniometriche semplici.
+- **5 h** — Applicare teoremi dei seni e del coseno a triangoli e problemi di misura; controllare il risultato con stima e disegno.
 
-### Geometria nello spazio
-
-**Subtotale: 9 h.**
-
-- **3 h** — Rappresentare punti, rette e piani; distinguere parallelismo, incidenza e perpendicolarità.
-- **3 h** — Calcolare aree e volumi di solidi e sezioni semplici, usando un disegno che chiarisca le ipotesi.
-- **3 h** — Collegare coordinate, vettori e distanze nei percorsi che li prevedono; distinguere una figura piana dalla sua proiezione.
-
-### Calcolo combinatorio e probabilità condizionata
-
-**Subtotale: 10 h.**
-
-- **3 h** — Scegliere tra disposizioni, permutazioni e combinazioni spiegando ruolo dell'ordine e delle ripetizioni.
-- **4 h** — Calcolare probabilità condizionate, probabilità totale e semplici casi di Bayes mediante un albero o una tabella.
-- **3 h** — Distinguere indipendenza e incompatibilità e valutare l'effetto delle frequenze di base sull'interpretazione di un risultato.
-
-### Dati a due variabili e modelli
+### Geometria dello spazio
 
 **Subtotale: 8 h.**
 
-- **3 h** — Costruire distribuzioni congiunte, marginali e condizionate e diagrammi di dispersione.
-- **3 h** — Calcolare indicatori di dispersione e confrontare una retta di regressione con i residui dei dati.
-- **2 h** — Distinguere associazione, causalità ed estrapolazione; indicare quali altre informazioni servirebbero per sostenere una spiegazione.
+- **4 h** — Studiare posizioni di rette e piani, parallelismo e perpendicolarità con modelli tridimensionali.
+- **4 h** — Calcolare superfici, volumi e sezioni di poliedri e solidi di rotazione; usare il principio di Cavalieri e distinguere figura e proiezione.
+
+### Modulo per il percorso: probabilità o prospettiva
+
+**Subtotale: 11 h.**
+
+- **5 h** — Musicale/coreutico: motivare permutazioni, disposizioni e combinazioni. Artistico, in alternativa entro le stesse 5 h: costruire proiezioni prospettiche di figure semplici e riconoscere punti di fuga e proprietà che si conservano.
+- **6 h** — Musicale/coreutico: usare probabilità condizionata, totale e Bayes con alberi e tabelle. Artistico, in alternativa entro le stesse 6 h: analizzare una rappresentazione figurativa o un progetto con prospettiva e rapporti geometrici, distinguendo proiezione e misura.
+
+### Dati bivariati e modelli
+
+**Subtotale: 6 h.**
+
+- **3 h** — Applicare gli indici e le tabelle bivariate acquisiti in terza a un nuovo dataset; confrontare sottogruppi e possibili distorsioni, senza ripetere l’intero nucleo introduttivo.
+- **3 h** — Confrontare due modelli sui medesimi dati e su dati di controllo; usare residui e discussione delle ipotesi per motivare la scelta, distinguendo interpolazione e previsione.
 
 ### Declinazione per il percorso
 
@@ -72,10 +75,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **7 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **6 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 13 h.**
 
-**Totale del piano: 66 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **7 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **6 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 66 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

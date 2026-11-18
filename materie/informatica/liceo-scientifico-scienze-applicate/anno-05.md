@@ -16,9 +16,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Scienze applicate, Informatica: 66 ore.
+- **Unico**: 66 = **66 ore**; Informatica 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nel liceo scientifico, opzione scienze applicate](README.md)
 
@@ -26,38 +28,55 @@ Gli obiettivi nazionali dell’opzione sono articolati per bienni e quinto anno.
 
 ## Programma proposto per nuclei tematici
 
-Studiare un metodo numerico per zeri o integrali e confrontarlo con un risultato analitico. Esaminare un modello dinamico discreto. Distinguere indirizzamento, protocolli e servizi Internet.
+**Prerequisiti e avvio.** Programmazione modulare, file, basi di dati; bisezione richiede continuità e l’integrazione segue Matematica.
 
-### Calcolo numerico — 12 ore
+**Raccordo e progressione.** Preparazione a studio universitario e lettura critica di simulazioni; metodi numerici avanzati restano opzionali.
 
-- **7 ore** — Implementare bisezione per cercare uno zero, dichiarando ipotesi, intervallo, tolleranza e condizione di arresto.
-- **5 ore** — Approssimare un integrale con rettangoli o trapezi, confrontando passi diversi con un caso risolvibile analiticamente.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Simulazioni scientifiche — 15 ore
+#### S1D1 · Informatica — 66 ore
 
-- **8 ore** — Tradurre un modello di crescita o moto in aggiornamenti discreti, distinguendo parametri e condizioni iniziali.
-- **7 ore** — Studiare sensibilità al passo e confrontare simulazione e dati senza attribuire al modello validità oltre le ipotesi.
+##### S1D1N1 · Calcolo numerico — 14 ore
 
+- **6 ore** — Rappresentare numeri finiti e misurare arrotondamento e propagazione dell’errore.
+- **8 ore** — Implementare bisezione e confrontare arresto per tolleranza e numero massimo di passi.
 
-### Reti e servizi — 15 ore
+##### S1D1N2 · Modelli e simulazioni — 16 ore
 
-- **8 ore** — Ricostruire il percorso logico di una richiesta web attraverso indirizzamento, instradamento, nomi e trasporto.
-- **7 ore** — Distinguere servizio, protocollo e mezzo; interpretare latenza e velocità di trasferimento con esempi controllati.
+- **8 ore** — Approssimare un integrale con rettangoli o trapezi, dopo raccordo con Matematica.
+- **8 ore** — Simulare un processo discreto o casuale, documentando parametri, seme e confronto con dati.
 
+##### S1D1N3 · Calcolabilità e reti — 14 ore
 
-### Progetto conclusivo — 14 ore
+- **6 ore** — Distinguere algoritmo, programma e problema; discutere limiti di calcolabilità con un esempio guidato.
+- **8 ore** — Descrivere livelli, indirizzamento e servizi Internet; osservare uno scambio client-server in ambiente didattico.
 
-- **8 ore** — Integrare importazione, elaborazione, visualizzazione e relazione in un progetto collegato a matematica o scienze.
-- **6 ore** — Consegnare codice, dati e istruzioni; verificare indipendentemente risultati automatici e discutere errori e limiti.
+##### S1D1N4 · Progetto scientifico e critica — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Confrontare due implementazioni per accuratezza e costo senza generalizzare da un solo tempo misurato.
+- **6 ore** — Presentare un’indagine riproducibile e controllare criticamente risultati propri e suggerimenti di IA.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Informatica | 56 | 10 | **66 ore** |
+
+**Totale Unico: 66 ore.**
+
+**Fondamento e limite della revisione.** [DM 211/2010, allegato F, Informatica; GU pp. 339–340, PDF pp. 343–344](https://umi.dm.unibo.it/wp-content/uploads/2013/10/4_DM_211_10_GU_275_-14_12_10.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Per il raffreddamento si fornisce e discute una legge di aggiornamento discreta dopo il raccordo con Fisica; non è richiesta la soluzione autonoma di equazioni differenziali. Il caso occupa le ore di simulazione e progetto già previste.
 
 ## Laboratorio e verifica
 
@@ -80,3 +99,25 @@ Volume quinto anno, ISBN 9788829865277.
 - [MIUR, Linee guida 2012 – Informatica e telecomunicazioni, copia IIS Volta](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C4_Informatica_Telecomunicazioni.pdf).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Studiare un metodo numerico per zeri o integrali e confrontarlo con un risultato analitico. Esaminare un modello dinamico discreto. Distinguere indirizzamento, protocolli e servizi Internet.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Implementare bisezione per cercare uno zero, dichiarando ipotesi, intervallo, tolleranza e condizione di arresto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Approssimare un integrale con rettangoli o trapezi, confrontando passi diversi con un caso risolvibile analiticamente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Tradurre un modello di crescita o moto in aggiornamenti discreti, distinguendo parametri e condizioni iniziali. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Studiare sensibilità al passo e confrontare simulazione e dati senza attribuire al modello validità oltre le ipotesi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Ricostruire il percorso logico di una richiesta web attraverso indirizzamento, instradamento, nomi e trasporto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere servizio, protocollo e mezzo; interpretare latenza e velocità di trasferimento con esempi controllati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Integrare importazione, elaborazione, visualizzazione e relazione in un progetto collegato a matematica o scienze. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Consegnare codice, dati e istruzioni; verificare indipendentemente risultati automatici e discutere errori e limiti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

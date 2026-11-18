@@ -27,43 +27,90 @@ La tabella riguarda la disciplina di navigazione. Le righe dei due ordinamenti s
 
 Collegare coordinate geografiche, unità aeronautiche e stati dell’atmosfera alla lettura di una carta.
 
+
+## Prerequisiti e progressione
+
+Unità, coordinate piane, angoli e vettori; raccordo con matematica per trigonometria prima dei problemi del vento.
+
+**Esito atteso a fine anno:** Risolvere un percorso aereo elementare e leggere parametri ambientali e strutturali del mezzo.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Le applicazioni avanzate restano introduttive o guidate: calcoli astronomici, radar, navigazione integrata, prestazioni, comunicazioni ed emergenze sono affrontati solo dove indicati nelle unità e su dati o simulatori didattici predisposti. Non si presume padronanza operativa né copertura certificata di STCW, requisiti aeronautici o titoli della pesca. Per tali percorsi serve una verifica separata del curricolo accreditato e dell’addestramento richiesto.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 165 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 165 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Geometria terrestre e coordinate — 21 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze della navigazione, struttura e conduzione del mezzo | 144 | 21 | 165 |
 
-- **10 ore** — Riconoscere meridiani, paralleli, latitudine e longitudine su globo e carta didattica.
-- **11 ore** — Convertire una coordinata fra gradi e primi e controllare emisfero e ordine dei dati.
+### D1 · Scienze della navigazione, struttura e conduzione del mezzo — 165 ore
 
-### Distanze, direzioni e tempo — 25 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **11 ore** — Distinguere miglio nautico, nodo e unità metriche con conversioni documentate.
-- **14 ore** — Confrontare ora locale e riferimento temporale comune in una tabella di viaggio simulato.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Rotta, prua e vento — 25 ore
+#### D1.1 · Geometria terrestre e tempo — 24 ore
 
-- **11 ore** — Rappresentare velocità rispetto all'aria e al suolo con vettori sul piano.
-- **14 ore** — Risolvere casi semplici con vento assegnato e verificare qualitativamente il verso della deriva.
+- **4 ore** — Rappresentare sfera, coordinate e riferimenti.
+- **6 ore** — Calcolare differenze angolari, distanze elementari e conversioni.
+- **8 ore** — Distinguere tempo locale, UTC e fusi.
+- **6 ore** — Interpretare scale e coordinate su carte didattiche.
 
-### Atmosfera e misura della quota — 21 ore
+#### D1.2 · Direzioni e navigazione stimata — 30 ore
 
-- **10 ore** — Interpretare variazioni di pressione e temperatura attraverso profili e grafici forniti.
-- **11 ore** — Spiegare in un modello perché pressione di riferimento e condizioni atmosferiche influenzano l'indicazione altimetrica.
+- **6 ore** — Distinguere rotta, prua e riferimenti magnetici.
+- **8 ore** — Calcolare spazio, tempo e velocità con unità coerenti.
+- **8 ore** — Tracciare un percorso elementare a tappe.
+- **8 ore** — Registrare dati, stime e incertezze.
 
-### Attività di laboratorio e applicazione — 40 ore
+#### D1.3 · Vettori e vento — 30 ore
 
-- **12 ore** — Rappresentare meridiani, paralleli, latitudine e longitudine. Passare da una descrizione testuale a due punti sulla carta.
-- **14 ore** — Distinguere rotta, prua e spostamento rispetto al suolo con diagrammi vettoriali. Verificare la coerenza delle unità.
-- **14 ore** — Interpretare grafici di pressione e temperatura e discutere perché un altimetro barometrico richiede una pressione di riferimento.
+- **6 ore** — Comporre velocità dell’aria, del suolo e del vento.
+- **8 ore** — Risolvere graficamente problemi semplici del vento.
+- **8 ore** — Confrontare costruzione grafica e calcolo guidato.
+- **8 ore** — Verificare segni, plausibilità e sensibilità dei risultati.
 
-### Verifiche, recupero e consolidamento — 33 ore
+#### D1.4 · Atmosfera e strumenti — 30 ore
 
-- **16 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **10 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **7 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Descrivere pressione, temperatura e atmosfera standard.
+- **8 ore** — Distinguere quota, altitudine e riferimenti altimetrici.
+- **8 ore** — Leggere strumenti elementari e relative limitazioni.
+- **8 ore** — Collegare variazioni atmosferiche e indicazioni del sistema.
 
-**Totale della proposta: 165 ore = 132 ore nei nuclei e nelle applicazioni + 33 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Aeromobile e infrastrutture — 30 ore
+
+- **6 ore** — Riconoscere struttura, superfici e comandi del velivolo.
+- **8 ore** — Collegare forze e condizioni di volo con modelli elementari.
+- **8 ore** — Leggere informazioni base di aeroporto e spazio aereo.
+- **8 ore** — Preparare un rapporto del percorso esclusivamente simulato.
+
+#### D1.6 · Verifiche, restituzione e recupero — 18 ore
+
+- **5 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **5 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 165 ore = 144 ore di nuclei e applicazioni + 3 ore di diagnosi + 10 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+**Totale della proposta: 165 ore = 144 ore nei nuclei e nelle applicazioni + 21 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Geometria terrestre e coordinate.** Riconoscere meridiani, paralleli, latitudine e longitudine su globo e carta didattica. Convertire una coordinata fra gradi e primi e controllare emisfero e ordine dei dati.
+
+**Distanze, direzioni e tempo.** Distinguere miglio nautico, nodo e unità metriche con conversioni documentate. Confrontare ora locale e riferimento temporale comune in una tabella di viaggio simulato.
+
+**Rotta, prua e vento.** Rappresentare velocità rispetto all'aria e al suolo con vettori sul piano. Risolvere casi semplici con vento assegnato e verificare qualitativamente il verso della deriva.
+
+**Atmosfera e misura della quota.** Interpretare variazioni di pressione e temperatura attraverso profili e grafici forniti. Spiegare in un modello perché pressione di riferimento e condizioni atmosferiche influenzano l'indicazione altimetrica.
+
+**Attività di laboratorio e applicazione.** Rappresentare meridiani, paralleli, latitudine e longitudine. Passare da una descrizione testuale a due punti sulla carta. Distinguere rotta, prua e spostamento rispetto al suolo con diagrammi vettoriali. Verificare la coerenza delle unità. Interpretare grafici di pressione e temperatura e discutere perché un altimetro barometrico richiede una pressione di riferimento.
 
 ## Compito e verifica
 
@@ -92,3 +139,6 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 - [Bollettini di meteorologia aeronautica METAR e TAF](https://www.meteoam.it/it/metar-taf) — Aeronautica Militare, Servizio Meteorologico; Distinzione fra METAR osservato e TAF previsto; identificazione della stazione.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

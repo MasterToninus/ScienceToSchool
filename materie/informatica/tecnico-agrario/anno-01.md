@@ -18,9 +18,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Informatica e smart farming, quadro iniziale DM 29†: 99 ore.
+- **Ipotesi sul quadro iniziale: 99 ore**: 99 = **99 ore**; Informatica e smart farming 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica e smart farming nel tecnico agrario](README.md)
 
@@ -28,38 +30,59 @@ Prima riformata dal 2026/27. La proposta seguente si può adattare alla classe.
 
 ## Programma proposto per nuclei tematici
 
-Leggere unità e coordinate, confrontare misure di umidità del terreno e pioggia, distinguere campionamento e misura puntuale. Importare un semplice archivio, filtrare anomalie e rappresentare le osservazioni su mappa.
+**Prerequisiti e avvio.** Primo anno: nessun GIS o sensore programmabile già noto; coordinate introdotte attraverso esempi guidati.
 
-### Dati aziendali e territorio — 18 ore
+**Raccordo e progressione.** La lettura di mappe non equivale a un corso GIS completo; decisioni agronomiche affidate alle discipline di settore.
 
-- **10 ore** — Distinguere parcelle, colture, punti di misura e osservazioni nel tempo.
-- **8 ore** — Registrare unità, coordinate, date e fonti senza confondere una misura puntuale con la proprietà dell’intera parcella.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi sul quadro iniziale: 99 ore
 
-### Misure e foglio elettronico — 22 ore
+#### S1D1 · Informatica e smart farming — 99 ore
 
-- **12 ore** — Importare pioggia o umidità controllando separatori, decimali e valori mancanti.
-- **10 ore** — Calcolare riepiloghi e serie temporali, evidenziando anomalie senza eliminarle automaticamente.
+##### S1D1N1 · Fondamenti digitali — 22 ore
 
+- **8 ore** — Riconoscere hardware, sistema operativo, file e servizi nella gestione di un’azienda agraria.
+- **8 ore** — Organizzare cartelle e copie e usare documenti con stili e tabelle.
+- **6 ore** — Distinguere dati, formato, unità e qualità della fonte.
 
-### Mappe digitali — 22 ore
+##### S1D1N2 · Misure e foglio — 22 ore
 
-- **12 ore** — Distinguere punti, linee, poligoni e attributi in un progetto cartografico guidato.
-- **10 ore** — Associare misure a posizioni, costruendo legenda e scala e dichiarando il sistema di riferimento.
+- **8 ore** — Registrare pioggia, umidità, date e unità senza confondere campione e parcella.
+- **8 ore** — Importare dati, controllare anomalie e calcolare riepiloghi.
+- **6 ore** — Rappresentare serie temporali e confrontare valori con un controllo indipendente.
 
+##### S1D1N3 · Cartografia guidata — 22 ore
 
-### Relazione agraria — 22 ore
+- **8 ore** — Distinguere coordinate, sistema di riferimento e geometrie elementari.
+- **8 ore** — Caricare un progetto GIS predisposto e associare misure ai punti.
+- **6 ore** — Produrre mappa con legenda, scala e fonti senza pretendere analisi territoriale avanzata.
 
-- **12 ore** — Preparare una relazione con tabella, grafico e mappa, indicando i dati da cui derivano.
-- **10 ore** — Confrontare rappresentazioni alternative e precisare quali domande permettono di affrontare.
+##### S1D1N4 · Applicazione agraria — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Descrivere sensore, trasmissione e decisione in uno scenario di smart farming.
+- **6 ore** — Produrre un rapporto con tabella, grafico e mappa.
+- **6 ore** — Valutare dati mancanti, privacy, accessi e limiti del consiglio automatico.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi sul quadro iniziale: 99 ore | Informatica e smart farming | 86 | 13 | **99 ore** |
+
+**Totale Ipotesi sul quadro iniziale: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, profili A-1/A-3/A-6/A-7/A-8/A-9 e quadri iniziali C; limite di coordinamento DL 170 dichiarato sopra](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -83,3 +106,25 @@ Affiancare il manuale informatico al lessico agricolo, utilizzando serie pubblic
 - [QGIS, Training Manual 3.44 – Vector Attribute Data](https://docs.qgis.org/3.44/en/docs/training_manual/vector_classification/attribute_data.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Leggere unità e coordinate, confrontare misure di umidità del terreno e pioggia, distinguere campionamento e misura puntuale. Importare un semplice archivio, filtrare anomalie e rappresentare le osservazioni su mappa.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Distinguere parcelle, colture, punti di misura e osservazioni nel tempo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Registrare unità, coordinate, date e fonti senza confondere una misura puntuale con la proprietà dell’intera parcella. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Importare pioggia o umidità controllando separatori, decimali e valori mancanti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Calcolare riepiloghi e serie temporali, evidenziando anomalie senza eliminarle automaticamente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere punti, linee, poligoni e attributi in un progetto cartografico guidato. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Associare misure a posizioni, costruendo legenda e scala e dichiarando il sistema di riferimento. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare una relazione con tabella, grafico e mappa, indicando i dati da cui derivano. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare rappresentazioni alternative e precisare quali domande permettono di affrontare. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

@@ -24,43 +24,92 @@ L’intervallo riguarda questa disciplina, non l’intera area di indirizzo. La 
 
 Ricostruire i dati di un viaggio costiero e discutere l’affidabilità di due fonti di posizione.
 
+
+## Prerequisiti e progressione
+
+Carico, condizioni meteomarine e registrazioni del IV; verificare unità, tempi e interpretazione delle tabelle.
+
+**Esito atteso a fine anno:** Integrare piano, georeferenziazione e tracciabilità in un rapporto di attività simulata.
+
+Raccordo: [scheda dell’anno precedente](anno-04.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Le applicazioni avanzate restano introduttive o guidate: calcoli astronomici, radar, navigazione integrata, prestazioni, comunicazioni ed emergenze sono affrontati solo dove indicati nelle unità e su dati o simulatori didattici predisposti. Non si presume padronanza operativa né copertura certificata di STCW, requisiti aeronautici o titoli della pesca. Per tali percorsi serve una verifica separata del curricolo accreditato e dell’addestramento richiesto. I servizi e gli apparati sono studiati per comprendere la conduzione e segnalare anomalie; gli interventi specialistici di manutenzione restano fuori da questa scheda.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 132 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 132 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Ricostruzione dell'uscita simulata — 17 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie e tecniche di gestione e conduzione delle imbarcazioni da pesca | 114 | 18 | 132 |
 
-- **8 ore** — Ordinare partenza, spostamenti, soste e rientro con un riferimento temporale comune.
-- **9 ore** — Confrontare traccia storica e stima dichiarando periodi senza osservazioni.
+### D1 · Tecnologie e tecniche di gestione e conduzione delle imbarcazioni da pesca — 132 ore
 
-### Marea e corrente nel modello — 17 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **8 ore** — Interpretare una tavola didattica distinguendo altezza dell'acqua e velocità della corrente.
-- **9 ore** — Calcolare lo spostamento prodotto da una corrente assegnata e controllare unità e direzioni.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Documentazione e comunicazioni — 18 ore
+#### D1.1 · Navigazione e dati integrati — 18 ore
 
-- **8 ore** — Riunire informazioni meteorologiche, eventi e messaggi in un rapporto leggibile.
-- **10 ore** — Separare osservazioni dirette, dati ricevuti e interpretazioni dell'estensore.
+- **4 ore** — Confrontare carta, bussola e posizione satellitare.
+- **4 ore** — Riconoscere errori, ritardi e limiti dei dati.
+- **6 ore** — Ricostruire un percorso da registrazioni.
+- **4 ore** — Controllare informazioni con fonti indipendenti.
 
-### Valutazione della completezza — 16 ore
+#### D1.2 · Marea, corrente e carico — 24 ore
 
-- **7 ore** — Confrontare il rapporto con l'obiettivo iniziale e segnalare informazioni non recuperabili.
-- **9 ore** — Discutere il ruolo delle raccomandazioni FAO come materiale formativo, distinto dalle procedure italiane applicabili.
+- **4 ore** — Leggere tavole e grafici di marea predisposti.
+- **6 ore** — Stimare effetti sul percorso e sui tempi.
+- **8 ore** — Valutare interazione con fondali e distribuzione del carico.
+- **6 ore** — Esplicitare approssimazioni e dati mancanti.
 
-### Attività di laboratorio e applicazione — 38 ore
+#### D1.3 · Comunicazioni e ambiente — 24 ore
 
-- **11 ore** — Leggere una traccia storica e confrontarla con una posizione stimata.
-- **14 ore** — Interpretare una tavola di marea e stimare gli effetti di una corrente assegnata su un modello.
-- **13 ore** — Riunire tempi, mezzi, dati meteorologici e comunicazioni in un rapporto sul rientro in porto.
+- **4 ore** — Simulare comunicazioni ordinarie e segnalazione di anomalie.
+- **6 ore** — Analizzare ruoli in un’emergenza didattica.
+- **8 ore** — Collegare attività a gestione dei residui e tutela dell’ambiente.
+- **6 ore** — Distinguere responsabilità e documenti da consultare.
 
-### Verifiche, recupero e consolidamento — 26 ore
+#### D1.4 · Affidabilità del mezzo — 24 ore
 
-- **13 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **8 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **5 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Analizzare un registro di anomalie e manutenzioni.
+- **6 ore** — Confrontare consumi e condizioni di funzionamento su dati forniti.
+- **8 ore** — Coordinare controlli del mezzo con il piano dell’attività.
+- **6 ore** — Documentare limiti operativi e necessità di intervento qualificato.
 
-**Totale della proposta: 132 ore = 106 ore nei nuclei e nelle applicazioni + 26 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Rapporto e tracciabilità — 24 ore
+
+- **4 ore** — Organizzare dati georeferenziati e diario dell’uscita.
+- **6 ore** — Collegare registrazioni di bordo e flusso del prodotto.
+- **8 ore** — Verificare completezza, tempi e coerenza della documentazione.
+- **6 ore** — Presentare rapporto finale con limiti e correzioni.
+
+#### D1.6 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 132 ore = 114 ore nei nuclei e nelle applicazioni + 18 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Ricostruzione dell'uscita simulata.** Ordinare partenza, spostamenti, soste e rientro con un riferimento temporale comune. Confrontare traccia storica e stima dichiarando periodi senza osservazioni.
+
+**Marea e corrente nel modello.** Interpretare una tavola didattica distinguendo altezza dell'acqua e velocità della corrente. Calcolare lo spostamento prodotto da una corrente assegnata e controllare unità e direzioni.
+
+**Documentazione e comunicazioni.** Riunire informazioni meteorologiche, eventi e messaggi in un rapporto leggibile. Separare osservazioni dirette, dati ricevuti e interpretazioni dell'estensore.
+
+**Valutazione della completezza.** Confrontare il rapporto con l'obiettivo iniziale e segnalare informazioni non recuperabili. Discutere il ruolo delle raccomandazioni FAO come materiale formativo, distinto dalle procedure italiane applicabili.
+
+**Attività di laboratorio e applicazione.** Leggere una traccia storica e confrontarla con una posizione stimata. Interpretare una tavola di marea e stimare gli effetti di una corrente assegnata su un modello. Riunire tempi, mezzi, dati meteorologici e comunicazioni in un rapporto sul rientro in porto.
 
 ## Compito e verifica
 
@@ -88,3 +137,6 @@ Il quadro del professionale e il profilo di uscita orientano il percorso. Le ind
 - [Fishing Safety: Preparedness and prevention](https://www.fao.org/fishing-safety/risk-management/preparedness-and-prevention/en) — FAO; Controlli preparatori, informazione meteorologica, comunicazione e stabilità.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

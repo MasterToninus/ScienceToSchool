@@ -21,63 +21,110 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Convalidare un modello.** Nel 2026/27 vale la [direttiva 4/2012](https://www.gazzettaufficiale.it/eli/id/2012/03/30/12A03290/sg), con obiettivi distinti per articolazione. La scansione delle unità e la prova seguente sono proposte redazionali.
 
-## Programma proposto: rami alternativi per articolazione
+## Prerequisiti, sequenza e sostenibilità
 
-**Ripartizione Tentative generata dall’IA.** Ogni percorso usa **20 ore di contenuti + 8 ore di progetto + 5 ore di verifiche e recupero = 33 ore**. Informatica combina 12 ore di segnali con 8 di algoritmo; Elettronica usa 20 ore di segnali. Meccanica/CAT, Agraria/Chimica/Moda, Navigazione, Logistica e Grafica scelgono il rispettivo ramo da 20 ore. Navigazione e Logistica non si sommano. Il progetto è distinto dalle esercitazioni guidate dei nuclei. Nessun tempo per singolo tema è prescritto dalle fonti. Il successivo percorso di lavoro e il compito di verifica sono modalità di attuazione delle stesse ore, non ulteriori moduli.
+Scegliere **un solo ramo** coerente con l’articolazione. Le 33 h sono aggiuntive alle 99 h di Matematica, ma non possono ripeterne integralmente il corso. Concordare la sequenza: trigonometria prima di complessi/Fourier; derivate prima di differenziali; integrali prima di equazioni differenziali e integrali curvilinei; distribuzioni prima dell’inferenza. Per i rami che ne hanno bisogno anticipare i prerequisiti di Matematica entro le sue ore, senza doppi conteggi. In quarta i moduli di analisi vanno quindi nel secondo periodo dell’anno.
 
-### Segnali e modelli discreti
+Ogni ramo offre una copertura introduttiva, con pochi casi guidati e 6 h di verifica/recupero: non certifica padronanza di tutte le tecniche elencate nelle Linee guida. Per Trasporti e Meccanica/CAT il carico resta impegnativo e richiede raccordo esplicito fra i due insegnamenti; se questo manca, il piano non è attuabile così com’è. [Confronto dei 21 estratti e limiti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
 
-**Subtotale: 20 h Elettronica / 12 h Informatica.**
+## Programma proposto per nuclei tematici
 
-- **10 h Elettronica / 6 h Informatica** — In Informatica ed Elettronica confrontare un segnale periodico con una somma finita di armoniche, spiegando ampiezza e fase.
-- **10 h Elettronica / 6 h Informatica** — Associare al calcolo un grafico e discutere campionamento e approssimazione; non estendere automaticamente il nucleo a ogni indirizzo.
+**Ripartizione Tentative generata dall’IA: 33 ore per il ramo selezionato.** 27 h di contenuti, esercitazione e applicazioni + 6 h di prove e recupero. I rami sono alternativi. I primi gruppi valgono per le coorti previgenti; per le nuove coorti verificare il quadro sopra e usare soltanto i rami ammessi.
 
-### Variazione e modelli a più parametri
+### Meccanica, meccatronica ed energia; CAT e Geotecnico
 
-**Subtotale: 20 h se selezionato.**
+**Subtotale: 27 h nel ramo selezionato.**
 
-- **10 h nel ramo** — In Meccanica e nei rami pertinenti confrontare variazione rispetto a un parametro e variazione totale.
-- **10 h nel ramo** — Studiare un modello differenziale elementare con condizioni iniziali e controllare una soluzione; adeguare il formalismo al percorso svolto in Matematica.
+- **6 h nel ramo** — Dopo le derivate, usare derivate parziali e differenziale totale su una funzione semplice di due variabili.
+- **4 h nel ramo** — Applicare il differenziale alla propagazione di piccoli errori e confrontarlo con un calcolo diretto.
+- **6 h nel ramo** — Dopo gli integrali, interpretare e risolvere un’equazione differenziale lineare elementare con dato iniziale.
+- **4 h nel ramo** — Applicare l’integrale definito a un caso tecnico, per esempio lavoro o risultante distribuita; per CAT scegliere un caso coerente con il profilo.
+- **7 h nel ramo** — Dopo distribuzioni e campionamento, confrontare una stima e un test guidato, dichiarando ipotesi e limiti.
 
-### Statistica per agraria, chimica e moda
+### Trasporti e logistica — Costruzione, Conduzione e Logistica
 
-**Subtotale: 20 h se selezionato.**
+**Subtotale: 27 h nel ramo selezionato.**
 
-- **10 h nel ramo** — Distinguere popolazione, campione, stimatore e variabilità della stima.
-- **10 h nel ramo** — Costruire un confronto fra campioni; introdurre un intervallo o un test soltanto dopo aver discusso modello, ipotesi e numerosità.
+- **4 h nel ramo** — Usare derivate parziali e differenziale totale dopo la derivata in Matematica.
+- **4 h nel ramo** — Interpretare e risolvere una semplice equazione differenziale con dato iniziale dopo l’integrale.
+- **4 h nel ramo** — Introdurre un integrale curvilineo tramite una curva parametrica e un esempio tecnico elementare, senza un corso di analisi vettoriale.
+- **3 h nel ramo** — Confrontare quadrature numeriche e un risultato esatto, esplicitando passo ed errore.
+- **6 h nel ramo** — Confrontare decisioni in rischio e modelli di scorte; riprendere PERT o programmazione lineare sul medesimo caso.
+- **6 h nel ramo** — Costruire un intervallo o un test guidato su media/proporzione dopo le distribuzioni; comunicare l’incertezza della decisione.
 
-### Trasporti e logistica
+### Elettronica, Elettrotecnica e Automazione
 
-**Subtotale: 20 h: un solo punto secondo l’articolazione.**
+**Subtotale: 27 h nel ramo selezionato.**
 
-- **20 h Navigazione, alternativo al punto seguente** — Applicare il modello geometrico pertinente a un percorso e confrontare risultato e approssimazione numerica.
-- **20 h Logistica, alternativo al punto precedente** — In Logistica scegliere un problema di scorte, programmazione lineare o rete di attività; discutere vincoli, incertezza e sensibilità della decisione.
+- **9 h nel ramo** — Approssimare un segnale con poche armoniche e interpretare ampiezza, fase e grafico; calcolare coefficienti solo dopo gli integrali, se pertinenti al caso scelto.
+- **6 h nel ramo** — Usare derivate parziali e differenziale totale su un modello tecnico dopo le derivate di Matematica.
+- **8 h nel ramo** — Simulare distribuzioni campionarie, costruire una stima e un test guidato dopo media, varianza e modelli di probabilità.
+- **4 h nel ramo** — Realizzare un controllo di qualità su dati, separando soglia tecnica e incertezza statistica.
 
-### Grafica e informatica: leggere dati e algoritmi
+### Informatica e Telecomunicazioni
 
-**Subtotale: 20 h Grafica / 8 h Informatica.**
+**Subtotale: 27 h nel ramo selezionato.**
 
-- **20 h Grafica** — Grafica: progettare un campionamento su dati di produzione o comunicazione e valutarne i limiti.
-- **8 h Informatica** — Informatica: implementare un algoritmo statistico o numerico con casi di controllo e documentazione dei parametri.
+- **6 h nel ramo** — Rappresentare una somma finita di armoniche dopo la trigonometria; confrontare campionamento e approssimazione.
+- **5 h nel ramo** — Usare derivate parziali e differenziale totale in un modello semplice dopo la derivata in Matematica.
+- **5 h nel ramo** — Formalizzare un problema discreto di ricerca operativa e verificarlo su un caso piccolo.
+- **7 h nel ramo** — Trattare distribuzioni campionarie, stima e un test guidato dopo le distribuzioni di probabilità.
+- **4 h nel ramo** — Implementare l’algoritmo statistico del caso scelto; verificare ipotesi, risultato e sensibilità ai dati.
 
-### Progetto di raccordo con le discipline tecniche
+### Grafica e comunicazione
 
-**Subtotale: 8 h comuni.**
+**Subtotale: 27 h nel ramo selezionato.**
 
-- **4 h** — Scegliere un problema dell’articolazione e motivare perché gli strumenti usati sono adatti.
-- **4 h** — Separare dati, modello, calcolo e interpretazione; confrontare il risultato con una verifica indipendente o un caso limite.
+- **6 h nel ramo** — Distinguere popolazione e campione; progettare un’indagine e identificare distorsioni di selezione.
+- **8 h nel ramo** — Raccogliere e pulire dati simulati o anonimi su soddisfazione e qualità di un prodotto o servizio.
+- **6 h nel ramo** — Confrontare frequenze, indici e variabilità, distinguendo descrizione del campione e generalizzazione.
+- **7 h nel ramo** — Costruire una restituzione grafica accessibile e controllare scale, leggibilità e coerenza delle conclusioni.
 
-### Verifiche e recupero
+### Chimica e materiali; Biotecnologie ambientali e sanitarie
 
-- **5 h** — Compito conclusivo, restituzione degli errori e recupero mirato.
+**Subtotale: 27 h nel ramo selezionato.**
+
+- **6 h nel ramo** — Dopo il nucleo integrale di Matematica, integrare una funzione elementare di interesse chimico e interpretare il totale.
+- **5 h nel ramo** — Usare una semplice equazione differenziale di processo con dato iniziale, verificando la soluzione.
+- **5 h nel ramo** — Calcolare derivate parziali e differenziale totale su un modello a due parametri.
+- **7 h nel ramo** — Dopo le distribuzioni, costruire stime e intervalli della media o della proporzione.
+- **4 h nel ramo** — Interpretare un test guidato di efficacia di prodotto o servizio con ipotesi e limiti espliciti.
+
+### Sistema moda — Tessile/abbigliamento e Calzature
+
+**Subtotale: 27 h nel ramo selezionato.**
+
+- **3 h nel ramo** — Definire campione, parametro e stimatore e riconoscere distorsioni della selezione.
+- **5 h nel ramo** — Simulare il teorema del limite centrale e distinguere variabilità dei dati e della media campionaria.
+- **9 h nel ramo** — Costruire intervalli per la media per grandi campioni e casi guidati con t di Student, esplicitando le ipotesi.
+- **6 h nel ramo** — Interpretare un test di significatività per la media, senza confondere significatività ed effetto pratico.
+- **4 h nel ramo** — Documentare una piccola indagine su qualità o soddisfazione e discuterne la trasferibilità.
+
+### Agraria — Produzioni, Gestione ambiente, Viticoltura
+
+**Subtotale: 27 h nel ramo selezionato.**
+
+- **12 h nel ramo** — Costruire rendite, accumulazioni, capitalizzazione e ammortamenti mediante un foglio di calcolo, controllando tempi e tassi.
+- **4 h nel ramo** — Distinguere popolazione, campione e distribuzione di uno stimatore.
+- **6 h nel ramo** — Costruire stime e intervalli dopo i modelli probabilistici di Matematica.
+- **5 h nel ramo** — Interpretare un test su media/proporzione per efficacia di un prodotto o servizio, con assunzioni e limiti.
+
+### Verifiche, restituzione e recupero
+
+**Subtotale: 6 h comuni al ramo scelto.**
+
+- **3 h** — Prova di applicazione e restituzione, con controllo indipendente del risultato.
+- **3 h** — Diagnosi dei prerequisiti, recupero e correzione di un errore significativo.
+
+**Totale del piano: 33 h.** Il progetto applicativo è svolto nei moduli del ramo e non aggiunge ore.
 
 ## Percorso di lavoro
 
-Le applicazioni seguenti sono alternative da selezionare con i docenti di indirizzo, verificando l’allegato della propria articolazione. In particolare, geometria e superfici per Grafica/Moda e modelli differenziali per CAT non sono qui attestati come requisiti uniformi di tutti questi percorsi.
+Le applicazioni seguenti sono alternative da selezionare con i docenti di indirizzo, verificando l’allegato della propria articolazione. La verifica dei 21 estratti distingue ora geometria grafica per Grafica, geometria spaziale per Moda e differenziali/equazioni differenziali per CAT: non sono intercambiabili. Gli esempi non esauriscono il ramo completo riportato sopra.
 
 ### Primo gruppo di indirizzi
 
-- **Obiettivi osservabili:** Elettronica e Informatica. confrontare un segnale periodico con somme di armoniche. Meccanica e CAT: discutere un’equazione differenziale o una sensibilità a due parametri.
+- **Obiettivi osservabili:** Elettronica e Informatica. confrontare un segnale periodico con somme di armoniche. Meccanica e CAT: discutere un’equazione differenziale e una sensibilità a due parametri, nei rispettivi moduli e dopo i prerequisiti.
 
 ### Secondo gruppo di indirizzi
 

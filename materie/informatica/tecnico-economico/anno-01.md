@@ -19,9 +19,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: TIC, quadro iniziale DM 29†: 66 ore.
+- **Unico**: 66 = **66 ore**; Tecnologie dell’informazione e della comunicazione 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica negli istituti tecnici economici](README.md)
 
@@ -29,38 +31,55 @@ Prima riformata dal 2026/27. La proposta seguente si può adattare alla classe.
 
 ## Programma proposto per nuclei tematici
 
-Gestire file e versioni, distinguere dato e formato. Preparare un documento commerciale con stili e un foglio con formule, riferimenti e controlli.
+**Prerequisiti e avvio.** Prima: percentuali e gestione elementare dei file. Seconda: formule, documenti e riferimenti dalla prima.
 
-### Ambiente digitale — 12 ore
+**Raccordo e progressione.** Per AFM usare ordini e vendite; per Turismo prenotazioni e stagionalità. In terza AFM/RIM/SIA cambiano disciplina e approfondimento.
 
-- **7 ore** — Distinguere hardware, programmi e servizi attraverso il percorso di un documento aziendale.
-- **5 ore** — Organizzare file e versioni, riconoscendo formati ed esportazioni utilizzabili dal destinatario.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Documenti e presentazioni — 15 ore
+#### S1D1 · Tecnologie dell’informazione e della comunicazione — 66 ore
 
-- **8 ore** — Creare una lettera o scheda informativa con stili, tabella e intestazione coerenti.
-- **7 ore** — Preparare una presentazione basata su dati, citando fonti e adattando linguaggio e impaginazione al pubblico.
+##### S1D1N1 · Ambiente digitale — 12 ore
 
+- **6 ore** — Riconoscere dispositivi, sistema operativo, applicazioni e servizi mediante un documento di lavoro.
+- **6 ore** — Organizzare cartelle, nomi, versioni e copie; provare riapertura ed esportazione.
 
-### Foglio elettronico — 15 ore
+##### S1D1N2 · Documenti professionali — 14 ore
 
-- **8 ore** — Impostare quantità, prezzi e tempi con formule e riferimenti relativi o assoluti.
-- **7 ore** — Applicare percentuali e totali a dati simulati, verificando l’effetto della copia delle formule.
+- **8 ore** — Redigere una lettera, scheda o ordine con stili, tabella e immagini attribuite.
+- **6 ore** — Preparare una presentazione sintetica per un destinatario e controllarne accessibilità iniziale.
 
+##### S1D1N3 · Foglio elettronico — 18 ore
 
-### Ricerca e condivisione — 14 ore
+- **8 ore** — Inserire quantità, unità, date e prezzi distinguendo valore e formato.
+- **10 ore** — Usare formule, riferimenti relativi e assoluti, percentuali e totali con controllo indipendente.
 
-- **8 ore** — Confrontare fonti su un prodotto distinguendo autore, data, evidenza e comunicazione promozionale.
-- **6 ore** — Usare dati fittizi e discutere i permessi di lettura, modifica e condivisione di un documento.
+##### S1D1N4 · Comunicazione e protezione — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Cercare una fonte, riconoscerne autore e data e confrontarla con una seconda evidenza.
+- **6 ore** — Simulare messaggio e condivisione con ruoli; usare dati sintetici e spiegare credenziali, licenze e riservatezza.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Tecnologie dell’informazione e della comunicazione | 56 | 10 | **66 ore** |
+
+**Totale Unico: 66 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, profili A-1/A-3/A-6/A-7/A-8/A-9 e quadri iniziali C; limite di coordinamento DL 170 dichiarato sopra](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -83,3 +102,25 @@ Selezionare i nuclei di gestione di file, testi e fogli. Esempi da adattare al s
 - [The Document Foundation, Calc Guide 7.2 – Formulas and Functions](https://books.libreoffice.org/en/CG72/CG7207-FormulasAndFunctions.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Gestire file e versioni, distinguere dato e formato. Preparare un documento commerciale con stili e un foglio con formule, riferimenti e controlli.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Distinguere hardware, programmi e servizi attraverso il percorso di un documento aziendale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare file e versioni, riconoscendo formati ed esportazioni utilizzabili dal destinatario. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Creare una lettera o scheda informativa con stili, tabella e intestazione coerenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare una presentazione basata su dati, citando fonti e adattando linguaggio e impaginazione al pubblico. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Impostare quantità, prezzi e tempi con formule e riferimenti relativi o assoluti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Applicare percentuali e totali a dati simulati, verificando l’effetto della copia delle formule. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare fonti su un prodotto distinguendo autore, data, evidenza e comunicazione promozionale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare dati fittizi e discutere i permessi di lettura, modifica e condivisione di un documento. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

@@ -29,42 +29,83 @@ Il nuovo piano prevede il Laboratorio di tecniche creative per il tessile/moda. 
 
 Nella seconda 2026/27 il piano precedente prevede Scienze e tecnologie applicate. [DM 259/2017, tabella A](https://www.unife.it/it/corsi/formazione-insegnanti/30-e-60-cfu/documenti-60-30-cfu_2025/dm-259_17_tabella-a.pdf).
 
+
+## Prerequisiti e progressione
+
+Componenti, misure e materiali del I; recuperare differenze del biennio previgente prima della sagoma.
+
+**Esito atteso a fine anno:** Confrontare materiali e realizzare un prototipo cartaceo controllando accoppiamenti e misure.
+
+Raccordo: [scheda dell’anno precedente](anno-01.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 99 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 99 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Proprietà dei campioni — 12 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze e tecnologie applicate | 84 | 15 | 99 |
 
-- **5 ore** — Confrontare rigidità, spessore e cedevolezza secondo la direzione su campioni numerati.
-- **7 ore** — Descrivere condizioni e limiti della prova manuale evitando di presentarla come test certificato.
+### D1 · Scienze e tecnologie applicate — 99 ore
 
-### Accoppiamento dei materiali — 15 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **7 ore** — Motivare l'abbinamento di tomaia e fodera per una funzione assegnata.
-- **8 ore** — Indicare dati ulteriori necessari per valutare durata, manutenzione o comportamento all'umidità.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Sagoma e sviluppo in piano — 15 ore
+#### D1.1 · Materiali e proprietà — 18 ore
 
-- **7 ore** — Rilevare un contorno, riportarlo in scala e verificare simmetrie e punti di riferimento.
-- **8 ore** — Distinguere linea di stile, contorno di taglio e margini di assemblaggio.
+- **4 ore** — Classificare pelli, tessuti e materiali sintetici da schede.
+- **4 ore** — Confrontare flessibilità, spessore e superficie.
+- **6 ore** — Collegare proprietà e componente.
+- **4 ore** — Documentare prove osservative e limiti.
 
-### Prototipo di carta — 13 ore
+#### D1.2 · Filiera e accoppiamenti — 21 ore
 
-- **6 ore** — Assemblare il modello con tecniche sicure concordate nel laboratorio.
-- **7 ore** — Documentare sovrapposizioni e disallineamenti correggendo il disegno prima di ripetere la prova.
+- **4 ore** — Ricostruire taglio, preparazione, orlatura e montaggio.
+- **5 ore** — Confrontare fodere, rinforzi, fondi e accessori.
+- **6 ore** — Leggere compatibilità dei materiali senza prove chimiche improprie.
+- **6 ore** — Riconoscere rischi e controlli delle lavorazioni.
 
-### Attività di laboratorio e applicazione — 24 ore
+#### D1.3 · Sagoma e sviluppo — 21 ore
 
-- **11 ore** — Confrontare rigidità, spessore e direzioni di maggiore cedevolezza di campioni. Scegliere materiali di tomaia e fodera motivandone l’abbinamento.
-- **13 ore** — Rilevare i contorni di una sagoma e riprodurli in scala. Separare linea di stile e bordo necessario all’assemblaggio di un semplice modello didattico.
+- **4 ore** — Rilevare misure e simmetrie di un modello semplice.
+- **5 ore** — Trasferire un volume in sagome guidate.
+- **6 ore** — Indicare margini, riferimenti e accoppiamenti.
+- **6 ore** — Verificare corrispondenze fra pezzi.
 
-### Verifiche, recupero e consolidamento — 20 ore
+#### D1.4 · Prototipo e scheda — 24 ore
 
-- **10 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **6 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **4 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Assemblare un prototipo di carta.
+- **6 ore** — Confrontare risultato e disegno.
+- **8 ore** — Correggere interferenze e misure.
+- **6 ore** — Consegnare scheda, sagome e motivazione delle scelte.
 
-**Totale della proposta: 99 ore = 79 ore nei nuclei e nelle applicazioni + 20 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 99 ore = 84 ore nei nuclei e nelle applicazioni + 15 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Proprietà dei campioni.** Confrontare rigidità, spessore e cedevolezza secondo la direzione su campioni numerati. Descrivere condizioni e limiti della prova manuale evitando di presentarla come test certificato.
+
+**Accoppiamento dei materiali.** Motivare l'abbinamento di tomaia e fodera per una funzione assegnata. Indicare dati ulteriori necessari per valutare durata, manutenzione o comportamento all'umidità.
+
+**Sagoma e sviluppo in piano.** Rilevare un contorno, riportarlo in scala e verificare simmetrie e punti di riferimento. Distinguere linea di stile, contorno di taglio e margini di assemblaggio.
+
+**Prototipo di carta.** Assemblare il modello con tecniche sicure concordate nel laboratorio. Documentare sovrapposizioni e disallineamenti correggendo il disegno prima di ripetere la prova.
+
+**Attività di laboratorio e applicazione.** Confrontare rigidità, spessore e direzioni di maggiore cedevolezza di campioni. Scegliere materiali di tomaia e fodera motivandone l’abbinamento. Rilevare i contorni di una sagoma e riprodurli in scala. Separare linea di stile e bordo necessario all’assemblaggio di un semplice modello didattico.
 
 ## Prova di apprendimento
 
@@ -85,3 +126,6 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida pre
 - [Progettazione tecnica capo calzaturiero, repertorio Lazio](https://www.inapp.gov.it/atlantelavoro/competenza/?id_uc=27973) — INAPP, Atlante del Lavoro; Risultati attesi RA1/RA2 e scheda tecnica del modello.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie della calzatura](../../../docs/ricerca-ai/fonti-programmi/tecnologie-della-calzatura.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

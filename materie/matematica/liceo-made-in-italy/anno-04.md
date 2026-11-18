@@ -20,57 +20,59 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Crescita e rischio.** Gli obiettivi di matematica sono nell’[allegato 2 al DPR 222/2024](https://www.gazzettaufficiale.it/eli/id/2025/02/19/25G00020/SG). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva. Le unità nuove vanno svolte nell’ordine dei prerequisiti indicati nei punti. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (percorso della scheda). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
 ### Esponenziali e logaritmi
 
-**Subtotale: 16 h.**
-
-- **5 h** — Interpretare base, esponente e condizioni del logaritmo; confrontare crescita e decadimento.
-- **6 h** — Risolvere equazioni e disequazioni elementari rispettando domini e monotonia.
-- **5 h** — Stimare un tempo di raddoppio o dimezzamento e discutere per quali intervalli il modello descrive i dati.
-
-### Trigonometria e fenomeni periodici
-
 **Subtotale: 17 h.**
 
-- **5 h** — Passare fra gradi e radianti e leggere seno, coseno e tangente sulla circonferenza goniometrica.
-- **7 h** — Risolvere triangoli e semplici equazioni goniometriche; scegliere formule e teoremi in relazione al problema.
-- **5 h** — Modellizzare un segnale periodico indicando ampiezza, periodo e fase, senza confondere il modello con la misura.
+- **6 h** — Costruire esponenziale e logaritmo come funzioni inverse, precisando domini, basi e monotonia.
+- **6 h** — Risolvere equazioni e disequazioni semplici, confrontando forma simbolica e grafico; usare anche scale semilogaritmiche.
+- **5 h** — Studiare crescita, decadimento e tempi di raddoppio; introdurre il numero e e i limiti di un modello ricavato da dati.
 
-### Calcolo combinatorio e probabilità condizionata
+### Trigonometria e modelli periodici
 
-**Subtotale: 13 h.**
+**Subtotale: 19 h.**
 
-- **4 h** — Scegliere tra disposizioni, permutazioni e combinazioni spiegando ruolo dell'ordine e delle ripetizioni.
-- **5 h** — Calcolare probabilità condizionate, probabilità totale e semplici casi di Bayes mediante un albero o una tabella.
-- **4 h** — Distinguere indipendenza e incompatibilità e valutare l'effetto delle frequenze di base sull'interpretazione di un risultato.
+- **6 h** — Passare da gradi a radianti, definire seno, coseno e tangente e leggere ampiezza, periodo e fase.
+- **7 h** — Usare identità fondamentali, formule di addizione e duplicazione e risolvere equazioni goniometriche semplici.
+- **6 h** — Applicare teoremi dei seni e del coseno a triangoli e problemi di misura; controllare il risultato con stima e disegno.
 
-### Dati a due variabili e modelli
+### Conteggio e probabilità condizionata
 
-**Subtotale: 10 h.**
+**Subtotale: 15 h.**
 
-- **3 h** — Costruire distribuzioni congiunte, marginali e condizionate e diagrammi di dispersione.
-- **4 h** — Calcolare indicatori di dispersione e confrontare una retta di regressione con i residui dei dati.
-- **3 h** — Distinguere associazione, causalità ed estrapolazione; indicare quali altre informazioni servirebbero per sostenere una spiegazione.
+- **7 h** — Motivare permutazioni, disposizioni e combinazioni, anche mediante il binomio di Newton; evitare il solo riconoscimento meccanico di formule.
+- **8 h** — Usare probabilità condizionata, totale e Bayes con alberi e tabelle; distinguere indipendenza e incompatibilità e discutere frequenze di base.
 
-### Campionamento e inferenza introduttiva
-
-**Subtotale: 13 h.**
-
-- **4 h** — Distinguere popolazione, campione, parametro e stima; riconoscere selezione distorta e non risposta.
-- **5 h** — Simulare campioni ripetuti e osservare la variabilità della media o della proporzione campionaria.
-- **4 h** — Interpretare un intervallo di stima con le sue ipotesi; nei percorsi pertinenti introdurre il confronto con un'ipotesi nulla senza automatismi decisionali.
-
-### Grafi e reti di relazioni
+### Dati bivariati e modelli
 
 **Subtotale: 10 h.**
 
-- **3 h** — Rappresentare luoghi, attività o relazioni mediante nodi e archi, precisando se il grafo è orientato e pesato.
-- **4 h** — Riconoscere connessione e percorsi e discutere la differenza fra passare per tutti gli archi e per tutti i nodi.
-- **3 h** — Confrontare due reti con un piccolo problema logistico o produttivo e motivare i limiti della rappresentazione.
+- **5 h** — Applicare gli indici e le tabelle bivariate acquisiti in terza a un nuovo dataset; confrontare sottogruppi e possibili distorsioni, senza ripetere l’intero nucleo introduttivo.
+- **5 h** — Confrontare due modelli sui medesimi dati e su dati di controllo; usare residui e discussione delle ipotesi per motivare la scelta, distinguendo interpolazione e previsione.
+
+### Variabili aleatorie e distribuzioni
+
+**Subtotale: 10 h.**
+
+- **5 h** — Associare una variabile discreta agli esiti; calcolare valore atteso e varianza e interpretare un gioco equo.
+- **5 h** — Studiare binomiale e normale: verificare ipotesi, confrontare distribuzione discreta e area di probabilità e usare simulazioni.
+
+### Grafi e procedure
+
+**Subtotale: 8 h.**
+
+- **4 h** — Rappresentare nodi, archi, connessione e pesi; distinguere cammino e circuito euleriano da un percorso che visita i nodi.
+- **4 h** — Risolvere un piccolo problema di rete con un algoritmo verificabile; motivare la scelta e i limiti della rappresentazione.
 
 ### Declinazione per il percorso
 
@@ -80,10 +82,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

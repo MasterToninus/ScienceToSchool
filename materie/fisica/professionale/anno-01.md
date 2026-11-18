@@ -35,12 +35,19 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per la componente fisica delle Scienze integrate: selezionare le unità in base all’indirizzo, al progetto formativo e alla distribuzione locale del biennio; non si presume un monte ore separato uniforme.
 
+**Prerequisiti e progressione.** In ingresso: operazioni, proporzioni ed equivalenze; formule e grafici sono costruiti su un caso del laboratorio d’indirizzo. I 33 periodi ipotizzati consentono un’introduzione selettiva, non il programma completo di ogni professionale. Il consiglio di classe verifica i nuclei necessari al proprio profilo. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le ore della quota integrata sono ipotesi del progetto e non certificano il completo curricolo di Scienze sperimentali/integrate. Un solo caso operativo collega raccolta, grafici e relazione; le attività finali riutilizzano quei dati. La riserva copre prova individuale, restituzione e recupero, senza sommare un nuovo progetto.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Strumenti e procedura di misura
 
 **Subtotale del nucleo: 6 ore.**
 
 - **3 ore.** Scegliere portata e risoluzione per lunghezze, masse, volumi, temperature e tempi pertinenti al laboratorio d’indirizzo; distinguere la sensibilità dello strumento dalla più piccola variazione leggibile.
 - **3 ore.** Ripetere una misura e registrare unità, condizioni e scarti; riconoscere letture anomale e possibili errori sistematici.
+
 
 ### Materiali e densità
 
@@ -49,6 +56,7 @@ Proposta per la componente fisica delle Scienze integrate: selezionare le unità
 - **3 ore.** Calcolare densità di campioni regolari e irregolari e confrontare massa, volume e ingombro.
 - **3 ore.** Leggere una scheda tecnica, separando proprietà del materiale, condizioni di prova e tolleranze dichiarate.
 
+
 ### Forze, pressione e uso dei materiali
 
 **Subtotale del nucleo: 6 ore.**
@@ -56,12 +64,14 @@ Proposta per la componente fisica delle Scienze integrate: selezionare le unità
 - **3 ore.** Distinguere massa e peso e riconoscere forze di contatto e attrito in semplici attrezzature.
 - **3 ore.** Calcolare pressione come forza su superficie e descrivere pressione nei liquidi e galleggiamento in un caso pertinente al settore.
 
+
 ### Temperatura e trasformazioni
 
 **Subtotale del nucleo: 5 ore.**
 
 - **3 ore.** Leggere una curva di riscaldamento o raffreddamento e riconoscere equilibrio termico e passaggi di stato.
-- **2 ore.** Confrontare materiali mediante calore specifico, dilatazione e modalità di trasferimento del calore, scegliendo la profondità adeguata alla classe.
+- **2 ore.** Usare un calore specifico fornito in un bilancio guidato e riconoscere il principale meccanismo di scambio del caso scelto. Dilatazione e confronto completo conduzione/convezione/irraggiamento sono alternative di approfondimento entro queste ore.
+
 
 ### Dati per una decisione operativa
 

@@ -25,11 +25,13 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **AFM**: AFM, quadro previgente: Informatica 66 ore.
-- **RIM**: RIM, quadro previgente: Tecnologie della comunicazione 66 ore.
-- **SIA**: SIA, quadro previgente: Informatica 132 ore.
+- **AFM**: 66 = **66 ore**; Informatica 66 ore.
+- **RIM**: 66 = **66 ore**; Tecnologie della comunicazione 66 ore.
+- **SIA**: 132 = **132 ore**; Informatica — SIA 132 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica negli istituti tecnici economici](README.md)
 
@@ -37,40 +39,133 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-AFM: flussi informativi, anagrafiche e documenti di gestione. RIM: messaggi per destinatari e mercati diversi, contenuti web e formati. SIA: algoritmi, selezioni e cicli su dati gestionali.
+**Prerequisiti e avvio.** Strumenti digitali, dati e algoritmi del biennio. Per SIA consolidare scelta, cicli e test prima di funzioni e archivi; AFM/RIM introducono DBMS con guida.
 
-### Processi informativi — AFM: 17 ore; RIM: 16 ore; SIA: 34 ore
+**Raccordo e progressione.** AFM e RIM concludono la disciplina in quarta; SIA in quinta integra database e Web con organizzazione aziendale, servizi e sicurezza.
 
-- **AFM: 9 ore; RIM: 8 ore; SIA: 17 ore** — Rappresentare attività, documenti e dati del processo commerciale fra reparti e soggetti esterni.
-- **AFM: 8 ore; RIM: 8 ore; SIA: 17 ore** — Individuare ridondanze, responsabilità di aggiornamento e controlli necessari sulle anagrafiche.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — AFM
 
-### Variante AFM — AFM: 39 ore; RIM: 0 ore; SIA: 0 ore
+#### S1D1 · Informatica — 66 ore
 
-- **AFM: 22 ore; RIM: 0 ore; SIA: 0 ore** — Organizzare anagrafiche e operazioni in tabelle collegate, producendo filtri e riepiloghi gestionali.
-- **AFM: 17 ore; RIM: 0 ore; SIA: 0 ore** — Confrontare archivio strutturato e documenti separati, descrivendo gli errori da prevenire.
+##### S1D1N1 · Sistema informativo — 12 ore
 
+- **6 ore** — Rappresentare ruoli, processi e flussi informativi in un’impresa simulata.
+- **6 ore** — Distinguere sistema informativo, sistema informatico e software gestionale.
 
-### Variante RIM — AFM: 0 ore; RIM: 40 ore; SIA: 0 ore
+##### S1D1N2 · Archivi e interrogazioni — 18 ore
 
-- **AFM: 0 ore; RIM: 20 ore; SIA: 0 ore** — Preparare informazioni per destinatari internazionali, gestendo lingua, codifiche, date e valute dichiarate.
-- **AFM: 0 ore; RIM: 20 ore; SIA: 0 ore** — Progettare una comunicazione web leggibile distinguendo traduzione linguistica e adattamento al destinatario.
+- **8 ore** — Modellare clienti, prodotti e ordini con chiavi e relazioni.
+- **10 ore** — Creare tabelle, filtri e prime query con un DBMS e verificare dati e vincoli.
 
+##### S1D1N3 · Comunicazione digitale — 14 ore
 
-### Variante SIA — AFM: 0 ore; RIM: 0 ore; SIA: 78 ore
+- **8 ore** — Progettare un ipertesto e una pagina Web con struttura e collegamenti.
+- **6 ore** — Adattare contenuti, formati e lessico al destinatario, distinguendo archivio interno e pubblicazione.
 
-- **AFM: 0 ore; RIM: 0 ore; SIA: 39 ore** — Formalizzare algoritmi per dati aziendali mediante variabili, selezioni, cicli e funzioni.
-- **AFM: 0 ore; RIM: 0 ore; SIA: 39 ore** — Scrivere programmi con controlli e casi di prova, collegando ogni risultato a un requisito.
+##### S1D1N4 · Applicazione e responsabilità — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Elaborare dati gestionali in un foglio o applicativo con risultati controllabili.
+- **6 ore** — Documentare diritti, riservatezza, accessibilità iniziale e sicurezza nella comunicazione.
 
-- **AFM: 10 ore; RIM: 10 ore; SIA: 20 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| AFM | 56 | 10 | **66 ore** |
-| RIM | 56 | 10 | **66 ore** |
-| SIA | 112 | 20 | **132 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Scenario 2 — RIM
+
+#### S2D1 · Tecnologie della comunicazione — 66 ore
+
+##### S2D1N1 · Sistema informativo — 12 ore
+
+- **6 ore** — Rappresentare ruoli, processi e flussi informativi in un’impresa simulata.
+- **6 ore** — Distinguere sistema informativo, sistema informatico e software gestionale.
+
+##### S2D1N2 · Archivi e interrogazioni — 18 ore
+
+- **8 ore** — Modellare clienti, prodotti e ordini con chiavi e relazioni.
+- **10 ore** — Creare tabelle, filtri e prime query con un DBMS e verificare dati e vincoli.
+
+##### S2D1N3 · Comunicazione digitale — 14 ore
+
+- **8 ore** — Progettare un ipertesto e una pagina Web con struttura e collegamenti.
+- **6 ore** — Adattare contenuti, formati e lessico al destinatario e al mercato internazionale, raccordandosi alle lingue.
+
+##### S2D1N4 · Applicazione e responsabilità — 12 ore
+
+- **6 ore** — Elaborare dati gestionali in un foglio o applicativo con risultati controllabili.
+- **6 ore** — Documentare diritti, riservatezza, accessibilità iniziale e sicurezza nella comunicazione.
+
+##### S2D1R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S2D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Scenario 3 — SIA
+
+#### S3D1 · Informatica — SIA — 132 ore
+
+##### S3D1N1 · Sistema aziendale e algoritmi — 24 ore
+
+- **8 ore** — Analizzare processi, dati e funzioni di un sistema informativo aziendale.
+- **8 ore** — Scomporre un problema gestionale in requisiti e algoritmi.
+- **8 ore** — Implementare tipi, selezione e cicli con test.
+
+##### S3D1N2 · Moduli e dati — 28 ore
+
+- **10 ore** — Scrivere funzioni con parametri e risultato e separare le responsabilità.
+- **10 ore** — Elaborare stringhe, vettori e record per archivi in memoria.
+- **8 ore** — Salvare e rileggere file controllando errori e formati.
+
+##### S3D1N3 · Sistemi e sviluppo — 22 ore
+
+- **8 ore** — Distinguere sistema operativo, processi, file e applicazioni.
+- **8 ore** — Usare strumenti di sviluppo, debugger e versionamento locale.
+- **6 ore** — Documentare fasi, requisiti e prove di un ciclo di sviluppo.
+
+##### S3D1N4 · Dati relazionali introduttivi — 22 ore
+
+- **8 ore** — Rappresentare entità, chiavi e relazioni dell’archivio gestionale.
+- **8 ore** — Costruire prime tabelle e interrogazioni SQL guidate.
+- **6 ore** — Distinguere archivio di file e DBMS, ruoli e copie.
+
+##### S3D1N5 · Web e applicazione — 22 ore
+
+- **8 ore** — Creare un ipertesto HTML/CSS con struttura accessibile.
+- **8 ore** — Integrare dati e documenti in un piccolo prodotto per l’impresa.
+- **6 ore** — Presentare test e limiti con lessico tecnico anche inglese.
+
+##### S3D1R · Verifica, restituzione e recupero — 14 ore
+
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **6 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S3D1:** 118 ore di nuclei + 14 ore di verifica, restituzione e recupero = **132 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| AFM | Informatica | 56 | 10 | **66 ore** |
+| RIM | Tecnologie della comunicazione | 56 | 10 | **66 ore** |
+| SIA | Informatica — SIA | 118 | 14 | **132 ore** |
+
+**Totale AFM: 66 ore.**
+**Totale RIM: 66 ore.**
+**Totale SIA: 132 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, AFM, RIM e SIA; GU pp. 35, 57, 59–60](https://www.gazzettaufficiale.it/eli/gu/2012/03/30/76/so/60/sg/pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -95,3 +190,25 @@ Scegliere la collana della propria articolazione.
 - [MDN, Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+AFM: flussi informativi, anagrafiche e documenti di gestione. RIM: messaggi per destinatari e mercati diversi, contenuti web e formati. SIA: algoritmi, selezioni e cicli su dati gestionali.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Rappresentare attività, documenti e dati del processo commerciale fra reparti e soggetti esterni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Individuare ridondanze, responsabilità di aggiornamento e controlli necessari sulle anagrafiche. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare anagrafiche e operazioni in tabelle collegate, producendo filtri e riepiloghi gestionali. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare archivio strutturato e documenti separati, descrivendo gli errori da prevenire. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare informazioni per destinatari internazionali, gestendo lingua, codifiche, date e valute dichiarate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Progettare una comunicazione web leggibile distinguendo traduzione linguistica e adattamento al destinatario. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Formalizzare algoritmi per dati aziendali mediante variabili, selezioni, cicli e funzioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scrivere programmi con controlli e casi di prova, collegando ogni risultato a un requisito. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

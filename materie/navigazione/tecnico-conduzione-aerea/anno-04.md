@@ -27,43 +27,92 @@ La tabella riguarda la disciplina di navigazione. Le righe dei due ordinamenti s
 
 Valutare come vento, rappresentazione cartografica e aggiornamento dei dati cambiano una previsione di posizione.
 
+
+## Prerequisiti e progressione
+
+Coordinate, tempo, atmosfera e triangolo del vento del III; trigonometria e lettura di carte prima delle rotte a medio raggio.
+
+**Esito atteso a fine anno:** Costruire un piano simulato coerente con meteorologia, prestazioni, centraggio e servizi di assistenza.
+
+Raccordo: [scheda dell’anno precedente](anno-03.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Le applicazioni avanzate restano introduttive o guidate: calcoli astronomici, radar, navigazione integrata, prestazioni, comunicazioni ed emergenze sono affrontati solo dove indicati nelle unità e su dati o simulatori didattici predisposti. Non si presume padronanza operativa né copertura certificata di STCW, requisiti aeronautici o titoli della pesca. Per tali percorsi serve una verifica separata del curricolo accreditato e dell’addestramento richiesto.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 165 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 165 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Cartografia e percorsi — 22 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze della navigazione, struttura e conduzione del mezzo | 144 | 21 | 165 |
 
-- **10 ore** — Confrontare proprietà e limiti di due carte nel misurare distanze e direzioni.
-- **12 ore** — Descrivere la differenza fra rotta rappresentata sulla carta e traiettoria sul globo.
+### D1 · Scienze della navigazione, struttura e conduzione del mezzo — 165 ore
 
-### Problemi del vento — 23 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **10 ore** — Costruire il triangolo delle velocità con dati assegnati e dichiarare il sistema di riferimento.
-- **13 ore** — Confrontare soluzioni grafiche e numeriche valutando sensibilità a intensità e direzione del vento.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Osservazioni e previsioni meteorologiche — 21 ore
+#### D1.1 · Cartografia e percorsi — 24 ore
 
-- **10 ore** — Distinguere un METAR osservato da un TAF previsto indicando luogo, emissione e validità.
-- **11 ore** — Decodificare esempi didattici di vento, visibilità e nubi senza trasformarli in istruzioni operative.
+- **4 ore** — Confrontare proiezioni e impieghi delle carte aeronautiche.
+- **6 ore** — Distinguere lossodromia e ortodromia.
+- **8 ore** — Risolvere percorsi con tappe e vincoli assegnati.
+- **6 ore** — Valutare errori di scala e rappresentazione.
 
-### Servizi e qualità dell'informazione — 23 ore
+#### D1.2 · Problemi del vento — 30 ore
 
-- **10 ore** — Identificare produttore del dato, unità, frequenza e possibili ritardi di aggiornamento.
-- **13 ore** — Confrontare due bollettini archiviati e annotare quali differenze sono temporali e quali strumentali.
+- **6 ore** — Risolvere i diversi casi del triangolo del vento.
+- **8 ore** — Confrontare dati previsti e vento ricavato dalle osservazioni.
+- **8 ore** — Calcolare tempi e consumi da tabelle fornite.
+- **8 ore** — Valutare come cambiano i risultati variando i dati.
 
-### Attività di laboratorio e applicazione — 43 ore
+#### D1.3 · Meteorologia aeronautica — 30 ore
 
-- **13 ore** — Confrontare distanze e angoli su due rappresentazioni di una stessa regione.
-- **15 ore** — Scomporre una velocità in due direzioni, confrontare previsioni per vento costante o variabile e quantificare lo scarto.
-- **15 ore** — Leggere campi meteorologici di esempio, associare ogni osservazione a luogo, istante e unità. Individuare quali servizi producono e diffondono i dati.
+- **6 ore** — Riconoscere nubi, fronti e fenomeni significativi.
+- **8 ore** — Distinguere osservazione e previsione.
+- **8 ore** — Leggere METAR e TAF in esempi datati e guidati.
+- **8 ore** — Confrontare messaggi, validità e incertezza della previsione.
 
-### Verifiche, recupero e consolidamento — 33 ore
+#### D1.4 · Strumenti e radioassistenza — 30 ore
 
-- **16 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **10 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **7 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Descrivere bussole, strumenti di volo e loro errori.
+- **8 ore** — Interpretare rilevamenti e principi di radioaiuti terrestri.
+- **8 ore** — Confrontare sistemi di localizzazione su casi semplici.
+- **8 ore** — Riconoscere limiti e informazioni discordanti.
 
-**Totale della proposta: 165 ore = 132 ore nei nuclei e nelle applicazioni + 33 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Prestazioni e piano simulato — 30 ore
+
+- **6 ore** — Leggere dati di massa, centraggio e prestazione forniti.
+- **8 ore** — Organizzare tappe, tempi e alternative nel piano didattico.
+- **8 ore** — Distinguere servizi ATS, informazioni e comunicazioni.
+- **8 ore** — Presentare un caso integrato senza autorizzare operazioni di volo.
+
+#### D1.6 · Verifiche, restituzione e recupero — 18 ore
+
+- **5 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **5 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 165 ore = 144 ore di nuclei e applicazioni + 3 ore di diagnosi + 10 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+**Totale della proposta: 165 ore = 144 ore nei nuclei e nelle applicazioni + 21 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Cartografia e percorsi.** Confrontare proprietà e limiti di due carte nel misurare distanze e direzioni. Descrivere la differenza fra rotta rappresentata sulla carta e traiettoria sul globo.
+
+**Problemi del vento.** Costruire il triangolo delle velocità con dati assegnati e dichiarare il sistema di riferimento. Confrontare soluzioni grafiche e numeriche valutando sensibilità a intensità e direzione del vento.
+
+**Osservazioni e previsioni meteorologiche.** Distinguere un METAR osservato da un TAF previsto indicando luogo, emissione e validità. Decodificare esempi didattici di vento, visibilità e nubi senza trasformarli in istruzioni operative.
+
+**Servizi e qualità dell'informazione.** Identificare produttore del dato, unità, frequenza e possibili ritardi di aggiornamento. Confrontare due bollettini archiviati e annotare quali differenze sono temporali e quali strumentali.
+
+**Attività di laboratorio e applicazione.** Confrontare distanze e angoli su due rappresentazioni di una stessa regione. Scomporre una velocità in due direzioni, confrontare previsioni per vento costante o variabile e quantificare lo scarto. Leggere campi meteorologici di esempio, associare ogni osservazione a luogo, istante e unità. Individuare quali servizi producono e diffondono i dati.
 
 ## Compito e verifica
 
@@ -92,3 +141,6 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 - [Approfondimento tecnico TAF](https://www.meteoam.it/it/documentazione-tecnica/taf) — Aeronautica Militare, Servizio Meteorologico; Codifica di vento, visibilità, nubi, validità e cambiamenti previsti.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

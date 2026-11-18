@@ -27,10 +27,12 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Informatica**: Informatica, quadro previgente nel 2026/27: 198 + 132 + 99 = 429 ore.
-- **Telecomunicazioni**: Telecomunicazioni, quadro previgente: soltanto Informatica, 99 ore.
+- **Articolazione Informatica**: 198 + 132 + 99 = **429 ore**; Informatica 198 ore; Sistemi e reti 132 ore; TPSIT 99 ore.
+- **Articolazione Telecomunicazioni — sola Informatica**: 99 = **99 ore**; Informatica 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nei tecnici di Informatica e telecomunicazioni](README.md)
 
@@ -38,39 +40,184 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Entrambe: strutture dati e programmazione modulare. Nell’articolazione Informatica approfondire oggetti, persistenza, protocolli applicativi e concorrenza. Nell’articolazione Telecomunicazioni ridurre il progetto a un singolo programma che elabora misure.
+**Prerequisiti e avvio.** Funzioni, strutture e file; architettura, LAN e processi dalla terza. Per Telecomunicazioni: oggetti elementari e HTML già avviati.
 
-### Strutture e moduli — Informatica: 88 ore; Telecomunicazioni: 34 ore
+**Raccordo e progressione.** Quinta Informatica: database e servizi distribuiti. Per Telecomunicazioni il programma di Informatica si conclude qui, includendo database e Web.
 
-- **Informatica: 44 ore; Telecomunicazioni: 17 ore** — Separare acquisizione, elaborazione, persistenza e presentazione con interfacce documentate.
-- **Informatica: 44 ore; Telecomunicazioni: 17 ore** — Confrontare strutture e algoritmi rispetto alle operazioni frequenti e alla dimensione dei dati.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Articolazione Informatica
 
-### Applicazioni per Informatica — Informatica: 132 ore; Telecomunicazioni: 0 ore
+#### S1D1 · Informatica — 198 ore
 
-- **Informatica: 66 ore; Telecomunicazioni: 0 ore** — Usare oggetti, responsabilità e composizione per rappresentare un problema concreto.
-- **Informatica: 66 ore; Telecomunicazioni: 0 ore** — Gestire file e persistenza con controlli sugli errori e prove dei componenti.
+##### S1D1N1 · Astrazione e oggetti — 32 ore
 
+- **10 ore** — Ricostruire dati e operazioni di un problema; definire classi e invarianti.
+- **12 ore** — Implementare incapsulamento, costruttori e composizione con test.
+- **10 ore** — Confrontare ereditarietà, interfacce e polimorfismo su una gerarchia motivata.
 
-### Servizi per Informatica — Informatica: 116 ore; Telecomunicazioni: 0 ore
+##### S1D1N2 · Strutture dati — 28 ore
 
-- **Informatica: 58 ore; Telecomunicazioni: 0 ore** — Descrivere richieste e risposte di un servizio mediante formati e stati osservabili.
-- **Informatica: 58 ore; Telecomunicazioni: 0 ore** — Introdurre concorrenza e risorse condivise con una simulazione, individuando conflitti e coordinamento.
+- **10 ore** — Implementare pile, code e liste e confrontare operazioni e costi.
+- **10 ore** — Visitare alberi semplici e rappresentare grafi per relazioni; evitare algoritmi avanzati senza prerequisiti.
+- **8 ore** — Scegliere raccolte della libreria e verificare comportamento su dati limite.
 
+##### S1D1N3 · Algoritmi e complessità — 28 ore
 
-### Variante Telecomunicazioni — Informatica: 29 ore; Telecomunicazioni: 50 ore
+- **10 ore** — Confrontare crescita lineare, quadratica e logaritmica con conteggio e misure.
+- **10 ore** — Applicare ricorsione e divide et impera a ordinamento e visita.
+- **8 ore** — Distinguere costo teorico, memoria e tempi sperimentali.
 
-- **Informatica: 0 ore; Telecomunicazioni: 38 ore** — Sviluppare un programma circoscritto che acquisisca, filtri e rappresenti misure di un collegamento.
-- **Informatica: 29 ore; Telecomunicazioni: 12 ore** — Per entrambe le articolazioni consegnare specifica e prove distinguendo prototipo didattico e sistema destinato all’esercizio.
+##### S1D1N4 · Eventi e interfacce — 28 ore
 
-### Riserva e quadratura
+- **10 ore** — Separare modello, vista e gestione degli eventi in una piccola interfaccia.
+- **10 ore** — Validare input e gestire eccezioni e persistenza di oggetti senza introdurre un database completo.
+- **8 ore** — Verificare accessibilità e testabilità della parte interattiva.
 
-- **Informatica: 64 ore; Telecomunicazioni: 15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Web lato client — 28 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Informatica | 365 | 64 | **429 ore** |
-| Telecomunicazioni | 84 | 15 | **99 ore** |
+- **10 ore** — Strutturare pagine HTML e fogli CSS con attenzione semantica.
+- **10 ore** — Scrivere script per eventi, DOM e validazione locale; distinguere controllo lato client e sicurezza server.
+- **8 ore** — Scambiare dati strutturati locali in JSON e documentare il formato.
+
+##### S1D1N6 · Progetto e qualità — 26 ore
+
+- **10 ore** — Progettare un’applicazione a oggetti con responsabilità separate.
+- **10 ore** — Integrare interfaccia e file, eseguire test e correggere regressioni.
+- **6 ore** — Presentare decisioni progettuali e una base pronta per dati relazionali in quinta.
+
+##### S1D1R · Verifica, restituzione e recupero — 28 ore
+
+- **9 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **9 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **10 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 170 ore di nuclei + 28 ore di verifica, restituzione e recupero = **198 ore**.
+
+#### S1D2 · Sistemi e reti — 132 ore
+
+##### S1D2N1 · Indirizzamento — 26 ore
+
+- **10 ore** — Progettare sottoreti IPv4 a partire da fabbisogni e motivare maschere.
+- **8 ore** — Introdurre indirizzi IPv6 e confrontarli con IPv4.
+- **8 ore** — Verificare un piano di indirizzamento con prove ripetibili.
+
+##### S1D2N2 · Instradamento — 26 ore
+
+- **10 ore** — Configurare routing statico e studiare il comportamento di un protocollo dinamico.
+- **8 ore** — Distinguere percorso, tabella di instradamento e scelta del prossimo nodo.
+- **8 ore** — Simulare guasti di collegamento e analizzare convergenza e limiti.
+
+##### S1D2N3 · Commutazione e accesso — 24 ore
+
+- **8 ore** — Configurare VLAN e separazione logica della rete.
+- **8 ore** — Integrare Wi-Fi e collegamento WAN con criteri di accesso e protezione.
+- **8 ore** — Motivare uso e limiti di NAT senza confonderlo con un firewall.
+
+##### S1D2N4 · Trasporto e servizi di base — 24 ore
+
+- **8 ore** — Confrontare TCP e UDP mediante tracce controllate.
+- **8 ore** — Configurare DHCP e risoluzione DNS elementare per rendere operativa la rete.
+- **8 ore** — Misurare latenza, perdita e capacità utile distinguendole dalla velocità nominale.
+
+##### S1D2N5 · Progetto di rete — 22 ore
+
+- **8 ore** — Progettare una rete interconnessa e selezionare apparati e mezzi.
+- **8 ore** — Configurare e collaudare lo scenario con permessi e filtri elementari.
+- **6 ore** — Documentare topologia, indirizzi, test e rischi residui.
+
+##### S1D2R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D2:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S1D3 · TPSIT — 99 ore
+
+##### S1D3N1 · Processi e thread — 22 ore
+
+- **8 ore** — Creare processi o thread e osservare stati e schedulazione.
+- **8 ore** — Riconoscere sezioni critiche e riprodurre una race condition controllata.
+- **6 ore** — Valutare prestazioni e limiti della concorrenza.
+
+##### S1D3N2 · Sincronizzazione — 22 ore
+
+- **8 ore** — Usare mutex e semafori in un problema produttore-consumatore.
+- **8 ore** — Riconoscere condizioni di deadlock e confrontare strategie di prevenzione.
+- **6 ore** — Scambiare dati mediante meccanismi IPC appropriati.
+
+##### S1D3N3 · Progettazione del software — 22 ore
+
+- **8 ore** — Modellare componenti e interazioni di un’applicazione concorrente.
+- **8 ore** — Progettare test unitari e di integrazione, includendo errori e temporizzazioni.
+- **6 ore** — Usare versioni, revisione e documentazione delle interfacce.
+
+##### S1D3N4 · Progetto concorrente — 20 ore
+
+- **8 ore** — Implementare un servizio locale concorrente con risorse limitate.
+- **6 ore** — Misurare e correggere difetti con strumenti di sistema.
+- **6 ore** — Consegnare test ripetibili e motivare sicurezza e portabilità.
+
+##### S1D3R · Verifica, restituzione e recupero — 13 ore
+
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D3:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Scenario 2 — Articolazione Telecomunicazioni — sola Informatica
+
+#### S2D1 · Informatica — 99 ore
+
+##### S2D1N1 · Consolidamento a oggetti — 14 ore
+
+- **8 ore** — Applicare composizione e riuso di classi a una raccolta di misure.
+- **6 ore** — Testare dati e file, gestire eccezioni e interfacce.
+
+##### S2D1N2 · Basi di dati — 24 ore
+
+- **8 ore** — Modellare entità, relazioni, chiavi e vincoli di un piccolo archivio.
+- **10 ore** — Creare tabelle e interrogare con SQL, join e aggregazioni.
+- **6 ore** — Individuare ridondanze, autorizzazioni e copie di sicurezza.
+
+##### S2D1N3 · Applicazioni Web — 26 ore
+
+- **8 ore** — Riprendere HTML/CSS e script lato client per un’interfaccia accessibile.
+- **10 ore** — Implementare un servizio lato server con validazione e query parametrizzate.
+- **8 ore** — Collegare pagine dinamiche e database usando dati sintetici.
+
+##### S2D1N4 · Progetto conclusivo del biennio — 20 ore
+
+- **8 ore** — Realizzare una piccola applicazione Web per messaggi o misure.
+- **6 ore** — Provare funzionalità, errori e protezione dei dati in ambiente locale.
+- **6 ore** — Consegnare schema, codice e manuale: questa disciplina termina in quarta nell’articolazione Telecomunicazioni.
+
+##### S2D1R · Verifica, restituzione e recupero — 15 ore
+
+- **5 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **5 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S2D1:** 84 ore di nuclei + 15 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Articolazione Informatica | Informatica | 170 | 28 | **198 ore** |
+| Articolazione Informatica | Sistemi e reti | 122 | 10 | **132 ore** |
+| Articolazione Informatica | TPSIT | 86 | 13 | **99 ore** |
+| Articolazione Telecomunicazioni — sola Informatica | Informatica | 84 | 15 | **99 ore** |
+
+**Totale Articolazione Informatica: 429 ore.**
+**Totale Articolazione Telecomunicazioni — sola Informatica: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C4 Informatica e telecomunicazioni, pp. 3–8 e 10–16](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C4_Informatica_Telecomunicazioni.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -93,3 +240,25 @@ Privilegiare classi e oggetti dopo aver consolidato la decomposizione in funzion
 - [MDN, Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Entrambe: strutture dati e programmazione modulare. Nell’articolazione Informatica approfondire oggetti, persistenza, protocolli applicativi e concorrenza. Nell’articolazione Telecomunicazioni ridurre il progetto a un singolo programma che elabora misure.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Separare acquisizione, elaborazione, persistenza e presentazione con interfacce documentate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare strutture e algoritmi rispetto alle operazioni frequenti e alla dimensione dei dati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare oggetti, responsabilità e composizione per rappresentare un problema concreto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Gestire file e persistenza con controlli sugli errori e prove dei componenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Descrivere richieste e risposte di un servizio mediante formati e stati osservabili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Introdurre concorrenza e risorse condivise con una simulazione, individuando conflitti e coordinamento. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Sviluppare un programma circoscritto che acquisisca, filtri e rappresenti misure di un collegamento. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Per entrambe le articolazioni consegnare specifica e prove distinguendo prototipo didattico e sistema destinato all’esercizio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

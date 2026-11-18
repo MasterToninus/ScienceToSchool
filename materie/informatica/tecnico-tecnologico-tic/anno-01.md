@@ -20,10 +20,12 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Chimica**: Chimica, TIC nel quadro iniziale DM 29†: 66 ore.
-- **Altri**: Altri indirizzi elencati, TIC nel quadro iniziale DM 29†: 99 ore.
+- **Chimica: 66 ore**: 66 = **66 ore**; Tecnologie dell’informazione e della comunicazione 66 ore.
+- **CAT / Elettronica / Meccanica / Moda / Trasporti: 99 ore**: 99 = **99 ore**; Tecnologie dell’informazione e della comunicazione 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [TIC negli indirizzi tecnici tecnologico-ambientali](README.md)
 
@@ -31,39 +33,96 @@ Prima riformata dal 2026/27. La proposta seguente si può adattare alla classe.
 
 ## Programma proposto per nuclei tematici
 
-Distinguere memoria, software e reti. Organizzare file con convenzioni condivise, importare dati da CSV e costruire formule verificabili. Con Chimica usare una serie di concentrazioni, con CAT una tabella di quote, con Moda una distinta materiali, negli altri indirizzi misure o scorte.
+**Prerequisiti e avvio.** Aritmetica, unità e organizzazione elementare dei file; nessun software di settore presupposto.
 
-### Postazione tecnica — Chimica: 12 ore; Altri: 18 ore
+**Raccordo e progressione.** Il caso dati va scelto nel settore effettivo: misure chimiche, componenti, materiali, territorio o trasporti. Le alternative non aumentano il budget.
 
-- **Chimica: 7 ore; Altri: 10 ore** — Riconoscere hardware, sistema operativo, applicazioni e servizi necessari all’attività di laboratorio.
-- **Chimica: 5 ore; Altri: 8 ore** — Organizzare cartelle e versioni distinguendo dati originali, elaborazioni e consegne.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Chimica: 66 ore
 
-### Dati di settore — Chimica: 15 ore; Altri: 22 ore
+#### S1D1 · Tecnologie dell’informazione e della comunicazione — 66 ore
 
-- **Chimica: 8 ore; Altri: 12 ore** — Costruire tabelle con unità: concentrazioni per Chimica, quote per CAT, materiali per Moda o misure per altri indirizzi.
-- **Chimica: 7 ore; Altri: 10 ore** — Importare CSV controllando decimali, separatori, dati mancanti e coerenza delle unità.
+##### S1D1N1 · Ambiente digitale — 12 ore
 
+- **6 ore** — Riconoscere dispositivi, sistema operativo, applicazioni e servizi mediante un documento di lavoro.
+- **6 ore** — Organizzare cartelle, nomi, versioni e copie; provare riapertura ed esportazione.
 
-### Calcoli e grafici — Chimica: 15 ore; Altri: 22 ore
+##### S1D1N2 · Documenti professionali — 14 ore
 
-- **Chimica: 8 ore; Altri: 12 ore** — Usare formule, riferimenti e funzioni per quantità e riepiloghi verificabili.
-- **Chimica: 7 ore; Altri: 10 ore** — Scegliere un grafico appropriato e controllare risultati con un procedimento indipendente.
+- **8 ore** — Redigere una lettera, scheda o ordine con stili, tabella e immagini attribuite.
+- **6 ore** — Preparare una presentazione sintetica per un destinatario e controllarne accessibilità iniziale.
 
+##### S1D1N3 · Foglio elettronico — 18 ore
 
-### Relazione tecnica — Chimica: 14 ore; Altri: 22 ore
+- **8 ore** — Inserire quantità, unità, date e prezzi distinguendo valore e formato.
+- **10 ore** — Usare formule, riferimenti relativi e assoluti, percentuali e totali con controllo indipendente.
 
-- **Chimica: 8 ore; Altri: 12 ore** — Preparare una relazione con procedura, dati, grafico e limiti dell’elaborazione.
-- **Chimica: 6 ore; Altri: 10 ore** — Citare risorse ed esportare una copia per il destinatario controllando formati e informazioni riservate.
+##### S1D1N4 · Comunicazione e protezione — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Cercare una fonte, riconoscerne autore e data e confrontarla con una seconda evidenza.
+- **6 ore** — Simulare messaggio e condivisione con ruoli; usare dati sintetici e spiegare credenziali, licenze e riservatezza.
 
-- **Chimica: 10 ore; Altri: 15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Chimica | 56 | 10 | **66 ore** |
-| Altri | 84 | 15 | **99 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Scenario 2 — CAT / Elettronica / Meccanica / Moda / Trasporti: 99 ore
+
+#### S2D1 · Tecnologie dell’informazione e della comunicazione — 99 ore
+
+##### S2D1N1 · Ambiente digitale — 12 ore
+
+- **6 ore** — Riconoscere dispositivi, sistema operativo, applicazioni e servizi mediante un documento di lavoro.
+- **6 ore** — Organizzare cartelle, nomi, versioni e copie; provare riapertura ed esportazione.
+
+##### S2D1N2 · Documenti professionali — 14 ore
+
+- **8 ore** — Redigere una lettera, scheda o ordine con stili, tabella e immagini attribuite.
+- **6 ore** — Preparare una presentazione sintetica per un destinatario e controllarne accessibilità iniziale.
+
+##### S2D1N3 · Foglio elettronico — 18 ore
+
+- **8 ore** — Inserire quantità, unità, date e prezzi distinguendo valore e formato.
+- **10 ore** — Usare formule, riferimenti relativi e assoluti, percentuali e totali con controllo indipendente.
+
+##### S2D1N4 · Comunicazione e protezione — 12 ore
+
+- **6 ore** — Cercare una fonte, riconoscerne autore e data e confrontarla con una seconda evidenza.
+- **6 ore** — Simulare messaggio e condivisione con ruoli; usare dati sintetici e spiegare credenziali, licenze e riservatezza.
+
+##### S2D1N5 · Applicazioni tecnologiche — 33 ore
+
+- **8 ore** — Importare dati di un esperimento o commessa e verificarne unità e provenienza.
+- **8 ore** — Elaborare grafici e confrontare modello e misura su un caso del settore.
+- **8 ore** — Descrivere un algoritmo e implementare una procedura semplice di elaborazione.
+- **9 ore** — Consegnare un rapporto riproducibile con istruzioni e limiti.
+
+##### S2D1R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S2D1:** 89 ore di nuclei + 10 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Chimica: 66 ore | Tecnologie dell’informazione e della comunicazione | 56 | 10 | **66 ore** |
+| CAT / Elettronica / Meccanica / Moda / Trasporti: 99 ore | Tecnologie dell’informazione e della comunicazione | 89 | 10 | **99 ore** |
+
+**Totale Chimica: 66 ore: 66 ore.**
+**Totale CAT / Elettronica / Meccanica / Moda / Trasporti: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, profili A-1/A-3/A-6/A-7/A-8/A-9 e quadri iniziali C; limite di coordinamento DL 170 dichiarato sopra](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -86,3 +145,25 @@ Scegliere le attività di gestione di file, dati e strumenti di produttività.
 - [IISS Alpi-Montale, Programmazione del dipartimento di Informatica 2022/23](https://www.iissalpimontale.edu.it/wp-content/uploads/2022/11/Programmazione_INFORMATICA-1.pdf).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Distinguere memoria, software e reti. Organizzare file con convenzioni condivise, importare dati da CSV e costruire formule verificabili. Con Chimica usare una serie di concentrazioni, con CAT una tabella di quote, con Moda una distinta materiali, negli altri indirizzi misure o scorte.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Riconoscere hardware, sistema operativo, applicazioni e servizi necessari all’attività di laboratorio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare cartelle e versioni distinguendo dati originali, elaborazioni e consegne. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire tabelle con unità: concentrazioni per Chimica, quote per CAT, materiali per Moda o misure per altri indirizzi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Importare CSV controllando decimali, separatori, dati mancanti e coerenza delle unità. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare formule, riferimenti e funzioni per quantità e riepiloghi verificabili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scegliere un grafico appropriato e controllare risultati con un procedimento indipendente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare una relazione con procedura, dati, grafico e limiti dell’elaborazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Citare risorse ed esportare una copia per il destinatario controllando formati e informazioni riservate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

@@ -21,9 +21,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Laboratorio di tecnologie digitali, DM 29†: 99 ore.
+- **Unico**: 99 = **99 ore**; Laboratorio di tecnologie digitali 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie digitali e progettazione multimediale nel tecnico di Grafica e comunicazione](README.md)
 
@@ -31,38 +33,59 @@ Prima riformata dal 2026/27. La proposta seguente si può adattare alla classe.
 
 ## Programma proposto per nuclei tematici
 
-Distinguere grafica raster e vettoriale, pixel e risoluzione. Curare contrasto, disposizione del testo e dimensioni dei file. Verificare la provenienza delle risorse.
+**Prerequisiti e avvio.** Uso elementare del computer e lettura di immagini; formati, strumenti e colore sono introdotti gradualmente.
 
-### Informazione visiva — 18 ore
+**Raccordo e progressione.** Il Web è un mezzo fra stampa, audiovisivo e 3D. In quarta e quinta si riutilizzano tipografia e metodo progettuale, senza ripartire da zero.
 
-- **10 ore** — Distinguere raster e vettoriale, pixel e dimensione di stampa confrontando lo stesso soggetto.
-- **8 ore** — Valutare peso e compressione dei file, preservando un originale modificabile.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Testo e colore — 22 ore
+#### S1D1 · Laboratorio di tecnologie digitali — 99 ore
 
-- **12 ore** — Organizzare titoli, paragrafi e immagini con gerarchia visiva, allineamenti e spaziature.
-- **10 ore** — Confrontare colore e contrasto, evitando di affidare informazioni esclusivamente al colore.
+##### S1D1N1 · Strumenti e file — 22 ore
 
+- **8 ore** — Distinguere hardware, periferiche di acquisizione e applicativi grafici.
+- **8 ore** — Organizzare file e versioni, copie e licenze.
+- **6 ore** — Confrontare formati, dimensioni, risoluzione e compressione.
 
-### Archivi e formati — 22 ore
+##### S1D1N2 · Immagine e testo — 22 ore
 
-- **12 ore** — Classificare sorgenti, risorse ed esportazioni assegnando nomi e versioni coerenti.
-- **10 ore** — Annotare autore e licenza delle risorse e verificare qualità e compatibilità dopo l’esportazione.
+- **8 ore** — Acquisire e ritagliare immagini preservando l’originale.
+- **8 ore** — Distinguere raster e vettore con una composizione semplice.
+- **6 ore** — Usare testo, gerarchie e allineamenti in un documento.
 
+##### S1D1N3 · Colore e media — 22 ore
 
-### Prodotto di comunicazione — 22 ore
+- **8 ore** — Confrontare RGB e CMYK e osservare differenze fra schermo e stampa.
+- **8 ore** — Preparare una sequenza multimediale elementare con audio o immagini.
+- **6 ore** — Riconoscere proprietà intellettuale, dati personali e accessibilità.
 
-- **12 ore** — Tradurre una consegna in locandina o scheda con destinatario e messaggio espliciti.
-- **10 ore** — Confrontare due soluzioni motivando leggibilità, formato e adeguatezza al supporto.
+##### S1D1N4 · Prodotto guidato — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Interpretare un brief semplice e scegliere strumenti e formato.
+- **6 ore** — Realizzare un piccolo elaborato e controllarne l’esportazione.
+- **6 ore** — Consegnare fonti, file e motivazione delle scelte.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Laboratorio di tecnologie digitali | 86 | 13 | **99 ore** |
+
+**Totale Unico: 99 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, profili A-1/A-3/A-6/A-7/A-8/A-9 e quadri iniziali C; limite di coordinamento DL 170 dichiarato sopra](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -86,3 +109,25 @@ Usare il secondo testo come supporto del docente.
 - [W3C WAI, Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Distinguere grafica raster e vettoriale, pixel e risoluzione. Curare contrasto, disposizione del testo e dimensioni dei file. Verificare la provenienza delle risorse.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Distinguere raster e vettoriale, pixel e dimensione di stampa confrontando lo stesso soggetto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Valutare peso e compressione dei file, preservando un originale modificabile. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare titoli, paragrafi e immagini con gerarchia visiva, allineamenti e spaziature. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare colore e contrasto, evitando di affidare informazioni esclusivamente al colore. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Classificare sorgenti, risorse ed esportazioni assegnando nomi e versioni coerenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Annotare autore e licenza delle risorse e verificare qualità e compatibilità dopo l’esportazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Tradurre una consegna in locandina o scheda con destinatario e messaggio espliciti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare due soluzioni motivando leggibilità, formato e adeguatezza al supporto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

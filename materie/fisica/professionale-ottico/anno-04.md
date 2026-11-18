@@ -28,47 +28,64 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 La sequenza riguarda Ottica e Ottica applicata e va raccordata con Scienze integrate, laboratori e discipline sanitarie. Il programma Plana consultato è un esempio di quinta, non una scansione vincolante dell’intero quinquennio.
 
+**Prerequisiti e progressione.** Dalla terza: sistemi ottici, aperture e qualità dell’immagine. Prima dell’interferenza servono sinusoidi, fase e differenza di cammino; la trigonometria è richiamata nel primo nucleo. Le misure d’intensità usano un sensore con risposta nota, senza assumere identità fra lettura e illuminamento. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La proposta copre il contributo fisico di Ottica/Ottica applicata. Le competenze professionali d’asse richiedono anche laboratori, optometria, contattologia e discipline sanitarie: non sono dichiarate integralmente raggiunte da queste ore. Le compresenze non raddoppiano il tempo dello studente. Nello scenario B le ore aggiuntive servono a più campioni, esercitazioni e prove autonome sullo stesso nucleo; non a replicare una spiegazione. Preparazione e relazione delle prove sono incluse nei punti, valutazione e restituzione nella riserva.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Dai raggi alle onde
 
 **Subtotale del nucleo: 18 / 22 ore (A / B).**
 
-- **9 / 11 ore.** Descrivere fase, frequenza, lunghezza d’onda e velocità della luce nei mezzi.
-- **9 / 11 ore.** Individuare esperienze che richiedono un modello ondulatorio e condizioni in cui l’ottica geometrica resta una buona approssimazione.
+- **6 / 7 ore.** Descrivere periodo, frequenza, lunghezza d’onda e velocità nei mezzi usando grafici spazio/tempo.
+- **6 / 8 ore.** Introdurre fase con sinusoidi e differenza di cammino; confrontare ottica geometrica e ondulatoria.
+- **6 / 7 ore.** Leggere o acquisire un segnale periodico e stimare frequenza e incertezza; preparare l’analisi delle frange.
+
 
 ### Interferenza e coerenza
 
 **Subtotale del nucleo: 18 / 22 ore (A / B).**
 
-- **9 / 11 ore.** Interpretare sovrapposizione, differenza di cammino e massimi o minimi d’intensità in configurazioni semplici.
-- **9 / 11 ore.** Collegare l’interferenza a trattamenti antiriflesso e film sottili, distinguendo spiegazione qualitativa e modello quantitativo adottato.
+- **6 / 7 ore.** Usare sovrapposizione e coerenza per prevedere massimi/minimi in una doppia fenditura.
+- **6 / 8 ore.** Ricavare una lunghezza d’onda da frange con geometria e approssimazioni dichiarate.
+- **6 / 7 ore.** Interpretare film sottili e antiriflesso, includendo qualitativamente i salti di fase alla riflessione e il limite del modello adottato.
+
 
 ### Diffrazione e risoluzione
 
 **Subtotale del nucleo: 18 / 22 ore (A / B).**
 
-- **9 / 11 ore.** Studiare l’effetto di fenditure e aperture sulla distribuzione luminosa; confrontare dipendenza da apertura e lunghezza d’onda.
-- **9 / 11 ore.** Valutare la separazione di due dettagli con un criterio dichiarato, distinguendo limite diffrattivo, aberrazioni e risoluzione del rivelatore.
+- **6 / 7 ore.** Confrontare figure di fenditura, apertura circolare e reticolo, variando apertura e lunghezza d’onda.
+- **6 / 8 ore.** Usare un criterio di risoluzione dichiarato, per esempio Rayleigh nel caso semplice, distinguendo diffrazione e aberrazioni.
+- **6 / 7 ore.** Confrontare mira, immagine e campionamento del rivelatore: una maggiore dimensione dell’immagine non garantisce nuovi dettagli.
+
 
 ### Polarizzazione
 
-**Subtotale del nucleo: 22 / 27 ore (A / B).**
+**Subtotale del nucleo: 16 / 21 ore (A / B).**
 
-- **9 / 11 ore.** Confrontare luce polarizzata e non polarizzata attraverso polarizzatore e analizzatore.
-- **13 / 16 ore.** Misurare l’intensità al variare dell’orientamento e discutere applicazioni nei filtri, nella riduzione dei riflessi e nella visione di immagini.
+- **5 / 6 ore.** Descrivere polarizzazione e orientamento di polarizzatore/analizzatore; introdurre la legge di Malus nel suo campo di validità.
+- **6 / 8 ore.** Misurare intensità a più angoli, includendo allineamento, luce di fondo e risposta del sensore.
+- **5 / 7 ore.** Confrontare filtri polarizzanti per riflessi o visione d’immagini e discutere un caso reale con il medesimo dataset.
+
 
 ### Spettri, dispersione e filtri
 
-**Subtotale del nucleo: 16 / 22 ore (A / B).**
+**Subtotale del nucleo: 22 / 28 ore (A / B).**
 
-- **8 / 11 ore.** Distinguere spettro di emissione, assorbimento e trasmissione; leggere una curva spettrale con unità e intervallo misurato.
-- **8 / 11 ore.** Collegare dispersione e indice dipendente dalla lunghezza d’onda; confrontare filtri e rivestimenti mediante dati di trasmissione e risposta cromatica, distinguendo spettro e colore percepito.
+- **7 / 9 ore.** Distinguere emissione, assorbimento e trasmissione spettrale; leggere unità, banda e risoluzione.
+- **7 / 9 ore.** Confrontare dispersione e numero di Abbe per due materiali; collegare spettro trasmesso e risposta cromatica senza confondere spettro e colore.
+- **8 / 10 ore.** Misurare o analizzare dati di due filtri/rivestimenti, incluse lenti colorate e protezione UV su scheda tecnica; confrontare condizioni e limiti senza formulare prescrizioni individuali.
+
 
 ### Prestazioni e confronto strumentale
 
 **Subtotale del nucleo: 16 / 20 ore (A / B).**
 
-- **8 / 10 ore.** Definire una prova per luminosità, contrasto o risoluzione mantenendo costanti le altre condizioni.
-- **8 / 10 ore.** Separare limite dello strumento e limite della procedura; redigere un confronto motivato tra due configurazioni ottiche.
+- **5 / 6 ore.** Definire una prova su luminosità, contrasto oppure risoluzione con condizioni controllate, usando un apparato già studiato.
+- **6 / 8 ore.** Ripetere il confronto in due configurazioni e identificare se il limite dipende da strumento o procedura.
+- **5 / 6 ore.** Redigere una relazione breve con criterio e dati; la verifica finale valuta questa relazione senza ripetere l’esperimento.
 
 ### Riserva per consolidamento e valutazione
 
@@ -92,6 +109,7 @@ F. Catalano, *Elementi di ottica generale*, Zanichelli, ISBN 9788808097866. Sele
 
 ## Fonti consultate per questa proposta
 
+- [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
 - [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.

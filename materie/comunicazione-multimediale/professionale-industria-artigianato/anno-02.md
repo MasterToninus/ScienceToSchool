@@ -24,43 +24,83 @@ Il quadro assegna un intervallo all’intero biennio: la distribuzione fra prima
 
 Passare dal disegno di una confezione semplice a un prototipo fisico.
 
+
+## Prerequisiti e progressione
+
+Misure, quote, materiali e composizione del I; padroneggiare il disegno prima dello sviluppo tridimensionale.
+
+**Esito atteso a fine anno:** Produrre un prototipo di confezione con sviluppo, grafica e verifica dimensionale.
+
+Raccordo: [scheda dell’anno precedente](anno-01.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 99 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 99 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Geometria della confezione — 12 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie, disegno e progettazione | 84 | 15 | 99 |
 
-- **5 ore** — Individuare facce, linguette, pieghe e zone di incollaggio su confezioni semplici.
-- **7 ore** — Distinguere dimensioni esterne, ingombro del contenuto e margini necessari all'assemblaggio.
+### D1 · Tecnologie, disegno e progettazione — 99 ore
 
-### Sviluppo in piano — 15 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **7 ore** — Disegnare una fustella didattica con tipi di linea distinti per taglio e piega.
-- **8 ore** — Controllare misure e corrispondenze fra facce prima della produzione del modello.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Prototipo e prova — 15 ore
+#### D1.1 · Geometria della confezione — 18 ore
 
-- **7 ore** — Assemblare un campione di carta con strumenti e procedure autorizzati dal laboratorio.
-- **8 ore** — Registrare interferenze, errori di quota e difficoltà di chiusura attraverso fotografie.
+- **4 ore** — Leggere solidi semplici e superfici del contenitore.
+- **4 ore** — Rilevare dimensioni e funzione degli elementi.
+- **6 ore** — Distinguere tagli, pieghe, linguette e tolleranze.
+- **4 ore** — Disegnare viste quotate di un modello.
 
-### Grafica applicata — 13 ore
+#### D1.2 · Sviluppo e file — 21 ore
 
-- **6 ore** — Collocare testo e immagine evitando pieghe, giunti e aree non visibili.
-- **7 ore** — Correggere il disegno sulla base della prova, conservando versioni e motivazioni.
+- **4 ore** — Costruire lo sviluppo in piano con misure controllate.
+- **5 ore** — Trasferire il tracciato in un file vettoriale essenziale.
+- **6 ore** — Organizzare livelli, linee e quote.
+- **6 ore** — Stampare in scala e verificare la corrispondenza.
 
-### Attività di laboratorio e applicazione — 24 ore
+#### D1.3 · Materiali e prototipo — 21 ore
 
-- **7 ore** — Osservare pieghe, giunti e superfici stampabili su due confezioni.
-- **9 ore** — Sviluppare il disegno in piano, preparare un prototipo di carta e controllare gli ingombri.
-- **8 ore** — Aggiungere un’immagine, verificando leggibilità dopo la piega e correttezza delle misure.
+- **4 ore** — Confrontare rigidità, spessore e verso del cartoncino.
+- **5 ore** — Stimare consumo e scarti senza confondere area e massa.
+- **6 ore** — Realizzare un prototipo di carta con strumenti autorizzati.
+- **6 ore** — Provare chiusura e montaggio correggendo il disegno.
 
-### Verifiche, recupero e consolidamento — 20 ore
+#### D1.4 · Grafica applicata — 24 ore
 
-- **10 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **6 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **4 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Progettare testo e immagini rispettando pieghe e ingombri.
+- **6 ore** — Preparare una prova di leggibilità.
+- **8 ore** — Confrontare due versioni per funzione e uso del materiale.
+- **6 ore** — Consegnare sviluppo, prototipo e scheda esecutiva.
 
-**Totale della proposta: 99 ore = 79 ore nei nuclei e nelle applicazioni + 20 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 99 ore = 84 ore nei nuclei e nelle applicazioni + 15 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Geometria della confezione.** Individuare facce, linguette, pieghe e zone di incollaggio su confezioni semplici. Distinguere dimensioni esterne, ingombro del contenuto e margini necessari all'assemblaggio.
+
+**Sviluppo in piano.** Disegnare una fustella didattica con tipi di linea distinti per taglio e piega. Controllare misure e corrispondenze fra facce prima della produzione del modello.
+
+**Prototipo e prova.** Assemblare un campione di carta con strumenti e procedure autorizzati dal laboratorio. Registrare interferenze, errori di quota e difficoltà di chiusura attraverso fotografie.
+
+**Grafica applicata.** Collocare testo e immagine evitando pieghe, giunti e aree non visibili. Correggere il disegno sulla base della prova, conservando versioni e motivazioni.
+
+**Attività di laboratorio e applicazione.** Osservare pieghe, giunti e superfici stampabili su due confezioni. Sviluppare il disegno in piano, preparare un prototipo di carta e controllare gli ingombri. Aggiungere un’immagine, verificando leggibilità dopo la piega e correttezza delle misure.
 
 ## Compito e verifica
 
@@ -88,3 +128,6 @@ La proposta riguarda la declinazione grafica del professionale. Profili e quadro
 - [Immaginando, Andrea Rosati e Floriana Maruca, ISBN 9788820372644](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128) — Hoepli; Presentazione e destinazione del manuale.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

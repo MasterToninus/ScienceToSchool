@@ -26,12 +26,19 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Riferimento nazionale: allegato D, sezione Fisica. La distribuzione della meccanica tra terza e quarta è adattabile: la programmazione scolastica consultata segue una scansione diversa.
 
+**Prerequisiti e progressione.** Dalla terza: energia, lavoro, pressione, densità e grafici; in matematica: proporzioni ed equazioni elementari. Periodo e frequenza precedono spettri e ottica ondulatoria; la rifrazione precede le lenti. Non sono richiesti calcolo differenziale o analisi di Fourier. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** L’applicazione d’indirizzo usa i dati o il modello già introdotti: le sue ore finanziano interpretazione e trasferimento al contesto, non una seconda spiegazione del nucleo. Nella riserva, le ore di verifica includono somministrazione e restituzione; il recupero è separato. Le attività finali sono consegne entro questi tempi.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Temperatura, calore e materia
 
 **Subtotale del nucleo: 8 ore.**
 
 - **4 ore.** Descrivere equilibrio termico, scale di temperatura e dilatazione; distinguere temperatura, calore ed energia interna.
 - **4 ore.** Usare calore specifico e calore latente in bilanci semplici; interpretare grafici di riscaldamento e passaggi di stato.
+
 
 ### Gas e trasformazioni
 
@@ -40,19 +47,23 @@ Riferimento nazionale: allegato D, sezione Fisica. La distribuzione della meccan
 - **4 ore.** Individuare pressione, volume e temperatura di un gas; leggere trasformazioni isobare, isocore e isoterme nel piano p-V.
 - **4 ore.** Applicare l’equazione di stato dei gas ideali e riconoscere il lavoro nelle trasformazioni, dichiarando le condizioni del modello.
 
+
 ### Energia, macchine e irreversibilità
 
 **Subtotale del nucleo: 8 ore.**
 
 - **4 ore.** Usare il primo principio per contabilizzare scambi di calore e lavoro; descrivere conduzione, convezione e irraggiamento.
-- **4 ore.** Confrontare macchine termiche mediante rendimento e bilanci, introducendo il secondo principio e la differenza tra trasformazione ideale e processo reale.
+- **4 ore.** Confrontare macchine termiche mediante rendimento e bilanci; esplicitare il secondo principio, il trasferimento spontaneo del calore e l’impossibilità di convertire tutto il calore ciclicamente in lavoro. L’entropia resta un richiamo qualitativo facoltativo.
+
 
 ### Oscillazioni, onde e suono
 
 **Subtotale del nucleo: 8 ore.**
 
-- **4 ore.** Collegare periodo, frequenza, ampiezza e velocità di propagazione; distinguere moto della sorgente e propagazione dell’onda.
-- **4 ore.** Studiare risonanza, sovrapposizione e onde stazionarie; collegare altezza alla frequenza e intensità al quadrato dell’ampiezza a parità di mezzo e condizioni. Distinguere il timbro e leggere un semplice spettro sonoro.
+- **3 ore.** Collegare oscillazione, periodo, frequenza, ampiezza e velocità di propagazione; distinguere moto della sorgente e dell’onda con grafici semplici.
+- **3 ore.** Studiare sovrapposizione, risonanza e onde stazionarie su una corda o una colonna d’aria, distinguendo altezza, intensità e timbro.
+- **2 ore.** Leggere o acquisire uno spettro sonoro semplice; a parità di mezzo collegare intensità al quadrato dell’ampiezza. L’acquisizione precede l’eventuale applicazione d’indirizzo, che riutilizza i dati.
+
 
 ### Immagini e ottica geometrica
 
@@ -61,12 +72,14 @@ Riferimento nazionale: allegato D, sezione Fisica. La distribuzione della meccan
 - **4 ore.** Tracciare raggi per riflessione e rifrazione e prevedere immagini prodotte da specchi e lenti.
 - **4 ore.** Distinguere immagini reali e virtuali, ingrandimento e campo visivo; verificare una previsione con una lente o una camera oscura.
 
+
 ### Luce come onda e confronto tra modelli
 
 **Subtotale del nucleo: 8 ore.**
 
 - **4 ore.** Interpretare interferenza, diffrazione e dispersione mediante osservazioni guidate; collegare colore e distribuzione spettrale.
 - **4 ore.** Individuare una situazione in cui il modello a raggi funziona e una in cui serve il modello ondulatorio; discutere condizioni e limiti dei due.
+
 
 ### Voce e analisi del suono
 

@@ -25,43 +25,117 @@ Gli intervalli dipendono dalla declinazione grafica/editoriale attivata e vanno 
 
 Programmare la produzione di una serie di manufatti e stimarne fabbisogni e scarti.
 
+
+## Prerequisiti e progressione
+
+Supporti, processi e prove controllate del III; prerequisito quantitativo: aree, percentuali e tempi.
+
+**Esito atteso a fine anno:** Gestire tecnicamente un lotto pilota e descrivere la commessa con tempi e consumi.
+
+Raccordo: [scheda dell’anno precedente](anno-03.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 165 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 165 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Analisi della commessa — 22 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie applicate ai materiali e ai processi produttivi | 114 | 18 | 132 |
+| Tecniche di gestione e organizzazione del processo produttivo | 27 | 6 | 33 |
 
-- **10 ore** — Ricavare quantità, formato, materiale e finitura da un ordine simulato.
-- **12 ore** — Individuare passaggi mancanti e chiarimenti necessari prima di avviare il lotto.
+### D1 · Tecnologie applicate ai materiali e ai processi produttivi — 132 ore
 
-### Imposizione e consumo — 23 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **10 ore** — Confrontare due disposizioni sul foglio includendo margini e vincoli di lavorazione.
-- **13 ore** — Calcolare resa e scarto con unità coerenti, separando sfrido previsto e difetti prodotti.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Ciclo di lavorazione — 21 ore
+#### D1.1 · Analisi tecnica della commessa — 24 ore
 
-- **10 ore** — Rappresentare operazioni, postazioni e controlli intermedi in una scheda di ciclo.
-- **11 ore** — Distinguere preparazione, tempo per pezzo e attesa nel confronto fra due organizzazioni.
+- **4 ore** — Tradurre la richiesta in specifiche misurabili.
+- **6 ore** — Scegliere processo e supporto motivando le alternative.
+- **8 ore** — Definire formato, tiratura e finiture.
+- **6 ore** — Preparare una scheda tecnica con controlli.
 
-### Lotto pilota e consuntivo — 23 ore
+#### D1.2 · Prestampa e imposizione — 30 ore
 
-- **10 ore** — Raccogliere tempi e difetti di una piccola serie usando criteri costanti.
-- **13 ore** — Correggere la stima iniziale e proporre un miglioramento compatibile con gli strumenti scolastici.
+- **6 ore** — Controllare file, abbondanze e segni di lavorazione.
+- **8 ore** — Proporre imposizioni semplici rispettando piega e rifilo.
+- **8 ore** — Calcolare consumo e sfrido del foglio.
+- **8 ore** — Verificare la sequenza con una prova fisica.
 
-### Attività di laboratorio e applicazione — 43 ore
+#### D1.3 · Lavorazione e lotto pilota — 30 ore
 
-- **13 ore** — Rilevare vincoli di formato, quantità e finitura.
-- **15 ore** — Disegnare il ciclo di lavorazione e confrontare due disposizioni su foglio per il consumo di materiale.
-- **15 ore** — Registrare tempi e difetti di un lotto pilota. Se la scuola attiva la disciplina gestionale, distribuire i ruoli e pianificare un secondo lotto.
+- **6 ore** — Definire operazioni, attrezzature e parametri.
+- **8 ore** — Produrre o simulare un lotto campione.
+- **8 ore** — Rilevare tempi, difetti e sprechi.
+- **8 ore** — Correggere il ciclo e documentare le modifiche.
 
-### Verifiche, recupero e consolidamento — 33 ore
+#### D1.4 · Qualità di processo — 30 ore
 
-- **16 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **10 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **7 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Stabilire punti di controllo e criteri di accettazione.
+- **8 ore** — Distinguere variabilità occasionale e difetto ricorrente.
+- **8 ore** — Confrontare risultati e specifiche della commessa.
+- **8 ore** — Redigere il rapporto tecnico del lotto.
 
-**Totale della proposta: 165 ore = 132 ore nei nuclei e nelle applicazioni + 33 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+### D2 · Tecniche di gestione e organizzazione del processo produttivo — 33 ore
+
+#### D2.0 · Diagnosi e raccordo — 2 ore
+
+- **2 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Commessa e risorse — 8 ore
+
+- **2 ore** — Leggere ordine, distinta e calendario.
+- **3 ore** — Assegnare ruoli e dipendenze delle lavorazioni.
+- **3 ore** — Verificare disponibilità di materiali e strumenti.
+
+#### D2.2 · Tempi e costi elementari — 9 ore
+
+- **3 ore** — Rilevare tempi distinguendo preparazione ed esecuzione.
+- **3 ore** — Stimare consumi e costi diretti con dati forniti.
+- **3 ore** — Confrontare due organizzazioni del piccolo lotto.
+
+#### D2.3 · Consuntivo — 10 ore
+
+- **3 ore** — Registrare avanzamento e scostamenti.
+- **3 ore** — Proporre un miglioramento sostenuto dai dati.
+- **4 ore** — Presentare il consuntivo della commessa.
+
+#### D2.4 · Verifiche, restituzione e recupero — 4 ore
+
+- **1 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **1 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **1 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **1 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 33 ore = 27 ore di nuclei e applicazioni + 2 ore di diagnosi + 2 ore di verifiche/restituzione + 2 ore di recupero/consolidamento.**
+
+**Totale della proposta: 165 ore = 141 ore nei nuclei e nelle applicazioni + 24 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Analisi della commessa.** Ricavare quantità, formato, materiale e finitura da un ordine simulato. Individuare passaggi mancanti e chiarimenti necessari prima di avviare il lotto.
+
+**Imposizione e consumo.** Confrontare due disposizioni sul foglio includendo margini e vincoli di lavorazione. Calcolare resa e scarto con unità coerenti, separando sfrido previsto e difetti prodotti.
+
+**Ciclo di lavorazione.** Rappresentare operazioni, postazioni e controlli intermedi in una scheda di ciclo. Distinguere preparazione, tempo per pezzo e attesa nel confronto fra due organizzazioni.
+
+**Lotto pilota e consuntivo.** Raccogliere tempi e difetti di una piccola serie usando criteri costanti. Correggere la stima iniziale e proporre un miglioramento compatibile con gli strumenti scolastici.
+
+**Attività di laboratorio e applicazione.** Rilevare vincoli di formato, quantità e finitura. Disegnare il ciclo di lavorazione e confrontare due disposizioni su foglio per il consumo di materiale. Registrare tempi e difetti di un lotto pilota. Se la scuola attiva la disciplina gestionale, distribuire i ruoli e pianificare un secondo lotto.
 
 ## Compito e verifica
 
@@ -89,3 +163,6 @@ La proposta riguarda la declinazione grafica del professionale. Profili e quadro
 - [Tecnologie dei processi di produzione, seconda edizione: carta d'identità dell'opera](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499714_cartaidentita.pdf) — Clitt / Zanichelli; PDF pp. 1–2: materiali, processo dalla progettazione al prodotto, sostenibilità.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

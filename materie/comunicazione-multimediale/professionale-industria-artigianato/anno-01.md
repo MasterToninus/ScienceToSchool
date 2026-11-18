@@ -24,43 +24,81 @@ Il quadro assegna un intervallo all’intero biennio: la distribuzione fra prima
 
 Identificare le caratteristiche di un piccolo manufatto grafico e rappresentarne le dimensioni.
 
+
+## Prerequisiti e progressione
+
+Lettura di misure, uso di riga e consegne semplici; nessuna competenza specialistica presupposta.
+
+**Esito atteso a fine anno:** Descrivere e rappresentare un semplice prodotto grafico scegliendo supporto e criteri di leggibilità.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 99 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 99 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Prodotto grafico e supporto — 15 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie, disegno e progettazione | 84 | 15 | 99 |
 
-- **7 ore** — Distinguere funzione, formato e parti di un piccolo manufatto stampato.
-- **8 ore** — Confrontare carte e altri supporti osservando rigidità, superficie e destinazione.
+### D1 · Tecnologie, disegno e progettazione — 99 ore
 
-### Misure e rappresentazione — 14 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **6 ore** — Rilevare dimensioni con strumenti semplici e dichiarare unità e approssimazioni.
-- **8 ore** — Scegliere viste e scala sufficienti a ricostruire l'oggetto senza ambiguità.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Segni e leggibilità — 14 ore
+#### D1.1 · Prodotto e filiera — 18 ore
 
-- **6 ore** — Riconoscere testo, immagine, margini e gerarchia in esempi di comunicazione stampata.
-- **8 ore** — Provare due disposizioni dello stesso contenuto e confrontarne la leggibilità.
+- **4 ore** — Riconoscere funzione, destinatario e supporto di oggetti grafici.
+- **4 ore** — Distinguere progetto, prestampa, stampa e finitura.
+- **6 ore** — Osservare campioni e descrivere difetti evidenti.
+- **4 ore** — Registrare materiali e provenienza in una scheda.
 
-### Scheda del campione — 13 ore
+#### D1.2 · Misure e disegno — 21 ore
 
-- **6 ore** — Associare campione, disegno e codice identificativo in una scheda condivisa.
-- **7 ore** — Separare proprietà osservate, misurate e dichiarate dal fornitore.
+- **4 ore** — Misurare formati, spessori e ingombri con unità coerenti.
+- **5 ore** — Tracciare viste e quote essenziali.
+- **6 ore** — Usare scale e costruzioni geometriche semplici.
+- **6 ore** — Verificare corrispondenza fra disegno e campione.
 
-### Attività di laboratorio e applicazione — 23 ore
+#### D1.3 · Segni e composizione — 21 ore
 
-- **7 ore** — Distinguere supporto, immagine e finitura in un campionario di prodotti.
-- **8 ore** — Misurare un oggetto, disegnare le viste utili e descrivere la scelta della scala.
-- **8 ore** — Preparare una scheda materiali con un campione e le condizioni di osservazione.
+- **4 ore** — Confrontare caratteri, allineamenti e gerarchie.
+- **5 ore** — Sperimentare contrasto e leggibilità.
+- **6 ore** — Associare testo e immagine per una funzione precisa.
+- **6 ore** — Preparare una bozza motivata.
 
-### Verifiche, recupero e consolidamento — 20 ore
+#### D1.4 · Campione e documentazione — 24 ore
 
-- **10 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **6 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **4 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Selezionare carta o cartoncino per un piccolo manufatto.
+- **6 ore** — Realizzare un prototipo semplice con strumenti autorizzati.
+- **8 ore** — Confrontare misure, risultato e istruzioni.
+- **6 ore** — Consegnare scheda, disegno e revisione.
 
-**Totale della proposta: 99 ore = 79 ore nei nuclei e nelle applicazioni + 20 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 99 ore = 84 ore nei nuclei e nelle applicazioni + 15 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Prodotto grafico e supporto.** Distinguere funzione, formato e parti di un piccolo manufatto stampato. Confrontare carte e altri supporti osservando rigidità, superficie e destinazione.
+
+**Misure e rappresentazione.** Rilevare dimensioni con strumenti semplici e dichiarare unità e approssimazioni. Scegliere viste e scala sufficienti a ricostruire l'oggetto senza ambiguità.
+
+**Segni e leggibilità.** Riconoscere testo, immagine, margini e gerarchia in esempi di comunicazione stampata. Provare due disposizioni dello stesso contenuto e confrontarne la leggibilità.
+
+**Scheda del campione.** Associare campione, disegno e codice identificativo in una scheda condivisa. Separare proprietà osservate, misurate e dichiarate dal fornitore.
+
+**Attività di laboratorio e applicazione.** Distinguere supporto, immagine e finitura in un campionario di prodotti. Misurare un oggetto, disegnare le viste utili e descrivere la scelta della scala. Preparare una scheda materiali con un campione e le condizioni di osservazione.
 
 ## Compito e verifica
 
@@ -88,3 +126,6 @@ La proposta riguarda la declinazione grafica del professionale. Profili e quadro
 - [Immaginando, Andrea Rosati e Floriana Maruca, ISBN 9788820372644](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128) — Hoepli; Presentazione e destinazione del manuale.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

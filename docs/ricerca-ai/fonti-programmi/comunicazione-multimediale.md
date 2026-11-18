@@ -1,5 +1,7 @@
 # Fonti per i programmi di comunicazione multimediale
 
+**Aggiornamento della revisione critica, 18/11/2026:** [fonti nuovamente esaminate, recuperi e correzioni](../revisione-critica-settori.md). I limiti di accesso descritti nella ricognizione sottostante vanno letti insieme agli esiti successivi di questo rapporto; non implicano che un documento recuperato in seguito sia ancora non consultato.
+
 Ricerca autonoma assistita dall’IA, consultazione del **18 novembre 2026**. Il percorso di ricerca è stato: atti nazionali → indirizzi e coorti → programmazioni scolastiche → materiali di enti e cataloghi editoriali. È una ricerca sistematica e non esaustiva. I nuclei delle schede sono proposte originali di organizzazione didattica; la consultazione non equivale a validazione docente.
 
 [Attività nel registro cumulativo](../../interazioni-ai/registro.md#ai-0014).

@@ -31,42 +31,143 @@ Il nuovo piano comprende Tecnologie dei materiali e processi produttivi e Ideazi
 
 Nella classe frequentata nel 2026/27 il piano precedente comprende le tecnologie dei materiali e dei processi della moda e l’ideazione, progettazione e industrializzazione dei prodotti moda. [DM 259/2017, tabella A](https://www.unife.it/it/corsi/formazione-insegnanti/30-e-60-cfu/documenti-60-30-cfu_2025/dm-259_17_tabella-a.pdf).
 
+
+## Prerequisiti e progressione
+
+Materiali, componenti e sagome del II; proporzioni e rappresentazione prima della forma tridimensionale.
+
+**Esito atteso a fine anno:** Collegare forma, materiale e processo costruendo una busta modello tecnicamente leggibile.
+
+Raccordo: [scheda dell’anno precedente](anno-02.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Modellistica, CAD e industrializzazione sono esercitazioni scolastiche progressive. I prototipi verificano ipotesi progettuali; non dimostrano conformità del prodotto, prestazioni certificate o competenza professionale autonoma. Le lavorazioni richiedono strumenti autorizzati e procedure del laboratorio.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 363 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 363 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Forma e volume della calzatura — 47 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie dei materiali e dei processi produttivi e organizzativi della moda | 144 | 21 | 165 |
+| Ideazione, progettazione e industrializzazione dei prodotti moda | 174 | 24 | 198 |
 
-- **21 ore** — Mettere in relazione forma didattica, volume della tomaia e posizione dei componenti.
-- **26 ore** — Riconoscere funzione di puntale e contrafforte usando modelli, senza prescrizioni ortopediche.
+### D1 · Tecnologie dei materiali e dei processi produttivi e organizzativi della moda — 165 ore
 
-### Distinta e specifiche — 54 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **25 ore** — Codificare pezzi, materiali, quantità e verso di impiego in una distinta semplice.
-- **29 ore** — Collegare ogni voce della distinta al disegno e alla prova di assemblaggio.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Dal rilievo al tracciato CAD — 54 ore
+#### D1.1 · Materiali e componenti — 24 ore
 
-- **25 ore** — Sviluppare in piano pezzi scelti e trasferirli in un disegno digitale controllato.
-- **29 ore** — Distinguere profili, tacche e margini verificando scale e corrispondenza fra pezzi.
+- **4 ore** — Classificare pelli, tessuti e sintetici per impiego.
+- **6 ore** — Confrontare proprietà di tomaie, fodere e fondi.
+- **8 ore** — Leggere schede tecniche e riconoscere difetti.
+- **6 ore** — Preparare controlli in ingresso su campioni.
 
-### Busta modello e controllo — 46 ore
+#### D1.2 · Preparazione e taglio — 30 ore
 
-- **21 ore** — Riunire disegni, distinta, campione e note in un fascicolo riproducibile.
-- **25 ore** — Individuare e correggere un errore mediante confronto tra forma, pezzi in piano e prova di carta.
+- **6 ore** — Descrivere disposizione dei pezzi e direzioni del materiale.
+- **8 ore** — Confrontare taglio manuale, fustella e sistemi digitali.
+- **8 ore** — Stimare consumo e scarto su sagome.
+- **8 ore** — Riconoscere rischi, protezioni e limiti dell’attrezzatura scolastica.
 
-### Attività di laboratorio e applicazione — 89 ore
+#### D1.3 · Orlatura e assemblaggio — 30 ore
 
-- **40 ore** — Analizzare le relazioni tra forma, volume della tomaia e funzione dei rinforzi. Compilare una distinta per un modello semplice.
-- **49 ore** — Sviluppare in piano alcuni pezzi di un modello su forma didattica. Passare dal rilievo manuale al tracciato CAD, distinguendo profilo, tacche di riscontro e margini.
+- **6 ore** — Riconoscere preparazioni e giunzioni della tomaia.
+- **8 ore** — Descrivere macchine e parametri dell’orlatura.
+- **8 ore** — Confrontare fili, rinforzi e accoppiamenti.
+- **8 ore** — Analizzare difetti su campioni predisposti.
 
-### Verifiche, recupero e consolidamento — 73 ore
+#### D1.4 · Montaggio e fondo — 30 ore
 
-- **36 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **22 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **15 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Ricostruire le fasi dal semilavorato alla calzatura.
+- **8 ore** — Distinguere incollaggio, cucitura e altre soluzioni costruttive.
+- **8 ore** — Collegare processo, materiale e attrezzatura.
+- **8 ore** — Documentare un ciclo senza eseguire lavorazioni non autorizzate.
 
-**Totale della proposta: 363 ore = 290 ore nei nuclei e nelle applicazioni + 73 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Dati e organizzazione — 30 ore
+
+- **6 ore** — Preparare distinta e sequenza operativa.
+- **8 ore** — Rilevare tempi e consumi in una simulazione.
+- **8 ore** — Individuare punti di controllo del prodotto.
+- **8 ore** — Redigere una scheda tecnica coerente con il modello.
+
+#### D1.6 · Verifiche, restituzione e recupero — 18 ore
+
+- **5 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **5 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 165 ore = 144 ore di nuclei e applicazioni + 3 ore di diagnosi + 10 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+### D2 · Ideazione, progettazione e industrializzazione dei prodotti moda — 198 ore
+
+#### D2.0 · Diagnosi e raccordo — 4 ore
+
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Storia e ricerca del prodotto — 30 ore
+
+- **6 ore** — Confrontare forme della calzatura in contesti storici.
+- **8 ore** — Collegare costume, arte e funzione.
+- **8 ore** — Raccogliere riferimenti con fonti riconoscibili.
+- **8 ore** — Definire una proposta stilistica originale.
+
+#### D2.2 · Piede, forma e volume — 36 ore
+
+- **6 ore** — Descrivere relazioni fra piede, forma e calzatura.
+- **8 ore** — Rilevare misure senza formulare valutazioni cliniche.
+- **12 ore** — Confrontare volumi e destinazioni d’uso.
+- **10 ore** — Rappresentare una forma con viste e riferimenti.
+
+#### D2.3 · Modellistica di base — 36 ore
+
+- **6 ore** — Trasferire il rilievo in tracciati guidati.
+- **8 ore** — Disegnare componenti, margini e punti di unione.
+- **12 ore** — Verificare corrispondenze e simmetrie.
+- **10 ore** — Preparare un prototipo cartaceo e correggerlo.
+
+#### D2.4 · CAD e documentazione — 42 ore
+
+- **8 ore** — Digitalizzare sagome con controllo di scala.
+- **10 ore** — Organizzare livelli, codici e versioni.
+- **12 ore** — Completare schede e distinta dei componenti.
+- **12 ore** — Confrontare modello manuale e digitale.
+
+#### D2.5 · Busta modello — 30 ore
+
+- **6 ore** — Definire materiali, colori e varianti.
+- **8 ore** — Raccogliere tracciati e specifiche in un fascicolo.
+- **8 ore** — Presentare la coerenza fra stile e funzionalità.
+- **8 ore** — Archiviare revisioni e motivazioni della scelta.
+
+#### D2.6 · Verifiche, restituzione e recupero — 20 ore
+
+- **6 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **6 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 198 ore = 174 ore di nuclei e applicazioni + 4 ore di diagnosi + 12 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+**Totale della proposta: 363 ore = 318 ore nei nuclei e nelle applicazioni + 45 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Forma e volume della calzatura.** Mettere in relazione forma didattica, volume della tomaia e posizione dei componenti. Riconoscere funzione di puntale e contrafforte usando modelli, senza prescrizioni ortopediche.
+
+**Distinta e specifiche.** Codificare pezzi, materiali, quantità e verso di impiego in una distinta semplice. Collegare ogni voce della distinta al disegno e alla prova di assemblaggio.
+
+**Dal rilievo al tracciato CAD.** Sviluppare in piano pezzi scelti e trasferirli in un disegno digitale controllato. Distinguere profili, tacche e margini verificando scale e corrispondenza fra pezzi.
+
+**Busta modello e controllo.** Riunire disegni, distinta, campione e note in un fascicolo riproducibile. Individuare e correggere un errore mediante confronto tra forma, pezzi in piano e prova di carta.
+
+**Attività di laboratorio e applicazione.** Analizzare le relazioni tra forma, volume della tomaia e funzione dei rinforzi. Compilare una distinta per un modello semplice. Sviluppare in piano alcuni pezzi di un modello su forma didattica. Passare dal rilievo manuale al tracciato CAD, distinguendo profilo, tacche di riscontro e margini.
 
 ## Prova di apprendimento
 
@@ -88,3 +189,6 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida pre
 - [ADA.05.04.02, Realizzazione dei modelli base delle calzature](https://www.inapp.gov.it/atlantelavoro/esplora-atlante-lavoro/dettaglio-ada/?id_ada=443) — INAPP, Atlante del Lavoro; Risultati attesi e raccordi alle qualificazioni.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie della calzatura](../../../docs/ricerca-ai/fonti-programmi/tecnologie-della-calzatura.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

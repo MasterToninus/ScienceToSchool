@@ -28,9 +28,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Ipotesi didattica: 66 ore in I e 66 in II, totale TIC 132 nel biennio; ripartizione da validare nel PTOF, compatibile con tutti gli intervalli della tabella.
+- **Ipotesi PTOF: 66 ore annue**: 66 = **66 ore**; Tecnologie dell’informazione e della comunicazione 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie dell’informazione e della comunicazione negli istituti professionali](README.md)
 
@@ -38,38 +40,55 @@ Verificare ore, declinazione e profilo nel curricolo di istituto. La proposta se
 
 ## Programma proposto per nuclei tematici
 
-Organizzare file e cartelle, compilare un documento a partire da una consegna, rilevare varietà e qualità dei dati, scrivere formule per una quantità e il suo costo. Per l’area sanitaria usare dati fittizi, per manutenzione una scheda macchina, per i servizi un ordine.
+**Prerequisiti e avvio.** Lettura di una consegna e calcolo elementare; nessun applicativo professionale presupposto.
 
-### Postazione e archivio — 12 ore
+**Raccordo e progressione.** Il caso applicativo cambia fra gli undici indirizzi del README; settore sanitario con dati sintetici, manutenzione con schede macchina, servizi con ordini. Questi sono contesti alternativi nelle stesse ore.
 
-- **7 ore** — Riconoscere dispositivi, sistema operativo e applicazioni pertinenti al settore professionale.
-- **5 ore** — Organizzare cartelle e versioni di una commessa simulata, provando salvataggio, riapertura ed esportazione.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi PTOF: 66 ore annue
 
-### Documenti professionali — 15 ore
+#### S1D1 · Tecnologie dell’informazione e della comunicazione — 66 ore
 
-- **8 ore** — Redigere una scheda di macchina, un ordine di servizio o una descrizione di attività con titoli e tabella.
-- **7 ore** — Usare stili coerenti e immagini con fonte, adattando il linguaggio al destinatario.
+##### S1D1N1 · Ambiente digitale — 12 ore
 
+- **6 ore** — Riconoscere dispositivi, sistema operativo, applicazioni e servizi mediante un documento di lavoro.
+- **6 ore** — Organizzare cartelle, nomi, versioni e copie; provare riapertura ed esportazione.
 
-### Dati e calcoli — 15 ore
+##### S1D1N2 · Documenti professionali — 14 ore
 
-- **8 ore** — Inserire quantità, tempi e costi distinguendo numeri, date, testo e unità.
-- **7 ore** — Costruire formule e totali, individuare errori di digitazione e verificare calcoli indipendenti.
+- **8 ore** — Redigere una lettera, scheda o ordine con stili, tabella e immagini attribuite.
+- **6 ore** — Preparare una presentazione sintetica per un destinatario e controllarne accessibilità iniziale.
 
+##### S1D1N3 · Foglio elettronico — 18 ore
 
-### Comunicazione responsabile — 14 ore
+- **8 ore** — Inserire quantità, unità, date e prezzi distinguendo valore e formato.
+- **10 ore** — Usare formule, riferimenti relativi e assoluti, percentuali e totali con controllo indipendente.
 
-- **8 ore** — Preparare un messaggio professionale con oggetto, richiesta e allegato pertinente, simulandone l’invio.
-- **6 ore** — Nel settore sociosanitario usare solo casi sintetici; riconoscere dati riservati e condividere quanto necessario al compito.
+##### S1D1N4 · Comunicazione e protezione — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Cercare una fonte, riconoscerne autore e data e confrontarla con una seconda evidenza.
+- **6 ore** — Simulare messaggio e condivisione con ruoli; usare dati sintetici e spiegare credenziali, licenze e riservatezza.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi PTOF: 66 ore annue | Tecnologie dell’informazione e della comunicazione | 56 | 10 | **66 ore** |
+
+**Totale Ipotesi PTOF: 66 ore annue: 66 ore.**
+
+**Fondamento e limite della revisione.** [DI 92/2018, allegato 1, competenze generali 7 e 8, da declinare per indirizzo](https://nuoviprofessionali.indire.it/wp-content/uploads/2018/12/ALLEGATO-1_-Competenze-pecup-professionali-area-generale-Def-1.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -92,3 +111,25 @@ Il testo è specifico per due indirizzi. Per gli altri riusare solo le tecniche 
 - [The Document Foundation, Calc Guide 7.2 – Formulas and Functions](https://books.libreoffice.org/en/CG72/CG7207-FormulasAndFunctions.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Organizzare file e cartelle, compilare un documento a partire da una consegna, rilevare varietà e qualità dei dati, scrivere formule per una quantità e il suo costo. Per l’area sanitaria usare dati fittizi, per manutenzione una scheda macchina, per i servizi un ordine.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Riconoscere dispositivi, sistema operativo e applicazioni pertinenti al settore professionale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare cartelle e versioni di una commessa simulata, provando salvataggio, riapertura ed esportazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Redigere una scheda di macchina, un ordine di servizio o una descrizione di attività con titoli e tabella. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare stili coerenti e immagini con fonte, adattando il linguaggio al destinatario. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Inserire quantità, tempi e costi distinguendo numeri, date, testo e unità. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire formule e totali, individuare errori di digitazione e verificare calcoli indipendenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare un messaggio professionale con oggetto, richiesta e allegato pertinente, simulandone l’invio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Nel settore sociosanitario usare solo casi sintetici; riconoscere dati riservati e condividere quanto necessario al compito. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

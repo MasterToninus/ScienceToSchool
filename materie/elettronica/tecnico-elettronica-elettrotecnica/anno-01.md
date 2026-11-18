@@ -18,9 +18,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Fondamenti di elettrotecnica ed elettronica, DM 29†: 132 ore.
+- **Ipotesi sul quadro iniziale: 132 ore**: 132 = **132 ore**; Fondamenti di elettrotecnica ed elettronica 132 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Elettrotecnica, elettronica e sistemi automatici nel tecnico di indirizzo](README.md)
 
@@ -28,38 +30,65 @@ Prima riformata dal 2026/27. La proposta seguente si può adattare alla classe.
 
 ## Programma proposto per nuclei tematici
 
-Leggere simboli e unità, riconoscere alimentatore, utilizzatore e strumenti. Passare dalle leggi di Ohm e Kirchhoff a previsioni di tensione e corrente. Esaminare una tabella di misure su circuito didattico a bassissima tensione.
+**Prerequisiti e avvio.** Prima: proporzioni, lettura di grafici e unità; algebra circuitale introdotta gradualmente.
 
-### Grandezze e unità — 25 ore
+**Raccordo e progressione.** La seconda qui presente appartiene ancora alla coorte previgente; la prima riformata richiede sviluppo futuro dedicato, non una concatenazione automatica dei due quadri.
 
-- **14 ore** — Distinguere tensione, corrente, resistenza, energia e potenza attraverso esempi numerici e unità coerenti.
-- **11 ore** — Leggere simboli e schemi elementari distinguendo generatore, carico e strumenti.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi sul quadro iniziale: 132 ore
 
-### Reti resistive — 29 ore
+#### S1D1 · Fondamenti di elettrotecnica ed elettronica — 132 ore
 
-- **16 ore** — Calcolare serie e paralleli e applicare la legge di Ohm a circuiti semplici.
-- **13 ore** — Verificare conservazione delle correnti ai nodi e bilancio delle tensioni su una maglia.
+##### S1D1N1 · Linguaggio e grandezze — 22 ore
 
+- **8 ore** — Distinguere tensione, corrente, resistenza, energia e potenza e usare le unità.
+- **8 ore** — Leggere simboli, generatori, carichi e strumenti nello schema.
+- **6 ore** — Confrontare materiali conduttori e isolanti e condizioni d’impiego.
 
-### Misura e confronto — 29 ore
+##### S1D1N2 · Circuiti elementari — 22 ore
 
-- **16 ore** — Scegliere scala e punto di misura in una simulazione o in un banco a bassa tensione predisposto dal docente.
-- **13 ore** — Registrare valore, unità e risoluzione e confrontare calcolo ideale e risultato osservato.
+- **8 ore** — Calcolare serie e parallelo e applicare Ohm su un circuito semplice.
+- **8 ore** — Verificare bilancio ai nodi e alle maglie con misure simulate.
+- **6 ore** — Confrontare modello ideale e tolleranze dei componenti.
 
+##### S1D1N3 · Misure — 22 ore
 
-### Relazione tecnica — 29 ore
+- **8 ore** — Scegliere strumenti, portate e collegamenti in un banco predisposto o simulato.
+- **8 ore** — Registrare valori, unità e risoluzione; interpretare uno scostamento.
+- **6 ore** — Distinguere misura di tensione, corrente e resistenza nelle procedure didattiche.
 
-- **16 ore** — Preparare schema, distinta e tabella delle misure, rendendo ripetibile il confronto.
-- **13 ore** — Motivare scostamenti dovuti a tolleranze o modello e dichiarare i limiti dell’attività svolta.
+##### S1D1N4 · Sistema e progetto — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Rappresentare un dispositivo con alimentazione, segnale e uscita.
+- **6 ore** — Preparare schema, distinta e procedura di prova.
+- **6 ore** — Presentare risultati e limiti rispetto al dispositivo reale.
 
-- **20 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Applicazioni di fondamento — 30 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 112 | 20 | **132 ore** |
+- **10 ore** — Confrontare energia e potenza in più configurazioni di carico.
+- **10 ore** — Descrivere capacità, induzione e forme d’onda attraverso fenomeni guidati.
+- **10 ore** — Realizzare una seconda prova e confrontare quantitativamente risultati e ipotesi.
+
+##### S1D1R · Verifica, restituzione e recupero — 16 ore
+
+- **5 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **5 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **6 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 116 ore di nuclei + 16 ore di verifica, restituzione e recupero = **132 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi sul quadro iniziale: 132 ore | Fondamenti di elettrotecnica ed elettronica | 116 | 16 | **132 ore** |
+
+**Totale Ipotesi sul quadro iniziale: 132 ore: 132 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, profili A-1/A-3/A-6/A-7/A-8/A-9 e quadri iniziali C; limite di coordinamento DL 170 dichiarato sopra](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -81,3 +110,25 @@ Parte Elettrotecnica generale e introduzione alla metrologia.
 - [OpenStax, University Physics Volume 2 – 10.3 Kirchhoff’s Rules](https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Leggere simboli e unità, riconoscere alimentatore, utilizzatore e strumenti. Passare dalle leggi di Ohm e Kirchhoff a previsioni di tensione e corrente. Esaminare una tabella di misure su circuito didattico a bassissima tensione.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Distinguere tensione, corrente, resistenza, energia e potenza attraverso esempi numerici e unità coerenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Leggere simboli e schemi elementari distinguendo generatore, carico e strumenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Calcolare serie e paralleli e applicare la legge di Ohm a circuiti semplici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Verificare conservazione delle correnti ai nodi e bilancio delle tensioni su una maglia. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scegliere scala e punto di misura in una simulazione o in un banco a bassa tensione predisposto dal docente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Registrare valore, unità e risoluzione e confrontare calcolo ideale e risultato osservato. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare schema, distinta e tabella delle misure, rendendo ripetibile il confronto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Motivare scostamenti dovuti a tolleranze o modello e dichiarare i limiti dell’attività svolta. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

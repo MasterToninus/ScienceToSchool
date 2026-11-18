@@ -31,43 +31,178 @@ Il programma accosta progettazione, produzione e laboratorio. Le discipline ripo
 
 Progettare un sistema di materiali tra loro riconoscibili per una piccola campagna.
 
+
+## Prerequisiti e progressione
+
+Progettazione grafica, colore e laboratorio del III; acquisizione audio-video prima di animazione e multicanale.
+
+**Esito atteso a fine anno:** Realizzare una comunicazione coordinata integrando stampa, audiovisivo e prototipo web.
+
+Raccordo: [scheda dell’anno precedente](anno-03.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 429 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 429 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Identità e famiglia di formati — 56 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Progettazione multimediale | 84 | 15 | 99 |
+| Tecnologie dei processi di produzione | 114 | 18 | 132 |
+| Laboratori tecnici | 174 | 24 | 198 |
 
-- **25 ore** — Individuare elementi invarianti e adattabili di una comunicazione multicanale.
-- **31 ore** — Preparare bozzetti per formati diversi motivando tagli, proporzioni e gerarchie.
+### D1 · Progettazione multimediale — 99 ore
 
-### Animazione essenziale — 60 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **27 ore** — Progettare durata, passaggi e ritmo di una breve animazione funzionale al messaggio.
-- **33 ore** — Controllare leggibilità del testo in movimento e continuità con il prodotto stampato.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Flusso di produzione — 56 ore
+#### D1.1 · Identità e sistema visivo — 18 ore
 
-- **25 ore** — Definire responsabilità, formati di scambio e controlli intermedi tra progettazione e consegna.
-- **31 ore** — Documentare versioni, risorse collegate e parametri di esportazione.
+- **4 ore** — Analizzare coerenza di una famiglia di prodotti.
+- **4 ore** — Definire pubblico, tono e vincoli del brief.
+- **6 ore** — Progettare segno, tipografia e palette.
+- **4 ore** — Redigere regole essenziali d’impiego.
 
-### Accessibilità e prova d'uso — 60 ore
+#### D1.2 · Editoriale e packaging — 21 ore
 
-- **27 ore** — Verificare contrasto, dimensione dei testi e informazioni equivalenti ai contenuti sonori.
-- **33 ore** — Raccogliere osservazioni su due supporti distinguendo difetti tecnici e problemi comunicativi.
+- **4 ore** — Organizzare un prodotto multipagina.
+- **5 ore** — Progettare una confezione semplice e la sua grafica.
+- **6 ore** — Verificare gerarchie, sequenza e leggibilità.
+- **6 ore** — Confrontare prototipi con criteri funzionali.
 
-### Attività di laboratorio e applicazione — 111 ore
+#### D1.3 · Audiovisivo e animazione — 21 ore
 
-- **33 ore** — Raccogliere riferimenti e progettare una famiglia di formati per ambienti diversi.
-- **39 ore** — Produrre una breve animazione e un elaborato stampato verificando continuità grafica e accessibilità.
-- **39 ore** — Pianificare passaggi, ruoli e verifiche nella fase che precede la consegna dei file.
+- **4 ore** — Scrivere una breve sceneggiatura promozionale.
+- **5 ore** — Progettare storyboard, ritmo e grafica in movimento.
+- **6 ore** — Confrontare messaggio su stampa e video.
+- **6 ore** — Revisionare in base al pubblico e al canale.
 
-### Verifiche, recupero e consolidamento — 86 ore
+#### D1.4 · Interfacce e accessibilità — 24 ore
 
-- **43 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **26 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **17 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Organizzare contenuti e navigazione di un piccolo sito.
+- **6 ore** — Disegnare wireframe e prototipo.
+- **8 ore** — Provare leggibilità, orientamento e uso da tastiera.
+- **6 ore** — Motivare le revisioni del sistema coordinato.
 
-**Totale della proposta: 429 ore = 343 ore nei nuclei e nelle applicazioni + 86 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+### D2 · Tecnologie dei processi di produzione — 132 ore
+
+#### D2.0 · Diagnosi e raccordo — 4 ore
+
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Processi e supporti avanzati — 24 ore
+
+- **4 ore** — Confrontare stampa convenzionale e digitale su casi di tiratura.
+- **6 ore** — Leggere schede di materiali e finiture.
+- **8 ore** — Verificare compatibilità e vincoli del ciclo.
+- **6 ore** — Progettare una prova comparativa.
+
+#### D2.2 · Gestione del colore — 30 ore
+
+- **6 ore** — Confrontare profili, gamut e conversioni.
+- **8 ore** — Predisporre un flusso coerente fra acquisizione e uscita.
+- **8 ore** — Leggere differenze delle prove colore.
+- **8 ore** — Documentare scostamenti e correzioni.
+
+#### D2.3 · Tecnologie audiovisive — 30 ore
+
+- **6 ore** — Descrivere registrazione e riproduzione di audio e video.
+- **8 ore** — Confrontare formati, compressione e qualità.
+- **8 ore** — Individuare vincoli di sincronizzazione e archiviazione.
+- **8 ore** — Definire specifiche tecniche per il progetto.
+
+#### D2.4 · Flusso e controllo — 30 ore
+
+- **6 ore** — Pianificare prestampa, stampa e poststampa del prodotto.
+- **8 ore** — Definire punti di controllo e criteri di accettazione.
+- **8 ore** — Confrontare consumo, scarti e tempi di lavorazione.
+- **8 ore** — Redigere un rapporto tecnico del ciclo.
+
+#### D2.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+### D3 · Laboratori tecnici — 198 ore
+
+#### D3.0 · Diagnosi e raccordo — 4 ore
+
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D3.1 · Grafica esecutiva coordinata — 30 ore
+
+- **6 ore** — Produrre file vettoriali e raster della nuova identità.
+- **8 ore** — Impaginare un elaborato multipagina con stili.
+- **8 ore** — Realizzare un mock-up di confezione.
+- **8 ore** — Revisionare i file secondo il progetto.
+
+#### D3.2 · Set e suono — 36 ore
+
+- **6 ore** — Preparare luci e acquisizione audio per una scena.
+- **8 ore** — Riprendere immagini e suoni con continuità.
+- **12 ore** — Gestire sincronizzazione e catalogo dei materiali.
+- **10 ore** — Correggere i difetti attraverso nuove prove mirate.
+
+#### D3.3 · Montaggio e animazione — 36 ore
+
+- **6 ore** — Montare il prodotto audiovisivo breve.
+- **8 ore** — Animare titoli ed elementi grafici essenziali.
+- **12 ore** — Integrare colore, suono e sottotitoli.
+- **10 ore** — Collaudare versioni per schermo e rete.
+
+#### D3.4 · Web e interazione — 42 ore
+
+- **8 ore** — Realizzare pagine con struttura HTML e stile CSS essenziali.
+- **10 ore** — Integrare media e collegamenti locali.
+- **12 ore** — Verificare adattamento a schermi diversi.
+- **12 ore** — Correggere navigazione e accessibilità di base.
+
+#### D3.5 · Produzione e qualità — 30 ore
+
+- **6 ore** — Preparare file e campioni di stampa.
+- **8 ore** — Eseguire controlli su supporti e finiture disponibili.
+- **8 ore** — Confrontare le versioni con il brief.
+- **8 ore** — Archiviare sorgenti e rapporto delle prove.
+
+#### D3.6 · Verifiche, restituzione e recupero — 20 ore
+
+- **6 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **6 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D3: 198 ore = 174 ore di nuclei e applicazioni + 4 ore di diagnosi + 12 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+**Totale della proposta: 429 ore = 372 ore nei nuclei e nelle applicazioni + 57 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Identità e famiglia di formati.** Individuare elementi invarianti e adattabili di una comunicazione multicanale. Preparare bozzetti per formati diversi motivando tagli, proporzioni e gerarchie.
+
+**Animazione essenziale.** Progettare durata, passaggi e ritmo di una breve animazione funzionale al messaggio. Controllare leggibilità del testo in movimento e continuità con il prodotto stampato.
+
+**Flusso di produzione.** Definire responsabilità, formati di scambio e controlli intermedi tra progettazione e consegna. Documentare versioni, risorse collegate e parametri di esportazione.
+
+**Accessibilità e prova d'uso.** Verificare contrasto, dimensione dei testi e informazioni equivalenti ai contenuti sonori. Raccogliere osservazioni su due supporti distinguendo difetti tecnici e problemi comunicativi.
+
+**Attività di laboratorio e applicazione.** Raccogliere riferimenti e progettare una famiglia di formati per ambienti diversi. Produrre una breve animazione e un elaborato stampato verificando continuità grafica e accessibilità. Pianificare passaggi, ruoli e verifiche nella fase che precede la consegna dei file.
 
 ## Compito e verifica
 
@@ -95,3 +230,8 @@ La Direttiva 4/2012 sostiene il confronto con il quadro precedente; il D.M. 29/2
 - [Tecnologie dei processi di produzione, seconda edizione: carta d'identità dell'opera](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499714_cartaidentita.pdf) — Clitt / Zanichelli; PDF pp. 1–2: materiali, processo dalla progettazione al prodotto, sostenibilità.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+
+- [IISS Mattei, documento V H 2024/25, contenuti disciplinari grafici pp. 12–15](https://www.iissmatteimaglie.edu.it/wp-content/uploads/2025/05/timbrato_FIRMATO_QuintaH.pdf#page=12) — confronto didattico per il raccordo verso il quinto anno; non scansione nazionale obbligatoria.

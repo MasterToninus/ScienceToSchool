@@ -21,56 +21,62 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Riferimento.** Per la prima dal 2026/27 si applica il DM 221/2025. La proposta introduce argomentazione, indagine sperimentale e algoritmi nel lavoro ordinario. Il punto di partenza è una breve prova su calcolo, unità di misura e lettura di un grafico. [Indicazioni nazionali, allegato, Matematica e Scienze](https://www.gazzettaufficiale.it/eli/id/2026/01/27/26G00021/sg)
 
+## Prerequisiti, sequenza e sostenibilità
+
+Riprendere operazioni, lettura e misura dalla primaria; frazioni prima di rapporti e densità, osservazione della cellula prima di reti ecologiche. I filoni matematico e scientifico procedono in parallelo con questi raccordi. Le unità comprendono esercizio, laboratorio e controllo formativo; la riserva include diagnosi, verifiche sommative e recupero. Il tempo prolungato amplia esercitazione e indagine, senza aggiungere automaticamente un diverso curricolo. Le applicazioni e il compito finale usano le stesse ore.
+
+[Revisione critica e fonti per le due coorti](../../../docs/ricerca-ai/revisione-critica-matematica.md). La scansione annuale e la quota tra Matematica e Scienze sono ipotesi didattiche interne al monte integrato, da concordare nella scuola.
+
 ## Programma proposto per nuclei tematici
 
-**Ripartizione Tentative generata dall’IA:** **198 ore** (tempo ordinario); **297 ore** (tempo prolungato). Nei punti e nei subtotali i valori separati da «/» seguono questo stesso ordine e sono **alternativi**. I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
+**Ripartizione Tentative generata dall’IA: 198 h / 297 h**, rispettivamente tempo ordinario / prolungato. Gli scenari sono alternativi; i tempi non sono prescritti dalle Indicazioni. Le integrazioni DM 221/2025 decorrono con la coorte entrata in prima nel 2026/27.
 
 ### Matematica — numeri e operazioni
 
-**Subtotale: 55 h / 83 h.**
-
-- **17 h / 25 h** — Ordinare naturali e decimali e spiegare le proprietà delle quattro operazioni con esempi e controesempi.
-- **22 h / 33 h** — Usare divisibilità, fattorizzazione, MCD e mcm in problemi di raggruppamento; rappresentare frazioni equivalenti.
-- **16 h / 25 h** — Eseguire stime e conversioni, esplicitando unità e precisione della misura.
-
-### Matematica — figure e dati
-
 **Subtotale: 50 h / 75 h.**
 
-- **15 h / 23 h** — Costruire segmenti, angoli, triangoli e quadrilateri e riconoscerne proprietà, perimetri e simmetrie.
-- **20 h / 30 h** — Rappresentare punti nel piano e dati in tabelle e grafici; scegliere una scala coerente.
-- **15 h / 22 h** — Descrivere un procedimento con istruzioni ordinate, scelte e ripetizioni e verificarlo su un piccolo insieme di dati.
+- **10 h / 15 h** — Ordinare naturali e decimali, eseguire operazioni ed espressioni con precedenze e stime.
+- **8 h / 12 h** — Usare potenze e loro proprietà e confrontare sistemi di numerazione; per la nuova coorte introdurre il binario con piccoli numeri.
+- **10 h / 15 h** — Scomporre in fattori primi, usare multipli, divisori, MCD e mcm in problemi motivati.
+- **16 h / 24 h** — Confrontare frazioni equivalenti, passare a decimali ed eseguire operazioni con frazioni; usare rappresentazioni prima delle regole.
+- **6 h / 9 h** — Misurare, convertire unità e spiegare precisione e arrotondamenti con dati reali.
 
-### Scienze — osservare e sperimentare
+### Matematica — figure, dati e algoritmi
 
-**Subtotale: 16 h / 24 h.**
+**Subtotale: 44 h / 66 h.**
 
-- **5 h / 7 h** — Distinguere domanda, ipotesi, osservazione e interpretazione; scegliere una variabile da cambiare e una da misurare.
-- **6 h / 10 h** — Usare strumenti per lunghezza, massa, volume e temperatura, ripetendo una misura e annotando la risoluzione.
-- **5 h / 7 h** — Documentare un’esperienza con schema, tabella e conclusione limitata alle osservazioni.
+- **10 h / 15 h** — Costruire e misurare segmenti e angoli, usare relazioni fra rette e descrivere una costruzione.
+- **12 h / 18 h** — Classificare triangoli e quadrilateri, calcolare perimetri e riconoscere simmetrie e proprietà.
+- **8 h / 12 h** — Usare coordinate, tabelle, frequenze e grafici; scegliere scale e calcolare medie in esempi semplici.
+- **8 h / 12 h** — Descrivere e provare una procedura con sequenze, condizioni e ripetizioni; la coorte 2026/27 la realizza anche in un ambiente di programmazione didattico.
+- **6 h / 9 h** — Risolvere e spiegare un problema che colleghi numeri e figura, controllando un controesempio o una stima.
 
-### Scienze — materia e viventi
+### Scienze — metodo e materia
 
-**Subtotale: 24 h / 36 h.**
+**Subtotale: 20 h / 30 h.**
 
-- **7 h / 11 h** — Confrontare solidi, liquidi e gas e spiegare passaggi di stato con un modello particellare elementare.
-- **10 h / 14 h** — Separare miscugli con procedure didattiche predisposte dal docente e distinguere miscuglio e sostanza.
-- **7 h / 11 h** — Confrontare cellule animali e vegetali e classificare organismi mediante caratteri osservabili; collegare struttura e funzione.
+- **5 h / 8 h** — Formulare domande e ipotesi, distinguere variabili e ripetere misure con strumenti e unità adeguati.
+- **5 h / 7 h** — Confrontare stati fisici e miscugli, eseguire una separazione guidata e distinguere sostanza e miscuglio.
+- **5 h / 8 h** — Confrontare calore e temperatura, osservare equilibrio termico e passaggi di stato con un modello particellare.
+- **5 h / 7 h** — Misurare massa e volume, usare densità e descrivere galleggiamento e pressione in esperienze guidate.
 
-### Scienze — ambiente e sistema Terra
+### Scienze — viventi, ambiente e Terra
 
-**Subtotale: 13 h / 20 h.**
+**Subtotale: 32 h / 48 h.**
 
-- **4 h / 6 h** — Descrivere suolo, aria e ciclo dell’acqua e rilevare semplici dati ambientali.
-- **5 h / 8 h** — Rappresentare relazioni tra organismi e risorse in un ecosistema vicino alla scuola.
-- **4 h / 6 h** — Confrontare due luoghi o due momenti con lo stesso protocollo, senza attribuire una causa a una sola differenza osservata.
+- **8 h / 12 h** — Osservare cellule, confrontare procarioti/eucarioti e cellule animali/vegetali; distinguere organizzazione e funzione.
+- **8 h / 12 h** — Riconoscere piante, animali, funghi e microrganismi; classificare mediante caratteri e discutere adattamenti.
+- **8 h / 12 h** — Rappresentare reti alimentari, fotosintesi, respirazione e decomposizione in un ecosistema, collegando materia ed energia.
+- **8 h / 12 h** — Studiare suolo, aria e ciclo dell’acqua; confrontare dati di due siti con lo stesso protocollo senza dedurre automaticamente una causa.
 
 ### Verifiche, restituzione e recupero
 
-- **20 h / 30 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **20 h / 29 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 52 h / 78 h.**
 
-**Totale del piano: 198 h / 297 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **26 h / 39 h** — Prove e restituzione, incluso il compito conclusivo e il controllo delle esperienze.
+- **26 h / 39 h** — Diagnosi e recupero dei prerequisiti con esercizi differenziati.
+
+**Totale del piano: 198 h / 297 h.**
 
 ## Unità integrate e prodotti attesi
 

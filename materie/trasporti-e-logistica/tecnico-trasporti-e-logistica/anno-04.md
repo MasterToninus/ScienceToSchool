@@ -31,43 +31,134 @@ Le prime righe descrivono il percorso principale Logistica. La variante terrestr
 
 Dimensionare una semplice operazione di deposito o trasferimento sulla base di volumi e tempi osservati.
 
+
+## Prerequisiti e progressione
+
+Flussi, scorte e carta del III; calcolo percentuale e media prima degli indicatori e del dimensionamento.
+
+**Esito atteso a fine anno:** Dimensionare un sistema logistico semplice e confrontare vincoli di infrastruttura, ambiente e carico.
+
+Raccordo: [scheda dell’anno precedente](anno-03.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 264 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 264 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Layout del magazzino — 34 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Logistica — articolazione Logistica | 144 | 21 | 165 |
+| Scienze della navigazione e struttura dei mezzi di trasporto — articolazione Logistica | 84 | 15 | 99 |
 
-- **15 ore** — Rappresentare ricevimento, deposito, prelievo e spedizione con percorsi e legenda.
-- **19 ore** — Individuare incroci, ritorni e passaggi inutili confrontando due disposizioni.
+### D1 · Logistica — articolazione Logistica — 165 ore
 
-### Capacità e tempi — 37 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **17 ore** — Stimare capacità oraria e durata di un ordine con dati osservati o assegnati.
-- **20 ore** — Separare tempo operativo e attesa e individuare la fase che limita il flusso.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Gestione delle scorte e informazioni — 34 ore
+#### D1.1 · Magazzino e layout — 24 ore
 
-- **15 ore** — Confrontare semplici criteri di riordino dichiarando domanda e tempi ipotizzati.
-- **19 ore** — Controllare coerenza tra giacenze, ordini e movimenti registrati nel foglio di calcolo.
+- **4 ore** — Distinguere ricevimento, deposito, prelievo e spedizione.
+- **6 ore** — Progettare un layout con flussi leggibili.
+- **8 ore** — Calcolare spazi e capacità su dati assegnati.
+- **6 ore** — Confrontare due configurazioni.
 
-### Terminali e simulazione — 37 ore
+#### D1.2 · Gestione delle scorte — 30 ore
 
-- **17 ore** — Descrivere interfacce tra mezzo e terminale ferroviario, portuale o aeroportuale.
-- **20 ore** — Variare una sola ipotesi alla volta e spiegare come cambia il risultato del modello.
+- **6 ore** — Classificare articoli con criteri ABC semplici.
+- **8 ore** — Calcolare riordino e scorta di sicurezza in modelli dichiarati.
+- **8 ore** — Confrontare costo di scorta e rischio di indisponibilità.
+- **8 ore** — Valutare sensibilità a domanda e tempi.
 
-### Attività di laboratorio e applicazione — 69 ore
+#### D1.3 · Produzione e programmazione — 30 ore
 
-- **20 ore** — Descrivere aree di ricevimento, deposito, prelievo e spedizione e individuare interferenze di flusso.
-- **25 ore** — Stimare capacità oraria e tempi di attesa con un foglio di calcolo. Variare una sola ipotesi per volta.
-- **24 ore** — Studiare un terminale ferroviario, portuale o aeroportuale. Per i percorsi di conduzione scegliere lo scambio tra il mezzo e il terminale.
+- **6 ore** — Leggere distinte e sequenze di lavorazione.
+- **8 ore** — Calcolare fabbisogni elementari e capacità.
+- **8 ore** — Individuare colli di bottiglia.
+- **8 ore** — Simulare una programmazione con vincoli.
 
-### Verifiche, recupero e consolidamento — 53 ore
+#### D1.4 · Sistemi informativi — 30 ore
 
-- **26 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **16 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **11 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Descrivere funzioni di WMS e tracciabilità.
+- **8 ore** — Registrare eventi con codici e identificativi.
+- **8 ore** — Controllare errori e coerenza dei dati.
+- **8 ore** — Simulare ricevimento, picking e spedizione.
 
-**Totale della proposta: 264 ore = 211 ore nei nuclei e nelle applicazioni + 53 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Terminali e miglioramento — 30 ore
+
+- **6 ore** — Confrontare operazioni di terminale e trasbordo.
+- **8 ore** — Rilevare tempi e livelli di servizio.
+- **8 ore** — Analizzare resi e logistica inversa.
+- **8 ore** — Presentare una proposta con benefici e limiti.
+
+#### D1.6 · Verifiche, restituzione e recupero — 18 ore
+
+- **5 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **5 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 165 ore = 144 ore di nuclei e applicazioni + 3 ore di diagnosi + 10 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+### D2 · Scienze della navigazione e struttura dei mezzi di trasporto — articolazione Logistica — 99 ore
+
+#### D2.0 · Diagnosi e raccordo — 3 ore
+
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Mezzi e infrastrutture — 18 ore
+
+- **4 ore** — Confrontare interfacce fra mezzo, terminale e rete.
+- **4 ore** — Leggere limiti di sagoma, carico e accesso.
+- **6 ore** — Analizzare una sequenza di trasferimento.
+- **4 ore** — Documentare incompatibilità e alternative.
+
+#### D2.2 · Ambiente e meteorologia — 21 ore
+
+- **4 ore** — Descrivere atmosfera, vento e condizioni del mare.
+- **5 ore** — Leggere osservazioni e previsioni con validità.
+- **6 ore** — Confrontare effetti su modalità diverse.
+- **6 ore** — Motivare una modifica del percorso simulato.
+
+#### D2.3 · Equilibrio e carico — 21 ore
+
+- **4 ore** — Distinguere stabilità, assetto e sollecitazioni.
+- **5 ore** — Rappresentare distribuzione delle masse.
+- **6 ore** — Confrontare sistemazioni di carico con vincoli forniti.
+- **6 ore** — Verificare coerenza di massa, volume e capacità.
+
+#### D2.4 · Pianificazione del mezzo — 24 ore
+
+- **4 ore** — Definire tappe, tempi e punti di controllo.
+- **6 ore** — Confrontare informazioni da strumenti e carte.
+- **8 ore** — Coordinare il piano con le operazioni del terminale.
+- **6 ore** — Redigere il rapporto tecnico della simulazione.
+
+#### D2.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 264 ore = 228 ore nei nuclei e nelle applicazioni + 36 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Layout del magazzino.** Rappresentare ricevimento, deposito, prelievo e spedizione con percorsi e legenda. Individuare incroci, ritorni e passaggi inutili confrontando due disposizioni.
+
+**Capacità e tempi.** Stimare capacità oraria e durata di un ordine con dati osservati o assegnati. Separare tempo operativo e attesa e individuare la fase che limita il flusso.
+
+**Gestione delle scorte e informazioni.** Confrontare semplici criteri di riordino dichiarando domanda e tempi ipotizzati. Controllare coerenza tra giacenze, ordini e movimenti registrati nel foglio di calcolo.
+
+**Terminali e simulazione.** Descrivere interfacce tra mezzo e terminale ferroviario, portuale o aeroportuale. Variare una sola ipotesi alla volta e spiegare come cambia il risultato del modello.
+
+**Attività di laboratorio e applicazione.** Descrivere aree di ricevimento, deposito, prelievo e spedizione e individuare interferenze di flusso. Stimare capacità oraria e tempi di attesa con un foglio di calcolo. Variare una sola ipotesi per volta. Studiare un terminale ferroviario, portuale o aeroportuale. Per i percorsi di conduzione scegliere lo scambio tra il mezzo e il terminale.
 
 ## Compito e verifica
 
@@ -95,3 +186,8 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida e i
 - [Corso di logistica e trasporti 2, seconda edizione, ISBN 9788836012275](https://www.hoeplieditore.it/storage/app/uploads/public/allegati/12/275/9788836012275%20-%20HOEPLI_Corso_logistica-2.pdf) — Hoepli / Fabrizio Dallari ed Elena Cossu; Informazioni, scorte, domanda, costi e prestazioni, PDF pp. 1–2.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di trasporti e logistica](../../../docs/ricerca-ai/fonti-programmi/trasporti-e-logistica.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+
+- [Duca degli Abruzzi, Scienze della navigazione III Logistica, 2026/27](https://www.itnipiaducabruzzi.edu.it/download/859/navigazione-e-logistica-fisica-e-macchine-discipline-stcw/10169/scienze-della-navigazione-3-anno-log-casel.docx) — DOCX consultato; confronto sui prerequisiti di posizione, orientamento, carte e struttura del mezzo.

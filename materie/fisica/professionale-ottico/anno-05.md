@@ -28,47 +28,66 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 La sequenza riguarda Ottica e Ottica applicata e va raccordata con Scienze integrate, laboratori e discipline sanitarie. Il programma Plana consultato è un esempio di quinta, non una scansione vincolante dell’intero quinquennio.
 
+**Prerequisiti e progressione.** Dalla terza: occhio ridotto, poteri meridiani e Prentice; dalla quarta: onde, filtri, spettri e intensità. Introdurre la distinzione radiometria/fotometria prima delle misure di illuminamento; livelli atomici precedono rivelatori e laser. Il raccordo clinico e l’autonomia professionale restano alle discipline e alle prove competenti. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La proposta copre il contributo fisico di Ottica/Ottica applicata. Le competenze professionali d’asse richiedono anche laboratori, optometria, contattologia e discipline sanitarie: non sono dichiarate integralmente raggiunte da queste ore. Le compresenze non raddoppiano il tempo dello studente. Nello scenario B le ore aggiuntive servono a più campioni, esercitazioni e prove autonome sullo stesso nucleo; non a replicare una spiegazione. Preparazione e relazione delle prove sono incluse nei punti, valutazione e restituzione nella riserva.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Occhio come sistema ottico
 
-**Subtotale del nucleo: 22 / 27 ore (A / B).**
+**Subtotale del nucleo: 14 / 18 ore (A / B).**
 
-- **13 / 16 ore.** Costruire un modello ridotto dell’occhio con asse, superfici rifrangenti e piano immagine, indicandone le semplificazioni.
-- **9 / 11 ore.** Descrivere messa a fuoco e accomodazione sul modello, raccordandosi alle discipline sanitarie senza sostituirne il programma.
+- **5 / 6 ore.** Riprendere e verificare il modello ridotto dell’occhio costruito in terza, indicando superfici, piano immagine e limiti.
+- **5 / 6 ore.** Descrivere messa a fuoco e accomodazione sul modello, raccordandosi alle discipline sanitarie senza sostituirne il programma.
+- **4 / 6 ore.** Confrontare un sistema per vicino o un ausilio d’ingrandimento su banco, separando proprietà ottiche e scelta clinica.
+
 
 ### Lenti sferiche, cilindriche e centratura
 
-**Subtotale del nucleo: 18 / 22 ore (A / B).**
+**Subtotale del nucleo: 16 / 20 ore (A / B).**
 
-- **9 / 11 ore.** Rappresentare poteri e assi principali di lenti sferiche e cilindriche; leggere una scheda tecnica di lente.
-- **9 / 11 ore.** Esaminare su banco effetto del decentramento e orientamento, separando misure fisiche da valutazioni cliniche e prescrizioni individuali.
+- **5 / 6 ore.** Riprendere poteri sferici/cilindrici e assi da una scheda; verificare una trasposizione e la coerenza dei meridiani.
+- **6 / 8 ore.** Controllare decentramento ed effetto prismatico con Prentice e una misura al banco, riusando i prerequisiti di terza.
+- **5 / 6 ore.** Confrontare centratura e geometrie monofocali/multifocali su un campione o dati tecnici; distinguere misura fisica, tolleranza e prescrizione.
+
 
 ### Strumenti di misura oftalmica
 
 **Subtotale del nucleo: 18 / 22 ore (A / B).**
 
-- **9 / 11 ore.** Descrivere principio ottico e grandezza misurata dal frontifocometro e da un secondo strumento disponibile.
-- **9 / 11 ore.** Controllare zero, allineamento, messa a fuoco e scala; confrontare misure ripetute di un campione con il valore nominale.
+- **6 / 7 ore.** Descrivere principio ottico e grandezza misurata dal frontifocometro e da un secondo strumento disponibile.
+- **6 / 8 ore.** Eseguire controllo dello zero, allineamento e messa a fuoco su una lente campione; dichiarare risoluzione e scala.
+- **6 / 7 ore.** Ripetere la lettura e confrontare potere nominale, frontifocometro e banco, senza assumere assenza di errore sistematico.
+
 
 ### Fotometria e colore
 
-**Subtotale del nucleo: 18 / 22 ore (A / B).**
+**Subtotale del nucleo: 24 / 30 ore (A / B).**
 
-- **9 / 11 ore.** Distinguere flusso luminoso, intensità luminosa, illuminamento e luminanza e scegliere quale grandezza caratterizza una prova.
-- **9 / 11 ore.** Confrontare illuminazione e risposta di un sensore; descrivere sintesi additiva e sottrattiva e i limiti di una semplice rappresentazione RGB.
+- **6 / 8 ore.** Distinguere grandezze radiometriche e fotometriche: flusso, intensità, illuminamento e luminanza; leggere il ruolo della sensibilità spettrale.
+- **6 / 7 ore.** Prevedere illuminamento con distanza e angolo in geometrie semplici e confrontare due punti di misura.
+- **6 / 8 ore.** Confrontare sorgente e risposta spettrale del sensore; indicare quando due letture non sono confrontabili.
+- **6 / 7 ore.** Interpretare sintesi additiva/sottrattiva e un diagramma cromatico introduttivo; spiegare i limiti di RGB e l’influenza dell’illuminante.
+
 
 ### Sorgenti, rivelatori e luce quantizzata
 
-**Subtotale del nucleo: 16 / 22 ore (A / B).**
+**Subtotale del nucleo: 22 / 27 ore (A / B).**
 
-- **8 / 11 ore.** Collegare spettri atomici, fotoni ed effetto fotoelettrico a sorgenti e rivelatori, mediante dati o dimostrazioni appropriate.
-- **8 / 11 ore.** Descrivere a livello introduttivo emissione stimolata e laser, confrontandoli con sorgenti non coerenti; le esperienze rispettano le procedure del laboratorio.
+- **6 / 7 ore.** Collegare spettri atomici, fotoni e livelli energetici a emissione e assorbimento; distinguere fluorescenza e fosforescenza su dati.
+- **5 / 7 ore.** Interpretare l’effetto fotoelettrico e la conversione in un rivelatore con una curva fornita.
+- **6 / 7 ore.** Descrivere emissione stimolata, cavità e proprietà del laser rispetto a sorgenti non coerenti; usare solo attività autorizzate dal laboratorio.
+- **5 / 6 ore.** Confrontare una catena sorgente–fibra–rivelatore, riusando riflessione totale e perdite; discutere una limitazione fisica della trasmissione.
+
 
 ### Ripetibilità e valutazione tecnica
 
-**Subtotale del nucleo: 16 / 20 ore (A / B).**
+**Subtotale del nucleo: 14 / 18 ore (A / B).**
 
-- **8 / 10 ore.** Confrontare risoluzione, ripetibilità e accuratezza dichiarata, senza identificare automaticamente l’accordo tra misure con l’assenza di errore sistematico.
-- **8 / 10 ore.** Redigere una relazione che distingua risultato, incertezza, criterio di accettazione e limite del banco; motivare l’idoneità dello strumento alla misura richiesta.
+- **5 / 6 ore.** Stimare ripetibilità e risoluzione dai dati già acquisiti nel nucleo strumentale; confrontarle con accuratezza dichiarata e possibile errore sistematico.
+- **5 / 6 ore.** Formulare un criterio di accettazione del campione coerente con l’incertezza e con la scheda tecnica utilizzata.
+- **4 / 6 ore.** Redigere il rapporto conclusivo con schemi, discrepanze e idoneità dello strumento; non ripetere la raccolta dei dati.
 
 ### Riserva per consolidamento e valutazione
 
@@ -92,6 +111,7 @@ F. Catalano, *Ottica applicata e strumenti*, Zanichelli, ISBN 9788808089519. Aff
 
 ## Fonti consultate per questa proposta
 
+- [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
 - [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.

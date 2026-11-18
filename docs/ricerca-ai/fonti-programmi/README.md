@@ -1,5 +1,7 @@
 # Fonti dei programmi: ricerca autonoma sul web
 
+La successiva [revisione critica dei 196 programmi](../revisione-critica-programmi.md) documenta ulteriori letture, recuperi di allegati e correzioni. Il conteggio precedente descrive quella ricognizione, non il totale aggiornato di tutti i rapporti.
+
 Ricerca del **18 novembre 2026** per i **54 percorsi e le 196 schede** della raccolta (194 annuali e due periodi CPIA). I programmi sono **versioni Tentative generate tramite IA**, in attesa di revisione docente. [Registro della ricerca AI-0014](../../interazioni-ai/registro.md#ai-0014) · [Progettazione dei programmi AI-0003](../../interazioni-ai/registro.md#ai-0003) · [Indice del progetto](../../../README.md).
 
 ## Cataloghi per materia
@@ -17,7 +19,7 @@ Ricerca del **18 novembre 2026** per i **54 percorsi e le 196 schede** della rac
 | [Tecnologie tessili](tecnologie-tessili.md) | 2 | 10 |
 | [Trasporti e logistica](trasporti-e-logistica.md) | 1 | 5 |
 
-I cataloghi raccolgono **159 URL distinti**, compresi documenti, copie e sezioni di uno stesso atto, pagine indice e recuperi non riusciti. Il totale descrive i riferimenti documentati, non altrettante fonti indipendenti o testi integralmente letti.
+La prima ricognizione dei cataloghi raccoglieva **159 URL distinti**, compresi documenti, copie e sezioni di uno stesso atto, pagine indice e recuperi non riusciti. Il totale descrive i riferimenti documentati, non altrettante fonti indipendenti o testi integralmente letti.
 
 ## Albero seguito nella ricerca
 

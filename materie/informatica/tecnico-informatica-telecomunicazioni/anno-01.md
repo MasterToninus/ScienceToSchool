@@ -19,9 +19,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Informatica e reti di comunicazione, quadro iniziale DM 29†: 132 ore.
+- **Ipotesi sul quadro iniziale: 132 ore**: 132 = **132 ore**; Informatica e reti di comunicazione 132 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nei tecnici di Informatica e telecomunicazioni](README.md)
 
@@ -29,38 +31,65 @@ Prima riformata dal 2026/27. La proposta seguente si può adattare alla classe.
 
 ## Programma proposto per nuclei tematici
 
-Rappresentare numeri, testi e immagini in binario. Collegare i componenti della macchina al ruolo di memoria e CPU. Leggere una semplice topologia e distinguere collegamento fisico e servizio.
+**Prerequisiti e avvio.** Nessuna conoscenza di programmazione o configurazione di rete presupposta.
 
-### Codifica dei dati — 25 ore
+**Raccordo e progressione.** Le prime del 2026/27 seguono il nuovo avvio; il secondo anno qui presente descrive ancora la coorte previgente. Non unirli automaticamente in un unico biennio normativo.
 
-- **14 ore** — Convertire piccoli numeri fra basi collegando la codifica a testo, immagini e dimensioni dei file.
-- **11 ore** — Distinguere dato, informazione e formato attraverso una conversione controllata.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi sul quadro iniziale: 132 ore
 
-### Calcolatore e software — 29 ore
+#### S1D1 · Informatica e reti di comunicazione — 132 ore
 
-- **16 ore** — Descrivere processore, memoria, archiviazione e periferiche seguendo un’operazione semplice.
-- **13 ore** — Riconoscere compiti del sistema operativo e organizzare file per un’attività tecnica ripetibile.
+##### S1D1N1 · Informazione e architettura — 24 ore
 
+- **8 ore** — Codificare dati testuali e numerici, distinguendo valore e rappresentazione.
+- **8 ore** — Riconoscere CPU, memoria, bus e periferiche e il percorso di un dato.
+- **8 ore** — Confrontare unità e prestazioni senza ridurre un sistema a un solo indicatore.
 
-### Prima rete — 29 ore
+##### S1D1N2 · Ambiente e documenti — 22 ore
 
-- **16 ore** — Disegnare una rete distinguendo dispositivi finali, mezzi, apparati e servizi.
-- **13 ore** — Separare struttura fisica e servizio, descrivendo una richiesta e una risposta.
+- **8 ore** — Usare sistema operativo, file, copie e strumenti collaborativi.
+- **8 ore** — Produrre documenti strutturati, presentazioni e fogli con formule controllate.
+- **6 ore** — Valutare licenze, fonti e protezione dei dati.
 
+##### S1D1N3 · Algoritmi — 28 ore
 
-### Strumenti e relazione — 29 ore
+- **10 ore** — Formalizzare problemi con ingressi, uscite e pseudocodice.
+- **10 ore** — Implementare variabili, scelta e cicli con casi di prova.
+- **8 ore** — Scomporre procedure in funzioni semplici.
 
-- **16 ore** — Elaborare una tabella tecnica con formule verificabili e grafico appropriato.
-- **13 ore** — Produrre una relazione con schema e fonti distinguendo osservazione, simulazione e ipotesi.
+##### S1D1N4 · Reti e servizi — 24 ore
 
-### Riserva e quadratura
+- **8 ore** — Descrivere LAN, Internet e Web mediante livelli e servizi elementari.
+- **8 ore** — Configurare una piccola rete simulata e osservare una richiesta.
+- **8 ore** — Riconoscere credenziali, permessi, minacce e pratiche di protezione.
 
-- **20 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Progetto iniziale — 22 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 112 | 20 | **132 ore** |
+- **8 ore** — Elaborare dati e presentarli con codice o foglio, motivando la scelta.
+- **8 ore** — Confrontare risultati e correggere errori con documentazione.
+- **6 ore** — Valutare criticamente un suggerimento di IA e dichiararne uso e limiti.
+
+##### S1D1R · Verifica, restituzione e recupero — 12 ore
+
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 120 ore di nuclei + 12 ore di verifica, restituzione e recupero = **132 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi sul quadro iniziale: 132 ore | Informatica e reti di comunicazione | 120 | 12 | **132 ore** |
+
+**Totale Ipotesi sul quadro iniziale: 132 ore: 132 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, profili A-1/A-3/A-6/A-7/A-8/A-9 e quadri iniziali C; limite di coordinamento DL 170 dichiarato sopra](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -83,3 +112,25 @@ Selezionare architettura, codifica e primi esempi di rete.
 - [The Document Foundation, Calc Guide 7.2 – Formulas and Functions](https://books.libreoffice.org/en/CG72/CG7207-FormulasAndFunctions.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Rappresentare numeri, testi e immagini in binario. Collegare i componenti della macchina al ruolo di memoria e CPU. Leggere una semplice topologia e distinguere collegamento fisico e servizio.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Convertire piccoli numeri fra basi collegando la codifica a testo, immagini e dimensioni dei file. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere dato, informazione e formato attraverso una conversione controllata. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Descrivere processore, memoria, archiviazione e periferiche seguendo un’operazione semplice. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Riconoscere compiti del sistema operativo e organizzare file per un’attività tecnica ripetibile. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Disegnare una rete distinguendo dispositivi finali, mezzi, apparati e servizi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Separare struttura fisica e servizio, descrivendo una richiesta e una risposta. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Elaborare una tabella tecnica con formule verificabili e grafico appropriato. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Produrre una relazione con schema e fonti distinguendo osservazione, simulazione e ipotesi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

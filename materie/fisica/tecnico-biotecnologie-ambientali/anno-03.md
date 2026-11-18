@@ -29,40 +29,53 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Per le coorti in continuità si usa la direttiva 4/2012; il nuovo ordinamento raggiunge la terza dal 2028/29. La proposta mantiene distinti obiettivi previgenti e nuovi quadri e va raccordata con chimica e biotecnologie.
 
+**Prerequisiti e progressione.** Dal biennio: energia, potenza, calore, circuiti elementari e unità. Il primo nucleo controlla confini e dimensioni; gas e primo principio sono ripresi prima dei cicli. Non si assume già svolta una termodinamica completa. I dati di bolletta non sostituiscono misure e condizioni standard dichiarate. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Il quadro futuro rimane subordinato al coordinamento normativo indicato nella tabella; il budget B non prova equivalenza di approfondimento con A. I dati dell’attività conclusiva sono raccolti o preparati nei nuclei e riutilizzati nel rapporto. Le ore di laboratorio includono allestimento, controlli e interpretazione; la riserva finanzia verifica e recupero. I confronti regolatori richiedono fonte, indicatore e ambito effettivamente applicabili, senza certificare un ambiente reale.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Sistema e bilancio energetico
 
-**Subtotale del nucleo: 8 ore.**
+**Subtotale del nucleo: 6 ore.**
 
-- **4 ore.** Definire confini, intervallo temporale e unità funzionale di un sistema ambientale o produttivo.
-- **4 ore.** Distinguere energia primaria, energia trasferita e servizio utile, indicando i passaggi esclusi dal confronto.
+- **3 ore.** Definire confini, intervallo temporale e unità funzionale di un sistema ambientale o produttivo.
+- **3 ore.** Distinguere energia primaria, energia trasferita e servizio utile, indicando i passaggi esclusi dal confronto.
+
 
 ### Lavoro, potenza ed energia
 
-**Subtotale del nucleo: 11 ore.**
+**Subtotale del nucleo: 8 ore.**
 
-- **7 ore.** Misurare o ricavare da dati sperimentali lavoro, potenza e calore scambiato in un apparato semplice; usare joule, watt, kilowattora e relativi multipli nei bilanci.
+- **4 ore.** Misurare o ricavare da dati sperimentali lavoro, potenza e calore scambiato in un apparato semplice; usare joule, watt, kilowattora e relativi multipli nei bilanci.
 - **4 ore.** Separare potenza nominale, potenza media e consumo misurato; ricostruire un profilo giornaliero con tempi di funzionamento.
+
 
 ### Calore e macchine termiche
 
-**Subtotale del nucleo: 8 ore.**
+**Subtotale del nucleo: 14 ore.**
 
-- **4 ore.** Applicare il primo principio a un ciclo e individuare sorgente calda, sorgente fredda, lavoro e dispersioni.
-- **4 ore.** Confrontare rendimento di una macchina termica e coefficiente di prestazione di una pompa di calore, dichiarando le condizioni di funzionamento.
+- **5 ore.** Riprendere stato del gas, diagramma p-V, calore, lavoro ed energia interna; applicare il primo principio con convenzione dei segni.
+- **5 ore.** Interpretare una macchina termica e un ciclo frigorifero, identificando sorgenti e scambi; usare secondo principio e limite di Carnot per controllare la plausibilità dei risultati.
+- **4 ore.** Confrontare rendimento e COP in due condizioni di funzionamento, usando una scheda di pompa di calore o impianto termico pertinente alle biotecnologie ambientali.
+
 
 ### Fonti e trasformazioni
 
-**Subtotale del nucleo: 11 ore.**
+**Subtotale del nucleo: 8 ore.**
 
 - **4 ore.** Confrontare combustibili, irraggiamento, acqua e vento come fonti di energia, distinguendo disponibilità e trasformazione in energia utile.
-- **7 ore.** Costruire una catena di conversione con perdite e discutere quali dati servono per un confronto ambientale attendibile.
+- **4 ore.** Costruire una catena di conversione con perdite e discutere quali dati servono per un confronto ambientale attendibile.
+
 
 ### Fabbisogni ed efficienza
 
-**Subtotale del nucleo: 8 ore.**
+**Subtotale del nucleo: 10 ore.**
 
 - **4 ore.** Distinguere fabbisogno di un servizio e consumo di un impianto; riconoscere il ruolo di isolamento, regolazione e comportamento d’uso.
-- **4 ore.** Leggere i dati fisici di una scheda energetica, separando risultati dichiarati in condizioni standard e prestazioni nel caso reale.
+- **3 ore.** Leggere un’etichetta energetica distinguendo consumo standard, prestazione dichiarata e condizioni reali.
+- **3 ore.** Individuare l’atto UE e il riferimento italiano applicabili alla categoria del prodotto, con data e campo di validità; distinguere la classe assegnata dal dato di consumo, senza inventare soglie.
+
 
 ### Audit didattico
 

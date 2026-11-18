@@ -20,49 +20,54 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Un modello per un processo produttivo.** Riferimento per l’asse matematico e i compiti trasversali del percorso professionale. Consultare [DI 92/2018, allegato 1](https://www.istruzioneer.gov.it/wp-content/uploads/2019/02/d_intermin_92.pdf). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Consolidare secondo grado, disequazioni, rette e similitudine. La geometria analitica usa prima queste basi; i modelli successivi richiedono dominio e funzioni. Il nucleo comune privilegia funzioni, geometria, dati e decisioni; analisi infinitesimale e inferenza formale non sono requisiti indistinti di tutti gli undici indirizzi. Le applicazioni devono essere scelte con i docenti di indirizzo. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (area generale comune). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Funzioni e rappresentazioni
+### Algebra, funzioni e rappresentazioni
 
 **Subtotale: 17 h.**
 
-- **5 h** — Determinare dominio, immagine, zeri e segno di funzioni semplici, distinguendo la funzione dalla sua formula.
-- **7 h** — Studiare composizione, inversione e trasformazioni del grafico; verificare quando l'inversa è effettivamente una funzione.
-- **5 h** — Confrontare una descrizione verbale, una tabella e un grafico e indicare le informazioni perse in ogni rappresentazione.
+- **6 h** — Consolidare divisione fra polinomi, teorema del resto e scomposizioni; risolvere equazioni e disequazioni razionali semplici con condizioni esplicite.
+- **6 h** — Determinare dominio, zeri e segno di funzioni polinomiali, razionali, irrazionali e con valore assoluto in casi semplici.
+- **5 h** — Studiare composizione, inversa e trasformazioni dei grafici; confrontare tabella, formula e descrizione verbale.
 
-### Radicali, equazioni e disequazioni quadratiche
+### Secondo grado in problemi di indirizzo
 
-**Subtotale: 21 h.**
+**Subtotale: 21 h.** Approfondimento applicativo del biennio: usare vincoli, parametri e dati di laboratorio, non ripetere tutte le tecniche elementari.
 
-- **6 h** — Collocare radicali sulla retta e operare nei casi utili; distinguere identità algebrica e approssimazione numerica.
-- **9 h** — Collegare discriminante, radici, fattorizzazione e grafico di una parabola; trattare disequazioni con un quadro dei segni.
-- **6 h** — Costruire un problema di area o di costo che conduca a un'equazione di secondo grado e scartare le soluzioni non ammissibili.
+- **4 h** — Rappresentare radicali e reali sulla retta, motivare l’irrazionalità di radice di 2 e limitare le manipolazioni ai casi utili.
+- **6 h** — Riprendere scomposizioni e condizioni delle frazioni algebriche; risolvere equazioni di secondo grado collegando radici e parabola.
+- **6 h** — Risolvere disequazioni quadratiche e semplici disequazioni fratte con uno schema dei segni; escludere i denominatori nulli.
+- **5 h** — Modellizzare un’area o un costo con un’equazione quadratica, confrontare soluzione esatta e approssimata e scartare valori inammissibili.
 
-### Esponenziali e logaritmi
-
-**Subtotale: 16 h.**
-
-- **5 h** — Interpretare base, esponente e condizioni del logaritmo; confrontare crescita e decadimento.
-- **6 h** — Risolvere equazioni e disequazioni elementari rispettando domini e monotonia.
-- **5 h** — Stimare un tempo di raddoppio o dimezzamento e discutere per quali intervalli il modello descrive i dati.
-
-### Misure e controllo di qualità
+### Trigonometria e modelli periodici
 
 **Subtotale: 15 h.**
 
-- **5 h** — Definire una grandezza di processo e raccogliere misure con uno schema riproducibile.
-- **6 h** — Confrontare variabilità, tolleranza e valore medio senza identificare la conformità di un pezzo con quella dell'intero lotto.
-- **4 h** — Documentare un'anomalia con dati e grafici e proporre una misura ulteriore che permetta di controllare l'ipotesi formulata.
+- **5 h** — Passare da gradi a radianti, definire seno, coseno e tangente e leggere ampiezza, periodo e fase.
+- **5 h** — Usare identità fondamentali, formule di addizione e duplicazione e risolvere equazioni goniometriche semplici.
+- **5 h** — Applicare teoremi dei seni e del coseno a triangoli e problemi di misura; controllare il risultato con stima e disegno.
 
-### Dati a due variabili e modelli
+### Misure e controllo di qualità
 
-**Subtotale: 10 h.**
+**Subtotale: 14 h.**
 
-- **3 h** — Costruire distribuzioni congiunte, marginali e condizionate e diagrammi di dispersione.
-- **4 h** — Calcolare indicatori di dispersione e confrontare una retta di regressione con i residui dei dati.
-- **3 h** — Distinguere associazione, causalità ed estrapolazione; indicare quali altre informazioni servirebbero per sostenere una spiegazione.
+- **7 h** — Progettare raccolta di dati e misure con unità, tolleranze e protocollo; distinguere variabilità del processo e conformità del singolo pezzo.
+- **7 h** — Analizzare un’anomalia con grafici e indici, proporre un controllo ulteriore e documentare le conclusioni con limiti espliciti.
+
+### Dati bivariati e modelli
+
+**Subtotale: 12 h.**
+
+- **5 h** — Costruire distribuzioni congiunte, marginali e condizionate; confrontare medie, varianza e deviazione standard.
+- **7 h** — Studiare correlazione, regressione lineare e residui con strumenti di calcolo; distinguere associazione, causalità ed estrapolazione.
 
 ### Declinazione per il percorso
 
@@ -72,10 +77,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

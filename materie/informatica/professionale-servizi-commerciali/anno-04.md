@@ -18,9 +18,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Ipotesi di Informatica attivata per 99 ore annue (estremo superiore del quadro), da verificare nel PTOF.
+- **Ipotesi PTOF: 99 ore**: 99 = **99 ore**; Informatica 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nei Servizi commerciali](README.md)
 
@@ -28,38 +30,59 @@ Verificare ore, declinazione e profilo nel curricolo di istituto. La proposta se
 
 ## Programma proposto per nuclei tematici
 
-Raggruppare dati di ordini o richieste per periodo e canale, produrre un indicatore e visualizzarlo. Comunicare i risultati con un documento comprensibile a chi gestisce il servizio.
+**Prerequisiti e avvio.** Dalla terza: cataloghi, formule di ricerca e documenti collegati. La qualità dell’archivio precede indicatori e comunicazione.
 
-### Raccolta degli eventi — 18 ore
+**Raccordo e progressione.** Uso professionale progressivamente autonomo; il quadro 0–99 ore richiede attivazione effettiva dell’insegnamento nel PTOF.
 
-- **10 ore** — Strutturare ordini o richieste per data, canale, categoria e stato, distinguendo evento e cliente.
-- **8 ore** — Controllare periodi, duplicati e campi mancanti prima del confronto fra canali.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi PTOF: 99 ore
 
-### Indicatori e riepiloghi — 22 ore
+#### S1D1 · Informatica — 99 ore
 
-- **12 ore** — Costruire tabelle pivot o riepiloghi per quantità, valore e tempi di risposta, dichiarando unità e denominatori.
-- **10 ore** — Confrontare totali e sottoinsiemi, spiegando come il criterio di aggregazione cambia la lettura dei dati.
+##### S1D1N1 · Archivio e qualità — 22 ore
 
+- **8 ore** — Strutturare ordini per periodo, canale e stato con identificativi stabili.
+- **8 ore** — Collegare tabelle e correggere duplicazioni senza perdere eventi.
+- **6 ore** — Usare un applicativo dimostrativo del sistema informativo contabile e verificare coerenza delle registrazioni con le discipline professionali.
 
-### Report e campagne — 22 ore
+##### S1D1N2 · Analisi e indicatori — 22 ore
 
-- **12 ore** — Preparare un rapporto con grafici appropriati, interpretazione e limiti dell’analisi.
-- **10 ore** — Personalizzare una pagina o una campagna simulata distinguendo contenuto, struttura, stile e obiettivi misurabili.
+- **8 ore** — Costruire pivot e riepiloghi su quantità, valore e tempi.
+- **8 ore** — Verificare denominatori, filtri e confronto fra periodi.
+- **6 ore** — Distinguere indicatore descrittivo e interpretazione causale.
 
+##### S1D1N3 · Comunicazione digitale — 22 ore
 
-### Valutazione del servizio — 22 ore
+- **8 ore** — Adattare pagine e campagne simulate con markup semantico, destinatari e obiettivi espliciti.
+- **8 ore** — Produrre un rapporto accessibile con grafici appropriati.
+- **6 ore** — Misurare risultati e discutere limiti di visualizzazioni e risposte.
 
-- **12 ore** — Definire gli indicatori prima della prova, evitando di equiparare visualizzazioni e vendite o richieste e soddisfazione.
-- **10 ore** — Rivedere il prodotto dopo un riscontro tra pari, controllando comprensibilità, accessibilità iniziale e uso dei dati.
+##### S1D1N4 · Controllo del processo — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Collegare analisi, revisione del prodotto e richiesta del cliente.
+- **6 ore** — Gestire ruoli, versioni e copie.
+- **6 ore** — Consegnare prove, istruzioni e revisione dopo riscontro tra pari.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi PTOF: 99 ore | Informatica | 86 | 13 | **99 ore** |
+
+**Totale Ipotesi PTOF: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [DD 1400/2019, risultati intermedi Servizi commerciali, competenza 2, pp. 3–4](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-SERVIZI-COMMERCIALI.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -82,3 +105,25 @@ Usare i nuclei dedicati ai sistemi informativi e agli applicativi d’impresa.
 - [W3C WAI, Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Raggruppare dati di ordini o richieste per periodo e canale, produrre un indicatore e visualizzarlo. Comunicare i risultati con un documento comprensibile a chi gestisce il servizio.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Strutturare ordini o richieste per data, canale, categoria e stato, distinguendo evento e cliente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Controllare periodi, duplicati e campi mancanti prima del confronto fra canali. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire tabelle pivot o riepiloghi per quantità, valore e tempi di risposta, dichiarando unità e denominatori. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare totali e sottoinsiemi, spiegando come il criterio di aggregazione cambia la lettura dei dati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare un rapporto con grafici appropriati, interpretazione e limiti dell’analisi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Personalizzare una pagina o una campagna simulata distinguendo contenuto, struttura, stile e obiettivi misurabili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Definire gli indicatori prima della prova, evitando di equiparare visualizzazioni e vendite o richieste e soddisfazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rivedere il prodotto dopo un riscontro tra pari, controllando comprensibilità, accessibilità iniziale e uso dei dati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

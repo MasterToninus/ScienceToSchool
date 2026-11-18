@@ -1,5 +1,7 @@
 # Fonti per le proposte di fisica
 
+**Aggiornamento della revisione critica, 18/11/2026:** [fonti nuovamente esaminate, recuperi e correzioni](../revisione-critica-fisica.md). I limiti di accesso descritti nella ricognizione sottostante vanno letti insieme agli esiti successivi di questo rapporto; non implicano che un documento recuperato in seguito sia ancora non consultato.
+
 > **Ricerca assistita dall’IA, da sottoporre a revisione docente.** La consultazione delle fonti sostiene una proposta didattica; non certifica l’adozione scolastica delle schede. [Attività AI-0014](../../interazioni-ai/registro.md#ai-0014) · [Proposte AI-0003](../../interazioni-ai/registro.md#ai-0003).
 
 Consultazione: **18-11-2026**. Perimetro: **17 percorsi e 51 schede annuali** di [fisica](../../../materie/fisica/README.md). Il catalogo comprende **30 documenti o risorse effettivamente aperti**, con lettura delle sezioni indicate, oltre ai reperimenti parziali elencati separatamente. Le diverse copie o sezioni HTML dello stesso D.M. 211/2010 non sono contate come documenti indipendenti.
@@ -33,7 +35,7 @@ Esempi di chiavi usate: «programmazione fisica liceo scientifico/scienze applic
 
 Per i tecnici le schede conservano la distinzione già documentata nei README: nuove prime nel 2026/27, seconde nel 2027/28, terze nel 2028/29, quarte nel 2029/30 e quinte nel 2030/31. Un programma scolastico precedente alla riforma non prova i contenuti del nuovo insegnamento. Gli Orientamenti 2026 (N10, p. 4) rimandano a successive Linee guida per obiettivi disciplinari più puntuali: le nuove unità qui proposte non sono attribuite al Ministero.
 
-Per i licei è stata reperita anche la documentazione della consultazione 2026. Non è stato individuato in questa ricerca un atto definitivo sostitutivo da applicare ai programmi: le bozze di consultazione non sono state trattate come disciplina vigente. Prima dell’adozione in una classe va ricontrollato il quadro effettivamente applicabile alla sua coorte. Per il Made in Italy N03 verifica il piano degli studi; l’adattamento tematico delle schede resta dichiaratamente proposto e va raccordato alle specifiche indicazioni applicabili.
+Per i licei è stata reperita anche la documentazione della consultazione 2026. Non è stato individuato in questa ricerca un atto definitivo sostitutivo da applicare ai programmi: le bozze di consultazione non sono state trattate come disciplina vigente. Prima dell’adozione in una classe va ricontrollato il quadro effettivamente applicabile alla sua coorte. Per il Made in Italy N03 verifica il piano degli studi; nella revisione critica è stato letto anche l’allegato 2 del DPR 222/2024, sezione Fisica, riportato nel rapporto collegato sopra. La scansione annuale resta proposta didattica.
 
 ## Programmazioni e curricoli scolastici
 

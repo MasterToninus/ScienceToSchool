@@ -16,46 +16,75 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Ipotesi PTOF: 165 ore della disciplina (estremo inferiore del quadro), declinazione elettrica e di controllo da concordare con il profilo della classe.
+- **Ipotesi PTOF: 165 ore**: 165 = **165 ore**; Tecniche di gestione e controllo delle reti ed impianti civili ed industriali 165 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Gestione e controllo delle reti e degli impianti](README.md)
 
 ## Programma proposto per nuclei tematici
 
-Interpretare lo schema di un circuito idraulico didattico. Localizzare punti di misura e sensori. Confrontare portata media e istantanea, stimare l’effetto dell’incertezza di un campionamento.
+**Prerequisiti e avvio.** Misure, proporzioni e schemi del biennio. Introdurre portata, pressione e leggi elettriche prima della scelta di pompe e sensori.
 
-### Schemi e componenti idrici — 31 ore
+**Raccordo e progressione.** Coordinare idraulica, macchine, laboratorio e norme ambientali con gli altri insegnamenti; la stessa ora non si attribuisce a due discipline.
 
-- **17 ore** — Leggere uno schema semplificato di serbatoio, pompa, valvole e tubazioni distinguendo flusso idraulico e collegamenti elettrici.
-- **14 ore** — Individuare punti di misura, segnali e comandi con simboli e legenda dichiarati.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi PTOF: 165 ore
 
-### Grandezze e misure — 37 ore
+#### S1D1 · Tecniche di gestione e controllo delle reti ed impianti civili ed industriali — 165 ore
 
-- **20 ore** — Distinguere livello, volume e portata; calcolare una portata media da volume e intervallo di tempo.
-- **17 ore** — Registrare unità, risoluzione e frequenza di lettura, distinguendo misura istantanea e valore medio.
+##### S1D1N1 · Reti idrauliche — 28 ore
 
+- **10 ore** — Distinguere portata, pressione e livello e leggere unità e strumenti.
+- **10 ore** — Interpretare tubazioni, valvole e serbatoi in uno schema.
+- **8 ore** — Valutare perdite e bilanci semplici senza presupporre idraulica avanzata.
 
-### Circuiti e sensori — 36 ore
+##### S1D1N2 · Pompe ed energia — 28 ore
 
-- **19 ore** — Riconoscere alimentazione, sensore, ingresso e indicatore in una catena di misura a bassa tensione o simulata.
-- **17 ore** — Confrontare segnale atteso e osservato e individuare collegamenti incoerenti su uno schema didattico.
+- **10 ore** — Leggere curve caratteristiche e punto di lavoro su dati guidati.
+- **10 ore** — Descrivere motore, alimentazione e comando di una pompa.
+- **8 ore** — Confrontare potenza, consumo e condizioni operative.
 
+##### S1D1N3 · Misura e schemi — 28 ore
 
-### Raccolta e interpretazione — 36 ore
+- **10 ore** — Leggere simboli elettrici e idraulici e associare punti di misura.
+- **10 ore** — Confrontare sensori di livello, portata e pressione.
+- **8 ore** — Registrare dati, taratura e incertezza e distinguere guasto da variazione reale.
 
-- **19 ore** — Organizzare misure di livello o portata in tabella e grafico conservando tempi e provenienza.
-- **17 ore** — Riconoscere valori mancanti e anomalie, distinguendo problema di misura e possibile variazione del processo.
+##### S1D1N4 · Controllo elementare — 28 ore
 
-### Riserva e quadratura
+- **10 ore** — Rappresentare una sequenza di riempimento e svuotamento.
+- **10 ore** — Simulare soglie, consensi e allarmi con prove ai limiti.
+- **8 ore** — Distinguere comando ordinario e condizioni di sicurezza da validare.
 
-- **25 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Gestione e verifica — 28 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 140 | 25 | **165 ore** |
+- **10 ore** — Usare documentazione per controlli ordinari di una rete didattica.
+- **10 ore** — Rilevare anomalie e predisporre un rapporto con schema e misure.
+- **8 ore** — Valutare risorse, rischi e limiti degli interventi proposti.
+
+##### S1D1R · Verifica, restituzione e recupero — 25 ore
+
+- **8 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **8 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **9 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 140 ore di nuclei + 25 ore di verifica, restituzione e recupero = **165 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi PTOF: 165 ore | Tecniche di gestione e controllo delle reti ed impianti civili ed industriali | 140 | 25 | **165 ore** |
+
+**Totale Ipotesi PTOF: 165 ore: 165 ore.**
+
+**Fondamento e limite della revisione.** [DD 1400/2019, risultati intermedi Gestione delle acque, competenze 2, 4, 5 e 6](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-GESTIONE-DELLE-ACQUE-E-RISANAMENTO-AMBIENTALE.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -76,3 +105,25 @@ Cerri, Gallotti e Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoe
 - [Arduino, esempio ufficiale AnalogReadSerial – codice sorgente](https://github.com/arduino/arduino-examples/blob/main/examples/01.Basics/AnalogReadSerial/AnalogReadSerial.ino).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Interpretare lo schema di un circuito idraulico didattico. Localizzare punti di misura e sensori. Confrontare portata media e istantanea, stimare l’effetto dell’incertezza di un campionamento.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Leggere uno schema semplificato di serbatoio, pompa, valvole e tubazioni distinguendo flusso idraulico e collegamenti elettrici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Individuare punti di misura, segnali e comandi con simboli e legenda dichiarati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere livello, volume e portata; calcolare una portata media da volume e intervallo di tempo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Registrare unità, risoluzione e frequenza di lettura, distinguendo misura istantanea e valore medio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Riconoscere alimentazione, sensore, ingresso e indicatore in una catena di misura a bassa tensione o simulata. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare segnale atteso e osservato e individuare collegamenti incoerenti su uno schema didattico. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare misure di livello o portata in tabella e grafico conservando tempi e provenienza. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Riconoscere valori mancanti e anomalie, distinguendo problema di misura e possibile variazione del processo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

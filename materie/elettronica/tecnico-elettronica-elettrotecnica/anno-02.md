@@ -19,9 +19,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Scienze e tecnologie applicate, quadro previgente nel 2026/27: 99 ore.
+- **Coorte previgente: 99 ore**: 99 = **99 ore**; Scienze e tecnologie applicate 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Elettrotecnica, elettronica e sistemi automatici nel tecnico di indirizzo](README.md)
 
@@ -29,38 +31,59 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Passare da una descrizione verbale a una tabella di verità. Leggere caratteristiche di un sensore, riconoscere segnali analogici e digitali. Costruire in simulazione un indicatore di soglia e verificarlo con valori ai due lati della soglia.
+**Prerequisiti e avvio.** Scienze, TIC e rappresentazione del primo anno previgente; circuiti ripresi tramite esempi diagnostici.
 
-### Logica combinatoria — 18 ore
+**Raccordo e progressione.** Terza: analisi circuitale, sistemi e progettazione con docenti distinti.
 
-- **10 ore** — Costruire tabelle di verità per condizioni di consenso e allarme con operatori logici.
-- **8 ore** — Tradurre una specifica semplice in schema a porte e verificarla su tutte le combinazioni ammesse.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Coorte previgente: 99 ore
 
-### Segnali e sensori — 22 ore
+#### S1D1 · Scienze e tecnologie applicate — 99 ore
 
-- **12 ore** — Distinguere grandezza fisica, segnale analogico e rappresentazione digitale.
-- **10 ore** — Leggere la caratteristica di un sensore e ricavare valori fisici da misure o dati simulati.
+##### S1D1N1 · Logica e rappresentazione — 22 ore
 
+- **8 ore** — Tradurre condizioni di consenso in tabelle di verità.
+- **8 ore** — Progettare e verificare reti a porte semplici.
+- **6 ore** — Riconoscere memoria e successione temporale in un automatismo.
 
-### Soglie e acquisizione — 22 ore
+##### S1D1N2 · Segnali e sensori — 22 ore
 
-- **12 ore** — Progettare un confronto con soglia, includendo prove immediatamente sopra e sotto il valore scelto.
-- **10 ore** — Acquisire o simulare una serie di campioni e discutere risoluzione, rumore e frequenza di aggiornamento.
+- **8 ore** — Distinguere grandezza fisica, segnale analogico e codice digitale.
+- **8 ore** — Leggere una caratteristica di sensore e ricavare valori fisici.
+- **6 ore** — Valutare campo, risoluzione e rumore su dati simulati.
 
+##### S1D1N3 · Prototipo — 22 ore
 
-### Prototipo e prove — 22 ore
+- **8 ore** — Progettare una soglia e testare valori immediatamente ai due lati.
+- **8 ore** — Collegare sensore, logica e indicatore con schema e componenti.
+- **6 ore** — Campionare una serie e motivare la frequenza di aggiornamento.
 
-- **12 ore** — Comporre sensore, logica e indicatore in un sistema dimostrativo documentato.
-- **10 ore** — Confrontare risultati previsti e osservati, conservando schema, parametri e casi di prova.
+##### S1D1N4 · Tecnologia e processo — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Collegare materiali, strumenti e fasi produttive al prototipo.
+- **6 ore** — Verificare condizioni di funzionamento, sicurezza e impatto del ciclo di vita.
+- **6 ore** — Documentare orientamento alle articolazioni e risultati di prova.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Coorte previgente: 99 ore | Scienze e tecnologie applicate | 86 | 13 | **99 ore** |
+
+**Totale Coorte previgente: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 57/2010, Scienze e tecnologie applicate, p. 82](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/LINEE_GUIDA_primo_biennio_istituti_tecnici.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -82,3 +105,25 @@ Parti Elettronica di segnale e Metrologia e Arduino.
 - [Arduino, esempio ufficiale AnalogReadSerial – codice sorgente](https://github.com/arduino/arduino-examples/blob/main/examples/01.Basics/AnalogReadSerial/AnalogReadSerial.ino).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Passare da una descrizione verbale a una tabella di verità. Leggere caratteristiche di un sensore, riconoscere segnali analogici e digitali. Costruire in simulazione un indicatore di soglia e verificarlo con valori ai due lati della soglia.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Costruire tabelle di verità per condizioni di consenso e allarme con operatori logici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Tradurre una specifica semplice in schema a porte e verificarla su tutte le combinazioni ammesse. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere grandezza fisica, segnale analogico e rappresentazione digitale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Leggere la caratteristica di un sensore e ricavare valori fisici da misure o dati simulati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Progettare un confronto con soglia, includendo prove immediatamente sopra e sotto il valore scelto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Acquisire o simulare una serie di campioni e discutere risoluzione, rumore e frequenza di aggiornamento. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Comporre sensore, logica e indicatore in un sistema dimostrativo documentato. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare risultati previsti e osservati, conservando schema, parametri e casi di prova. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

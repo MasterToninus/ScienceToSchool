@@ -24,43 +24,90 @@ L’intervallo riguarda questa disciplina, non l’intera area di indirizzo. La 
 
 Descrivere le funzioni essenziali di un peschereccio e leggere i dati di una carta costiera.
 
+
+## Prerequisiti e progressione
+
+Misure, proporzioni e lettura di tabelle del biennio; familiarità con sicurezza scolastica e parti elementari dell’imbarcazione.
+
+**Esito atteso a fine anno:** Leggere una carta costiera e descrivere mezzo, spazi, riferimenti e registrazioni di una semplice uscita simulata.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Le applicazioni avanzate restano introduttive o guidate: calcoli astronomici, radar, navigazione integrata, prestazioni, comunicazioni ed emergenze sono affrontati solo dove indicati nelle unità e su dati o simulatori didattici predisposti. Non si presume padronanza operativa né copertura certificata di STCW, requisiti aeronautici o titoli della pesca. Per tali percorsi serve una verifica separata del curricolo accreditato e dell’addestramento richiesto. I servizi e gli apparati sono studiati per comprendere la conduzione e segnalare anomalie; gli interventi specialistici di manutenzione restano fuori da questa scheda.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 132 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 132 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Struttura dell'imbarcazione — 17 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie e tecniche di gestione e conduzione delle imbarcazioni da pesca | 114 | 18 | 132 |
 
-- **8 ore** — Riconoscere scafo, ponte, locali e principali ingombri su disegni e modelli scolastici.
-- **9 ore** — Collegare la disposizione degli spazi alle operazioni e ai percorsi delle persone a bordo.
+### D1 · Tecnologie e tecniche di gestione e conduzione delle imbarcazioni da pesca — 132 ore
 
-### Riferimenti costieri e coordinate — 20 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **9 ore** — Individuare punti cospicui e annotare coordinate con unità e riferimento espliciti.
-- **11 ore** — Confrontare posizione descritta a parole e posizione segnata sulla carta.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Lettura della carta — 20 ore
+#### D1.1 · Imbarcazione e attività — 18 ore
 
-- **9 ore** — Interpretare scala, distanze e indicazioni di profondità su una carta didattica.
-- **11 ore** — Separare ciò che la carta mostra da dati mancanti o soggetti ad aggiornamento.
+- **4 ore** — Riconoscere parti, dimensioni e funzioni del mezzo da pesca.
+- **4 ore** — Distinguere spazi di lavoro, deposito e conservazione.
+- **6 ore** — Collegare attrezzature e attività a vincoli del mezzo.
+- **4 ore** — Leggere schede e procedure scolastiche di sicurezza.
 
-### Comunicazione e osservazione — 17 ore
+#### D1.2 · Coordinate e carta costiera — 24 ore
 
-- **8 ore** — Preparare una descrizione ordinata di mezzo, posizione e condizioni osservate.
-- **9 ore** — Usare simulazioni a terra e materiali selezionati: la scheda non sostituisce l'addestramento di bordo.
+- **4 ore** — Usare miglio, nodo, coordinate e scale.
+- **6 ore** — Individuare fondali, costa e riferimenti cartografici.
+- **8 ore** — Distinguere rotta, prora e rilevamento.
+- **6 ore** — Tracciare un breve percorso con tempi stimati.
 
-### Attività di laboratorio e applicazione — 32 ore
+#### D1.3 · Orientamento e osservazione — 24 ore
 
-- **10 ore** — Distinguere parti dello scafo, locali e dotazioni da una pianta didattica.
-- **11 ore** — Individuare punti cospicui e confrontare due posizioni in coordinate geografiche.
-- **11 ore** — Leggere le indicazioni di scala e profondità e associare al dato su carta un’unità e un significato.
+- **4 ore** — Confrontare bussola e riferimenti costieri.
+- **6 ore** — Riconoscere segnalamenti su schede didattiche.
+- **8 ore** — Registrare osservazioni e posizioni con orario.
+- **6 ore** — Confrontare dati discordanti senza ignorarne i limiti.
 
-### Verifiche, recupero e consolidamento — 26 ore
+#### D1.4 · Servizi di bordo e manutenzione — 24 ore
 
-- **13 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **8 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **5 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Distinguere apparati di propulsione, governo e servizi ausiliari.
+- **6 ore** — Leggere schemi funzionali e segnalazioni elementari.
+- **8 ore** — Riconoscere controlli ordinari da registrare secondo istruzioni fornite.
+- **6 ore** — Collegare anomalie e richiesta di intervento qualificato.
 
-**Totale della proposta: 132 ore = 106 ore nei nuclei e nelle applicazioni + 26 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Uscita e documentazione — 24 ore
+
+- **4 ore** — Leggere un bollettino meteomarino elementare.
+- **6 ore** — Preparare lista di informazioni necessarie all’uscita simulata.
+- **8 ore** — Compilare diario e scheda del percorso.
+- **6 ore** — Presentare risultati e informazioni mancanti.
+
+#### D1.6 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 132 ore = 114 ore nei nuclei e nelle applicazioni + 18 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Struttura dell'imbarcazione.** Riconoscere scafo, ponte, locali e principali ingombri su disegni e modelli scolastici. Collegare la disposizione degli spazi alle operazioni e ai percorsi delle persone a bordo.
+
+**Riferimenti costieri e coordinate.** Individuare punti cospicui e annotare coordinate con unità e riferimento espliciti. Confrontare posizione descritta a parole e posizione segnata sulla carta.
+
+**Lettura della carta.** Interpretare scala, distanze e indicazioni di profondità su una carta didattica. Separare ciò che la carta mostra da dati mancanti o soggetti ad aggiornamento.
+
+**Comunicazione e osservazione.** Preparare una descrizione ordinata di mezzo, posizione e condizioni osservate. Usare simulazioni a terra e materiali selezionati: la scheda non sostituisce l'addestramento di bordo.
+
+**Attività di laboratorio e applicazione.** Distinguere parti dello scafo, locali e dotazioni da una pianta didattica. Individuare punti cospicui e confrontare due posizioni in coordinate geografiche. Leggere le indicazioni di scala e profondità e associare al dato su carta un’unità e un significato.
 
 ## Compito e verifica
 
@@ -88,3 +135,6 @@ Il quadro del professionale e il profilo di uscita orientano il percorso. Le ind
 - [Fishing Safety: Preparedness and prevention](https://www.fao.org/fishing-safety/risk-management/preparedness-and-prevention/en) — FAO; Controlli preparatori, informazione meteorologica, comunicazione e stabilità.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

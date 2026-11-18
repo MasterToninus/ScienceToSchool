@@ -29,47 +29,75 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Per la nuova prima dal 2026/27 e la nuova seconda dal 2027/28, queste unità formano una componente delle Scienze sperimentali. L’esempio scolastico del 2020/21 serve al confronto con il quadro previgente.
 
+**Prerequisiti e progressione.** In ingresso: proporzioni, equivalenze e grafici. Vettori e segni si costruiscono nella statica; posizione/velocità precedono Newton, lavoro ed energia. Un controllo di lettura del grafico è compreso nella riserva. La seconda richiede questi nuclei meccanici: non sono rinviati tutti al secondo anno. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le ore della quota integrata sono ipotesi del progetto e non certificano il completo curricolo di Scienze sperimentali/integrate. Un solo caso operativo collega raccolta, grafici e relazione; le attività finali riutilizzano quei dati. La riserva copre prova individuale, restituzione e recupero, senza sommare un nuovo progetto.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Misure e organizzazione dei dati
 
-**Subtotale del nucleo: 12 / 17 ore (A / B).**
+**Subtotale del nucleo: 10 / 12 ore (A / B).**
 
-- **5 / 7 ore.** Usare strumenti per massa, lunghezza, volume, tempo e temperatura, registrando risoluzione e condizioni di prova.
-- **7 / 10 ore.** Costruire tabelle e grafici con unità coerenti; riconoscere proporzionalità e dispersione e valutare qualitativamente come le incertezze delle misure dirette si propagano a una grandezza ricavata.
+- **4 / 5 ore.** Usare strumenti per massa, lunghezza, volume, tempo e temperatura, registrando risoluzione e condizioni di prova.
+- **6 / 7 ore.** Costruire tabelle e grafici con unità coerenti; riconoscere proporzionalità e dispersione e valutare qualitativamente come le incertezze delle misure dirette si propagano a una grandezza ricavata.
+
 
 ### Materiali e proprietà fisiche
 
-**Subtotale del nucleo: 10 / 14 ore (A / B).**
+**Subtotale del nucleo: 6 / 8 ore (A / B).**
 
-- **5 / 7 ore.** Determinare densità e confrontare campioni, distinguendo proprietà intensive, massa totale e geometria.
-- **5 / 7 ore.** Concordare con chimica e scienze della Terra una prova su materiali, terreno o tessuti, evitando di attribuire alla sola fisica l’intera unità integrata.
+- **3 / 4 ore.** Determinare densità e confrontare campioni, distinguendo proprietà intensive, massa totale e geometria.
+- **3 / 4 ore.** Concordare con chimica e scienze della Terra una prova su materiali, terreno o tessuti, evitando di attribuire alla sola fisica l’intera unità integrata. Usare questi risultati nel progetto conclusivo, senza una seconda prova identica.
+
 
 ### Forze ed equilibrio
 
-**Subtotale del nucleo: 8 / 14 ore (A / B).**
+**Subtotale del nucleo: 8 / 10 ore (A / B).**
 
-- **4 / 7 ore.** Rappresentare peso, tensione, reazione e attrito con vettori e diagrammi delle forze.
-- **4 / 7 ore.** Interpretare equilibrio e momento in leve e strutture semplici; verificare il ruolo di vincoli e posizione del carico.
+- **4 / 5 ore.** Rappresentare peso, tensione, reazione e attrito con vettori e diagrammi delle forze.
+- **4 / 5 ore.** Interpretare equilibrio e momento in leve e strutture semplici; verificare il ruolo di vincoli e posizione del carico. Collegare peso al campo gravitazionale e distinguere massa e forza.
+
 
 ### Fluidi e pressione
 
+**Subtotale del nucleo: 6 / 8 ore (A / B).**
+
+- **3 / 4 ore.** Distinguere forza e pressione e leggere misure di pressione con unità e riferimento dichiarati.
+- **3 / 4 ore.** Applicare pressione idrostatica e spinta di Archimede a recipienti, materiali e fluidi, specificando le condizioni statiche. Includere il principio di Pascal.
+
+
+### Cinematica e riferimenti
+
 **Subtotale del nucleo: 8 / 12 ore (A / B).**
 
-- **4 / 6 ore.** Distinguere forza e pressione e leggere misure di pressione con unità e riferimento dichiarati.
-- **4 / 6 ore.** Applicare pressione idrostatica e spinta di Archimede a recipienti, materiali e fluidi, specificando le condizioni statiche.
+- **4 / 6 ore.** Leggere posizione, velocità e accelerazione nei grafici di moti rettilinei uniformi e accelerati; confrontare traiettoria e grafico.
+- **4 / 6 ore.** Usare caduta e moto circolare uniforme in esempi semplici; confrontare riferimenti inerziali e accelerati, introducendo qualitativamente le forze apparenti.
+
+
+### Dinamica e primo bilancio meccanico
+
+**Subtotale del nucleo: 6 / 10 ore (A / B).**
+
+- **3 / 5 ore.** Applicare i tre principi di Newton a un corpo con peso, reazione e attrito; distinguere massa inerziale e gravitazionale.
+- **3 / 5 ore.** Calcolare lavoro, energia cinetica e potenziale e potenza in un trasporto; discutere conservazione meccanica e dissipazione.
+
 
 ### Energia e fenomeni termici
 
-**Subtotale del nucleo: 8 / 12 ore (A / B).**
+**Subtotale del nucleo: 6 / 13 ore (A / B).**
 
-- **4 / 6 ore.** Confrontare temperatura, calore e energia e descrivere passaggi di stato e dilatazione.
-- **4 / 6 ore.** Impostare bilanci calorimetrici elementari e confrontare conduzione, convezione e irraggiamento in materiali d’indirizzo.
+- **3 / 5 ore.** Confrontare temperatura, calore e energia e descrivere passaggi di stato e dilatazione.
+- **3 / 5 ore.** Impostare bilanci calorimetrici elementari e confrontare conduzione, convezione e irraggiamento in materiali d’indirizzo.
+- **0 / 3 ore.** Solo B: distinguere energia interna, calore e lavoro e avviare il primo principio con un bilancio; i cicli e il secondo principio sono ripresi in seconda.
+
 
 ### Prova integrata sui materiali
 
-**Subtotale del nucleo: 8 / 12 ore (A / B).**
+**Subtotale del nucleo: 4 / 8 ore (A / B).**
 
-- **4 / 6 ore.** Definire una proprietà da confrontare e una procedura con variabili controllate, strumenti e numero di misure.
-- **4 / 6 ore.** Documentare risultati e incertezza in un rapporto condivisibile con gli altri insegnamenti; motivare una scelta tecnica entro il perimetro dei dati.
+- **2 / 4 ore.** Definire una proprietà, variabili controllate e strumenti riusando le misure dei nuclei precedenti; predisporre il confronto su un nuovo campione.
+- **2 / 4 ore.** Documentare risultati e incertezza in un rapporto condivisibile con gli altri insegnamenti; motivare una scelta tecnica entro il perimetro dei dati.
 
 ### Riserva per consolidamento e valutazione
 
@@ -93,6 +121,7 @@ G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli.
 
 ## Fonti consultate per questa proposta
 
+- [MIUR — Direttiva 57/2010, allegato A.2, Scienze integrate (Fisica)](https://leg16.camera.it/temiap/temi16/MIUR_dir15072010n57.pdf) — Confronto della copertura biennale previgente; pp. 66–67 del documento.
 - [MIM — Primi orientamenti per la progettazione curricolare degli istituti tecnici, 2026](https://www.buccarimarconi.edu.it/wp-content/uploads/2026/09/ORIENTAMENTI-ISTITUTI-TECNICI-2026.pdf) — Parte III: progettazione del biennio.
 - [MIM — D.M. 71 del 29 aprile 2026](https://www.ufficioscolasticoregionalelazio.it/wp-content/uploads/2026/06/m_pi.AOOGABMI.Registro-DecretiR.0000071.29-04-2026.pdf) — Testo del decreto e allegati.
 - [IIS Giorgi-Woolf, Roma — Curricolo di Fisica del tecnico, a.s. 2020/21](https://www.iisgiorgiwoolf.edu.it/gw/wp-content/uploads/2023/12/curricolo-fisica-tecnico.pdf) — Confronto con il biennio previgente.

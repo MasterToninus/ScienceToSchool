@@ -1,5 +1,7 @@
 # Fonti per i programmi di Informatica
 
+**Aggiornamento della revisione critica, 18/11/2026:** [fonti nuovamente esaminate, recuperi e correzioni](../revisione-critica-informatica-elettronica.md). I limiti di accesso descritti nella ricognizione sottostante vanno letti insieme agli esiti successivi di questo rapporto; non implicano che un documento recuperato in seguito sia ancora non consultato.
+
 Ricerca autonoma tramite IA consultata il **18 novembre 2026 (2026-11-18)**. Questo documento è un catalogo tematico delle fonti e del loro impiego; il solo registro cumulativo delle attività rimane il [registro IA](../../interazioni-ai/registro.md#ai-0014). La redazione delle proposte è documentata in [AI-0003](../../interazioni-ai/registro.md#ai-0003).
 
 ## Metodo e limiti

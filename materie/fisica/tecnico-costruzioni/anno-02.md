@@ -28,47 +28,69 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per Fisica applicata alle strutture e all’ambiente nella nuova seconda, dal 2027/28. I confronti su modelli non costituiscono verifiche strutturali o prestazionali di opere reali.
 
+**Prerequisiti e progressione.** Dalle Scienze sperimentali di prima: misure, densità, forze e temperatura da verificare nella riserva. Nel primo nucleo introdurre scala, grafici e componenti elementari; equilibrio precede deformazione. Non sono richiesti trigonometria avanzata, momenti d’inerzia di sezione calcolati per integrazione o statica iperstatica. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La disciplina degli Elementi di base è distinta dalle Scienze sperimentali: le ore non si sommano per finanziare due volte la stessa prova. Gli Orientamenti 2026 non fissano qui una lista annuale esaustiva; la scelta richiede curricolo d’istituto. Ogni montaggio e analisi è incluso nel punto relativo; il rapporto riusa i dati acquisiti. La riserva comprende valutazione con restituzione e recupero, non altre prove complete.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Misure, materiali e rappresentazione
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Raccogliere lunghezze, masse, carichi e spostamenti di un modello strutturale usando unità coerenti.
-- **9 ore.** Leggere uno schema quotato e una scheda materiale e distinguere geometria, proprietà del materiale e condizioni di prova.
+- **5 ore.** Scegliere strumenti e unità per lunghezze, masse e spostamenti di un modello; definire la risoluzione necessaria.
+- **4 ore.** Raccogliere e ripetere misure a carichi assegnati; confrontare dispersione e risoluzione.
+- **5 ore.** Leggere schema quotato, scala e geometria della sezione; distinguere dimensioni del modello e dell’opera.
+- **4 ore.** Leggere schede di materiali e condizioni di prova, separando proprietà e geometria.
+
 
 ### Forze, momenti e vincoli
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Rappresentare carichi, reazioni e bracci e applicare le condizioni di equilibrio a strutture semplici.
-- **9 ore.** Confrontare appoggi e posizioni del carico, verificando la plausibilità delle reazioni con casi simmetrici e bilanci.
+- **5 ore.** Costruire diagrammi di carico con vettori, risultante e momento; esplicitare bracci e segni.
+- **5 ore.** Determinare reazioni di una trave semplicemente appoggiata con carichi concentrati.
+- **4 ore.** Confrontare appoggi, carichi simmetrici e posizioni variabili con casi limite.
+- **4 ore.** Controllare al banco un equilibrio e discutere stabilità, vincoli reali e scarto dal modello.
+
 
 ### Deformazione e risposta meccanica
 
 **Subtotale del nucleo: 22 ore.**
 
-- **13 ore.** Misurare allungamento o freccia e distinguere comportamento elastico e deformazione permanente.
-- **9 ore.** Confrontare modelli di travi variando una sola caratteristica geometrica, senza trasferire automaticamente il risultato a strutture reali.
+- **5 ore.** Distinguere tensione e deformazione e usare la legge di Hooke su un campione in trazione o compressione.
+- **5 ore.** Preparare una prova di allungamento o freccia, controllando carico e misura dello spostamento.
+- **6 ore.** Raccogliere dati di carico/scarico e identificare campo elastico e possibile deformazione permanente.
+- **6 ore.** Confrontare due sezioni di trave con stessa lunghezza, materiale e carico; usare relazioni fornite senza richiedere il calcolo strutturale del triennio.
+
 
 ### Scambi termici e materiali
 
 **Subtotale del nucleo: 18 ore.**
 
-- **9 ore.** Descrivere conduzione, convezione e irraggiamento in un involucro semplice.
-- **9 ore.** Confrontare resistenza termica e dispersione mediante spessore e materiale, dichiarando condizioni al contorno e regime assunto.
+- **5 ore.** Richiamare temperatura, calore e potenza termica prima di conduzione, convezione e irraggiamento.
+- **5 ore.** Calcolare resistenze termiche di pareti semplici da materiale e spessore, dichiarando regime stazionario.
+- **4 ore.** Progettare il confronto di due pannelli a condizioni comparabili; scegliere una sola grandezza osservabile.
+- **4 ore.** Interpretare una serie di raffreddamento o dati predisposti, distinguendo inerzia e isolamento.
+
 
 ### Suono e comfort degli ambienti
 
 **Subtotale del nucleo: 16 ore.**
 
-- **8 ore.** Distinguere assorbimento, isolamento e riverberazione, collegandoli a propagazione e riflessione del suono.
-- **8 ore.** Interpretare una prova comparativa su materiali o geometrie con tempi e posizioni controllate.
+- **4 ore.** Definire frequenza, intensità e propagazione sonora e introdurre il livello tramite tabelle, senza presumere logaritmi già studiati.
+- **4 ore.** Distinguere assorbimento, isolamento e riverberazione e associare ciascuno a una misura appropriata.
+- **4 ore.** Confrontare due materiali o geometrie a distanza e sorgente controllate.
+- **4 ore.** Stimare variabilità e limiti del sensore; separare indicazione didattica e prestazione certificata.
+
 
 ### Confronto di soluzioni
 
 **Subtotale del nucleo: 16 ore.**
 
-- **8 ore.** Preparare un rapporto con schema, dati, grafici e criteri di scelta per due modelli di trave o pannello.
-- **8 ore.** Separare prova didattica e verifica progettuale: la scheda riguarda la nuova seconda dal 2027/28 e richiede raccordo con il curricolo d’istituto.
+- **5 ore.** Organizzare schema, tabelle e grafici delle prove già svolte su trave e pannello.
+- **5 ore.** Confrontare due soluzioni per un plastico con criterio meccanico e ambientale espliciti.
+- **6 ore.** Svolgere un’analisi di sensibilità su carico, spessore o condizione termica e motivare perché il modello non certifica una struttura reale.
 
 ### Riserva per consolidamento e valutazione
 

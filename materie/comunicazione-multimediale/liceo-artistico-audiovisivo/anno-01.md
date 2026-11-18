@@ -24,43 +24,71 @@ Le 99 ore riguardano l’intero Laboratorio artistico, con rotazione fra ambiti.
 
 Sperimentare nel laboratorio orientativo come l’inquadratura modifichi il significato attribuito a un soggetto.
 
+
+## Prerequisiti e progressione
+
+Osservare immagini, descrivere posizioni e usare strumenti digitali elementari; non si presume esperienza di fotografia.
+
+**Esito atteso a fine anno:** Selezionare una serie breve, motivare inquadratura e luce, consegnare file ordinati.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 33 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 33 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Percezione e composizione — 5 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Modulo audiovisivo del Laboratorio artistico orientativo | 27 | 6 | 33 |
 
-- **2 ore** — Individuare figura, sfondo, linee dominanti e pesi visivi in fotografie di oggetti comuni.
-- **3 ore** — Confrontare una composizione centrale e una asimmetrica, motivando dove si dirige l'attenzione.
+### D1 · Modulo audiovisivo del Laboratorio artistico orientativo — 33 ore
 
-### Punto di ripresa — 5 ore
+#### D1.0 · Diagnosi e raccordo — 2 ore
 
-- **2 ore** — Distinguere campo, piano, altezza e angolazione mediante variazioni controllate della stessa scena.
-- **3 ore** — Separare ciò che compare nel quadro da ciò che lo spettatore può inferire fuori campo.
+- **2 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Luce e colore — 5 ore
+#### D1.1 · Leggere e comporre — 8 ore
 
-- **2 ore** — Osservare ombre, riflessi e contrasto con luce naturale o lampade didattiche autorizzate.
-- **3 ore** — Annotare direzione della luce e dominante cromatica senza confondere osservazione e interpretazione.
+- **2 ore** — Osservare figura e sfondo in immagini con funzioni diverse.
+- **3 ore** — Provare simmetria, equilibrio e direzioni su ritagli.
+- **3 ore** — Motivare una composizione con lessico essenziale.
 
-### Serie fotografica e archivio — 4 ore
+#### D1.2 · Fotografare con intenzione — 9 ore
 
-- **2 ore** — Ordinare gli scatti con nomi coerenti e conservare originali e selezioni in cartelle distinte.
-- **2 ore** — Associare a ogni immagine una didascalia tecnica e confrontare gli effetti di due ordinamenti.
+- **3 ore** — Confrontare distanza e altezza del punto di ripresa.
+- **3 ore** — Riprendere lo stesso oggetto con due luci disponibili.
+- **3 ore** — Selezionare gli scatti distinguendo scelta espressiva e difetto.
 
-### Attività di laboratorio e applicazione — 7 ore
+#### D1.3 · Serie e archivio — 10 ore
 
-- **2 ore** — Isolare soggetto e sfondo e variare l’altezza del punto di vista.
-- **3 ore** — Realizzare tre fotografie dello stesso oggetto e annotare le scelte di luce e composizione.
-- **2 ore** — Disporre le immagini in due sequenze e confrontare le interpretazioni dei compagni.
+- **3 ore** — Ordinare tre fotografie secondo un criterio riconoscibile.
+- **3 ore** — Nominare file e conservare originali e versioni.
+- **4 ore** — Presentare la serie citando fonti e autorizzazioni.
 
-### Verifiche, recupero e consolidamento — 7 ore
+#### D1.4 · Verifiche, restituzione e recupero — 4 ore
 
-- **4 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **2 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **1 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **1 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **1 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **1 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **1 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
 
-**Totale della proposta: 33 ore = 26 ore nei nuclei e nelle applicazioni + 7 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+**Subtotale D1: 33 ore = 27 ore di nuclei e applicazioni + 2 ore di diagnosi + 2 ore di verifiche/restituzione + 2 ore di recupero/consolidamento.**
+
+**Totale della proposta: 33 ore = 27 ore nei nuclei e nelle applicazioni + 6 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Percezione e composizione.** Individuare figura, sfondo, linee dominanti e pesi visivi in fotografie di oggetti comuni. Confrontare una composizione centrale e una asimmetrica, motivando dove si dirige l'attenzione.
+
+**Punto di ripresa.** Distinguere campo, piano, altezza e angolazione mediante variazioni controllate della stessa scena. Separare ciò che compare nel quadro da ciò che lo spettatore può inferire fuori campo.
+
+**Luce e colore.** Osservare ombre, riflessi e contrasto con luce naturale o lampade didattiche autorizzate. Annotare direzione della luce e dominante cromatica senza confondere osservazione e interpretazione.
+
+**Serie fotografica e archivio.** Ordinare gli scatti con nomi coerenti e conservare originali e selezioni in cartelle distinte. Associare a ogni immagine una didascalia tecnica e confrontare gli effetti di due ordinamenti.
+
+**Attività di laboratorio e applicazione.** Isolare soggetto e sfondo e variare l’altezza del punto di vista. Realizzare tre fotografie dello stesso oggetto e annotare le scelte di luce e composizione. Disporre le immagini in due sequenze e confrontare le interpretazioni dei compagni.
 
 ## Compito e verifica
 
@@ -87,3 +115,6 @@ Le attività audiovisive sono moduli orientativi del Laboratorio artistico, da i
 - [Immaginando, Andrea Rosati e Floriana Maruca, ISBN 9788820372644](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128) — Hoepli; Presentazione e destinazione del manuale.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

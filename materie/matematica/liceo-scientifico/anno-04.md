@@ -22,49 +22,58 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Periodicità, spazio e caso.** Gli obiettivi del secondo biennio sono definiti per l’indirizzo nelle [Indicazioni nazionali, DM 211/2010](https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=010G0232&atto.dataPubblicazioneGazzetta=2010-12-14&tipoSerie=serie_generale&tipoVigenza=originario). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva. Le unità nuove vanno svolte nell’ordine dei prerequisiti indicati nei punti. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **132 ore** (tutte le varianti). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Trigonometria e fenomeni periodici
+### Trigonometria e modelli periodici
 
-**Subtotale: 30 h.**
+**Subtotale: 26 h.**
 
-- **9 h** — Passare fra gradi e radianti e leggere seno, coseno e tangente sulla circonferenza goniometrica.
-- **12 h** — Risolvere triangoli e semplici equazioni goniometriche; scegliere formule e teoremi in relazione al problema.
-- **9 h** — Modellizzare un segnale periodico indicando ampiezza, periodo e fase, senza confondere il modello con la misura.
+- **8 h** — Passare da gradi a radianti, definire seno, coseno e tangente e leggere ampiezza, periodo e fase.
+- **10 h** — Usare identità fondamentali, formule di addizione e duplicazione e risolvere equazioni goniometriche semplici.
+- **8 h** — Applicare teoremi dei seni e del coseno a triangoli e problemi di misura; controllare il risultato con stima e disegno.
 
-### Numeri complessi e coordinate
+### Numeri complessi
 
-**Subtotale: 22 h.**
+**Subtotale: 16 h.**
 
-- **7 h** — Introdurre l'unità immaginaria e il piano complesso; operare in forma algebrica e riconoscere il coniugato.
-- **9 h** — Passare a modulo e argomento e interpretare geometricamente prodotto e rotazione.
-- **6 h** — Usare potenze e radici in casi semplici e spiegare il rapporto tra soluzioni reali e complesse di un'equazione.
+- **8 h** — Introdurre unità immaginaria, coniugato e operazioni in forma algebrica; rappresentare i risultati nel piano.
+- **8 h** — Dopo la trigonometria, passare a modulo e argomento; interpretare prodotti, potenze e radici e il numero delle soluzioni di equazioni semplici.
 
-### Geometria nello spazio
+### Geometria dello spazio
+
+**Subtotale: 16 h.**
+
+- **8 h** — Studiare posizioni di rette e piani, parallelismo e perpendicolarità con modelli tridimensionali.
+- **8 h** — Calcolare superfici, volumi e sezioni di poliedri e solidi di rotazione; usare il principio di Cavalieri e distinguere figura e proiezione.
+
+### Conteggio e probabilità condizionata
 
 **Subtotale: 20 h.**
 
-- **6 h** — Rappresentare punti, rette e piani; distinguere parallelismo, incidenza e perpendicolarità.
-- **8 h** — Calcolare aree e volumi di solidi e sezioni semplici, usando un disegno che chiarisca le ipotesi.
-- **6 h** — Collegare coordinate, vettori e distanze nei percorsi che li prevedono; distinguere una figura piana dalla sua proiezione.
+- **9 h** — Motivare permutazioni, disposizioni e combinazioni, anche mediante il binomio di Newton; evitare il solo riconoscimento meccanico di formule.
+- **11 h** — Usare probabilità condizionata, totale e Bayes con alberi e tabelle; distinguere indipendenza e incompatibilità e discutere frequenze di base.
 
-### Calcolo combinatorio e probabilità condizionata
+### Verso il calcolo infinitesimale
 
-**Subtotale: 22 h.**
+**Subtotale: 16 h.**
 
-- **7 h** — Scegliere tra disposizioni, permutazioni e combinazioni spiegando ruolo dell'ordine e delle ripetizioni.
-- **9 h** — Calcolare probabilità condizionate, probabilità totale e semplici casi di Bayes mediante un albero o una tabella.
-- **6 h** — Distinguere indipendenza e incompatibilità e valutare l'effetto delle frequenze di base sull'interpretazione di un risultato.
+- **8 h** — Confrontare successioni, crescita e infinito; esplorare avvicinamento a un valore e asintoti senza assumere che una tabella provi un limite.
+- **8 h** — Studiare tassi medi e secanti, continuità intuitiva e variazione locale; preparare il raccordo con la derivata dell’anno successivo.
 
-### Argomentare, verificare e comunicare
+### Dati bivariati e modelli
 
 **Subtotale: 12 h.**
 
-- **4 h** — Esplicitare ipotesi e conclusioni, distinguendo un esempio favorevole da una prova generale.
-- **5 h** — Confrontare una soluzione simbolica, una geometrica e una numerica, verificando che rispondano alla stessa domanda.
-- **3 h** — Preparare una breve relazione con dati, passaggi essenziali, controllo del risultato e limiti della conclusione.
+- **6 h** — Applicare gli indici e le tabelle bivariate acquisiti in terza a un nuovo dataset; confrontare sottogruppi e possibili distorsioni, senza ripetere l’intero nucleo introduttivo.
+- **6 h** — Confrontare due modelli sui medesimi dati e su dati di controllo; usare residui e discussione delle ipotesi per motivare la scelta, distinguendo interpolazione e previsione.
 
 ### Declinazione per il percorso
 
@@ -74,12 +83,16 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **13 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **13 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 26 h.**
 
-**Totale del piano: 132 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **13 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **13 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 132 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
+
+In quarta la geometria spaziale è sintetica: eventuali coordinate servono a visualizzare. Le equazioni di rette, piani e sfere saranno trattate nella quinta; gli esempi seguenti rispettano questa distinzione.
 
 ### Prima unità
 

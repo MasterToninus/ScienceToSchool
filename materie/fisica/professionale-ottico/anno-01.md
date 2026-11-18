@@ -29,12 +29,19 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 La sequenza riguarda Ottica e Ottica applicata e va raccordata con Scienze integrate, laboratori e discipline sanitarie. Il programma Plana consultato è un esempio di quinta, non una scansione vincolante dell’intero quinquennio.
 
+**Prerequisiti e progressione.** In ingresso: angoli, perpendicolari, proporzioni e triangoli simili. Costruzioni grafiche precedono formule e convenzioni dei segni; l’allineamento del banco è insegnato prima delle prove. Le lenti oftalmiche e gli strumenti vengono avviati nella seconda con i laboratori, non rimandati tutti alla quinta. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La proposta copre il contributo fisico di Ottica/Ottica applicata. Le competenze professionali d’asse richiedono anche laboratori, optometria, contattologia e discipline sanitarie: non sono dichiarate integralmente raggiunte da queste ore. Le compresenze non raddoppiano il tempo dello studente. Nello scenario B le ore aggiuntive servono a più campioni, esercitazioni e prove autonome sullo stesso nucleo; non a replicare una spiegazione. Preparazione e relazione delle prove sono incluse nei punti, valutazione e restituzione nella riserva.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Misurare sul banco ottico
 
 **Subtotale del nucleo: 10 ore.**
 
 - **5 ore.** Scegliere unità e strumenti per lunghezze, angoli e tempi; distinguere risoluzione dello strumento e ripetibilità della misura.
 - **5 ore.** Descrivere allineamento di sorgente, oggetto e schermo con uno schema quotato, riportando le condizioni che rendono confrontabili le osservazioni.
+
 
 ### Luce, sorgenti e modello a raggi
 
@@ -43,19 +50,25 @@ La sequenza riguarda Ottica e Ottica applicata e va raccordata con Scienze integ
 - **5 ore.** Distinguere sorgente luminosa, oggetto illuminato e immagine; descrivere propagazione rettilinea, ombre e penombre.
 - **7 ore.** Usare il raggio come modello geometrico e riconoscerne i limiti; costruire una camera oscura e prevedere orientamento e dimensione dell’immagine.
 
+
 ### Riflessione e specchio piano
-
-**Subtotale del nucleo: 14 ore.**
-
-- **7 ore.** Misurare gli angoli rispetto alla normale e verificare la legge della riflessione.
-- **7 ore.** Costruire l’immagine virtuale in uno specchio piano, distinguendo il prolungamento dei raggi da un effettivo fascio dietro lo specchio.
-
-### Specchi sferici
 
 **Subtotale del nucleo: 10 ore.**
 
-- **5 ore.** Riconoscere asse ottico, vertice, centro di curvatura e fuoco; tracciare raggi principali per specchi concavi e convessi.
-- **5 ore.** Prevedere natura e ingrandimento dell’immagine al variare della posizione dell’oggetto, esplicitando l’approssimazione dei raggi vicini all’asse.
+- **4 ore.** Costruire normale, raggio incidente e riflesso e prevedere l’angolo con la legge della riflessione.
+- **3 ore.** Misurare gli angoli in più configurazioni e controllare allineamento e ripetibilità.
+- **3 ore.** Costruire l’immagine virtuale in uno specchio piano, distinguendo prolungamenti geometrici e raggi reali.
+
+
+### Specchi sferici
+
+**Subtotale del nucleo: 14 ore.**
+
+- **4 ore.** Riconoscere asse ottico, vertice, centro di curvatura e fuoco; tracciare raggi principali per specchi concavi e convessi.
+- **4 ore.** Prevedere natura e ingrandimento dell’immagine al variare della posizione dell’oggetto, esplicitando l’approssimazione dei raggi vicini all’asse.
+- **3 ore.** Usare punti coniugati e ingrandimento con una convenzione dei segni esplicita, limitandosi al modello paraassiale.
+- **3 ore.** Confrontare una previsione di fuoco e dimensione con una prova a schermo; documentare un caso in cui il modello fallisce.
+
 
 ### Immagini e verifica delle previsioni
 
@@ -86,6 +99,7 @@ F. Catalano, *Elementi di ottica generale*, Zanichelli, ISBN 9788808097866. Usar
 
 ## Fonti consultate per questa proposta
 
+- [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
 - [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.

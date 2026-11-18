@@ -21,9 +21,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Progettazione multimediale, quadro previgente nel 2026/27: 132 ore.
+- **Unico**: 132 = **132 ore**; Progettazione multimediale 132 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie digitali e progettazione multimediale nel tecnico di Grafica e comunicazione](README.md)
 
@@ -31,38 +33,65 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Analizzare pubblico, obiettivo e vincoli del brief. Sperimentare griglie, tipografia e gerarchia dell’informazione. Confrontare due soluzioni visive alternative.
+**Prerequisiti e avvio.** Dal biennio previgente: strumenti digitali, rappresentazione, materiali e filiera. Composizione e metodo del brief si sviluppano prima dei prodotti completi.
 
-### Analisi del brief — 25 ore
+**Raccordo e progressione.** Il Web è un mezzo fra stampa, audiovisivo e 3D. In quarta e quinta si riutilizzano tipografia e metodo progettuale, senza ripartire da zero.
 
-- **14 ore** — Definire pubblico, obiettivo, messaggio e vincoli distinguendo richieste e ipotesi progettuali.
-- **11 ore** — Raccogliere riferimenti visivi con autore e fonte per motivare scelte proprie.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Identità e composizione — 29 ore
+#### S1D1 · Progettazione multimediale — 132 ore
 
-- **16 ore** — Progettare una gerarchia tipografica e una griglia applicabili a più prodotti.
-- **13 ore** — Confrontare spaziature, proporzioni e contrasti attraverso varianti controllate dello stesso messaggio.
+##### S1D1N1 · Linguaggio visivo — 26 ore
 
+- **10 ore** — Leggere esempi di storia della grafica e collegare forma, funzione e contesto.
+- **8 ore** — Applicare gerarchia, griglia, equilibrio e contrasto a una composizione.
+- **8 ore** — Confrontare percezione e significato del colore in un progetto.
 
-### Risorse e prototipo — 29 ore
+##### S1D1N2 · Tipografia e immagine — 28 ore
 
-- **16 ore** — Preparare testi e immagini per il supporto scelto, conservando sorgenti ed esportazioni.
-- **13 ore** — Nella variante web organizzare titoli, sezioni e collegamenti semanticamente prima dello stile.
+- **10 ore** — Scegliere caratteri, corpo, interlinea e gerarchie motivandone leggibilità.
+- **10 ore** — Progettare immagini raster e vettoriali con formati e risoluzioni appropriate.
+- **8 ore** — Integrare testo e immagini in un impaginato con fonti autorizzate.
 
+##### S1D1N3 · Metodo progettuale — 26 ore
 
-### Revisione e consegna — 29 ore
+- **8 ore** — Analizzare brief, destinatario e vincoli e sviluppare alternative.
+- **10 ore** — Realizzare bozze e prototipi e raccogliere riscontri.
+- **8 ore** — Preparare file per stampa o distribuzione digitale con controllo tecnico.
 
-- **16 ore** — Confrontare due proposte rispetto al brief mediante criteri espliciti e riscontro tra pari.
-- **13 ore** — Consegnare prodotto e archivio delle risorse, documentando verifiche iniziali di accessibilità e limiti.
+##### S1D1N4 · Multimedia introduttivo — 22 ore
 
-### Riserva e quadratura
+- **8 ore** — Costruire storyboard e sequenza audiovisiva breve.
+- **8 ore** — Realizzare un ipertesto o prototipo Web accessibile.
+- **6 ore** — Riconoscere principi di animazione e spazio tridimensionale con una prova guidata.
 
-- **20 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Consegna — 20 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 112 | 20 | **132 ore** |
+- **8 ore** — Presentare un progetto coordinato con motivazioni visive.
+- **6 ore** — Collaudare collegamenti, esportazioni e leggibilità.
+- **6 ore** — Documentare versioni, diritti e limiti.
+
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Progettazione multimediale | 122 | 10 | **132 ore** |
+
+**Totale Unico: 132 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C5 Grafica e comunicazione, Progettazione multimediale](https://www.gazzettaufficiale.it/eli/gu/2012/03/30/76/so/60/sg/pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -85,3 +114,25 @@ Volume secondo biennio, ISBN 9788808920331.
 - [W3C WAI, Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Analizzare pubblico, obiettivo e vincoli del brief. Sperimentare griglie, tipografia e gerarchia dell’informazione. Confrontare due soluzioni visive alternative.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Definire pubblico, obiettivo, messaggio e vincoli distinguendo richieste e ipotesi progettuali. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Raccogliere riferimenti visivi con autore e fonte per motivare scelte proprie. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Progettare una gerarchia tipografica e una griglia applicabili a più prodotti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare spaziature, proporzioni e contrasti attraverso varianti controllate dello stesso messaggio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare testi e immagini per il supporto scelto, conservando sorgenti ed esportazioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Nella variante web organizzare titoli, sezioni e collegamenti semanticamente prima dello stile. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare due proposte rispetto al brief mediante criteri espliciti e riscontro tra pari. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Consegnare prodotto e archivio delle risorse, documentando verifiche iniziali di accessibilità e limiti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

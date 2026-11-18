@@ -21,56 +21,61 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Riferimento.** Per la seconda del 2026/27 valgono le Indicazioni 2012. Dal 2027/28 arriva la prima coorte del nuovo curricolo. Si riparte da frazioni, poligoni, cellule e misure già incontrati. La distribuzione proposta va raccordata al lavoro effettivo della prima. [Indicazioni 2012](https://www.miur.gov.it/documents/20182/51310/DM%2B254_2012.pdf) · [DM 221/2025 e allegato](https://www.gazzettaufficiale.it/eli/id/2026/01/27/26G00021/sg)
 
+## Prerequisiti, sequenza e sostenibilità
+
+Verificare frazioni, potenze, misure e figure della prima; radici prima di Pitagora, proporzioni prima di velocità e concentrazioni. I filoni matematico e scientifico procedono in parallelo con questi raccordi. Le unità comprendono esercizio, laboratorio e controllo formativo; la riserva include diagnosi, verifiche sommative e recupero. Il tempo prolungato amplia esercitazione e indagine, senza aggiungere automaticamente un diverso curricolo. Le applicazioni e il compito finale usano le stesse ore.
+
+[Revisione critica e fonti per le due coorti](../../../docs/ricerca-ai/revisione-critica-matematica.md). La scansione annuale e la quota tra Matematica e Scienze sono ipotesi didattiche interne al monte integrato, da concordare nella scuola.
+
 ## Programma proposto per nuclei tematici
 
-**Ripartizione Tentative generata dall’IA:** **198 ore** (tempo ordinario); **297 ore** (tempo prolungato). Nei punti e nei subtotali i valori separati da «/» seguono questo stesso ordine e sono **alternativi**. I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
+**Ripartizione Tentative generata dall’IA: 198 h / 297 h**, rispettivamente tempo ordinario / prolungato. Gli scenari sono alternativi; i tempi non sono prescritti dalle Indicazioni. Le integrazioni DM 221/2025 decorrono con la coorte entrata in prima nel 2026/27.
 
-### Matematica — rapporti e relazioni
+### Matematica — rapporti, radici e relazioni
 
-**Subtotale: 47 h / 71 h.**
+**Subtotale: 40 h / 60 h.**
 
-- **14 h / 21 h** — Operare con razionali, percentuali e proporzioni e interpretare la base di un confronto percentuale.
-- **19 h / 29 h** — Riconoscere proporzionalità diretta e inversa attraverso tabelle, grafici e formule.
-- **14 h / 21 h** — Usare espressioni letterali semplici per descrivere una misura o una relazione e controllarle sostituendo valori.
+- **12 h / 18 h** — Consolidare operazioni con razionali, rapporti, percentuali e proporzioni in confronti di prezzi e misure.
+- **10 h / 15 h** — Stimare radici quadrate, distinguere quadrati perfetti e irrazionali e collegare numero e lunghezza.
+- **10 h / 15 h** — Riconoscere proporzionalità diretta e inversa in formule, tabelle e grafici, controllando unità e dominio.
+- **8 h / 12 h** — Usare espressioni letterali e formule inverse, verificandole per sostituzione prima delle equazioni dell’anno successivo.
 
-### Matematica — aree, radici e similitudine
+### Matematica — geometria, dati e informatica
 
-**Subtotale: 47 h / 71 h.**
+**Subtotale: 48 h / 72 h.**
 
-- **14 h / 21 h** — Ricavare aree per scomposizione e giustificare l’equivalenza di figure.
-- **19 h / 29 h** — Usare radice quadrata e Pitagora in problemi di distanza; confrontare stima e calcolo.
-- **14 h / 21 h** — Distinguere il rapporto di similitudine tra lunghezze e tra aree e leggere correttamente una pianta in scala.
+- **12 h / 18 h** — Ricavare aree per scomposizione, confrontare equivalenza e congruenza e motivare una formula.
+- **12 h / 18 h** — Applicare Pitagora e le relazioni di Euclide in triangoli rettangoli con figure e misure controllate.
+- **8 h / 12 h** — Usare Talete, similitudine e scale; distinguere fattori per lunghezze e aree.
+- **8 h / 12 h** — Confrontare medie, frequenze e variabilità; descrivere un campione senza attribuirgli rappresentatività automatica.
+- **8 h / 12 h** — Tracciare una procedura con variabili e controlli; dal 2027/28 scrivere e correggere un programma con condizioni e cicli, mantenendo i casi di prova.
 
-### Scienze — chimica e movimento
+### Scienze — trasformazioni, forze e moti
 
-**Subtotale: 24 h / 36 h.**
+**Subtotale: 26 h / 39 h.**
 
-- **7 h / 11 h** — Descrivere soluzioni e concentrazioni e distinguere dissoluzione, passaggio di stato e reazione.
-- **10 h / 14 h** — Rappresentare una trasformazione chimica con un modello semplice di particelle e conservazione della materia.
-- **7 h / 11 h** — Misurare spazio e tempo, confrontare velocità medie e descrivere il ruolo delle forze in esperienze guidate.
+- **7 h / 10 h** — Distinguere soluzione, passaggio di stato e reazione; descrivere solubilità, particelle e conservazione della materia.
+- **5 h / 8 h** — Osservare una reazione acido-base con sostanze e procedure predisposte dal docente; registrare evidenze e limiti del modello.
+- **7 h / 10 h** — Misurare spazio e tempo, leggere grafici di moto e confrontare velocità e variazione della velocità.
+- **7 h / 11 h** — Studiare forze, equilibrio, leva e piano inclinato; riprendere pressione e galleggiamento mediante una prova guidata.
 
-### Scienze — corpo umano e relazioni ecologiche
+### Scienze — organismo e ambiente
 
-**Subtotale: 24 h / 36 h.**
+**Subtotale: 32 h / 48 h.**
 
-- **7 h / 11 h** — Collegare apparati digerente, respiratorio, circolatorio ed escretore nel funzionamento dell’organismo.
-- **10 h / 14 h** — Descrivere movimento, sostegno e coordinamento, distinguendo osservazione scientifica e interpretazioni non fondate.
-- **7 h / 11 h** — Collegare fotosintesi, respirazione e reti alimentari e ragionare sui trasferimenti di materia.
-
-### Dati e indagine interdisciplinare
-
-**Subtotale: 16 h / 24 h.**
-
-- **5 h / 7 h** — Calcolare e interpretare medie e variabilità in piccoli insiemi di dati simulati o anonimi.
-- **6 h / 10 h** — Confrontare un grafico spazio-tempo con una descrizione verbale e motivare il significato della pendenza.
-- **5 h / 7 h** — Per la coorte che arriva dalla prima 2026/27 aggiungere un programma con variabili e controlli dei dati in ingresso, raccordandolo al lavoro precedente.
+- **10 h / 15 h** — Collegare digestione, respirazione, circolazione ed escrezione mediante percorsi di materia ed energia.
+- **8 h / 12 h** — Studiare sostegno, movimento, coordinamento nervoso e sensi attraverso schemi e osservazioni.
+- **7 h / 10 h** — Collegare alimentazione, attività fisica e prevenzione delle dipendenze a fonti pubbliche affidabili, senza diagnosi personali.
+- **7 h / 11 h** — Confrontare fotosintesi e respirazione, ciclo del carbonio e reti alimentari, usando dati di un piccolo sistema.
 
 ### Verifiche, restituzione e recupero
 
-- **20 h / 30 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **20 h / 29 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 52 h / 78 h.**
 
-**Totale del piano: 198 h / 297 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **26 h / 39 h** — Prove e restituzione, incluso il compito conclusivo e il controllo delle esperienze.
+- **26 h / 39 h** — Diagnosi e recupero dei prerequisiti con esercizi differenziati.
+
+**Totale del piano: 198 h / 297 h.**
 
 ## Unità integrate e prodotti attesi
 

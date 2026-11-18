@@ -21,49 +21,58 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Ricerca operativa e decisioni.** Nel 2026/27 questa classe prosegue nel precedente ordinamento. Consultare [le linee guida del settore](https://www.gazzettaufficiale.it/eli/id/2012/03/30/12A03290/sg). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e derivate nel punto della sequenza in cui sono richiamati. Prima dell’inferenza servono variabili aleatorie, media e varianza. Per le nuove coorti questa scansione resta una proposta da raccordare ai risultati del profilo e alle indicazioni attuative: non trasferisce automaticamente ogni dettaglio della Direttiva 4/2012 al nuovo ordinamento. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (entrambi i quadri). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Ottimizzazione e ricerca operativa
+### Ricerca operativa
 
 **Subtotale: 21 h.**
 
-- **6 h** — Tradurre una situazione in variabili, vincoli e funzione obiettivo; rappresentare una regione ammissibile in due variabili.
-- **9 h** — Risolvere semplici problemi di programmazione lineare e confrontare scelte in certezza e in rischio.
-- **6 h** — Condurre un'analisi di sensibilità e presentare una decisione motivata anche quando i dati non consentono un unico ottimo.
+- **6 h** — Rappresentare funzioni di due variabili con tabelle e curve di livello; costruire variabili, vincoli e obiettivo.
+- **9 h** — Risolvere una programmazione lineare a due variabili graficamente; confrontare scelte in certezza e in rischio dopo il valore atteso.
+- **6 h** — Esaminare scorte, alternative e sensibilità modificando un parametro; comunicare anche una decisione non univoca.
 
-### Calcolo combinatorio e probabilità condizionata
+### Campionamento e inferenza
+
+**Subtotale: 16 h.**
+
+- **8 h** — Dopo media, varianza e distribuzioni, distinguere parametro, stimatore e campione; simulare distribuzioni campionarie.
+- **8 h** — Interpretare stime puntuali e intervalli per media o proporzione, con ipotesi e limiti; evitare interpretazioni probabilistiche scorrette del singolo intervallo.
+
+### Modelli finanziari
+
+**Subtotale: 12 h.**
+
+- **6 h** — Confrontare interesse semplice e composto dopo progressioni e potenze; calcolare montante e valore attuale con unità coerenti.
+- **6 h** — Costruire rendite o un piano di versamenti con un foglio di calcolo; calcolare numericamente il tempo se i logaritmi non sono ancora acquisiti.
+
+### Ottimizzazione e modelli economici
 
 **Subtotale: 14 h.**
 
-- **4 h** — Scegliere tra disposizioni, permutazioni e combinazioni spiegando ruolo dell'ordine e delle ripetizioni.
-- **6 h** — Calcolare probabilità condizionate, probabilità totale e semplici casi di Bayes mediante un albero o una tabella.
-- **4 h** — Distinguere indipendenza e incompatibilità e valutare l'effetto delle frequenze di base sull'interpretazione di un risultato.
+- **7 h** — Applicare derivate a costi e utilità marginali e al massimo di utile; controllare dominio, estremi e vincoli.
+- **7 h** — Confrontare un equilibrio economico, un modello reddito-consumo e una regressione elementare; dichiarare ipotesi, limiti e dati necessari.
 
-### Campionamento e inferenza introduttiva
+### Metodi numerici e algoritmi
 
-**Subtotale: 14 h.**
+**Subtotale: 11 h.**
 
-- **4 h** — Distinguere popolazione, campione, parametro e stima; riconoscere selezione distorta e non risposta.
-- **6 h** — Simulare campioni ripetuti e osservare la variabilità della media o della proporzione campionaria.
-- **4 h** — Interpretare un intervallo di stima con le sue ipotesi; nei percorsi pertinenti introdurre il confronto con un'ipotesi nulla senza automatismi decisionali.
+- **6 h** — Applicare bisezione e, dopo le derivate, Newton a casi con ipotesi controllate; confrontare arresto, accuratezza e convergenza.
+- **5 h** — Confrontare iterazione e ricorsione su esempi; verificare il risultato e distinguere errore dei dati, del modello e del calcolo.
 
-### Modelli finanziari elementari
+### Probabilità totale e decisioni
 
-**Subtotale: 15 h.**
+**Subtotale: 5 h.**
 
-- **5 h** — Confrontare interesse semplice e composto con tempi e tassi espressi in unità coerenti.
-- **6 h** — Calcolare montante e valore attuale e costruire un piano di versamenti con un foglio di calcolo.
-- **4 h** — Confrontare due alternative in uno scenario didattico dichiarato, distinguendo ipotesi sui tassi, costi accessori e risultati garantiti dal modello.
-
-### Domanda, costi e ricavi
-
-**Subtotale: 15 h.**
-
-- **5 h** — Costruire modelli di domanda e offerta e interpretare un equilibrio come soluzione di un sistema.
-- **6 h** — Distinguere costo fisso, variabile, medio e marginale; esplicitare il dominio economico di ogni funzione.
-- **4 h** — Esaminare un punto di pareggio o un massimo di utile e verificare come cambia modificando un parametro.
+- **2 h** — Riprendere probabilità totale e Bayes in un problema di decisione economica, esplicitando le frequenze di base.
+- **3 h** — Confrontare un gioco equo e una scelta in rischio mediante valore atteso; discutere perché lo stesso valore medio non implica lo stesso rischio.
 
 ### Declinazione per il percorso
 
@@ -73,10 +82,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

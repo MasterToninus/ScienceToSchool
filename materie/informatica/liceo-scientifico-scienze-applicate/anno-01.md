@@ -16,9 +16,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Scienze applicate, Informatica: 66 ore.
+- **Unico**: 66 = **66 ore**; Informatica 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nel liceo scientifico, opzione scienze applicate](README.md)
 
@@ -26,38 +28,55 @@ Gli obiettivi nazionali dell’opzione sono articolati per bienni e quinto anno.
 
 ## Programma proposto per nuclei tematici
 
-Riconoscere hardware, sistema operativo e applicazioni. Collegare bit e byte alle dimensioni di immagini e testi. Raccogliere una serie di misure, tenere traccia delle unità e rappresentarla con un foglio di calcolo.
+**Prerequisiti e avvio.** Aritmetica, lettura di una consegna e operazioni elementari sui file; nessuna programmazione presupposta.
 
-### Architettura e file — 12 ore
+**Raccordo e progressione.** In seconda: cicli, funzioni e dati; l’avvio algoritmico in prima è una scelta didattica entro obiettivi biennali.
 
-- **7 ore** — Descrivere il percorso di un dato fra ingresso, memoria, processore e uscita, distinguendo hardware e software.
-- **5 ore** — Organizzare cartelle, nomi e versioni delle relazioni; verificare riapertura ed esportazione dei documenti.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Codifica dell’informazione — 15 ore
+#### S1D1 · Informatica — 66 ore
 
-- **8 ore** — Convertire piccoli interi fra base dieci e base due, collegando bit e byte alle dimensioni dei file.
-- **7 ore** — Confrontare testi, immagini raster e vettoriali; spiegare gli effetti di risoluzione e compressione sulla leggibilità.
+##### S1D1N1 · Rappresentazione e strumenti — 12 ore
 
+- **6 ore** — Distinguere informazione, dato e codifica binaria; convertire piccoli interi e riconoscere byte e unità di memoria.
+- **6 ore** — Individuare CPU, memoria, periferiche e sistema operativo; organizzare file, cartelle e copie di sicurezza.
 
-### Misure e foglio elettronico — 15 ore
+##### S1D1N2 · Documenti e dati — 14 ore
 
-- **8 ore** — Registrare misure, unità, date e provenienza distinguendo celle vuote, testo e valori numerici.
-- **7 ore** — Usare formule, riferimenti relativi e assoluti, medie e grafici a dispersione; controllare alcuni risultati indipendentemente.
+- **6 ore** — Produrre un documento con stili, immagini attribuite e tabella; esportare in un formato interoperabile.
+- **8 ore** — Costruire un foglio con riferimenti relativi e assoluti, formule e grafici; controllare risultati con stime.
 
+##### S1D1N3 · Problemi e primi algoritmi — 14 ore
 
-### Comunicazione scientifica — 14 ore
+- **6 ore** — Descrivere ingressi, uscita e passi di una procedura con pseudocodice; provare manualmente casi semplici.
+- **8 ore** — Eseguire programmi brevi con variabili, assegnazione e scelta; riconoscere un errore tramite traccia.
 
-- **8 ore** — Preparare una relazione con tabella, grafico dotato di assi e unità, osservazioni e interpretazione.
-- **6 ore** — Citare dati e immagini; confrontare sorgente ed esportazione, motivando la scelta del formato.
+##### S1D1N4 · Rete e uso responsabile — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Distinguere rete locale, Internet e Web; valutare provenienza di una fonte e usare ricerca mirata.
+- **6 ore** — Gestire credenziali, condivisione e licenze; discutere limiti di un risultato generato da IA con una verifica indipendente.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 14 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **6 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 52 ore di nuclei + 14 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Informatica | 52 | 14 | **66 ore** |
+
+**Totale Unico: 66 ore.**
+
+**Fondamento e limite della revisione.** [DM 211/2010, allegato F, Informatica; GU pp. 339–340, PDF pp. 343–344](https://umi.dm.unibo.it/wp-content/uploads/2013/10/4_DM_211_10_GU_275_-14_12_10.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -80,3 +99,25 @@ Volume primo biennio, ISBN 9788829865178.
 - [The Document Foundation, Calc Guide 7.2 – Formulas and Functions](https://books.libreoffice.org/en/CG72/CG7207-FormulasAndFunctions.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Riconoscere hardware, sistema operativo e applicazioni. Collegare bit e byte alle dimensioni di immagini e testi. Raccogliere una serie di misure, tenere traccia delle unità e rappresentarla con un foglio di calcolo.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Descrivere il percorso di un dato fra ingresso, memoria, processore e uscita, distinguendo hardware e software. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare cartelle, nomi e versioni delle relazioni; verificare riapertura ed esportazione dei documenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Convertire piccoli interi fra base dieci e base due, collegando bit e byte alle dimensioni dei file. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare testi, immagini raster e vettoriali; spiegare gli effetti di risoluzione e compressione sulla leggibilità. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Registrare misure, unità, date e provenienza distinguendo celle vuote, testo e valori numerici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare formule, riferimenti relativi e assoluti, medie e grafici a dispersione; controllare alcuni risultati indipendentemente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare una relazione con tabella, grafico dotato di assi e unità, osservazioni e interpretazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Citare dati e immagini; confrontare sorgente ed esportazione, motivando la scelta del formato. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

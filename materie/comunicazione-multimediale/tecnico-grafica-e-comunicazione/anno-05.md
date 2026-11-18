@@ -32,43 +32,224 @@ Il programma accosta progettazione, produzione e laboratorio. Le discipline ripo
 
 Documentare una produzione con scadenze, risorse, criteri di accettazione e correzioni.
 
+
+## Prerequisiti e progressione
+
+Workflow, sito essenziale e progetto coordinato del IV; la gestione economica richiede percentuali e lettura di tabelle.
+
+**Esito atteso a fine anno:** Gestire una campagna multimediale completa, con piano produttivo, prodotti collaudati e consuntivo.
+
+Raccordo: [scheda dell’anno precedente](anno-04.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Il web, l’animazione e il 3D sono trattati a livello di prodotto scolastico circoscritto. Il modello 3D resta essenziale, subordinato alle basi del IV anno; estensioni avanzate sono alternative ad altre esercitazioni, non nuovi obblighi oltre il budget.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 561 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 561 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Commessa e preventivo — 72 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Progettazione multimediale | 114 | 18 | 132 |
+| Tecnologie dei processi di produzione | 84 | 15 | 99 |
+| Laboratori tecnici | 174 | 24 | 198 |
+| Organizzazione e gestione dei processi produttivi | 114 | 18 | 132 |
 
-- **33 ore** — Tradurre il brief in prodotti, caratteristiche richieste e criteri di accettazione.
-- **39 ore** — Stimare tempi e costi con ipotesi esplicite e distinguere preventivo e consuntivo.
+### D1 · Progettazione multimediale — 132 ore
 
-### Pianificazione del flusso — 71 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **32 ore** — Rappresentare dipendenze, passaggi di approvazione e possibili colli di bottiglia.
-- **39 ore** — Organizzare cartelle, nomenclature e versioni per rendere riproducibile la consegna.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Controlli di produzione — 77 ore
+#### D1.1 · Strategia e ricerca — 24 ore
 
-- **35 ore** — Verificare materiali, file collegati e parametri prima delle lavorazioni previste.
-- **42 ore** — Registrare non conformità e correzioni senza sovrascrivere la documentazione della versione precedente.
+- **4 ore** — Analizzare obiettivi, pubblico e contesto della campagna.
+- **6 ore** — Confrontare strategie e linguaggi di prodotti reali.
+- **8 ore** — Definire messaggio e criteri di efficacia.
+- **6 ore** — Preparare concept alternativi motivati.
 
-### Collaudo e rapporto finale — 66 ore
+#### D1.2 · Campagna e sistema di prodotti — 30 ore
 
-- **30 ore** — Provare il risultato su due supporti rispetto ai criteri concordati.
-- **36 ore** — Presentare esiti, scostamenti e limiti residui al committente simulato con evidenze verificabili.
+- **6 ore** — Sviluppare un sistema grafico coerente.
+- **8 ore** — Progettare stampa, confezione e materiale digitale pertinente.
+- **8 ore** — Preparare storyboard e specifiche dei formati.
+- **8 ore** — Revisionare il sistema prima della produzione.
 
-### Attività di laboratorio e applicazione — 163 ore
+#### D1.3 · Web e audiovisivo — 30 ore
 
-- **48 ore** — Interpretare il brief di un committente simulato, stimare tempi e formulare un preventivo motivato.
-- **58 ore** — Costruire il flusso di lavorazione, identificare i controlli intermedi e verificare le caratteristiche richieste dei materiali.
-- **57 ore** — Collaudare i file finali su due supporti, versionarli e registrare l’accettazione o la richiesta di correzione.
+- **6 ore** — Progettare architettura dei contenuti e interazioni.
+- **8 ore** — Definire componenti animate o tridimensionali funzionali.
+- **8 ore** — Prevedere accessibilità e uso su diversi dispositivi.
+- **8 ore** — Confrontare versioni in una prova d’uso.
 
-### Verifiche, recupero e consolidamento — 112 ore
+#### D1.4 · Dossier e presentazione — 30 ore
 
-- **56 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **34 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **22 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Documentare fonti, diritti e decisioni progettuali.
+- **8 ore** — Preparare presentazione e portfolio.
+- **8 ore** — Motivare gli scarti dal brief.
+- **8 ore** — Valutare l’efficacia del prodotto e formulare revisioni.
 
-**Totale della proposta: 561 ore = 449 ore nei nuclei e nelle applicazioni + 112 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+### D2 · Tecnologie dei processi di produzione — 99 ore
+
+#### D2.0 · Diagnosi e raccordo — 3 ore
+
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Impianti e ciclo — 18 ore
+
+- **4 ore** — Confrontare impianti e fasi per una commessa definita.
+- **4 ore** — Stimare fabbisogni di materiali, servizi e attrezzature.
+- **6 ore** — Individuare vincoli tecnici e incompatibilità.
+- **4 ore** — Motivare la soluzione produttiva.
+
+#### D2.2 · Qualità e diagnosi — 21 ore
+
+- **4 ore** — Definire parametri e prove di conformità.
+- **5 ore** — Analizzare difetti di processo e prodotto.
+- **6 ore** — Confrontare possibili cause su dati forniti.
+- **6 ore** — Documentare una correzione verificabile.
+
+#### D2.3 · Sicurezza e ambiente — 21 ore
+
+- **4 ore** — Leggere procedure scolastiche e schede tecniche pertinenti.
+- **5 ore** — Individuare rischi e misure nel ciclo simulato.
+- **6 ore** — Confrontare sprechi, consumi e gestione dei materiali.
+- **6 ore** — Motivare limiti e attendibilità delle stime.
+
+#### D2.4 · Collaborazione e collaudo — 24 ore
+
+- **4 ore** — Organizzare specifiche e versioni condivise.
+- **6 ore** — Controllare il pacchetto tecnico della campagna.
+- **8 ore** — Registrare anomalie e azioni correttive.
+- **6 ore** — Redigere rapporto finale di qualità.
+
+#### D2.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+### D3 · Laboratori tecnici — 198 ore
+
+#### D3.0 · Diagnosi e raccordo — 4 ore
+
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D3.1 · Produzione grafica — 30 ore
+
+- **6 ore** — Realizzare gli esecutivi della campagna.
+- **8 ore** — Preparare impaginati e campioni di confezione.
+- **8 ore** — Verificare font, immagini e profili prima dell’uscita.
+- **8 ore** — Correggere difetti e produrre prove definitive.
+
+#### D3.2 · Produzione audiovisiva — 36 ore
+
+- **6 ore** — Allestire e riprendere il prodotto pianificato.
+- **8 ore** — Acquisire suono e materiali integrativi.
+- **12 ore** — Montare e rifinire la sequenza.
+- **10 ore** — Collaudare crediti, sottotitoli e formati.
+
+#### D3.3 · Web e pubblicazione simulata — 36 ore
+
+- **6 ore** — Realizzare un sito con codice o CMS documentato.
+- **8 ore** — Integrare contenuti e collegamenti in un ambiente locale.
+- **12 ore** — Verificare semantica, navigazione e uso su schermi diversi.
+- **10 ore** — Preparare un pacchetto pubblicabile senza pubblicazione automatica.
+
+#### D3.4 · Animazione e prototipi — 42 ore
+
+- **8 ore** — Produrre un’animazione 2D coerente con la campagna.
+- **10 ore** — Esplorare modello e resa 3D di un oggetto semplice.
+- **12 ore** — Integrare solo gli elementi funzionali al messaggio.
+- **12 ore** — Confrontare prestazioni e leggibilità dei prototipi.
+
+#### D3.5 · Consegna e portfolio — 30 ore
+
+- **6 ore** — Eseguire collaudo incrociato dei prodotti.
+- **8 ore** — Predisporre master, varianti e archivio.
+- **8 ore** — Presentare il portfolio con prove e revisioni.
+- **8 ore** — Documentare procedure utili al riuso.
+
+#### D3.6 · Verifiche, restituzione e recupero — 20 ore
+
+- **6 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **6 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D3: 198 ore = 174 ore di nuclei e applicazioni + 4 ore di diagnosi + 12 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+### D4 · Organizzazione e gestione dei processi produttivi — 132 ore
+
+#### D4.0 · Diagnosi e raccordo — 4 ore
+
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D4.1 · Impresa e commessa — 24 ore
+
+- **4 ore** — Descrivere funzioni aziendali e passaggi dell’ordine.
+- **6 ore** — Analizzare specifiche, tiratura e livello di servizio.
+- **8 ore** — Definire ruoli, vincoli e responsabilità.
+- **6 ore** — Predisporre scheda di commessa.
+
+#### D4.2 · Preventivo — 30 ore
+
+- **6 ore** — Distinguere costi fissi, variabili e diretti.
+- **8 ore** — Calcolare quantità, tempi e costo con dati forniti.
+- **8 ore** — Confrontare due tecnologie per diverse tirature.
+- **8 ore** — Motivare il preventivo e le sue ipotesi.
+
+#### D4.3 · Pianificazione — 30 ore
+
+- **6 ore** — Sequenziare fasi e dipendenze del lavoro.
+- **8 ore** — Stimare carichi, capacità e colli di bottiglia.
+- **8 ore** — Pianificare acquisti e controlli.
+- **8 ore** — Simulare una variazione di tempi o richiesta.
+
+#### D4.4 · Consuntivo e miglioramento — 30 ore
+
+- **6 ore** — Rilevare avanzamento, sprechi e non conformità.
+- **8 ore** — Confrontare costi preventivi ed effettivi.
+- **8 ore** — Proporre una correzione organizzativa misurabile.
+- **8 ore** — Presentare il rapporto finale al committente simulato.
+
+#### D4.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D4: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 561 ore = 486 ore nei nuclei e nelle applicazioni + 75 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Commessa e preventivo.** Tradurre il brief in prodotti, caratteristiche richieste e criteri di accettazione. Stimare tempi e costi con ipotesi esplicite e distinguere preventivo e consuntivo.
+
+**Pianificazione del flusso.** Rappresentare dipendenze, passaggi di approvazione e possibili colli di bottiglia. Organizzare cartelle, nomenclature e versioni per rendere riproducibile la consegna.
+
+**Controlli di produzione.** Verificare materiali, file collegati e parametri prima delle lavorazioni previste. Registrare non conformità e correzioni senza sovrascrivere la documentazione della versione precedente.
+
+**Collaudo e rapporto finale.** Provare il risultato su due supporti rispetto ai criteri concordati. Presentare esiti, scostamenti e limiti residui al committente simulato con evidenze verificabili.
+
+**Attività di laboratorio e applicazione.** Interpretare il brief di un committente simulato, stimare tempi e formulare un preventivo motivato. Costruire il flusso di lavorazione, identificare i controlli intermedi e verificare le caratteristiche richieste dei materiali. Collaudare i file finali su due supporti, versionarli e registrare l’accettazione o la richiesta di correzione.
 
 ## Compito e verifica
 
@@ -96,3 +277,8 @@ La Direttiva 4/2012 sostiene il confronto con il quadro precedente; il D.M. 29/2
 - [Tecnologie dei processi di produzione, seconda edizione: carta d'identità dell'opera](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499714_cartaidentita.pdf) — Clitt / Zanichelli; PDF pp. 1–2: materiali, processo dalla progettazione al prodotto, sostenibilità.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+
+- [IISS Mattei, documento V H 2024/25, contenuti disciplinari grafici pp. 12–15](https://www.iissmatteimaglie.edu.it/wp-content/uploads/2025/05/timbrato_FIRMATO_QuintaH.pdf#page=12) — confronto didattico per il raccordo verso il quinto anno; non scansione nazionale obbligatoria.

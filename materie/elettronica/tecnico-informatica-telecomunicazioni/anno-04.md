@@ -27,10 +27,12 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Telecomunicazioni**: Telecomunicazioni, quadro previgente nel 2026/27: 198 + 132 + 99 = 429 ore.
-- **Informatica**: Informatica, quadro previgente: soltanto Telecomunicazioni, 99 ore.
+- **Articolazione Telecomunicazioni**: 198 + 132 + 99 = **429 ore**; Telecomunicazioni 198 ore; Sistemi e reti 132 ore; TPSIT 99 ore.
+- **Articolazione Informatica — sole Telecomunicazioni**: 99 = **99 ore**; Telecomunicazioni 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Telecomunicazioni nel tecnico di Informatica e telecomunicazioni](README.md)
 
@@ -38,39 +40,191 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Studiare campionamento, quantizzazione e codifica, confrontando banda disponibile e qualità. Nell’articolazione Telecomunicazioni approfondire modulazione e interconnessione. Nell’articolazione Informatica privilegiare il collegamento fra mezzo fisico e comunicazione digitale.
+**Prerequisiti e avvio.** Dalla terza: reti elettriche, forme d’onda, LAN e microcontrollori. Fasori e decibel richiedono raccordo su complessi e logaritmi; timer e ADC precedono elaborazione continua.
 
-### Campionamento e codifica — Telecomunicazioni: 102 ore; Informatica: 34 ore
+**Raccordo e progressione.** Sistemi e reti configura infrastrutture e servizi; Telecomunicazioni valuta mezzi e qualità; TPSIT realizza nodi embedded. La scheda parallela di Informatica non duplica queste ore.
 
-- **Telecomunicazioni: 51 ore; Informatica: 17 ore** — Passare da segnale analogico a campioni e codici, distinguendo intervallo di campionamento e quantizzazione.
-- **Telecomunicazioni: 51 ore; Informatica: 17 ore** — Confrontare rappresentazioni con diversa risoluzione e riconoscere aliasing su esempi sintetici.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Articolazione Telecomunicazioni
 
-### Banda e qualità — Telecomunicazioni: 102 ore; Informatica: 25 ore
+#### S1D1 · Telecomunicazioni — 198 ore
 
-- **Telecomunicazioni: 51 ore; Informatica: 13 ore** — Studiare come banda e disturbo influenzano la ricostruzione di un segnale nel modello scelto.
-- **Telecomunicazioni: 51 ore; Informatica: 12 ore** — Confrontare segnali trasmessi e ricevuti mediante grafici e indicatori dichiarati, evitando conclusioni da un solo parametro.
+##### S1D1N1 · Frequenza e mezzi — 22 ore
 
+- **8 ore** — Interpretare spettro, banda e attenuazione di un segnale.
+- **8 ore** — Confrontare rame, fibra e propagazione radio attraverso parametri.
+- **6 ore** — Usare decibel e un bilancio semplificato di collegamento.
 
-### Variante Telecomunicazioni — Telecomunicazioni: 132 ore; Informatica: 0 ore
+##### S1D1N2 · Conversione e qualità — 22 ore
 
-- **Telecomunicazioni: 66 ore; Informatica: 0 ore** — Descrivere la funzione della modulazione e confrontare esempi analogici o digitali adeguati ai prerequisiti.
-- **Telecomunicazioni: 66 ore; Informatica: 0 ore** — Rappresentare interconnessione e trasporto dell’informazione con mezzi, apparati e protocolli distinti.
+- **8 ore** — Campionare e quantizzare distinguendo aliasing e risoluzione.
+- **8 ore** — Valutare rumore e rapporto segnale-rumore su casi guidati.
+- **6 ore** — Confrontare qualità analogica e digitale con indicatori espliciti.
 
+##### S1D1N3 · Modulazione e trasporto — 22 ore
 
-### Variante Informatica e prove — Telecomunicazioni: 29 ore; Informatica: 25 ore
+- **8 ore** — Descrivere e simulare AM e FM e introdurre modulazioni digitali.
+- **8 ore** — Distinguere multiplazione, commutazione e codifica.
+- **6 ore** — Collegare mezzo fisico, apparati e servizi di rete.
 
-- **Telecomunicazioni: 0 ore; Informatica: 17 ore** — Per Informatica mettere in relazione caratteristiche fisiche e affidabilità del collegamento digitale.
-- **Telecomunicazioni: 29 ore; Informatica: 8 ore** — Documentare un esperimento o una simulazione con sorgente, parametri, risultati e limiti del confronto.
+##### S1D1N4 · Sistemi e verifica — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Confrontare reti mobili e convergenti rispetto a servizi e limiti.
+- **6 ore** — Eseguire una prova di collegamento con parametri controllati.
+- **6 ore** — Presentare scelta del mezzo e qualità attesa senza confondere capacità e velocità nominale.
 
-- **Telecomunicazioni: 64 ore; Informatica: 15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Elettronica e segnali — 30 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Telecomunicazioni | 365 | 64 | **429 ore** |
-| Informatica | 84 | 15 | **99 ore** |
+- **10 ore** — Progettare amplificazione e filtraggio per una catena analogica.
+- **10 ore** — Analizzare risposta in frequenza e distorsione con strumenti virtuali.
+- **10 ore** — Confrontare parametri di componenti e condizioni operative.
+
+##### S1D1N6 · Radiotrasmissione — 34 ore
+
+- **12 ore** — Analizzare propagazione, antenne e adattamento in scenari didattici.
+- **12 ore** — Dimensionare un collegamento analogico con attenuazioni e margini.
+- **10 ore** — Verificare modulazione e demodulazione attraverso grafici e misure.
+
+##### S1D1N7 · Reti di trasporto — 30 ore
+
+- **10 ore** — Confrontare accesso, trasporto e commutazione di circuito.
+- **10 ore** — Analizzare multiplazione e sincronizzazione di canali.
+- **10 ore** — Redigere un progetto comparativo con prestazioni e prove.
+
+##### S1D1R · Verifica, restituzione e recupero — 18 ore
+
+- **6 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **6 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **6 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 180 ore di nuclei + 18 ore di verifica, restituzione e recupero = **198 ore**.
+
+#### S1D2 · Sistemi e reti — 132 ore
+
+##### S1D2N1 · Indirizzamento — 26 ore
+
+- **10 ore** — Progettare sottoreti IPv4 a partire da fabbisogni e motivare maschere.
+- **8 ore** — Introdurre indirizzi IPv6 e confrontarli con IPv4.
+- **8 ore** — Verificare un piano di indirizzamento con prove ripetibili.
+
+##### S1D2N2 · Instradamento — 26 ore
+
+- **10 ore** — Configurare routing statico e studiare il comportamento di un protocollo dinamico.
+- **8 ore** — Distinguere percorso, tabella di instradamento e scelta del prossimo nodo.
+- **8 ore** — Simulare guasti di collegamento e analizzare convergenza e limiti.
+
+##### S1D2N3 · Commutazione e accesso — 24 ore
+
+- **8 ore** — Configurare VLAN e separazione logica della rete.
+- **8 ore** — Integrare Wi-Fi e collegamento WAN con criteri di accesso e protezione.
+- **8 ore** — Motivare uso e limiti di NAT senza confonderlo con un firewall.
+
+##### S1D2N4 · Trasporto e servizi di base — 24 ore
+
+- **8 ore** — Confrontare TCP e UDP mediante tracce controllate.
+- **8 ore** — Configurare DHCP e risoluzione DNS elementare per rendere operativa la rete.
+- **8 ore** — Misurare latenza, perdita e capacità utile distinguendole dalla velocità nominale.
+
+##### S1D2N5 · Progetto di rete — 22 ore
+
+- **8 ore** — Progettare una rete interconnessa e selezionare apparati e mezzi.
+- **8 ore** — Configurare e collaudare lo scenario con permessi e filtri elementari.
+- **6 ore** — Documentare topologia, indirizzi, test e rischi residui.
+
+##### S1D2R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D2:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S1D3 · TPSIT — 99 ore
+
+##### S1D3N1 · Acquisizione — 22 ore
+
+- **8 ore** — Configurare ADC, riferimenti e risoluzione per un sensore.
+- **8 ore** — Campionare e temporizzare con timer e interrupt dopo averne simulato il comportamento.
+- **6 ore** — Confrontare media e filtro elementare senza confonderli con calibrazione.
+
+##### S1D3N2 · Controllo e comunicazione — 22 ore
+
+- **8 ore** — Pilotare un attuatore con interfaccia protetta e distinguere comando e potenza.
+- **8 ore** — Usare bus seriali e confrontare indirizzamento, tempi e vincoli elettrici.
+- **6 ore** — Progettare un automa con timeout e recupero da errore.
+
+##### S1D3N3 · Strumentazione e sviluppo — 22 ore
+
+- **8 ore** — Automatizzare una serie di misure e salvare metadati e unità.
+- **8 ore** — Scegliere un sistema embedded in base a memoria, interfacce e consumi.
+- **6 ore** — Organizzare driver, logica e test per rendere il firmware manutenibile.
+
+##### S1D3N4 · Prototipo integrato — 20 ore
+
+- **8 ore** — Realizzare un’acquisizione con comunicazione e confronto con riferimento.
+- **6 ore** — Verificare temporizzazione, limiti e guasti simulati.
+- **6 ore** — Redigere documentazione tecnica e valutare sicurezza e smaltimento.
+
+##### S1D3R · Verifica, restituzione e recupero — 13 ore
+
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D3:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Scenario 2 — Articolazione Informatica — sole Telecomunicazioni
+
+#### S2D1 · Telecomunicazioni — 99 ore
+
+##### S2D1N1 · Frequenza e mezzi — 22 ore
+
+- **8 ore** — Interpretare spettro, banda e attenuazione di un segnale.
+- **8 ore** — Confrontare rame, fibra e propagazione radio attraverso parametri.
+- **6 ore** — Usare decibel e un bilancio semplificato di collegamento.
+
+##### S2D1N2 · Conversione e qualità — 22 ore
+
+- **8 ore** — Campionare e quantizzare distinguendo aliasing e risoluzione.
+- **8 ore** — Valutare rumore e rapporto segnale-rumore su casi guidati.
+- **6 ore** — Confrontare qualità analogica e digitale con indicatori espliciti.
+
+##### S2D1N3 · Modulazione e trasporto — 22 ore
+
+- **8 ore** — Descrivere e simulare AM e FM e introdurre modulazioni digitali.
+- **8 ore** — Distinguere multiplazione, commutazione e codifica.
+- **6 ore** — Collegare mezzo fisico, apparati e servizi di rete.
+
+##### S2D1N4 · Sistemi e verifica — 20 ore
+
+- **8 ore** — Confrontare reti mobili e convergenti rispetto a servizi e limiti.
+- **6 ore** — Eseguire una prova di collegamento con parametri controllati.
+- **6 ore** — Presentare scelta del mezzo e qualità attesa senza confondere capacità e velocità nominale.
+
+##### S2D1R · Verifica, restituzione e recupero — 13 ore
+
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S2D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Articolazione Telecomunicazioni | Telecomunicazioni | 180 | 18 | **198 ore** |
+| Articolazione Telecomunicazioni | Sistemi e reti | 122 | 10 | **132 ore** |
+| Articolazione Telecomunicazioni | TPSIT | 86 | 13 | **99 ore** |
+| Articolazione Informatica — sole Telecomunicazioni | Telecomunicazioni | 86 | 13 | **99 ore** |
+
+**Totale Articolazione Telecomunicazioni: 429 ore.**
+**Totale Articolazione Informatica — sole Telecomunicazioni: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C4 Informatica e telecomunicazioni, pp. 3–8 e 10–16](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C4_Informatica_Telecomunicazioni.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio successivo usa le ore di Telecomunicazioni nel ramo scelto; in terza il confronto di filtri è osservazione guidata di reti semplici, mentre il progetto di filtri attivi e l’analisi spettrale avanzata seguono i prerequisiti della quarta. Costi e pianificazione della quinta sono elaborati nelle ore GPOI, senza contarli nuovamente nelle misure.
 
 ## Laboratorio e verifica
 
@@ -93,3 +247,25 @@ Edizione blu volume 2 per Telecomunicazioni; volume unico per Informatica.
 - [Analog Devices, David Kress – Understanding AC Behaviors of High Speed ADCs](https://www.analog.com/en/resources/technical-articles/understanding-ac-behaviors-of-high-speed-adcs.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Studiare campionamento, quantizzazione e codifica, confrontando banda disponibile e qualità. Nell’articolazione Telecomunicazioni approfondire modulazione e interconnessione. Nell’articolazione Informatica privilegiare il collegamento fra mezzo fisico e comunicazione digitale.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Passare da segnale analogico a campioni e codici, distinguendo intervallo di campionamento e quantizzazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare rappresentazioni con diversa risoluzione e riconoscere aliasing su esempi sintetici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Studiare come banda e disturbo influenzano la ricostruzione di un segnale nel modello scelto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare segnali trasmessi e ricevuti mediante grafici e indicatori dichiarati, evitando conclusioni da un solo parametro. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Descrivere la funzione della modulazione e confrontare esempi analogici o digitali adeguati ai prerequisiti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rappresentare interconnessione e trasporto dell’informazione con mezzi, apparati e protocolli distinti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Per Informatica mettere in relazione caratteristiche fisiche e affidabilità del collegamento digitale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Documentare un esperimento o una simulazione con sorgente, parametri, risultati e limiti del confronto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

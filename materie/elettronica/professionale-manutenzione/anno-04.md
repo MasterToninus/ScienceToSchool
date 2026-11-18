@@ -19,9 +19,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Ipotesi PTOF coordinata: 132 ore + 132 ore nei due insegnamenti = 264 ore, senza duplicare le unità.
+- **Ipotesi PTOF — declinazione elettrica**: 132 + 132 = **264 ore**; Tecnologie elettrico-elettroniche e applicazioni 132 ore; Tecnologie e tecniche di installazione e di manutenzione e di diagnostica 132 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie elettriche ed elettroniche nel professionale Manutenzione e assistenza tecnica](README.md)
 
@@ -29,38 +31,94 @@ Verificare ore, declinazione e profilo nel curricolo di istituto. La proposta se
 
 ## Programma proposto per nuclei tematici
 
-Confrontare dati di targa e valori misurati su simulatori di macchine. Seguire lo schema di comando di un azionamento. Interpretare la sequenza e le condizioni di arresto.
+**Prerequisiti e avvio.** Dalla terza: reti continue e alternate, componenti e diagnosi guidata. Introdurre macchine e sequenze prima di configurare azionamenti.
 
-### Macchine e azionamenti — 50 ore
+**Raccordo e progressione.** La declinazione elettrica va verificata sul PTOF; manutenzione comprende interfacce meccaniche e fluidiche e non coincide con la sola teoria elettronica.
 
-- **27 ore** — Riconoscere la funzione di motore, generatore e trasformatore in schemi e modelli.
-- **23 ore** — Confrontare dati nominali e misure simulate di tensione, corrente e potenza senza confonderli con condizioni ammissibili non verificate.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi PTOF — declinazione elettrica
 
-### Comando e automazione — 58 ore
+#### S1D1 · Tecnologie elettrico-elettroniche e applicazioni — 132 ore
 
-- **31 ore** — Rappresentare ingressi, uscite e stati di una sequenza automatizzata con arresti e condizioni di consenso.
-- **27 ore** — Simulare temporizzazioni, interblocchi e ripartenza, distinguendo comando ordinario e funzioni di sicurezza da validare.
+##### S1D1N1 · Macchine elettriche — 28 ore
 
+- **10 ore** — Descrivere trasformatori e interpretarne targa e prove.
+- **10 ore** — Analizzare motori e generatori attraverso prestazioni e modello.
+- **8 ore** — Confrontare potenze, rendimenti e condizioni operative.
 
-### Acquisizione e anomalie — 58 ore
+##### S1D1N2 · Conversione e comando — 28 ore
 
-- **31 ore** — Leggere segnali di sensori e distinguere guasto del dispositivo, collegamento e variazione del processo.
-- **27 ore** — Confrontare registrazioni di funzionamento normale e anomalo con la documentazione disponibile.
+- **10 ore** — Interpretare raddrizzatori, inverter e azionamenti.
+- **10 ore** — Distinguere segnale di controllo e circuito di potenza.
+- **8 ore** — Analizzare protezioni e limiti di interfacciamento.
 
+##### S1D1N3 · Automazione — 28 ore
 
-### Verifica dell’intervento — 58 ore
+- **10 ore** — Modellare stati, temporizzazioni e interblocchi.
+- **10 ore** — Programmare una sequenza con controllore in simulazione.
+- **8 ore** — Acquisire segnali di sensori e confrontarli con il modello.
 
-- **31 ore** — Definire prove funzionali ripetibili per un dimostratore, indicando condizioni iniziali e risultati attesi.
-- **27 ore** — Produrre un rapporto con schema aggiornato, misure e anomalie residue, senza trasformare la simulazione in autorizzazione a operare su impianti.
+##### S1D1N4 · Misure e diagnosi — 30 ore
 
-### Riserva e quadratura
+- **10 ore** — Interpretare dati normali e anomali di macchina.
+- **10 ore** — Progettare osservazioni discriminanti per localizzare un difetto.
+- **10 ore** — Documentare risultati e limiti del modello elettrico.
 
-- **40 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 18 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 224 | 40 | **264 ore** |
+- **6 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **6 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **6 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 114 ore di nuclei + 18 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S1D2 · Tecnologie e tecniche di installazione e di manutenzione e di diagnostica — 132 ore
+
+##### S1D2N1 · Pianificazione — 28 ore
+
+- **10 ore** — Analizzare manuali e predisporre fasi e risorse dell’intervento.
+- **10 ore** — Valutare condizioni dell’apparato e sequenze di accesso autorizzate.
+- **8 ore** — Gestire ricambi e documenti con tracciabilità.
+
+##### S1D2N2 · Installazione e configurazione — 28 ore
+
+- **10 ore** — Installare o simulare un azionamento con sensori e attuatori.
+- **10 ore** — Configurare parametri e sequenza programmabile secondo specifica.
+- **8 ore** — Verificare interblocchi e ripartenza senza confonderli con funzioni certificate di sicurezza.
+
+##### S1D2N3 · Diagnostica — 28 ore
+
+- **10 ore** — Confrontare log, misure e schemi per formulare ipotesi.
+- **10 ore** — Provare guasti simulati di sensore, cablaggio e attuatore.
+- **8 ore** — Correggere la causa e verificare effetti sul sistema.
+
+##### S1D2N4 · Collaudo e documentazione — 30 ore
+
+- **10 ore** — Pianificare prove funzionali prima e dopo l’intervento.
+- **10 ore** — Aggiornare disegni, parametri e rapporto.
+- **10 ore** — Motivare limiti e attività da affidare a personale competente.
+
+##### S1D2R · Verifica, restituzione e recupero — 18 ore
+
+- **6 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **6 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **6 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D2:** 114 ore di nuclei + 18 ore di verifica, restituzione e recupero = **132 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi PTOF — declinazione elettrica | Tecnologie elettrico-elettroniche e applicazioni | 114 | 18 | **132 ore** |
+| Ipotesi PTOF — declinazione elettrica | Tecnologie e tecniche di installazione e di manutenzione e di diagnostica | 114 | 18 | **132 ore** |
+
+**Totale Ipotesi PTOF — declinazione elettrica: 264 ore.**
+
+**Fondamento e limite della revisione.** [DD 1400/2019, risultati intermedi Manutenzione e assistenza tecnica, competenze 1–6](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-MANUTENZIONE-E-ASSISTENZA-TECNICA.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -83,3 +141,25 @@ Nuclei Macchine elettriche e Impianti e automazione.
 - [Siemens SCE, Educational Institutions – Documents (catalogo pubblico)](https://www.siemens.com/en-us/content/sce-educational-institutions/documents/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Confrontare dati di targa e valori misurati su simulatori di macchine. Seguire lo schema di comando di un azionamento. Interpretare la sequenza e le condizioni di arresto.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Riconoscere la funzione di motore, generatore e trasformatore in schemi e modelli. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare dati nominali e misure simulate di tensione, corrente e potenza senza confonderli con condizioni ammissibili non verificate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rappresentare ingressi, uscite e stati di una sequenza automatizzata con arresti e condizioni di consenso. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Simulare temporizzazioni, interblocchi e ripartenza, distinguendo comando ordinario e funzioni di sicurezza da validare. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Leggere segnali di sensori e distinguere guasto del dispositivo, collegamento e variazione del processo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare registrazioni di funzionamento normale e anomalo con la documentazione disponibile. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Definire prove funzionali ripetibili per un dimostratore, indicando condizioni iniziali e risultati attesi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Produrre un rapporto con schema aggiornato, misure e anomalie residue, senza trasformare la simulazione in autorizzazione a operare su impianti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

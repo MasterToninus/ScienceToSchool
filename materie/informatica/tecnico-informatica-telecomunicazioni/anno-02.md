@@ -19,9 +19,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Scienze e tecnologie applicate, quadro previgente nel 2026/27: 99 ore.
+- **Coorte previgente: 99 ore**: 99 = **99 ore**; Scienze e tecnologie applicate 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nei tecnici di Informatica e telecomunicazioni](README.md)
 
@@ -29,38 +31,59 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Descrivere protocolli elementari mediante regole e stati. Usare variabili, decisioni, cicli ed elenchi per elaborare un insieme di messaggi. Nel 2026/27 la seconda del previgente quadro affronta Scienze e tecnologie applicate.
+**Prerequisiti e avvio.** TIC e scienze del primo anno previgente; algoritmo e misure ripresi tramite diagnosi iniziale.
 
-### Algoritmi — 18 ore
+**Raccordo e progressione.** Terza: scelta dell’articolazione; programmazione approfondita separata da sistemi elettronici e reti.
 
-- **10 ore** — Formalizzare ingressi, uscite e vincoli usando pseudocodice e diagrammi comprensibili.
-- **8 ore** — Implementare variabili, selezioni e cicli verificando casi ordinari e valori di confine.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Coorte previgente: 99 ore
 
-### Dati e funzioni — 22 ore
+#### S1D1 · Scienze e tecnologie applicate — 99 ore
 
-- **12 ore** — Usare collezioni per misure o messaggi e funzioni per separare acquisizione ed elaborazione.
-- **10 ore** — Controllare formati e dati mancanti e definire come segnalare gli errori.
+##### S1D1N1 · Settore e sistemi — 22 ore
 
+- **8 ore** — Distinguere prodotto software, apparati e servizi nel settore ICT.
+- **8 ore** — Descrivere architettura di un dispositivo e requisiti di una applicazione.
+- **6 ore** — Confrontare componenti e materiali attraverso schede tecniche.
 
-### Protocolli e stati — 22 ore
+##### S1D1N2 · Misure e rappresentazione — 22 ore
 
-- **12 ore** — Definire un protocollo didattico di richiesta, risposta e conferma con ordine e formato espliciti.
-- **10 ore** — Rappresentare stati e transizioni simulando messaggi assenti, duplicati o fuori ordine.
+- **8 ore** — Rappresentare dati e segnali e usare unità e strumenti elementari.
+- **8 ore** — Confrontare simulazione e misure e registrare errori e condizioni.
+- **6 ore** — Leggere schemi e diagrammi funzionali di un sistema.
 
+##### S1D1N3 · Problema e prototipo — 22 ore
 
-### Progetto di orientamento — 22 ore
+- **8 ore** — Tradurre una richiesta in algoritmo e realizzare un programma semplice.
+- **8 ore** — Collegare ingressi, elaborazione e uscita in un prototipo simulato.
+- **6 ore** — Individuare risorse, ruoli e passaggi di realizzazione.
 
-- **12 ore** — Integrare programma e scambio di messaggi in un prototipo con diario delle prove.
-- **10 ore** — Confrontare software, rete e dispositivi; nella coorte previgente l’attività riguarda Scienze e tecnologie applicate.
+##### S1D1N4 · Processo e orientamento — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Confrontare attività delle due articolazioni con un caso comune.
+- **6 ore** — Documentare qualità, sicurezza, sostenibilità e uso dei dati.
+- **6 ore** — Presentare progetto e limiti: la disciplina non si esaurisce nella programmazione.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Coorte previgente: 99 ore | Scienze e tecnologie applicate | 86 | 13 | **99 ore** |
+
+**Totale Coorte previgente: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 57/2010, Scienze e tecnologie applicate, p. 82](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/LINEE_GUIDA_primo_biennio_istituti_tecnici.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -83,3 +106,25 @@ Per il nuovo biennio il corso è dedicato a Informatica e reti di comunicazione.
 - [MIUR, Linee guida 2012 – Informatica e telecomunicazioni, copia IIS Volta](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C4_Informatica_Telecomunicazioni.pdf).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Descrivere protocolli elementari mediante regole e stati. Usare variabili, decisioni, cicli ed elenchi per elaborare un insieme di messaggi. Nel 2026/27 la seconda del previgente quadro affronta Scienze e tecnologie applicate.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Formalizzare ingressi, uscite e vincoli usando pseudocodice e diagrammi comprensibili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Implementare variabili, selezioni e cicli verificando casi ordinari e valori di confine. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare collezioni per misure o messaggi e funzioni per separare acquisizione ed elaborazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Controllare formati e dati mancanti e definire come segnalare gli errori. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Definire un protocollo didattico di richiesta, risposta e conferma con ordine e formato espliciti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rappresentare stati e transizioni simulando messaggi assenti, duplicati o fuori ordine. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Integrare programma e scambio di messaggi in un prototipo con diario delle prove. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare software, rete e dispositivi; nella coorte previgente l’attività riguarda Scienze e tecnologie applicate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

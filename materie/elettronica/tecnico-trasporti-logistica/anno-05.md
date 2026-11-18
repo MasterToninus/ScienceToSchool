@@ -30,9 +30,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Quadro ordinario previgente nel 2026/27: Elettrotecnica, elettronica e automazione, 99 ore; scegliere gli esempi relativi al mezzo della classe.
+- **Quadro ordinario previgente: 99 ore**: 99 = **99 ore**; Elettrotecnica, elettronica e automazione 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Elettrotecnica, elettronica e automazione nei Trasporti e logistica](README.md)
 
@@ -40,38 +42,59 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Negli indirizzi che mantengono la materia in quinta, leggere uno schema di controllo con retroazione e discutere ridondanza dei sensori e segnalazioni. Per l’aeronautico distinguere acquisizione del segnale e sua presentazione sul display.
+**Prerequisiti e avvio.** Dalla quarta: elettronica, sensori, bus e comunicazione nel mezzo scelto. Collegare questi elementi prima di retroazione, ridondanza e diagnosi integrata.
 
-### Regolazione e affidabilità — 18 ore
+**Raccordo e progressione.** Scegliere nel README Costruzione, Conduzione o Logistica e un solo mezzo pertinente. Il ramo CAIM/CAIE con ore aggiuntive e i futuri quadri DM 29 richiedono piano specifico; le 99 ore qui non ne certificano la completezza.
 
-- **10 ore** — Descrivere retroazione, disturbi e risposta di un sistema di bordo simulato.
-- **8 ore** — Confrontare sensore singolo e ridondanza, distinguendo disponibilità dei dati e accordo fra misure.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Quadro ordinario previgente: 99 ore
 
-### Allarmi e supervisione — 22 ore
+#### S1D1 · Elettrotecnica, elettronica e automazione — 99 ore
 
-- **12 ore** — Definire soglie e stati di allarme su dati sintetici, motivando temporizzazioni e criteri di ritorno alla normalità.
-- **10 ore** — Per il contesto aeronautico distinguere acquisizione, elaborazione e presentazione dell’informazione all’operatore.
+##### S1D1N1 · Controllo e automazione — 22 ore
 
+- **8 ore** — Descrivere retroazione, disturbi e risposta del sistema.
+- **8 ore** — Programmare una sequenza o una regolazione semplice in simulazione.
+- **6 ore** — Distinguere comando, allarme e azione operativa.
 
-### Diagnosi su modello — 22 ore
+##### S1D1N2 · Sistemi di bordo e infrastruttura — 22 ore
 
-- **12 ore** — Formulare ipotesi per guasti simulati di sensore, collegamento o visualizzazione.
-- **10 ore** — Scegliere osservazioni che discriminino le ipotesi, senza usare procedure inventate su apparati reali.
+- **8 ore** — Interpretare dati di un sistema integrato di controllo o navigazione nel contesto scelto.
+- **8 ore** — Confrontare ridondanza, disponibilità e coerenza delle misure.
+- **6 ore** — Distinguere acquisizione, elaborazione e presentazione dell’informazione.
 
+##### S1D1N3 · Diagnostica e manutenzione — 22 ore
 
-### Progetto conclusivo — 22 ore
+- **8 ore** — Formulare ipotesi per guasti di sensore, collegamento o azionamento.
+- **8 ore** — Progettare controlli discriminanti e un piano di manutenzione su documenti assegnati.
+- **6 ore** — Registrare esito, incertezza e anomalie residue.
 
-- **12 ore** — Documentare prove, risultati e limiti con schema funzionale e criteri di accettazione dichiarati.
-- **10 ore** — Applicare la proposta solo alle articolazioni che mantengono l’insegnamento in quinta, secondo il perimetro del README.
+##### S1D1N4 · Progetto e qualità — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Definire criteri di accettazione e simulare condizioni normali e degradate.
+- **6 ore** — Valutare continuità, energia e sicurezza con riferimenti del mezzo.
+- **6 ore** — Consegnare fascicolo e relazione distinguendo prova didattica e procedura professionale.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Quadro ordinario previgente: 99 ore | Elettrotecnica, elettronica e automazione | 86 | 13 | **99 ore** |
+
+**Totale Quadro ordinario previgente: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C2 Trasporti e logistica, pp. 3–4, 15–16, 32–33](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C2_Trasporti_Logistica.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -93,3 +116,25 @@ Approfondimenti su automazione e sistemi di navigazione come applicazioni dell�
 - [MIUR, Linee guida 2012 – Elettronica ed elettrotecnica, copia IIS Volta](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C3_Elettronica_Elettrotecnica.pdf).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Negli indirizzi che mantengono la materia in quinta, leggere uno schema di controllo con retroazione e discutere ridondanza dei sensori e segnalazioni. Per l’aeronautico distinguere acquisizione del segnale e sua presentazione sul display.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Descrivere retroazione, disturbi e risposta di un sistema di bordo simulato. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare sensore singolo e ridondanza, distinguendo disponibilità dei dati e accordo fra misure. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Definire soglie e stati di allarme su dati sintetici, motivando temporizzazioni e criteri di ritorno alla normalità. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Per il contesto aeronautico distinguere acquisizione, elaborazione e presentazione dell’informazione all’operatore. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Formulare ipotesi per guasti simulati di sensore, collegamento o visualizzazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scegliere osservazioni che discriminino le ipotesi, senza usare procedure inventate su apparati reali. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Documentare prove, risultati e limiti con schema funzionale e criteri di accettazione dichiarati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Applicare la proposta solo alle articolazioni che mantengono l’insegnamento in quinta, secondo il perimetro del README. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

@@ -20,49 +20,55 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Dati e confronto fra alternative.** Gli obiettivi di matematica sono nell’[allegato 2 al DPR 222/2024](https://www.gazzettaufficiale.it/eli/id/2025/02/19/25G00020/SG). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Equazioni lineari e scomposizioni prima di sistemi, radicali e secondo grado; proporzioni prima della similitudine. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (percorso della scheda). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Sistemi e piano cartesiano
+### Funzioni, rette e sistemi
 
 **Subtotale: 18 h.**
 
-- **6 h** — Associare equazione, tabella e grafico di una retta; interpretare pendenza, intercetta e unità dei coefficienti.
-- **7 h** — Risolvere sistemi lineari con due metodi e discuterne i casi impossibile e indeterminato.
-- **5 h** — Confrontare due offerte o due leggi di misura mediante il punto di intersezione, controllando i vincoli del contesto.
+- **6 h** — Riprendere insiemi e dominio; confrontare funzione affine, proporzionalità inversa e valore assoluto mediante grafici e tabelle.
+- **8 h** — Risolvere sistemi lineari con sostituzione ed eliminazione; interpretare intersezione, parallelismo e coincidenza delle rette.
+- **4 h** — Impostare un problema con vincoli, confrontare offerte e controllare per sostituzione e graficamente l’ammissibilità della soluzione.
 
-### Radicali, equazioni e disequazioni quadratiche
+### Reali, radicali e secondo grado
 
-**Subtotale: 23 h.**
+**Subtotale: 22 h.**
 
-- **7 h** — Collocare radicali sulla retta e operare nei casi utili; distinguere identità algebrica e approssimazione numerica.
-- **9 h** — Collegare discriminante, radici, fattorizzazione e grafico di una parabola; trattare disequazioni con un quadro dei segni.
-- **7 h** — Costruire un problema di area o di costo che conduca a un'equazione di secondo grado e scartare le soluzioni non ammissibili.
+- **5 h** — Rappresentare radicali e reali sulla retta, motivare l’irrazionalità di radice di 2 e limitare le manipolazioni ai casi utili.
+- **7 h** — Riprendere scomposizioni e condizioni delle frazioni algebriche; risolvere equazioni di secondo grado collegando radici e parabola.
+- **5 h** — Risolvere disequazioni quadratiche e semplici disequazioni fratte con uno schema dei segni; escludere i denominatori nulli.
+- **5 h** — Modellizzare un’area o un costo con un’equazione quadratica, confrontare soluzione esatta e approssimata e scartare valori inammissibili.
 
-### Misura, similitudine e trasformazioni
+### Circonferenza, misura e similitudine
 
-**Subtotale: 17 h.**
+**Subtotale: 22 h.**
 
-- **5 h** — Applicare equivalenza delle figure, teoremi di Pitagora ed Euclide e similitudine in configurazioni motivate.
-- **7 h** — Confrontare il fattore di scala delle lunghezze con quello di aree e volumi.
-- **5 h** — Riconoscere traslazioni, rotazioni e simmetrie; verificare quali grandezze si conservano.
+- **5 h** — Riconoscere corde, archi, angoli al centro e alla circonferenza; risolvere semplici problemi di tangenza.
+- **7 h** — Giustificare equivalenza e misura delle aree, teoremi di Pitagora ed Euclide con costruzioni e problemi.
+- **6 h** — Applicare Talete e similitudine, distinguere scale di lunghezze, aree e volumi; riconoscere invarianti delle isometrie.
+- **4 h** — Introdurre vettori nel piano, componenti, somma e prodotto per scalare; usare seni e coseni di angoli acuti in un triangolo rettangolo.
 
-### Eventi e probabilità elementare
+### Probabilità elementare
 
-**Subtotale: 11 h.**
+**Subtotale: 9 h.**
 
-- **3 h** — Descrivere lo spazio degli esiti, eventi complementari e incompatibili; usare il rapporto casi favorevoli/casi possibili soltanto se gli esiti sono equiprobabili.
-- **5 h** — Rappresentare prove successive con tabelle e alberi, distinguendo esperimenti con e senza reinserimento.
-- **3 h** — Confrontare probabilità teorica e frequenza in una simulazione; spiegare perché un campione piccolo può oscillare molto.
+- **4 h** — Costruire spazi degli esiti ed eventi complementari o incompatibili; usare il conteggio solo quando gli esiti sono equiprobabili.
+- **5 h** — Rappresentare prove successive con alberi e tabelle, con o senza reinserimento; confrontare frequenze e probabilità mediante simulazione.
 
-### Raccogliere e descrivere dati
+### Algoritmi, funzioni e controllo
 
-**Subtotale: 10 h.**
+**Subtotale: 8 h.**
 
-- **3 h** — Definire popolazione, carattere e unità statistica; costruire tabelle di frequenza e grafici con scale leggibili.
-- **4 h** — Confrontare media, mediana, moda e campo di variazione; riconoscere l'effetto dei valori estremi.
-- **3 h** — Preparare un piccolo dataset anonimo o simulato, documentare fonte e unità e spiegare quale domanda consente di affrontare.
+- **4 h** — Realizzare un algoritmo per una tabella, una simulazione o la ricerca di una soluzione per tentativi; documentare input, passi e casi di controllo.
+- **4 h** — Usare funzioni o procedure riutilizzabili; distinguere funzione matematica, algoritmo e funzione calcolabile con esempi elementari, senza anticipare il metodo di Newton.
 
 ### Declinazione per il percorso
 
@@ -72,10 +78,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

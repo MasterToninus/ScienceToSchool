@@ -26,54 +26,63 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno raccordati fra terza e quarta in base al percorso effettivamente svolto.
 
-### Gas e interpretazione microscopica
+**Prerequisiti e progressione.** Dalla terza: primo principio, gas ideale, energia, moto circolare e vettori. Trigonometria e grafici sinusoidali precedono onde e fase; introdurre i logaritmi necessari ai livelli sonori. Gauss e Ampère sono trattati con simmetrie e somme semplici, senza richiedere integrali di superficie o di linea già padroneggiati. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
 
-**Subtotale del nucleo: 12 ore.**
+**Uso dei tempi e delle attività.** Le esperienze hanno una sola raccolta di dati: i nuclei applicativi ne curano l’interpretazione specifica. Preparazione, montaggio e analisi sono compresi nei punti indicati; le prove individuali e la restituzione usano la riserva. Gli approfondimenti facoltativi sostituiscono un esercizio dello stesso nucleo, senza aggiungere ore.
 
-- **6 ore.** Collegare pressione e temperatura al modello cinetico dei gas; distinguere agitazione microscopica e moto complessivo.
-- **6 ore.** Confrontare gas ideale e comportamento reale, identificando quali dati e condizioni rendono accettabile l’approssimazione.
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
 
-### Primo e secondo principio
+### Macchine termiche e irreversibilità
 
-**Subtotale del nucleo: 12 ore.**
+**Subtotale del nucleo: 16 ore.**
 
-- **6 ore.** Applicare il primo principio a trasformazioni isocore, isobare, isoterme e adiabatiche, dichiarando la convenzione dei segni.
-- **6 ore.** Descrivere cicli, macchine termiche e frigoriferi; distinguere rendimento e coefficiente di prestazione e interpretare irreversibilità ed entropia a livello adeguato alla classe.
+- **5 ore.** Consolidare il modello cinetico e i limiti del gas ideale su un caso già avviato in terza; applicare il primo principio alle trasformazioni isocore, isobare, isoterme e adiabatiche con segni coerenti.
+- **5 ore.** Costruire il bilancio di un ciclo e distinguere rendimento di una macchina, coefficiente di prestazione di frigorifero o pompa di calore e limite di Carnot.
+- **6 ore.** Usare gli enunciati del secondo principio per interpretare irreversibilità; introdurre variazione di entropia in trasformazioni reversibili semplici e distinguere bilancio del sistema e dell’ambiente.
+
 
 ### Oscillazioni e onde
 
-**Subtotale del nucleo: 14 ore.**
+**Subtotale del nucleo: 12 ore.**
 
-- **6 ore.** Collegare oscillatore armonico, periodo, frequenza ed energia; distinguere propagazione del disturbo e trasporto di materia.
-- **8 ore.** Misurare periodo o frequenza e lunghezza d’onda in una configurazione semplice e usare la relazione con la velocità di propagazione; rappresentare fase, ampiezza e sovrapposizione di onde.
+- **5 ore.** Descrivere oscillatore armonico con periodo, energia e andamento sinusoidale; introdurre fase e distinguere oscillazione locale e propagazione.
+- **4 ore.** Usare una funzione d’onda armonica, v = λf e il principio di sovrapposizione, con grafici spaziali e temporali distinti.
+- **3 ore.** Misurare periodo e una lunghezza d’onda su una configurazione da banco o dati forniti; controllare unità, fase e incertezza.
+
 
 ### Suono e ottica ondulatoria
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 14 ore.**
 
-- **5 ore.** Interpretare risonanza, onde stazionarie, battimenti ed effetto Doppler; distinguere intensità fisica e percezione del suono.
-- **5 ore.** Studiare interferenza e diffrazione della luce, riconoscendo il limite dell’ottica geometrica; usare un reticolo per stimare una lunghezza d’onda.
+- **5 ore.** Interpretare risonanza, onde stazionarie e battimenti; distinguere intensità fisica, livello sonoro e percezione, usando logaritmi guidati.
+- **3 ore.** Studiare l’effetto Doppler in casi collineari e discutere sorgente, ricevitore e mezzo prima di usare la formula.
+- **6 ore.** Confrontare interferenza e diffrazione della luce e il limite dell’ottica geometrica; svolgere una prova con reticolo o dati forniti per stimare una lunghezza d’onda.
+
 
 ### Cariche, campo e potenziale
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 16 ore.**
 
-- **5 ore.** Passare dalla legge di Coulomb al campo elettrico e alla sovrapposizione; interpretare linee di campo e, nei casi simmetrici, il flusso.
-- **5 ore.** Collegare lavoro, energia potenziale e differenza di potenziale; descrivere condensatori, capacità e accumulo di energia.
+- **5 ore.** Passare da Coulomb alla sovrapposizione del campo elettrico; distinguere sorgente, carica di prova e linee di campo.
+- **5 ore.** Definire flusso e usare il teorema di Gauss in geometrie semplici con simmetria esplicita; collegare la distribuzione della carica all’equilibrio dei conduttori.
+- **6 ore.** Collegare lavoro, energia potenziale e potenziale; applicare capacità ed energia del condensatore piano, distinguendo collegamento al generatore e sistema isolato.
+
 
 ### Corrente e circuiti
 
-**Subtotale del nucleo: 13 ore.**
+**Subtotale del nucleo: 12 ore.**
 
-- **8 ore.** Definire corrente, resistenza e resistività; risolvere reti semplici con leggi di Ohm e bilanci ai nodi e alle maglie.
-- **5 ore.** Calcolare potenza ed energia elettrica e confrontare componenti ideali e misure reali, usando solo circuiti didattici a bassissima tensione.
+- **5 ore.** Definire corrente, resistenza e resistività; risolvere serie, parallelo e semplici reti con bilanci ai nodi e alle maglie.
+- **4 ore.** Confrontare curva tensione-corrente misurata e modello ohmico in una prova a bassissima tensione; includere montaggio e lettura degli strumenti.
+- **3 ore.** Calcolare potenza, effetto Joule ed energia erogata; discutere generatore reale e limiti del modello.
+
 
 ### Campo magnetico
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 11 ore.**
 
-- **5 ore.** Descrivere il campo di magneti, fili percorsi da corrente e solenoidi; riconoscere la natura vettoriale della forza magnetica.
-- **5 ore.** Studiare la forza su cariche in moto e conduttori, distinguendola da quella elettrica; preparare il passaggio all’induzione dell’anno successivo.
+- **5 ore.** Descrivere campi di magneti, filo, spira e solenoide; introdurre circuitazione e legge di Ampère nei casi stazionari semplici, preparando Maxwell.
+- **6 ore.** Usare la forza di Lorentz e quella su un conduttore; studiare una traiettoria circolare e la coppia su una spira. Distinguere flusso e circuitazione prima dell’induzione di quinta.
 
 ### Riserva per consolidamento e valutazione
 
@@ -93,7 +102,7 @@ Verifica: giustificare una stima da dati ondulatori, poi spiegare la differenza 
 
 ## Libro consigliato
 
-Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Richiamare i capitoli 9-11 sui processi termici e il capitolo 12 sulle onde. Integrare col volume successivo per i campi. [Esercizi organizzati per capitolo](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166)
+Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Riprendere i capitoli 9–10 come prerequisiti e usare il capitolo 11 per macchine e secondo principio, poi il capitolo 12 sulle onde. Integrare col volume successivo per i campi. [Esercizi organizzati per capitolo](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166)
 
 ## Fonti consultate per questa proposta
 

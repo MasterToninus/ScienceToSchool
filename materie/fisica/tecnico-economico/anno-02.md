@@ -29,19 +29,27 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per Scienze sperimentali del nuovo biennio: prima dal 2026/27, seconda dal 2027/28. Coordinare fisica, chimica, biologia e scienze della Terra; nel quadro previgente la fisica del settore era collocata nel primo anno.
 
+**Prerequisiti e progressione.** Dalla prima: misure, grafici, energia e potenza. Servono proporzioni e unità funzionali; Newton e lavoro sono richiamati sul solo caso rettilineo. I logaritmi non sono presupposti: i livelli sonori si leggono con tabelle guidate. Il percorso copre una quota applicativa ipotetica, non tutta la fisica del biennio. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le ore della quota integrata sono ipotesi del progetto e non certificano il completo curricolo di Scienze sperimentali/integrate. Un solo caso operativo collega raccolta, grafici e relazione; le attività finali riutilizzano quei dati. La riserva copre prova individuale, restituzione e recupero, senza sommare un nuovo progetto.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Moto e mobilità
 
 **Subtotale del nucleo: 4 ore.**
 
 - **2 ore.** Descrivere distanza, tempo, velocità media e accelerazione in un tragitto reale.
-- **2 ore.** Separare tempo di reazione e frenata, distinguendo attrito, condizioni del mezzo e ipotesi del modello fisico.
+- **2 ore.** Distinguere tempo di reazione e spazio di frenata con un grafico e un modello a decelerazione assegnata; richiamare forza risultante e F = ma nel nucleo successivo, senza anticipare una trattazione completa dell’attrito.
+
 
 ### Energia del trasporto
 
 **Subtotale del nucleo: 4 ore.**
 
-- **2 ore.** Collegare forza, lavoro ed energia cinetica e individuare trasferimenti e dissipazioni in un sistema di trasporto.
+- **2 ore.** Introdurre forza risultante, F = ma e lavoro in un caso rettilineo; usare energia cinetica e dissipazione nel trasporto con formule guidate.
 - **2 ore.** Confrontare due modalità a parità di servizio, esplicitando confini del sistema, carico o occupazione e unità funzionale.
+
 
 ### Potenza e consumi nel tempo
 
@@ -50,12 +58,14 @@ Proposta per Scienze sperimentali del nuovo biennio: prima dal 2026/27, seconda 
 - **2 ore.** Distinguere potenza di picco, potenza media ed energia di un viaggio o di un servizio.
 - **2 ore.** Analizzare grafici e stime, verificando conversioni e coerenza dei dati prima di confrontare indicatori.
 
+
 ### Rumore e segnali ambientali
 
 **Subtotale del nucleo: 4 ore.**
 
 - **2 ore.** Collegare frequenza, propagazione e intensità del suono a una situazione di mobilità o accoglienza.
-- **2 ore.** Leggere un livello sonoro e riconoscere che la scala in decibel è logaritmica; discutere distanza e durata della misura senza trarre conclusioni normative da una prova didattica.
+- **2 ore.** Leggere livelli sonori da una tabella o da un grafico; spiegare che la scala in decibel è logaritmica mediante raddoppi e rapporti forniti, senza richiedere calcolo logaritmico autonomo. Dichiarare durata e distanza della misura.
+
 
 ### Indicatori per una filiera
 
@@ -63,6 +73,7 @@ Proposta per Scienze sperimentali del nuovo biennio: prima dal 2026/27, seconda 
 
 - **4 ore.** Costruire indicatori per passeggero-chilometro o unità di prodotto trasportato, mostrando l’effetto delle ipotesi.
 - **3 ore.** Separare dati fisici, valutazioni economiche e ipotesi sull’impatto ambientale, raccordando fisica e altre scienze sperimentali.
+
 
 ### Confronto documentato di scenari
 

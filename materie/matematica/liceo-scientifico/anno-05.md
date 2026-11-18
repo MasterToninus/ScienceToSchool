@@ -22,57 +22,70 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Analisi infinitesimale e modelli.** Gli obiettivi del quinto anno sono definiti per l’indirizzo nelle [Indicazioni nazionali, DM 211/2010](https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=010G0232&atto.dataPubblicazioneGazzetta=2010-12-14&tipoSerie=serie_generale&tipoVigenza=originario). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e derivate nel punto della sequenza in cui sono richiamati. Prima dell’inferenza servono variabili aleatorie, media e varianza. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **132 ore** (tutte le varianti). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
 ### Limiti e continuità
 
-**Subtotale: 18 h.**
+**Subtotale: 20 h.**
 
-- **6 h** — Esplorare il comportamento locale e all'infinito con grafici e valori numerici, indicando che una tabella non costituisce una dimostrazione.
-- **7 h** — Calcolare limiti elementari e riconoscere forme indeterminate; classificare le discontinuità e trovare gli asintoti.
-- **5 h** — Usare i teoremi pertinenti esplicitandone le ipotesi e confrontare il limite matematico con i limiti del modello.
+- **5 h** — Definire limite di successione e funzione con rappresentazioni coerenti; distinguere infinito e numero molto grande.
+- **9 h** — Calcolare limiti significativi, riconoscere indeterminazioni, continuità, discontinuità e asintoti.
+- **6 h** — Applicare teoremi di continuità dichiarandone le ipotesi; usare un controesempio e un caso di ricerca di uno zero.
 
 ### Derivata e studio di funzione
 
-**Subtotale: 24 h.**
+**Subtotale: 26 h.**
 
-- **7 h** — Passare dal rapporto incrementale alla derivata e interpretarla come pendenza e tasso istantaneo con unità corrette.
-- **10 h** — Applicare le regole di derivazione, studiare monotonia, estremi e concavità e costruire un grafico motivato.
-- **7 h** — Formulare un problema di ottimizzazione, verificare dominio ed estremi dell'intervallo e discutere l'ammissibilità della soluzione.
+- **6 h** — Costruire il rapporto incrementale e la derivata; interpretare tangente, velocità e unità del tasso.
+- **8 h** — Derivare funzioni elementari, prodotti, quozienti e composizioni semplici; distinguere continuità e derivabilità.
+- **12 h** — Usare monotonia, estremi, concavità e teoremi pertinenti per uno studio di funzione e un problema di ottimizzazione con vincoli.
 
-### Integrali, aree e accumulazione
+### Costruzione e applicazioni del calcolo integrale
 
-**Subtotale: 24 h.**
+**Subtotale: 26 h.**
 
-- **7 h** — Confrontare somme di contributi, area con segno e integrale definito; distinguere integrale e primitiva.
-- **10 h** — Calcolare integrali elementari e applicare il teorema fondamentale del calcolo nei casi studiati.
-- **7 h** — Stimare un totale o un'area con rettangoli e trapezi e valutare l'effetto del passo sulla risposta numerica.
+- **5 h** — Passare da somme di contributi all’integrale definito e distinguere area con segno e misura geometrica.
+- **7 h** — Introdurre primitive e teorema fondamentale, con ipotesi e collegamento alla derivata.
+- **6 h** — Integrare funzioni elementari e usare sostituzione e parti in casi scelti.
+- **5 h** — Calcolare aree e volumi per sezioni e risolvere un problema di accumulazione.
+- **3 h** — Confrontare rettangoli e trapezi con un caso esatto, esplicitando passo ed errore.
+
+### Coordinate nello spazio
+
+**Subtotale: 10 h.**
+
+- **5 h** — Usare coordinate, vettori e distanza nello spazio; rappresentare rette e piani e controllare semplici intersezioni.
+- **5 h** — Ricavare l’equazione di una sfera e discutere posizione rispetto a un piano; raccordare volume geometrico e, dopo gli integrali, volume per sezioni.
 
 ### Variabili aleatorie e distribuzioni
 
-**Subtotale: 17 h.**
-
-- **5 h** — Associare una variabile numerica a un esperimento e costruirne la distribuzione; interpretare valore atteso e varianza.
-- **7 h** — Applicare il modello binomiale verificando numero di prove, probabilità costante e indipendenza.
-- **5 h** — Confrontare un modello discreto con una distribuzione continua, interpretando l'area come probabilità e discutendo l'adeguatezza ai dati.
-
-### Algoritmi e approssimazioni
-
-**Subtotale: 11 h.**
-
-- **3 h** — Tradurre un procedimento in passi riproducibili con dati iniziali, criterio di arresto e controllo degli errori.
-- **5 h** — Confrontare bisezione e, quando i prerequisiti lo consentono, metodo di Newton su un'equazione.
-- **3 h** — Verificare una soluzione numerica nel problema originale e distinguere precisione del calcolo, errore dei dati ed errore del modello.
-
-### Modelli di variazione e raccordo con la fisica
-
 **Subtotale: 12 h.**
 
-- **4 h** — Interpretare una relazione tra una grandezza e la sua velocità di variazione e identificare il dato iniziale.
-- **5 h** — Confrontare un modello differenziale elementare con una simulazione a passi discreti; verificare una soluzione per sostituzione.
-- **3 h** — Discutere il ruolo delle ipotesi e la stabilità della previsione al cambiare dei parametri; trattare il nucleo come approfondimento da calibrare.
+- **5 h** — Associare una variabile discreta agli esiti; calcolare valore atteso e varianza e interpretare un gioco equo.
+- **4 h** — Studiare binomiale e Poisson su conteggi: verificare ipotesi e confrontare frequenze simulate.
+- **3 h** — Interpretare normale e area di probabilità, distinguendo distribuzione discreta e continua.
+
+### Metodi numerici e algoritmi
+
+**Subtotale: 6 h.**
+
+- **3 h** — Applicare bisezione e, dopo le derivate, Newton a casi con ipotesi controllate; confrontare arresto, accuratezza e convergenza.
+- **3 h** — Confrontare iterazione e ricorsione su esempi; verificare il risultato e distinguere errore dei dati, del modello e del calcolo.
+
+### Modelli di variazione
+
+**Subtotale: 6 h.**
+
+- **3 h** — Dopo derivate e integrali, interpretare un’equazione differenziale elementare con dato iniziale e verificarne una soluzione.
+- **3 h** — Confrontare crescita o decadimento con passi discreti e analizzare sensibilità ai parametri; limitarsi a uno o due modelli, non a un corso generale di equazioni differenziali.
 
 ### Declinazione per il percorso
 
@@ -82,10 +95,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **13 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **13 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 26 h.**
 
-**Totale del piano: 132 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **13 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **13 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 132 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

@@ -16,9 +16,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Scienze applicate, Informatica: 66 ore.
+- **Unico**: 66 = **66 ore**; Informatica 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nel liceo scientifico, opzione scienze applicate](README.md)
 
@@ -26,38 +28,55 @@ Gli obiettivi nazionali dell’opzione sono articolati per bienni e quinto anno.
 
 ## Programma proposto per nuclei tematici
 
-Tradurre entità e relazioni in uno schema di dati. Interrogare tabelle collegate. Distinguere contenuto, struttura e presentazione in una pagina accessibile.
+**Prerequisiti e avvio.** Funzioni, oggetti elementari e file dalla terza; nessuna base di dati già presupposta.
 
-### Modellazione degli archivi — 12 ore
+**Raccordo e progressione.** Quinta: usare dati strutturati e codice verificabile per modelli e reti.
 
-- **7 ore** — Individuare entità, attributi, chiavi e relazioni in un archivio di esperimenti o campioni.
-- **5 ore** — Tradurre lo schema in tabelle e riconoscere ridondanze e anomalie di aggiornamento mediante esempi.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Database e interrogazioni — 15 ore
+#### S1D1 · Informatica — 66 ore
 
-- **8 ore** — Creare un database con tipi coerenti, chiavi primarie e riferimenti fra tabelle.
-- **7 ore** — Usare filtri, aggregazioni e join; verificare i risultati su dati controllabili anche a mano.
+##### S1D1N1 · Documenti e multimedia — 12 ore
 
+- **6 ore** — Confrontare bitmap e vettori, risoluzione e compressione tramite dimensione e qualità.
+- **6 ore** — Interpretare un documento strutturato e i ruoli di HTML, CSS e XML.
 
-### Documenti web — 15 ore
+##### S1D1N2 · Web accessibile — 14 ore
 
-- **8 ore** — Scrivere HTML semantico distinguendo struttura, contenuto e presentazione, con collegamenti e risorse organizzati.
-- **7 ore** — Presentare risultati dell’archivio in una pagina, distinguendo prototipo statico e funzionalità che richiedono un servizio.
+- **8 ore** — Costruire pagine collegate con struttura semantica, stili e immagini attribuite.
+- **6 ore** — Gestire un evento locale semplice e verificare navigazione da tastiera e leggibilità.
 
+##### S1D1N3 · Dati relazionali — 16 ore
 
-### Accessibilità e progetto — 14 ore
+- **8 ore** — Passare da un archivio ridondante a entità, relazioni e chiavi.
+- **8 ore** — Creare tabelle e interrogazioni SQL con selezione, aggregazione e join elementare.
 
-- **8 ore** — Controllare titoli, alternative testuali, etichette, contrasto e navigazione da tastiera.
-- **6 ore** — Documentare requisiti e prove con dati sintetici; chiarire che i controlli rapidi non certificano piena accessibilità.
+##### S1D1N4 · Progetto e controllo — 14 ore
 
-### Riserva e quadratura
+- **8 ore** — Importare dati, controllare vincoli e produrre una piccola pubblicazione con provenienza verificabile.
+- **6 ore** — Distinguere dati pubblici e personali; documentare autorizzazioni, copie e limiti della soluzione.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Informatica | 56 | 10 | **66 ore** |
+
+**Totale Unico: 66 ore.**
+
+**Fondamento e limite della revisione.** [DM 211/2010, allegato F, Informatica; GU pp. 339–340, PDF pp. 343–344](https://umi.dm.unibo.it/wp-content/uploads/2013/10/4_DM_211_10_GU_275_-14_12_10.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** La pagina di consultazione del laboratorio è un prototipo statico con risultati esportati dal DBMS. Un servizio Web con interrogazione lato server è un approfondimento opzionale, non un ulteriore obbligo nelle 66 ore.
 
 ## Laboratorio e verifica
 
@@ -81,3 +100,25 @@ Volume secondo biennio, ISBN 9788829865239.
 - [W3C WAI, Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Tradurre entità e relazioni in uno schema di dati. Interrogare tabelle collegate. Distinguere contenuto, struttura e presentazione in una pagina accessibile.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Individuare entità, attributi, chiavi e relazioni in un archivio di esperimenti o campioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Tradurre lo schema in tabelle e riconoscere ridondanze e anomalie di aggiornamento mediante esempi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Creare un database con tipi coerenti, chiavi primarie e riferimenti fra tabelle. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare filtri, aggregazioni e join; verificare i risultati su dati controllabili anche a mano. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scrivere HTML semantico distinguendo struttura, contenuto e presentazione, con collegamenti e risorse organizzati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Presentare risultati dell’archivio in una pagina, distinguendo prototipo statico e funzionalità che richiedono un servizio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Controllare titoli, alternative testuali, etichette, contrasto e navigazione da tastiera. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Documentare requisiti e prove con dati sintetici; chiarire che i controlli rapidi non certificano piena accessibilità. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

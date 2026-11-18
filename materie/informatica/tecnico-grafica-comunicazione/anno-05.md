@@ -21,9 +21,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Progettazione multimediale, quadro previgente nel 2026/27: 132 ore.
+- **Unico**: 132 = **132 ore**; Progettazione multimediale 132 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie digitali e progettazione multimediale nel tecnico di Grafica e comunicazione](README.md)
 
@@ -31,38 +33,65 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Progettare una campagna coerente su più supporti, selezionare le risorse e stimare tempi e costi. Confrontare efficacia e accessibilità dei prodotti.
+**Prerequisiti e avvio.** Dalla quarta: prodotti editoriali, Web, audiovisivo e 3D introduttivo. La campagna integra e approfondisce queste abilità, senza avviare ex novo tutti gli ambienti.
 
-### Strategia della campagna — 25 ore
+**Raccordo e progressione.** Il Web è un mezzo fra stampa, audiovisivo e 3D. In quarta e quinta si riutilizzano tipografia e metodo progettuale, senza ripartire da zero.
 
-- **14 ore** — Trasformare un brief complesso in pubblico, obiettivi, messaggi e risultati osservabili.
-- **11 ore** — Motivare i canali in rapporto a destinatari, risorse e modalità di fruizione.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Sistema dei contenuti — 29 ore
+#### S1D1 · Progettazione multimediale — 132 ore
 
-- **16 ore** — Progettare testi, immagini e audiovisivi coerenti con varianti per ciascun supporto.
-- **13 ore** — Definire nomi, versioni, licenze e responsabili delle risorse, rendendo ripercorribile la produzione.
+##### S1D1N1 · Strategia progettuale — 26 ore
 
+- **8 ore** — Analizzare committente, pubblico, mercato e canali di una campagna.
+- **10 ore** — Elaborare concept e proposte argomentate con obiettivi verificabili.
+- **8 ore** — Pianificare fasi, risorse e criteri di accettazione.
 
-### Pianificazione e realizzazione — 29 ore
+##### S1D1N2 · Produzione coordinata — 28 ore
 
-- **16 ore** — Stimare tempi, dipendenze e costi simulati con revisioni intermedie e criteri di accettazione.
-- **13 ore** — Confrontare prototipi e ottimizzare qualità e peso dei file per il contesto previsto.
+- **10 ore** — Realizzare un prodotto editoriale e adattarne il linguaggio ai canali digitali.
+- **10 ore** — Progettare un sito o prodotto interattivo con struttura e accessibilità.
+- **8 ore** — Preparare materiali per stampa, distribuzione e controllo dei file.
 
+##### S1D1N3 · Audiovisivo e 3D — 26 ore
 
-### Verifica e presentazione — 29 ore
+- **8 ore** — Integrare ripresa, montaggio e postproduzione in una sequenza coerente.
+- **10 ore** — Realizzare animazione o visualizzazione 3D funzionale al progetto.
+- **8 ore** — Verificare formati, compressione e qualità sui dispositivi previsti.
 
-- **16 ore** — Valutare efficacia e accessibilità iniziale con una griglia definita prima della prova.
-- **13 ore** — Consegnare campagna e documentazione distinguendo risultati osservati e benefici attesi.
+##### S1D1N4 · Valutazione del prodotto — 22 ore
 
-### Riserva e quadratura
+- **8 ore** — Raccogliere riscontri sul prototipo e motivare revisioni.
+- **8 ore** — Confrontare efficacia comunicativa, qualità tecnica e sostenibilità.
+- **6 ore** — Controllare attribuzione, diritti e uso trasparente di strumenti automatici.
 
-- **20 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Portfolio e consegna — 20 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 112 | 20 | **132 ore** |
+- **8 ore** — Preparare fascicolo di progetto, file sorgente e istruzioni di riuso.
+- **6 ore** — Collaudare output e presentare alternative scartate.
+- **6 ore** — Discutere limiti e trasferibilità del progetto.
+
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Progettazione multimediale | 122 | 10 | **132 ore** |
+
+**Totale Unico: 132 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C5 Grafica e comunicazione, Progettazione multimediale](https://www.gazzettaufficiale.it/eli/gu/2012/03/30/76/so/60/sg/pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -85,3 +114,25 @@ Volume quinto anno, ISBN 9788808531766.
 - [W3C WAI, Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Progettare una campagna coerente su più supporti, selezionare le risorse e stimare tempi e costi. Confrontare efficacia e accessibilità dei prodotti.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Trasformare un brief complesso in pubblico, obiettivi, messaggi e risultati osservabili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Motivare i canali in rapporto a destinatari, risorse e modalità di fruizione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Progettare testi, immagini e audiovisivi coerenti con varianti per ciascun supporto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Definire nomi, versioni, licenze e responsabili delle risorse, rendendo ripercorribile la produzione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Stimare tempi, dipendenze e costi simulati con revisioni intermedie e criteri di accettazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare prototipi e ottimizzare qualità e peso dei file per il contesto previsto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Valutare efficacia e accessibilità iniziale con una griglia definita prima della prova. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Consegnare campagna e documentazione distinguendo risultati osservati e benefici attesi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

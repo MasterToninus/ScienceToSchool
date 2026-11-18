@@ -19,58 +19,54 @@
 
 **Quadro.** Le Linee guida definiscono competenze in uscita per gli assi culturali del primo periodo. Le attività qui proposte servono a raccogliere evidenze di calcolo, argomentazione e osservazione scientifica. In accoglienza si possono far descrivere, oralmente o con un disegno, un problema di misura risolto sul lavoro e il procedimento usato. [DM 12 marzo 2015, allegato A.1](https://www.gazzettaufficiale.it/eli/id/2015/06/08/15A04226/sg)
 
+## Prerequisiti, sequenza e sostenibilità
+
+La diagnosi distingue competenze disciplinari e padronanza dell’italiano; usare anche rappresentazioni, esperienze lavorative e spiegazioni orali. Calcolo e misure precedono formule e modelli, cellula precede genetica, proporzioni precedono bilanci e probabilità. Riconoscimento dei crediti e patto formativo determinano il percorso individuale: non sono un’unità disciplinare aggiuntiva e non duplicano le ore di accoglienza già comprese nell’ordinamento.
+
+La quota di Scienze di 33 h è solo un’ipotesi di ripartizione delle 66 h scientifico-tecnologiche. Le altre 33 h richiedono un piano concordato per Tecnologia, dispositivi, materiali, disegno e competenze digitali; questa scheda da sola non copre l’intero asse. I nuclei scientifici sono una prima alfabetizzazione, con pochi casi selezionati e riconoscimento dei crediti.
+
+[Revisione critica e lettura degli allegati nazionali](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
-**Ripartizione Tentative generata dall’IA:** **99 ore** (periodo: matematica 66 + scienze ipotizzate 33). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
+**Ripartizione Tentative generata dall’IA: 99 h per il periodo**, Matematica 66 h + Scienze 33 h. Non è un orario settimanale o annuale nazionale. Il piano comprende esercitazioni, applicazioni e prove; le attività successive usano le stesse ore.
 
-Nel piano di 99 ore: i primi due nuclei usano 56 ore matematiche; i due nuclei scientifici 25. Personalizzazione: 4 ore matematiche e 2 scientifiche. Riserva: 6 ore per ciascuna componente. Totali: Matematica 66, Scienze 33.
+### Matematica — numeri e problemi
 
-### Matematica — calcolo per situazioni quotidiane
+**Subtotale: 26 h.**
+
+- **8 h** — Operare con interi, frazioni, decimali e potenze, riconoscendo divisibilità e ordine di grandezza.
+- **8 h** — Usare rapporti, percentuali, prezzi unitari, sconti e unità di misura in situazioni quotidiane.
+- **10 h** — Tradurre un testo in una semplice equazione di primo grado, risolverla e verificare l’ammissibilità della soluzione.
+
+### Matematica — geometria, relazioni e dati
+
+**Subtotale: 32 h.**
+
+- **8 h** — Leggere coordinate, piante e scale; usare proprietà di figure, Pitagora e perimetri/aree.
+- **6 h** — Calcolare superfici e volumi semplici, motivare arrotondamenti e fabbisogni di materiale.
+- **6 h** — Rappresentare dati in tabelle e grafici e confrontare medie e frequenze.
+- **4 h** — Confrontare probabilità e rischi elementari con esempi numerici e connettivi logici.
+- **8 h** — Risolvere un problema pratico con relazioni di proporzionalità, dati, modello, controllo e spiegazione anche orale.
+
+### Scienze — materia, Terra e viventi
 
 **Subtotale: 28 h.**
 
-- **9 h** — Confrontare quantità, prezzi unitari, frazioni e percentuali; spiegare anche oralmente il procedimento.
-- **11 h** — Usare unità di misura e conversioni per massa, capacità, tempo e temperatura.
-- **8 h** — Impostare una semplice equazione da un problema e controllare il risultato con una stima.
-
-### Matematica — spazio e rappresentazioni
-
-**Subtotale: 28 h.**
-
-- **9 h** — Leggere piante e scale e calcolare perimetri, aree e volumi utili a una situazione abitativa o lavorativa.
-- **11 h** — Rappresentare dati in tabelle e grafici e interpretare media e frequenze.
-- **8 h** — Confrontare possibilità e rischi elementari mediante esempi numerici, distinguendo opinione e informazione disponibile.
-
-### Scienze — materia, energia e ambiente
-
-**Subtotale: 13 h.**
-
-- **4 h** — Osservare proprietà di materiali e passaggi di stato e usare modelli semplici di trasformazione.
-- **5 h** — Collegare consumi, trasformazioni di energia, acqua e rifiuti a misure e dati verificabili.
-- **4 h** — Descrivere elementi di Terra, atmosfera e fenomeni celesti e distinguere meteo e clima.
-
-### Scienze — viventi e corpo umano
-
-**Subtotale: 12 h.**
-
-- **4 h** — Riconoscere l’organizzazione cellulare e alcune relazioni tra organismi e ambiente.
-- **5 h** — Collegare le principali funzioni del corpo a processi osservabili e a semplici schemi.
-- **3 h** — Leggere una fonte di divulgazione scientifica, individuando autore, data e limiti del messaggio.
-
-### Personalizzazione e prove di competenza
-
-**Subtotale: 6 h.**
-
-- **2 h** — Rilevare le competenze iniziali anche attraverso esperienze di lavoro, disegni e spiegazioni orali.
-- **2 h** — Selezionare le unità nel patto formativo e distinguere difficoltà linguistiche e difficoltà matematiche.
-- **2 h** — Raccogliere un prodotto pratico con calcolo, rappresentazione e breve spiegazione, in un contesto nuovo ma analogo a quelli esercitati.
+- **6 h** — Osservare proprietà, miscugli, passaggi di stato e una trasformazione chimica guidata; usare misure e un modello semplice.
+- **6 h** — Leggere mappe e coordinate, descrivere moti terrestri, rocce e rischi naturali e distinguere meteo e clima.
+- **8 h** — Collegare cellula, riproduzione, varietà ed evoluzione dei viventi a corpo umano, alimentazione e prevenzione delle dipendenze, con esempi selezionati.
+- **6 h** — Confrontare trasformazioni di energia, acqua, rifiuti e reti ecologiche con misure e dati; raccordare i dispositivi alla componente tecnologica.
+- **2 h** — Leggere una fonte scientifica, riconoscere autore, data e limiti, e documentare un’esperienza con tabella e conclusione.
 
 ### Verifiche, restituzione e recupero
 
-- **6 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **6 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 13 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **8 h** — Matematica: diagnosi disciplinare, prova pratica, restituzione e recupero.
+- **5 h** — Scienze: diagnosi disciplinare, spiegazione di un fenomeno, restituzione e recupero.
+
+**Totale del piano: 99 h.** Matematica 58+8=66; Scienze 28+5=33.
 
 ## Unità integrate e prodotti attesi
 

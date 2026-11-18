@@ -20,49 +20,51 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Variazione e controllo.** Riferimento per l’asse matematico e i compiti trasversali del percorso professionale. Consultare [DI 92/2018, allegato 1](https://www.istruzioneer.gov.it/wp-content/uploads/2019/02/d_intermin_92.pdf). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva. Le unità nuove vanno svolte nell’ordine dei prerequisiti indicati nei punti. Il nucleo comune privilegia funzioni, geometria, dati e decisioni; analisi infinitesimale e inferenza formale non sono requisiti indistinti di tutti gli undici indirizzi. Le applicazioni devono essere scelte con i docenti di indirizzo. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (area generale comune). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Funzioni e rappresentazioni
+### Esponenziali e logaritmi
 
-**Subtotale: 17 h.**
+**Subtotale: 16 h.**
 
-- **5 h** — Determinare dominio, immagine, zeri e segno di funzioni semplici, distinguendo la funzione dalla sua formula.
-- **7 h** — Studiare composizione, inversione e trasformazioni del grafico; verificare quando l'inversa è effettivamente una funzione.
-- **5 h** — Confrontare una descrizione verbale, una tabella e un grafico e indicare le informazioni perse in ogni rappresentazione.
+- **5 h** — Costruire esponenziale e logaritmo come funzioni inverse, precisando domini, basi e monotonia.
+- **6 h** — Risolvere equazioni e disequazioni semplici, confrontando forma simbolica e grafico; usare anche scale semilogaritmiche.
+- **5 h** — Studiare crescita, decadimento e tempi di raddoppio; introdurre il numero e e i limiti di un modello ricavato da dati.
 
-### Limiti e continuità
+### Conteggio e probabilità condizionata
+
+**Subtotale: 16 h.**
+
+- **8 h** — Motivare permutazioni, disposizioni e combinazioni, anche mediante il binomio di Newton; evitare il solo riconoscimento meccanico di formule.
+- **8 h** — Usare probabilità condizionata, totale e Bayes con alberi e tabelle; distinguere indipendenza e incompatibilità e discutere frequenze di base.
+
+### Variabili aleatorie e distribuzioni
 
 **Subtotale: 14 h.**
 
-- **4 h** — Esplorare il comportamento locale e all'infinito con grafici e valori numerici, indicando che una tabella non costituisce una dimostrazione.
-- **6 h** — Calcolare limiti elementari e riconoscere forme indeterminate; classificare le discontinuità e trovare gli asintoti.
-- **4 h** — Usare i teoremi pertinenti esplicitandone le ipotesi e confrontare il limite matematico con i limiti del modello.
+- **7 h** — Associare una variabile discreta agli esiti; calcolare valore atteso e varianza e interpretare un gioco equo.
+- **7 h** — Studiare binomiale e normale: verificare ipotesi, confrontare distribuzione discreta e area di probabilità e usare simulazioni.
 
-### Derivata e studio di funzione
+### Dati bivariati e modelli
 
-**Subtotale: 20 h.**
+**Subtotale: 14 h.**
 
-- **6 h** — Passare dal rapporto incrementale alla derivata e interpretarla come pendenza e tasso istantaneo con unità corrette.
-- **8 h** — Applicare le regole di derivazione, studiare monotonia, estremi e concavità e costruire un grafico motivato.
-- **6 h** — Formulare un problema di ottimizzazione, verificare dominio ed estremi dell'intervallo e discutere l'ammissibilità della soluzione.
-
-### Calcolo combinatorio e probabilità condizionata
-
-**Subtotale: 13 h.**
-
-- **4 h** — Scegliere tra disposizioni, permutazioni e combinazioni spiegando ruolo dell'ordine e delle ripetizioni.
-- **5 h** — Calcolare probabilità condizionate, probabilità totale e semplici casi di Bayes mediante un albero o una tabella.
-- **4 h** — Distinguere indipendenza e incompatibilità e valutare l'effetto delle frequenze di base sull'interpretazione di un risultato.
+- **7 h** — Costruire distribuzioni congiunte, marginali e condizionate; confrontare medie, varianza e deviazione standard.
+- **7 h** — Studiare correlazione, regressione lineare e residui con strumenti di calcolo; distinguere associazione, causalità ed estrapolazione.
 
 ### Misure e controllo di qualità
 
-**Subtotale: 15 h.**
+**Subtotale: 19 h.**
 
-- **5 h** — Definire una grandezza di processo e raccogliere misure con uno schema riproducibile.
-- **6 h** — Confrontare variabilità, tolleranza e valore medio senza identificare la conformità di un pezzo con quella dell'intero lotto.
-- **4 h** — Documentare un'anomalia con dati e grafici e proporre una misura ulteriore che permetta di controllare l'ipotesi formulata.
+- **9 h** — Progettare raccolta di dati e misure con unità, tolleranze e protocollo; distinguere variabilità del processo e conformità del singolo pezzo.
+- **10 h** — Analizzare un’anomalia con grafici e indici, proporre un controllo ulteriore e documentare le conclusioni con limiti espliciti.
 
 ### Declinazione per il percorso
 
@@ -70,14 +72,22 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 - **Nelle ore già assegnate** — La proposta di analisi è introduttiva e va calibrata sul gruppo e sull’indirizzo: partire da grafici e variazioni misurate prima delle regole simboliche. Documentare prerequisiti e recuperi.
 
+### Approfondimento alternativo di indirizzo
+
+**Nessuna ora aggiuntiva.** Un modulo di limiti e continuità (8 h) seguito da derivate e ottimizzazione (12 h) può sostituire 10 h di approfondimento statistico e 10 h di applicazioni di qualità, dopo il consolidamento di funzioni e grafici. La sostituzione va deliberata nel curricolo mantenendo gli obiettivi comuni; non sommare i due itinerari.
+
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
+
+Gli esempi di calcolo differenziale seguenti riguardano soltanto il ramo alternativo di analisi. Nel nucleo comune usare grafici, tabelle e variazioni finite.
 
 ### Prima unità
 

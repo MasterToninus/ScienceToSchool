@@ -29,26 +29,35 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Per le coorti in continuità si usa la direttiva 4/2012; il nuovo ordinamento raggiunge la terza dal 2028/29. La proposta mantiene distinti obiettivi previgenti e nuovi quadri e va raccordata con chimica e biotecnologie.
 
+**Prerequisiti e progressione.** Dalla terza: bilanci, rendimento/COP e fonti; in matematica: rapporti e grafici, logaritmi introdotti operativamente nel nucleo acustico. Calcolare resistenze termiche prima della trasmittanza; leggere frequenza e intensità prima dei decibel. Una stessa serie solare alimenta confronto stagionale e verifica finale. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Il quadro futuro rimane subordinato al coordinamento normativo indicato nella tabella; il budget B non prova equivalenza di approfondimento con A. I dati dell’attività conclusiva sono raccolti o preparati nei nuclei e riutilizzati nel rapporto. Le ore di laboratorio includono allestimento, controlli e interpretazione; la riserva finanzia verifica e recupero. I confronti regolatori richiedono fonte, indicatore e ambito effettivamente applicabili, senza certificare un ambiente reale.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Risorsa solare e rendimento
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 8 ore.**
 
-- **5 ore.** Distinguere irradianza, irradiazione ed energia prodotta; verificare unità, superficie e intervallo dei dati.
-- **5 ore.** Confrontare solare termico e fotovoltaico e interpretare effetti di orientamento, stagione e perdite mediante un modello dichiarato.
+- **4 ore.** Distinguere irradianza, irradiazione ed energia prodotta; verificare unità, superficie e intervallo dei dati.
+- **4 ore.** Confrontare solare termico e fotovoltaico e interpretare effetti di orientamento, stagione e perdite mediante un modello dichiarato. Leggere uno schema di montaggio e collegamento prima di stimare la produzione.
+
 
 ### Altre fonti e accumulo
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 8 ore.**
 
-- **5 ore.** Confrontare almeno due catene tra eolico, idroelettrico, biomasse e geotermia, identificando conversioni e vincoli locali.
-- **5 ore.** Descrivere funzione, rendimento e capacità di un accumulo; separare energia immagazzinata e potenza disponibile.
+- **4 ore.** Confrontare almeno due catene tra eolico, idroelettrico, biomasse e geotermia, identificando conversioni e vincoli locali.
+- **4 ore.** Descrivere funzione, rendimento e capacità di un accumulo; separare energia immagazzinata e potenza disponibile.
+
 
 ### Trasferimento del calore
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 8 ore.**
 
-- **5 ore.** Applicare conduzione in pareti semplici e descrivere il contributo di convezione e irraggiamento.
-- **5 ore.** Collegare materiali, spessori e differenze di temperatura a una dispersione stimata, dichiarando il limite del regime stazionario.
+- **4 ore.** Applicare conduzione in pareti semplici e descrivere il contributo di convezione e irraggiamento.
+- **4 ore.** Collegare materiali, spessori e differenze di temperatura a una dispersione stimata, dichiarando il limite del regime stazionario.
+
 
 ### Involucro e impianti
 
@@ -57,12 +66,16 @@ Per le coorti in continuità si usa la direttiva 4/2012; il nuovo ordinamento ra
 - **4 ore.** Confrontare resistenza termica e trasmittanza di elementi semplici e leggere dati tecnici con unità coerenti.
 - **4 ore.** Raccordare isolamento, ventilazione e regolazione degli impianti; distinguere esercizio didattico e valutazione tecnica di un edificio reale.
 
+
 ### Onde sonore e inquinamento acustico
 
-**Subtotale del nucleo: 8 ore.**
+**Subtotale del nucleo: 14 ore.**
 
-- **4 ore.** Introdurre frequenza, intensità e livello sonoro, distinguendo propagazione, assorbimento e riverberazione.
-- **4 ore.** Confrontare materiali e strategie di riduzione del rumore e imparare a cercare il riferimento normativo pertinente; la quinta riprende il tema con dati ambientali.
+- **4 ore.** Descrivere onde sonore, frequenza, intensità e livello; introdurre logaritmi e somma dei livelli di sorgenti indipendenti su esempi guidati.
+- **4 ore.** Confrontare propagazione, assorbimento, isolamento e riverberazione; scegliere un intervento coerente con la sorgente e il percorso del rumore.
+- **3 ore.** Leggere dati con durata, posizione e indicatore acustico; distinguere livello equivalente e lettura istantanea.
+- **3 ore.** Reperire il riferimento italiano e UE pertinente al caso scelto, verificandone campo e indicatore; motivare una strategia di riduzione entro le ipotesi della prova didattica.
+
 
 ### Confronto energetico stagionale
 
@@ -89,7 +102,7 @@ Verifica: raccomandare un intervento confrontando energia utile annua, incertezz
 
 ## Libro consigliato
 
-L. Mirri e M. Parente, *Fisica ambientale*, 2ª ed., Zanichelli. Volume per il secondo biennio. L’editore documenta un caso applicativo sul fotovoltaico condominiale. [Scheda editoriale](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808320216_cartaidentita.pdf)
+L. Mirri e M. Parente, *Fisica ambientale*, 2ª ed., Zanichelli. Volume per il secondo biennio; per l’acustica occorre anticipare la parte pertinente del volume di quinta o usare materiali d’istituto. L’editore documenta un caso applicativo sul fotovoltaico condominiale. [Scheda editoriale](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808320216_cartaidentita.pdf)
 
 ## Fonti consultate per questa proposta
 

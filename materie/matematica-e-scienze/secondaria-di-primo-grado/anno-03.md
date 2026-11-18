@@ -21,64 +21,67 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Riferimento.** La terza del 2026/27 e quella del 2027/28 concludono con le Indicazioni 2012. Dal 2028/29 si applicano a tutto il triennio le Indicazioni 2025. All'inizio dell'anno si controllano i nuclei già trattati e si selezionano gli approfondimenti. [Indicazioni 2012](https://www.miur.gov.it/documents/20182/51310/DM%2B254_2012.pdf) · [DM 221/2025 e allegato](https://www.gazzettaufficiale.it/eli/id/2026/01/27/26G00021/sg)
 
+## Prerequisiti, sequenza e sostenibilità
+
+Verificare razionali, proporzioni, aree e Pitagora; algebra prima di equazioni, probabilità prima dei modelli mendeliani, cellula prima di genetica. I filoni matematico e scientifico procedono in parallelo con questi raccordi. Le unità comprendono esercizio, laboratorio e controllo formativo; la riserva include diagnosi, verifiche sommative e recupero. Il tempo prolungato amplia esercitazione e indagine, senza aggiungere automaticamente un diverso curricolo. Le applicazioni e il compito finale usano le stesse ore.
+
+[Revisione critica e fonti per le due coorti](../../../docs/ricerca-ai/revisione-critica-matematica.md). La scansione annuale e la quota tra Matematica e Scienze sono ipotesi didattiche interne al monte integrato, da concordare nella scuola.
+
 ## Programma proposto per nuclei tematici
 
-**Ripartizione Tentative generata dall’IA:** **198 ore** (tempo ordinario); **297 ore** (tempo prolungato). Nei punti e nei subtotali i valori separati da «/» seguono questo stesso ordine e sono **alternativi**. I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
+**Ripartizione Tentative generata dall’IA: 198 h / 297 h**, rispettivamente tempo ordinario / prolungato. Gli scenari sono alternativi; i tempi non sono prescritti dalle Indicazioni. Le integrazioni DM 221/2025 decorrono con la coorte entrata in prima nel 2026/27.
 
-### Matematica — algebra e relazioni
+### Matematica — algebra e funzioni
 
-**Subtotale: 53 h / 79 h.**
+**Subtotale: 40 h / 60 h.**
 
-- **16 h / 24 h** — Operare con numeri relativi, potenze e notazione scientifica e motivare ordini di grandezza.
-- **21 h / 31 h** — Tradurre un problema in un’equazione di primo grado, risolverla e controllare l’ammissibilità della soluzione.
-- **16 h / 24 h** — Confrontare grafici di relazioni lineari e non lineari e distinguere formula, tabella e rappresentazione.
+- **10 h / 15 h** — Operare con relativi, potenze e notazione scientifica e controllare ordini di grandezza.
+- **14 h / 21 h** — Usare monomi e semplici espressioni letterali; tradurre e risolvere equazioni di primo grado con verifica dell’ammissibilità.
+- **10 h / 15 h** — Confrontare relazioni lineari, inverse, quadratiche e crescita per raddoppi con tabelle e grafici, senza analisi infinitesimale.
+- **6 h / 9 h** — Per la nuova coorte usare binario, operatori logici, funzioni/procedure e debug in un piccolo programma; per le coorti precedenti usare gli stessi tempi per algoritmi e rappresentazioni del problema.
 
-### Matematica — spazio, dati e probabilità
+### Matematica — spazio e incertezza
 
-**Subtotale: 52 h / 79 h.**
+**Subtotale: 42 h / 63 h.**
 
-- **16 h / 24 h** — Ricavare lunghezza della circonferenza e area del cerchio e applicarle a superfici e volumi.
-- **21 h / 31 h** — Rappresentare solidi, sviluppi e sezioni semplici, collegando disegno e misura.
-- **15 h / 24 h** — Usare frequenze e probabilità per eventi semplici e composti; confrontare una previsione con una simulazione e discutere il campione.
+- **9 h / 13 h** — Studiare circonferenza, cerchio e numero pi greco con approssimazioni e problemi di misura.
+- **14 h / 21 h** — Rappresentare prismi, piramidi, cilindro, cono e sfera; usare sviluppi e sezioni per superfici e volumi.
+- **9 h / 14 h** — Confrontare frequenze, indici di posizione e variabilità, selezionando rappresentazioni adatte ai dati.
+- **10 h / 15 h** — Costruire probabilità di eventi semplici e composti; distinguere eventi complementari, incompatibili e indipendenti e confrontare simulazione e previsione.
 
-### Scienze — energia, elettricità e onde
+### Scienze — energia, circuiti e onde
 
-**Subtotale: 21 h / 32 h.**
+**Subtotale: 24 h / 36 h.**
 
-- **6 h / 10 h** — Distinguere lavoro, energia e potenza e confrontare fonti e trasformazioni mediante bilanci elementari.
-- **9 h / 13 h** — Descrivere circuiti didattici a batteria, carica e fenomeni magnetici senza ricorrere alla rete elettrica.
-- **6 h / 9 h** — Esplorare suono, luce, riflessione e rifrazione con esperienze predisposte dal docente, collegando fenomeno e modello.
+- **6 h / 9 h** — Distinguere forza, lavoro, energia e potenza; usare conservazione, dissipazione e rendimento con bilanci elementari.
+- **7 h / 11 h** — Confrontare elettricità e magnetismo e costruire circuiti a batteria; collegare misura, modello e applicazioni.
+- **7 h / 10 h** — Osservare oscillazioni, suono e luce; confrontare riflessione e rifrazione e, per la nuova coorte, osservazioni qualitative di interferenza, diffrazione e polarizzazione.
+- **4 h / 6 h** — Confrontare fonti fossili, rinnovabili, fissione e fusione, efficienza e impatto usando dati e condizioni dichiarate.
 
-### Scienze — ereditarietà ed evoluzione
+### Scienze — riproduzione, genetica ed evoluzione
 
-**Subtotale: 16 h / 24 h.**
+**Subtotale: 18 h / 27 h.**
 
-- **5 h / 7 h** — Descrivere riproduzione, sviluppo e organizzazione dell’informazione genetica a livello introduttivo.
-- **6 h / 10 h** — Confrontare probabilità mendeliane e frequenze osservate, riconoscendo i limiti dei modelli più semplici.
-- **5 h / 7 h** — Usare fossili, variabilità ed eredità per discutere selezione naturale ed evoluzione, senza interpretazioni finalistiche.
+- **6 h / 9 h** — Descrivere apparati riproduttivi, pubertà e sviluppo; trattare prevenzione delle infezioni e salute con fonti appropriate all’età.
+- **6 h / 9 h** — Collegare divisione cellulare, DNA ed ereditarietà; usare semplici probabilità mendeliane dopo il nucleo matematico.
+- **6 h / 9 h** — Confrontare fossili, variabilità, adattamento e selezione naturale; evitare spiegazioni finalistiche dell’evoluzione.
 
 ### Scienze — Terra e Universo
 
-**Subtotale: 16 h / 24 h.**
+**Subtotale: 18 h / 27 h.**
 
-- **5 h / 7 h** — Collegare rocce, struttura terrestre e tettonica a fenomeni sismici e vulcanici e distinguere pericolosità, esposizione e vulnerabilità a livello descrittivo.
-- **6 h / 10 h** — Spiegare giorno, anno, stagioni e fasi lunari con modelli geometrici; confrontare scale del Sistema solare.
-- **5 h / 7 h** — Distinguere tempo meteorologico e clima attraverso durate e serie di dati e discutere cosa consente di concludere un singolo grafico.
-
-### Raccordo per la coorte delle Indicazioni 2025
-
-**Indicazioni trasversali: applicarle nelle ore dei nuclei, senza carico aggiuntivo.**
-
-- **Nelle ore già assegnate** — Dal 2028/29 consolidare numerazione binaria, variabili, condizioni, ripetizioni e funzioni in un piccolo programma verificabile.
-- **Nelle ore già assegnate** — Confrontare crescita lineare, quadratica ed esponenziale su pochi valori, senza anticipare il formalismo dell’analisi.
-- **Nelle ore già assegnate** — Usare un errore del programma o del modello come occasione per costruire un caso di prova e correggere il procedimento.
+- **6 h / 9 h** — Collegare minerali, rocce, struttura terrestre e tettonica a sismi e vulcani; distinguere pericolosità, esposizione e vulnerabilità.
+- **6 h / 9 h** — Modellizzare giorno, anno, stagioni, fasi lunari ed eclissi; confrontare Sistema solare, stelle e scale dell’Universo.
+- **6 h / 9 h** — Distinguere meteo e clima, interpretare serie di dati e impatti ambientali; non scambiare una breve misura locale per una tendenza climatica.
 
 ### Verifiche, restituzione e recupero
 
-- **20 h / 30 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **20 h / 29 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 56 h / 84 h.**
 
-**Totale del piano: 198 h / 297 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **28 h / 42 h** — Prove e restituzione, incluso il compito conclusivo e il controllo delle esperienze.
+- **28 h / 42 h** — Diagnosi e recupero dei prerequisiti con esercizi differenziati.
+
+**Totale del piano: 198 h / 297 h.**
 
 ## Unità integrate e prodotti attesi
 

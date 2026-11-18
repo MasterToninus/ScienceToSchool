@@ -21,9 +21,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Scienze e tecnologie applicate, quadro previgente nel 2026/27: 99 ore.
+- **Unico**: 99 = **99 ore**; Scienze e tecnologie applicate 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie digitali e progettazione multimediale nel tecnico di Grafica e comunicazione](README.md)
 
@@ -31,38 +33,59 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Costruire un archivio ordinato di fonti, immagini e file di progetto. Passare da uno storyboard a una breve sequenza, includendo testo alternativo e sottotitoli. Per la coorte 2025/26 la disciplina di seconda è Scienze e tecnologie applicate.
+**Prerequisiti e avvio.** Tecnologie informatiche e rappresentazione del primo anno previgente. Non si presume il Laboratorio digitale della nuova prima 2026/27, che appartiene a una coorte diversa.
 
-### Flusso di produzione — 18 ore
+**Raccordo e progressione.** Il Web è un mezzo fra stampa, audiovisivo e 3D. In quarta e quinta si riutilizzano tipografia e metodo progettuale, senza ripartire da zero.
 
-- **10 ore** — Descrivere le fasi dalla richiesta alla consegna multimediale con ruoli e materiali necessari.
-- **8 ore** — Organizzare un archivio condiviso distinguendo sorgenti, esportazioni e versioni.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Storyboard — 22 ore
+#### S1D1 · Scienze e tecnologie applicate — 99 ore
 
-- **12 ore** — Scomporre un messaggio in scene o schermate con ordine, durata e funzione.
-- **10 ore** — Verificare su uno storyboard che ogni elemento contribuisca all’obiettivo comunicativo.
+##### S1D1N1 · Filiera e materiali — 22 ore
 
+- **8 ore** — Riconoscere fasi della filiera grafica e figure professionali.
+- **8 ore** — Confrontare supporti, processi di stampa e prodotti digitali.
+- **6 ore** — Valutare scarti, sicurezza e sostenibilità in un caso guidato.
 
-### Contenuti accessibili — 22 ore
+##### S1D1N2 · Rappresentazione — 22 ore
 
-- **12 ore** — Preparare testi, immagini e sequenze audio o video distinguendo formato, risoluzione e peso finale.
-- **10 ore** — Aggiungere testi alternativi, sottotitoli o trascrizioni e verificare la comprensione senza audio.
+- **8 ore** — Preparare un layout con griglia, testo e immagini.
+- **8 ore** — Acquisire e trattare immagini distinguendo risoluzione e destinazione.
+- **6 ore** — Leggere specifiche di formato, colore e file di consegna.
 
+##### S1D1N3 · Processo tecnologico — 22 ore
 
-### Prototipo e revisione — 22 ore
+- **8 ore** — Collegare strumenti, materiali e controllo qualità in una lavorazione.
+- **8 ore** — Usare misure e prove per confrontare originale e prodotto.
+- **6 ore** — Distinguere un difetto di file da un difetto del processo.
 
-- **12 ore** — Costruire un prototipo navigabile o una sequenza a partire dallo storyboard.
-- **10 ore** — Confrontare progetto e risultato; per la coorte previgente l’attività si raccorda a Scienze e tecnologie applicate.
+##### S1D1N4 · Orientamento progettuale — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Realizzare un prototipo semplice dalla richiesta al controllo.
+- **6 ore** — Documentare tempi, risorse e passaggi.
+- **6 ore** — Presentare alternative e limiti: il corso è Scienze e tecnologie applicate, non solo TIC.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Scienze e tecnologie applicate | 86 | 13 | **99 ore** |
+
+**Totale Unico: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 57/2010, Scienze e tecnologie applicate, p. 82](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/LINEE_GUIDA_primo_biennio_istituti_tecnici.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -85,3 +108,25 @@ Selezionare le attività sulla comunicazione visiva in funzione del biennio.
 - [W3C WAI, Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Costruire un archivio ordinato di fonti, immagini e file di progetto. Passare da uno storyboard a una breve sequenza, includendo testo alternativo e sottotitoli. Per la coorte 2025/26 la disciplina di seconda è Scienze e tecnologie applicate.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Descrivere le fasi dalla richiesta alla consegna multimediale con ruoli e materiali necessari. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare un archivio condiviso distinguendo sorgenti, esportazioni e versioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scomporre un messaggio in scene o schermate con ordine, durata e funzione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Verificare su uno storyboard che ogni elemento contribuisca all’obiettivo comunicativo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare testi, immagini e sequenze audio o video distinguendo formato, risoluzione e peso finale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Aggiungere testi alternativi, sottotitoli o trascrizioni e verificare la comprensione senza audio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire un prototipo navigabile o una sequenza a partire dallo storyboard. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare progetto e risultato; per la coorte previgente l’attività si raccorda a Scienze e tecnologie applicate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

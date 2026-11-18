@@ -24,43 +24,92 @@ L’intervallo riguarda questa disciplina, non l’intera area di indirizzo. La 
 
 Spiegare come condizioni del mare e distribuzione delle masse incidano su un caso di pesca simulato.
 
+
+## Prerequisiti e progressione
+
+Carta, orientamento, mezzo e diario del III; vettori e distribuzione delle masse introdotti con esercizi guidati.
+
+**Esito atteso a fine anno:** Valutare vincoli di carico e ambiente, predisponendo una simulazione documentata della lavorazione a bordo.
+
+Raccordo: [scheda dell’anno precedente](anno-03.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
+Le applicazioni avanzate restano introduttive o guidate: calcoli astronomici, radar, navigazione integrata, prestazioni, comunicazioni ed emergenze sono affrontati solo dove indicati nelle unità e su dati o simulatori didattici predisposti. Non si presume padronanza operativa né copertura certificata di STCW, requisiti aeronautici o titoli della pesca. Per tali percorsi serve una verifica separata del curricolo accreditato e dell’addestramento richiesto. I servizi e gli apparati sono studiati per comprendere la conduzione e segnalare anomalie; gli interventi specialistici di manutenzione restano fuori da questa scheda.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 132 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 132 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Carico e distribuzione delle masse — 17 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie e tecniche di gestione e conduzione delle imbarcazioni da pesca | 114 | 18 | 132 |
 
-- **8 ore** — Confrontare configurazioni di carico su un modello controllando massa totale e posizione dei pesi.
-- **9 ore** — Descrivere qualitativamente assetto e stabilità senza ricavare limiti operativi per mezzi reali.
+### D1 · Tecnologie e tecniche di gestione e conduzione delle imbarcazioni da pesca — 132 ore
 
-### Condizioni meteomarine — 19 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **9 ore** — Distinguere vento, onde, corrente e visibilità nei materiali meteorologici forniti.
-- **10 ore** — Associare ogni dato a luogo, tempo e natura osservata o prevista.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Preparazione di una simulazione — 17 ore
+#### D1.1 · Carico e stabilità elementare — 18 ore
 
-- **8 ore** — Organizzare in una scheda dati del mezzo, ipotesi sul carico e informazioni ambientali.
-- **9 ore** — Individuare quali dati mancano per interpretare il caso senza sostituirli con valori inventati.
+- **4 ore** — Distinguere galleggiamento, assetto e stabilità.
+- **4 ore** — Rappresentare distribuzione dei pesi con modelli.
+- **6 ore** — Confrontare spostamenti di carico e spazi disponibili.
+- **4 ore** — Leggere limiti forniti dal docente senza dedurre abilitazioni.
 
-### Registrazione degli eventi — 19 ore
+#### D1.2 · Meteo e correnti — 24 ore
 
-- **9 ore** — Costruire una sequenza di osservazioni e variazioni del modello.
-- **10 ore** — Collegare ciascun cambiamento alle possibili cause e indicare che cosa richiede un controllo ulteriore.
+- **4 ore** — Interpretare vento, onde e visibilità.
+- **6 ore** — Confrontare bollettini e osservazioni con orari.
+- **8 ore** — Costruire semplici effetti di corrente sul percorso.
+- **6 ore** — Motivare limiti o rinvio di un’uscita solo simulata.
 
-### Attività di laboratorio e applicazione — 34 ore
+#### D1.3 · Spazi e organizzazione a bordo — 24 ore
 
-- **10 ore** — Confrontare disposizione di carichi e assetto su un modello in vasca.
-- **12 ore** — Interpretare un bollettino archiviato e distinguere informazioni su vento, onde e visibilità.
-- **12 ore** — Collegare un cambiamento delle condizioni esterne alle osservazioni che un equipaggio registra.
+- **4 ore** — Rappresentare percorsi di persone e materiali.
+- **6 ore** — Distinguere stivaggio di attrezzature, pescato e residui.
+- **8 ore** — Collegare organizzazione, conservazione e rischi.
+- **6 ore** — Predisporre controlli e ruoli del caso didattico.
 
-### Verifiche, recupero e consolidamento — 26 ore
+#### D1.4 · Impianti e lavoro a bordo — 24 ore
 
-- **13 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **8 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **5 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Confrontare funzioni di alimentazione, sentina e servizi di bordo.
+- **6 ore** — Interpretare dati e indicatori in casi predisposti.
+- **8 ore** — Pianificare controlli e manutenzione documentale senza interventi reali.
+- **6 ore** — Analizzare organizzazione e rischi della movimentazione delle attrezzature.
 
-**Totale della proposta: 132 ore = 106 ore nei nuclei e nelle applicazioni + 26 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Simulazione e registrazioni — 24 ore
+
+- **4 ore** — Preparare percorso, tempi e dati di partenza.
+- **6 ore** — Gestire un evento imprevisto secondo istruzioni fornite.
+- **8 ore** — Registrare osservazioni, comunicazioni e revisioni.
+- **6 ore** — Discutere completezza e coerenza del diario.
+
+#### D1.6 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 132 ore = 114 ore nei nuclei e nelle applicazioni + 18 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Carico e distribuzione delle masse.** Confrontare configurazioni di carico su un modello controllando massa totale e posizione dei pesi. Descrivere qualitativamente assetto e stabilità senza ricavare limiti operativi per mezzi reali.
+
+**Condizioni meteomarine.** Distinguere vento, onde, corrente e visibilità nei materiali meteorologici forniti. Associare ogni dato a luogo, tempo e natura osservata o prevista.
+
+**Preparazione di una simulazione.** Organizzare in una scheda dati del mezzo, ipotesi sul carico e informazioni ambientali. Individuare quali dati mancano per interpretare il caso senza sostituirli con valori inventati.
+
+**Registrazione degli eventi.** Costruire una sequenza di osservazioni e variazioni del modello. Collegare ciascun cambiamento alle possibili cause e indicare che cosa richiede un controllo ulteriore.
+
+**Attività di laboratorio e applicazione.** Confrontare disposizione di carichi e assetto su un modello in vasca. Interpretare un bollettino archiviato e distinguere informazioni su vento, onde e visibilità. Collegare un cambiamento delle condizioni esterne alle osservazioni che un equipaggio registra.
 
 ## Compito e verifica
 
@@ -88,3 +137,6 @@ Il quadro del professionale e il profilo di uscita orientano il percorso. Le ind
 - [Fishing Safety: Preparedness and prevention](https://www.fao.org/fishing-safety/risk-management/preparedness-and-prevention/en) — FAO; Controlli preparatori, informazione meteorologica, comunicazione e stabilità.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

@@ -26,61 +26,77 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Il quadro resta quello della fisica del liceo scientifico, con contesti sportivi proposti. La programmazione scolastica citata è un confronto generale, non una programmazione della sezione sportiva.
 
+**Prerequisiti e progressione.** Dalla quarta: campo, potenziale, circuiti, flusso/circuitazione, induzione da avviare e onde; dalla terza: energia e quantità di moto. Coordinare con matematica derivate come tassi di variazione, esponenziali e logaritmi per i decadimenti, richiamandoli nei nuclei. La forma integrale di Maxwell è una sintesi concettuale, non un corso di analisi vettoriale. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le esperienze hanno una sola raccolta di dati: i nuclei applicativi ne curano l’interpretazione specifica. Preparazione, montaggio e analisi sono compresi nei punti indicati; le prove individuali e la restituzione usano la riserva. Gli approfondimenti facoltativi sostituiscono un esercizio dello stesso nucleo, senza aggiungere ore.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Induzione elettromagnetica
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 14 ore.**
 
-- **5 ore.** Collegare variazioni del flusso magnetico e forza elettromotrice indotta; interpretare il verso con la legge di Lenz e il bilancio energetico.
-- **5 ore.** Descrivere autoinduzione, alternatore e trasformatore in modelli semplici; leggere segnali alternati distinguendo valori istantanei, massimi ed efficaci quando pertinenti.
+- **6 ore.** Collegare variazioni del flusso magnetico e forza elettromotrice indotta; interpretare il verso con la legge di Lenz e il bilancio energetico.
+- **4 ore.** Interpretare autoinduzione ed energia magnetica; leggere un transitorio qualitativo senza presumere equazioni differenziali già risolte.
+- **4 ore.** Descrivere alternatore e trasformatore, valori istantanei, massimi ed efficaci di segnali alternati; fasori e circuiti RLC completi sono approfondimenti facoltativi.
+
 
 ### Campi variabili e onde elettromagnetiche
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 11 ore.**
 
-- **5 ore.** Ricostruire il significato fisico delle equazioni di Maxwell in forma qualitativa o integrale, raccordando le leggi già studiate.
+- **6 ore.** Ricostruire flusso e circuitazione nelle equazioni di Maxwell; introdurre la corrente di spostamento attraverso il condensatore e discutere la sintesi dei campi, privilegiando il significato fisico.
 - **5 ore.** Descrivere propagazione, polarizzazione e trasporto di energia delle onde elettromagnetiche; collocare esempi nello spettro e distinguere frequenza e intensità.
+
 
 ### Relatività ristretta
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 14 ore.**
 
 - **5 ore.** Confrontare trasformazioni galileiane e postulati della relatività; analizzare sincronizzazione, simultaneità e ruolo dell’osservatore.
-- **5 ore.** Usare dilatazione dei tempi e contrazione delle lunghezze con eventi e sistemi chiaramente indicati; interpretare intervalli spazio-temporali in esempi elementari e discutere quantità di moto ed equivalenza massa-energia.
+- **5 ore.** Usare dilatazione dei tempi e contrazione delle lunghezze con eventi e riferimenti dichiarati; leggere una trasformazione di Lorentz elementare senza sovrapporre tempo proprio e coordinato.
+- **4 ore.** Collegare energia e quantità di moto relativistiche, intervallo spazio-temporale in un esempio semplice ed equivalenza massa-energia; confrontare il limite di piccole velocità.
+
 
 ### Evidenze della quantizzazione
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 12 ore.**
 
-- **5 ore.** Confrontare previsioni classiche e risultati di corpo nero, effetto fotoelettrico e scattering Compton, scegliendo il dettaglio matematico appropriato.
-- **5 ore.** Ricavare energia del fotone e frequenza di soglia da dati; distinguere l’effetto di frequenza e intensità ed esplicitare il ruolo delle ipotesi del modello.
+- **4 ore.** Confrontare la radiazione di corpo nero e l’ipotesi di Planck a livello qualitativo; distinguere quantizzazione e insufficienza della previsione classica.
+- **5 ore.** Interpretare fotoemissione, fotoni e frequenza di soglia; esaminare una tabella di potenziali d’arresto prima dell’elaborazione del progetto conclusivo.
+- **3 ore.** Discutere lo scattering Compton come evidenza della quantità di moto del fotone, limitando il calcolo al bilancio già studiato.
+
 
 ### Atomo e descrizione quantistica
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 11 ore.**
 
-- **5 ore.** Collegare spettri discreti e livelli energetici; confrontare modelli di Rutherford e Bohr, individuandone successi e limiti.
+- **6 ore.** Collegare spettri discreti e livelli energetici; confrontare modelli di Rutherford e Bohr, individuandone successi e limiti.
 - **5 ore.** Introdurre dualismo onda-particella, lunghezza d’onda di de Broglie e indeterminazione; distinguere descrizione probabilistica e semplice incertezza strumentale.
+
 
 ### Nuclei, materia e applicazioni
 
-**Subtotale del nucleo: 10 ore.**
+**Subtotale del nucleo: 9 ore.**
 
-- **5 ore.** Descrivere decadimenti e tempo di dimezzamento mediante grafici e modelli; distinguere energia di legame, fissione e fusione.
-- **5 ore.** Scegliere un’applicazione, per esempio semiconduttori, rivelatori o tecnologie energetiche, e collegarne il funzionamento ai modelli studiati senza ridurla a una raccolta di formule.
+- **6 ore.** Descrivere decadimenti e tempo di dimezzamento mediante grafici e modelli; distinguere energia di legame, fissione e fusione.
+- **3 ore.** Scegliere un’applicazione, per esempio semiconduttori, rivelatori o tecnologie energetiche, e collegarne il funzionamento ai modelli studiati senza ridurla a una raccolta di formule. Scegliere una sola applicazione; il confronto delle altre resta facoltativo.
 
-### Leggere una prova sperimentale
 
-**Subtotale del nucleo: 12 ore.**
+### Un progetto sui dati del Novecento
 
-- **7 ore.** Analizzare un insieme di dati o un esperimento storico indicando osservabile, procedura, modello e possibili spiegazioni alternative.
-- **5 ore.** Stimare un parametro da un grafico, discutere incertezza e attendibilità delle fonti e comunicare il limite della conclusione fisica.
+**Subtotale del nucleo: 4 ore.**
+
+- **2 ore.** Usare un solo dataset identificato: fotoemissione nel percorso ordinario, righe spettrali nelle scienze applicate, risposta di una fotocellula nello sportivo. Definire osservabile, modello e spiegazione alternativa prima dell’analisi.
+- **2 ore.** Stimare un parametro mediante grafico e discutere incertezza, attendibilità delle fonti e limite della conclusione. La prova individuale valuta il lavoro nella riserva: non è un secondo progetto.
+
 
 ### Rivelazione e cronometraggio
 
-**Subtotale del nucleo: 9 ore.**
+**Subtotale del nucleo: 6 ore.**
 
-- **5 ore.** Descrivere sorgente, rivelatore e circuito temporale di una fotocellula e collegarli alle interazioni luce-materia.
-- **4 ore.** Distinguere tempo fisico, risposta del sensore e risoluzione del sistema, valutando quali dati servono per confrontare due strumenti.
+- **3 ore.** Descrivere sorgente, rivelatore e circuito temporale di una fotocellula e collegarli alle interazioni luce-materia.
+- **3 ore.** Distinguere tempo fisico, risposta del sensore e risoluzione del sistema, valutando quali dati servono per confrontare due strumenti.
 
 ### Riserva per consolidamento e valutazione
 

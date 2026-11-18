@@ -27,43 +27,83 @@ Il [D.L. 170/2026, art. 9, tabella 3](https://www.gazzettaufficiale.it/eli/gu/20
 
 Confrontare due modi di trasporto e spiegare la funzione di un nodo intermodale.
 
+
+## Prerequisiti e progressione
+
+Reti, mezzi, misure e itinerari del I; recuperare la lettura di tabelle e le conversioni prima del confronto quantitativo.
+
+**Esito atteso a fine anno:** Confrontare sistemi di trasporto e unità di carico costruendo una semplice soluzione intermodale.
+
+Raccordo: [scheda dell’anno precedente](anno-01.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 99 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 99 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Mezzo e infrastruttura — 12 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze e tecnologie applicate | 84 | 15 | 99 |
 
-- **5 ore** — Descrivere i sottosistemi essenziali di due mezzi coerenti con l'offerta della scuola.
-- **7 ore** — Collegare dimensioni, capacità e accessi ai vincoli del percorso.
+### D1 · Scienze e tecnologie applicate — 99 ore
 
-### Intermodalità e unità di carico — 15 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **7 ore** — Seguire il percorso di un collo nei passaggi fra ricezione, deposito e trasferimento.
-- **8 ore** — Distinguere merce, imballaggio e unità di carico con esempi non specialistici.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Tempi e capacità — 15 ore
+#### D1.1 · Mezzi e ambiente — 18 ore
 
-- **7 ore** — Costruire una tabella di percorrenza, attesa e movimentazione con dati assegnati.
-- **8 ore** — Confrontare capacità nominale e capacità utilizzata dichiarando i vincoli ipotizzati.
+- **4 ore** — Confrontare strutture e prestazioni elementari dei mezzi.
+- **4 ore** — Collegare moto, energia e condizioni esterne.
+- **6 ore** — Riconoscere servizi ausiliari e controlli.
+- **4 ore** — Descrivere limiti fisici e operativi su dati forniti.
 
-### Scelta del sistema — 13 ore
+#### D1.2 · Infrastrutture e intermodalità — 21 ore
 
-- **6 ore** — Valutare due modi di trasporto per flessibilità, tempi e compatibilità del carico.
-- **7 ore** — Presentare uno schema del percorso che renda visibili interfacce, dati e limiti del confronto.
+- **4 ore** — Leggere schemi di porti, aeroporti, stazioni e interporti.
+- **5 ore** — Distinguere trasporto modale, multimodale e intermodale.
+- **6 ore** — Confrontare passaggi e tempi di trasbordo.
+- **6 ore** — Rappresentare una catena di trasporto.
 
-### Attività di laboratorio e applicazione — 24 ore
+#### D1.3 · Unità di carico — 21 ore
 
-- **7 ore** — Descrivere sottosistemi di un mezzo e interfacce con l’infrastruttura, scegliendo esempi coerenti con le articolazioni presenti.
-- **9 ore** — Seguire il passaggio di un’unità di carico tra due mezzi. Rappresentare tempi di trasferimento, attesa e sosta.
-- **8 ore** — Confrontare capacità, flessibilità e vincoli dimensionali di due itinerari. Esplicitare i limiti dei dati ricavati da orari e carte.
+- **4 ore** — Distinguere imballo, pallet e container.
+- **5 ore** — Calcolare volume, massa e saturazione elementare.
+- **6 ore** — Confrontare compatibilità fra merce e mezzo.
+- **6 ore** — Individuare vincoli di movimentazione e conservazione.
 
-### Verifiche, recupero e consolidamento — 20 ore
+#### D1.4 · Scelta del sistema — 24 ore
 
-- **10 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **6 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **4 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Confrontare capacità, tempi e affidabilità.
+- **6 ore** — Raccogliere dati e dichiararne le fonti.
+- **8 ore** — Simulare un percorso con un cambio di modalità.
+- **6 ore** — Presentare soluzione, limiti e alternative.
 
-**Totale della proposta: 99 ore = 79 ore nei nuclei e nelle applicazioni + 20 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 99 ore = 84 ore nei nuclei e nelle applicazioni + 15 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Mezzo e infrastruttura.** Descrivere i sottosistemi essenziali di due mezzi coerenti con l'offerta della scuola. Collegare dimensioni, capacità e accessi ai vincoli del percorso.
+
+**Intermodalità e unità di carico.** Seguire il percorso di un collo nei passaggi fra ricezione, deposito e trasferimento. Distinguere merce, imballaggio e unità di carico con esempi non specialistici.
+
+**Tempi e capacità.** Costruire una tabella di percorrenza, attesa e movimentazione con dati assegnati. Confrontare capacità nominale e capacità utilizzata dichiarando i vincoli ipotizzati.
+
+**Scelta del sistema.** Valutare due modi di trasporto per flessibilità, tempi e compatibilità del carico. Presentare uno schema del percorso che renda visibili interfacce, dati e limiti del confronto.
+
+**Attività di laboratorio e applicazione.** Descrivere sottosistemi di un mezzo e interfacce con l’infrastruttura, scegliendo esempi coerenti con le articolazioni presenti. Seguire il passaggio di un’unità di carico tra due mezzi. Rappresentare tempi di trasferimento, attesa e sosta. Confrontare capacità, flessibilità e vincoli dimensionali di due itinerari. Esplicitare i limiti dei dati ricavati da orari e carte.
 
 ## Compito e verifica
 
@@ -90,3 +130,6 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida e i
 - [STA – Scienze e tecnologie applicate, Trasporti e logistica, ISBN 9788820346607](https://www.hoeplieditore.it/scuola/articolo/sta-scienze-e-tecnologie-applicate-trasporti-e-logistica-luigi-caligaris/9788820346607/1906) — Hoepli / Caligaris e altri; Destinazione e descrizione dell'opera.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di trasporti e logistica](../../../docs/ricerca-ai/fonti-programmi/trasporti-e-logistica.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

@@ -24,43 +24,83 @@ Gli intervalli dipendono dalla declinazione grafica/editoriale attivata e vanno 
 
 Confrontare la risposta di più supporti alla stessa prova grafica.
 
+
+## Prerequisiti e progressione
+
+Prototipo, sviluppo e scheda esecutiva del II; distinguere caratteristiche del file e del materiale.
+
+**Esito atteso a fine anno:** Confrontare processi e supporti, predisporre prove e riconoscere difetti di produzione.
+
+Raccordo: [scheda dell’anno precedente](anno-02.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 132 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 132 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Caratterizzazione dei materiali — 17 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie applicate ai materiali e ai processi produttivi | 114 | 18 | 132 |
 
-- **8 ore** — Confrontare supporti per spessore, massa per unità di superficie e comportamento alla piega.
-- **9 ore** — Registrare strumento, condizioni e ripetizioni per rendere confrontabili le misure.
+### D1 · Tecnologie applicate ai materiali e ai processi produttivi — 132 ore
 
-### Preparazione della prova grafica — 20 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **9 ore** — Definire un campione con testi, campiture e dettagli utili al confronto.
-- **11 ore** — Mantenere costanti formato e condizioni di osservazione dichiarando il parametro variato.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Processo e difetti — 20 ore
+#### D1.1 · Supporti e proprietà — 24 ore
 
-- **9 ore** — Riconoscere difetti di uniformità, registro, leggibilità e finitura su campioni didattici.
-- **11 ore** — Collegare ogni difetto a ipotesi di causa da verificare, evitando diagnosi senza dati.
+- **4 ore** — Classificare carte, cartoni e supporti non cartacei.
+- **6 ore** — Misurare grammatura o spessore con procedure scolastiche.
+- **8 ore** — Confrontare assorbimento, superficie e resistenza.
+- **6 ore** — Collegare proprietà e destinazione d’uso.
 
-### Controllo in ingresso — 17 ore
+#### D1.2 · Processi grafici — 30 ore
 
-- **8 ore** — Preparare una scheda di ricezione con codice del materiale e criteri concordati.
-- **9 ore** — Confrontare campioni e specifiche e distinguere accettazione, verifica ulteriore e non conformità.
+- **6 ore** — Descrivere differenze fra stampa digitale e processi convenzionali.
+- **8 ore** — Associare supporti, inchiostri e finiture ai processi.
+- **8 ore** — Ricostruire il flusso prestampa-stampa-poststampa.
+- **8 ore** — Individuare rischi e procedure di laboratorio.
 
-### Attività di laboratorio e applicazione — 32 ore
+#### D1.3 · Preparazione delle prove — 30 ore
 
-- **10 ore** — Classificare carte e supporti con misure documentabili, includendo spessore e massa per unità di superficie.
-- **11 ore** — Variare un parametro di produzione per volta e rilevare differenze nelle prove.
-- **11 ore** — Predisporre una scheda delle non conformità e proporre un controllo in ingresso.
+- **6 ore** — Controllare risoluzione, colore, margini e caratteri dei file.
+- **8 ore** — Preparare una piccola forma di prova.
+- **8 ore** — Confrontare campioni prodotti con impostazioni diverse.
+- **8 ore** — Documentare parametri e condizioni della prova.
 
-### Verifiche, recupero e consolidamento — 26 ore
+#### D1.4 · Qualità e difetti — 30 ore
 
-- **13 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **8 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **5 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **6 ore** — Distinguere difetti del file, supporto e processo.
+- **8 ore** — Predisporre un controllo in ingresso con criteri osservabili.
+- **8 ore** — Confrontare campione atteso e risultato.
+- **8 ore** — Proporre correzioni motivate e conservare le evidenze.
 
-**Totale della proposta: 132 ore = 106 ore nei nuclei e nelle applicazioni + 26 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 14 ore
+
+- **4 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **4 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 132 ore = 114 ore di nuclei e applicazioni + 4 ore di diagnosi + 8 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 132 ore = 114 ore nei nuclei e nelle applicazioni + 18 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Caratterizzazione dei materiali.** Confrontare supporti per spessore, massa per unità di superficie e comportamento alla piega. Registrare strumento, condizioni e ripetizioni per rendere confrontabili le misure.
+
+**Preparazione della prova grafica.** Definire un campione con testi, campiture e dettagli utili al confronto. Mantenere costanti formato e condizioni di osservazione dichiarando il parametro variato.
+
+**Processo e difetti.** Riconoscere difetti di uniformità, registro, leggibilità e finitura su campioni didattici. Collegare ogni difetto a ipotesi di causa da verificare, evitando diagnosi senza dati.
+
+**Controllo in ingresso.** Preparare una scheda di ricezione con codice del materiale e criteri concordati. Confrontare campioni e specifiche e distinguere accettazione, verifica ulteriore e non conformità.
+
+**Attività di laboratorio e applicazione.** Classificare carte e supporti con misure documentabili, includendo spessore e massa per unità di superficie. Variare un parametro di produzione per volta e rilevare differenze nelle prove. Predisporre una scheda delle non conformità e proporre un controllo in ingresso.
 
 ## Compito e verifica
 
@@ -88,3 +128,6 @@ La proposta riguarda la declinazione grafica del professionale. Profili e quadro
 - [Tecnologie dei processi di produzione, seconda edizione: carta d'identità dell'opera](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499714_cartaidentita.pdf) — Clitt / Zanichelli; PDF pp. 1–2: materiali, processo dalla progettazione al prodotto, sostenibilità.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

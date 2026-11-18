@@ -28,47 +28,70 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 La sequenza riguarda Ottica e Ottica applicata e va raccordata con Scienze integrate, laboratori e discipline sanitarie. Il programma Plana consultato è un esempio di quinta, non una scansione vincolante dell’intero quinquennio.
 
-### Ripresa dei sistemi centrati
+**Prerequisiti e progressione.** Dal biennio: Snell, punti coniugati, poteri, centro ottico e prima lettura strumentale. Vergenza e unità precedono associazioni di lenti; modello dell’occhio e poteri meridiani precedono decentramento e sistemi per vicino. Sono richieste proporzioni e trigonometria elementare, non matrici ottiche. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
 
-**Subtotale del nucleo: 13 / 22 ore (A / B).**
+**Uso dei tempi e delle attività.** La proposta copre il contributo fisico di Ottica/Ottica applicata. Le competenze professionali d’asse richiedono anche laboratori, optometria, contattologia e discipline sanitarie: non sono dichiarate integralmente raggiunte da queste ore. Le compresenze non raddoppiano il tempo dello studente. Nello scenario B le ore aggiuntive servono a più campioni, esercitazioni e prove autonome sullo stesso nucleo; non a replicare una spiegazione. Preparazione e relazione delle prove sono incluse nei punti, valutazione e restituzione nella riserva.
 
-- **7 / 11 ore.** Rappresentare una sequenza di superfici e lenti specificando asse, mezzi e distanze; riprendere rifrazione e punti coniugati.
-- **6 / 11 ore.** Valutare se spessore della lente e inclinazione dei raggi consentono il modello paraassiale, evitando di sommare poteri senza dichiarare l’approssimazione.
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
+### Sistemi centrati e vergenza
+
+**Subtotale del nucleo: 10 / 16 ore (A / B).**
+
+- **5 / 8 ore.** Riprendere punti coniugati e rifrazione al diottro; rappresentare mezzi, superfici, asse e distanze con segni coerenti.
+- **5 / 8 ore.** Usare vergenza e potere in casi paraassiali; valutare spessore e posizione dei piani principali prima di trattare una lente spessa come sottile.
+
 
 ### Associazione di due lenti
 
-**Subtotale del nucleo: 12 / 21 ore (A / B).**
+**Subtotale del nucleo: 12 / 20 ore (A / B).**
 
-- **6 / 11 ore.** Seguire l’immagine intermedia prodotta dalla prima lente come oggetto per la seconda.
-- **6 / 10 ore.** Confrontare lenti a contatto e distanziate, ingrandimento complessivo e posizione dell’immagine finale mediante calcolo e banco ottico.
+- **4 / 6 ore.** Seguire l’immagine intermedia prodotta dalla prima lente come oggetto per la seconda.
+- **4 / 7 ore.** Calcolare due lenti a contatto e distanziate, riconoscendo quando la somma dei poteri è accettabile.
+- **4 / 7 ore.** Verificare immagine finale e ingrandimento al banco; registrare un errore di allineamento e controllarne l’effetto.
+
 
 ### Strumenti ottici
 
 **Subtotale del nucleo: 12 / 20 ore (A / B).**
 
-- **6 / 10 ore.** Descrivere il ruolo di obiettivo, oculare, diaframma e schermo in lente d’ingrandimento, microscopio e cannocchiale.
-- **6 / 10 ore.** Distinguere ingrandimento lineare e angolare, campo visivo e luminosità, usando schemi dei raggi per motivare il funzionamento.
+- **4 / 7 ore.** Distinguere ingrandimento lineare e angolare con la lente d’ingrandimento e un occhio ridotto di riferimento.
+- **4 / 6 ore.** Seguire obiettivo e oculare in microscopio e cannocchiale, usando un diagramma e distanze assegnate.
+- **4 / 7 ore.** Confrontare campo visivo e luminosità variando il diaframma di un solo apparato.
+
 
 ### Apertura e qualità dell’immagine
 
-**Subtotale del nucleo: 16 / 26 ore (A / B).**
+**Subtotale del nucleo: 10 / 16 ore (A / B).**
 
-- **6 / 10 ore.** Osservare come l’apertura modifica quantità di luce, profondità di campo e nitidezza.
-- **10 / 16 ore.** Distinguere un’immagine grande da un’immagine capace di separare dettagli; introdurre la risoluzione come prestazione da misurare.
+- **5 / 8 ore.** Osservare come l’apertura modifica quantità di luce, profondità di campo e nitidezza.
+- **5 / 8 ore.** Misurare la separazione di dettagli con una mira e distinguere ingrandimento e risoluzione; il limite diffrattivo è rinviato al modello ondulatorio di quarta.
+
 
 ### Aberrazioni e materiali
 
-**Subtotale del nucleo: 12 / 20 ore (A / B).**
+**Subtotale del nucleo: 10 / 18 ore (A / B).**
 
-- **6 / 10 ore.** Confrontare aberrazione sferica e cromatica, collegandole a geometria e dispersione del materiale.
-- **6 / 10 ore.** Sperimentare l’effetto di diaframma, posizione e combinazione delle lenti, indicando quale difetto si riduce e quale compromesso si introduce.
+- **5 / 9 ore.** Confrontare aberrazione sferica e cromatica, dispersione e numero di Abbe attraverso immagini e schede materiali.
+- **5 / 9 ore.** Sperimentare l’effetto di diaframma, posizione e combinazione delle lenti, indicando quale difetto si riduce e quale compromesso si introduce.
+
+
+### Occhio ridotto e lenti oftalmiche
+
+**Subtotale del nucleo: 15 / 25 ore (A / B).**
+
+- **5 / 8 ore.** Costruire il modello ridotto dell’occhio e descrivere accomodazione e defocalizzazione; raccordarsi con optometria senza sostituire la valutazione sanitaria.
+- **5 / 8 ore.** Leggere poteri nei meridiani di una lente sferocilindrica e interpretare asse e trasposizione su schede didattiche; confrontare con una misura guidata.
+- **5 / 9 ore.** Applicare la relazione di Prentice a decentramento ed effetto prismatico; distinguere lenti monofocali, bifocali e progressive su schemi, raccordando centratura e tolleranze al laboratorio.
+
 
 ### Taratura di un sistema
 
-**Subtotale del nucleo: 16 / 26 ore (A / B).**
+**Subtotale del nucleo: 12 / 20 ore (A / B).**
 
-- **10 / 16 ore.** Costruire una procedura ripetibile con oggetto di dimensione nota e scala di riferimento.
-- **6 / 10 ore.** Confrontare previsione e misura di ingrandimento o focale, riportando disallineamento, incertezza e condizioni di utilizzo.
+- **4 / 6 ore.** Definire una procedura di taratura con oggetto e scala noti, scegliendo una sola misura del sistema a due lenti.
+- **4 / 7 ore.** Eseguire e ripetere la misura dopo un riallineamento; separare variabilità e scostamento sistematico.
+- **4 / 7 ore.** Confrontare previsione e misura di ingrandimento o focale, riportando disallineamento, incertezza e condizioni di utilizzo.
 
 ### Riserva per consolidamento e valutazione
 
@@ -92,6 +115,7 @@ F. Catalano, *Elementi di ottica generale*, Zanichelli, ISBN 9788808097866. Per 
 
 ## Fonti consultate per questa proposta
 
+- [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
 - [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.

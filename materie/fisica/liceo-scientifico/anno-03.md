@@ -26,19 +26,27 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno raccordati fra terza e quarta in base al percorso effettivamente svolto.
 
+**Prerequisiti e progressione.** Dal biennio: cinematica, Newton, lavoro, calore e pressione. Richiamare componenti vettoriali e introdurre la trigonometria necessaria nel primo nucleo; usare aree geometriche per il lavoro e diagrammi p-V prima degli integrali. La descrizione dei gas segue meccanica e bilanci energetici; il primo principio è acquisito qui prima delle macchine di quarta. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le esperienze hanno una sola raccolta di dati: i nuclei applicativi ne curano l’interpretazione specifica. Preparazione, montaggio e analisi sono compresi nei punti indicati; le prove individuali e la restituzione usano la riserva. Gli approfondimenti facoltativi sostituiscono un esercizio dello stesso nucleo, senza aggiungere ore.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Riferimenti e moti nel piano
 
 **Subtotale del nucleo: 12 ore.**
 
-- **6 ore.** Passare tra sistemi inerziali con le trasformazioni galileiane; comporre velocità e distinguere descrizione del moto e cause dinamiche.
+- **6 ore.** Passare tra sistemi inerziali con le trasformazioni galileiane; comporre velocità e distinguere descrizione del moto e cause dinamiche. Confrontare un riferimento accelerato con uno inerziale e interpretare le forze apparenti senza attribuirle a una nuova interazione.
 - **6 ore.** Riprendere moto parabolico e circolare con equazioni vettoriali, indicando le ipotesi usate e confrontando rappresentazione analitica e grafica.
+
 
 ### Lavoro e conservazione dell’energia
 
-**Subtotale del nucleo: 12 ore.**
+**Subtotale del nucleo: 10 ore.**
 
-- **6 ore.** Collegare lavoro e variazione dell’energia cinetica; usare energia potenziale e conservazione dell’energia meccanica quando le forze lo consentono.
-- **6 ore.** Inserire attrito e altri trasferimenti nei bilanci; discutere perché l’energia totale si conserva anche se quella meccanica diminuisce.
+- **5 ore.** Collegare lavoro e variazione dell’energia cinetica; usare energia potenziale e conservazione dell’energia meccanica quando le forze lo consentono.
+- **5 ore.** Inserire attrito e altri trasferimenti nei bilanci; discutere perché l’energia totale si conserva anche se quella meccanica diminuisce.
+
 
 ### Impulso, quantità di moto e urti
 
@@ -47,33 +55,38 @@ L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno ra
 - **6 ore.** Definire il sistema e l’impulso esterno; applicare la conservazione della quantità di moto e il moto del centro di massa.
 - **6 ore.** Confrontare urti elastici e anelastici con dati prima e dopo l’interazione; verificare separatamente il bilancio di quantità di moto e quello energetico.
 
+
 ### Rotazione e momento angolare
 
-**Subtotale del nucleo: 12 ore.**
+**Subtotale del nucleo: 8 ore.**
 
-- **6 ore.** Distinguere momento di una forza, momento d’inerzia e momento angolare in configurazioni semplici.
-- **6 ore.** Interpretare rotazioni e variazioni della velocità angolare mediante il bilancio dei momenti; dichiarare le condizioni della conservazione del momento angolare.
+- **4 ore.** Distinguere momento di una forza, momento d’inerzia e momento angolare in configurazioni semplici.
+- **4 ore.** Interpretare rotazioni e variazioni della velocità angolare mediante il bilancio dei momenti; dichiarare le condizioni della conservazione del momento angolare. Limitare i calcoli a un asse fisso e a momenti d’inerzia forniti; rotazioni generali sono estensioni facoltative.
+
 
 ### Gravitazione e orbite
 
-**Subtotale del nucleo: 12 ore.**
+**Subtotale del nucleo: 10 ore.**
 
-- **6 ore.** Collegare leggi di Keplero e gravitazione universale; distinguere campo, forza ed energia potenziale gravitazionale.
-- **6 ore.** Studiare orbite circolari e velocità di fuga a livello introduttivo; confrontare caduta locale e moto orbitale e discutere limiti del modello a due corpi.
+- **5 ore.** Collegare leggi di Keplero e gravitazione universale; distinguere campo, forza ed energia potenziale gravitazionale.
+- **5 ore.** Studiare orbite circolari e velocità di fuga a livello introduttivo; confrontare caduta locale e moto orbitale e discutere limiti del modello a due corpi.
+
 
 ### Fluidi in movimento
 
-**Subtotale del nucleo: 11 ore.**
+**Subtotale del nucleo: 8 ore.**
 
-- **6 ore.** Ricavare la continuità da un bilancio di massa; usare Bernoulli per un fluido ideale lungo una linea di corrente.
-- **5 ore.** Confrontare previsione e flussi reali, riconoscendo perdite, viscosità e turbolenza; evitare di estendere il modello ideale senza verificare le ipotesi.
+- **4 ore.** Ricavare la continuità da un bilancio di massa; usare Bernoulli per un fluido ideale lungo una linea di corrente.
+- **4 ore.** Confrontare un flusso reale con la previsione ideale: perdite di energia e viscosità; riconoscere qualitativamente un regime turbolento. Leggi dettagliate di flusso viscoso sono approfondimenti sostitutivi, non un altro nucleo.
 
-### Avvio della termodinamica dei gas
 
-**Subtotale del nucleo: 10 ore.**
+### Gas, modello cinetico e primo principio
 
-- **5 ore.** Descrivere uno stato mediante pressione, volume e temperatura assoluta; utilizzare l’equazione dei gas ideali e rappresentare trasformazioni nel piano p-V.
-- **5 ore.** Interpretare il lavoro come area nel diagramma e distinguere variabili di stato da scambi. Raccordare questa introduzione con i principi termodinamici dell’anno successivo.
+**Subtotale del nucleo: 21 ore.**
+
+- **6 ore.** Descrivere stato e trasformazioni del gas ideale con pressione, volume e temperatura assoluta; usare il diagramma p-V e distinguere variabili di stato da scambi.
+- **6 ore.** Collegare pressione, temperatura ed energia interna al modello cinetico; discutere quando il gas reale si approssima a quello ideale, con un confronto di dati e ipotesi.
+- **9 ore.** Introdurre il primo principio con convenzione dei segni; leggere il lavoro come area e risolvere bilanci isocori, isobari e isotermi. Introdurre l’adiabatica mediante Q = 0; la legge specifica viene consolidata in quarta.
 
 ### Riserva per consolidamento e valutazione
 
@@ -93,7 +106,7 @@ Verifica: spiegare con calcolo e diagramma perché una stessa interazione può c
 
 ## Libro consigliato
 
-Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Nel volume 1, collegare i capitoli 4-8 ai bilanci, alla gravitazione e ai fluidi. [Percorso di esercizi dell’editore](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166)
+Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Nel volume 1, usare i capitoli 4–8 per meccanica e fluidi e 9–10 per gas e primo principio; il capitolo 11 è ripreso in quarta. La mappa pubblica dei capitoli è verificata, non le pagine o gli esercizi riservati. [Percorso di esercizi dell’editore](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166)
 
 ## Fonti consultate per questa proposta
 

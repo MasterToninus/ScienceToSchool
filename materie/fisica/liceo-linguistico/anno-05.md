@@ -26,12 +26,19 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Riferimento nazionale: allegato D, sezione Fisica. La distribuzione della meccanica tra terza e quarta è adattabile: la programmazione scolastica consultata segue una scansione diversa.
 
+**Prerequisiti e progressione.** Dalla terza: forze, energia e potenza; dalla quarta: frequenza, onde e luce. Campo e differenza di potenziale precedono i circuiti, forza magnetica e flusso precedono l’induzione. Si usano algebra e grafici; il percorso del Novecento è una scelta guidata tra alternative, non tre corsi simultanei. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** L’applicazione d’indirizzo usa i dati o il modello già introdotti: le sue ore finanziano interpretazione e trasferimento al contesto, non una seconda spiegazione del nucleo. Nella riserva, le ore di verifica includono somministrazione e restituzione; il recupero è separato. Le attività finali sono consegne entro questi tempi.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Cariche e campo elettrico
 
 **Subtotale del nucleo: 8 ore.**
 
-- **4 ore.** Confrontare interazione elettrica e gravitazionale, usando carica, forza e campo senza confonderli.
+- **4 ore.** Usare la legge di Coulomb in casi semplici e confrontarla con la gravitazione; distinguere carica, forza, campo e segno della sorgente.
 - **4 ore.** Applicare la sovrapposizione in configurazioni semplici; interpretare energia potenziale, tensione e capacità di un condensatore.
+
 
 ### Corrente, resistenza e potenza
 
@@ -40,6 +47,7 @@ Riferimento nazionale: allegato D, sezione Fisica. La distribuzione della meccan
 - **4 ore.** Leggere lo schema di un circuito in continua e distinguere collegamenti in serie e parallelo; usare la legge di Ohm dove applicabile.
 - **5 ore.** Calcolare potenza dissipata ed energia consumata e confrontare un componente ideale con una curva sperimentale a bassissima tensione.
 
+
 ### Magnetismo e interazioni
 
 **Subtotale del nucleo: 8 ore.**
@@ -47,12 +55,14 @@ Riferimento nazionale: allegato D, sezione Fisica. La distribuzione della meccan
 - **4 ore.** Descrivere campi di magneti e correnti e la forza su conduttori o cariche in movimento.
 - **4 ore.** Collegare gli effetti magnetici a motori, altoparlanti o strumenti di misura, distinguendo la funzione di ciascun elemento.
 
+
 ### Induzione e conversione dell’energia
 
 **Subtotale del nucleo: 9 ore.**
 
-- **5 ore.** Interpretare un esperimento di induzione con flusso magnetico, variazione temporale e legge di Lenz.
+- **5 ore.** Interpretare una prova di induzione con flusso magnetico, sua variazione e legge di Faraday-Lenz; usare variazioni finite prima di qualsiasi formalismo di derivazione.
 - **4 ore.** Rappresentare il funzionamento essenziale di alternatori e trasformatori, indicando origine e destinazione dell’energia.
+
 
 ### Onde elettromagnetiche
 
@@ -61,12 +71,14 @@ Riferimento nazionale: allegato D, sezione Fisica. La distribuzione della meccan
 - **4 ore.** Raccordare campi variabili e propagazione delle onde elettromagnetiche; leggere lo spettro in termini di frequenza e lunghezza d’onda.
 - **4 ore.** Confrontare sorgenti, rivelatori e applicazioni, separando proprietà della radiazione e risposta dello strumento.
 
+
 ### Un percorso nel Novecento
 
 **Subtotale del nucleo: 6 ore.**
 
 - **3 ore.** Scegliere almeno un approfondimento coerente con il tempo disponibile: frequenza di soglia, fotoemissione e fotoni; spettri e livelli atomici; oppure simultaneità e relatività ristretta.
 - **3 ore.** Ricostruire osservazione, problema aperto e nuova previsione, discutendo il limite del modello classico. Le alternative sono scelte didattiche, non un elenco da esaurire obbligatoriamente.
+
 
 ### Spiegare un dispositivo
 

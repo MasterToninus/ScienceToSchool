@@ -13,7 +13,7 @@ I monte ore sono nominali ordinamentali. Le ore settimanali numeriche sono equiv
 | Discipline audiovisive e multimediali | Liceo artistico, D.P.R. 89/2010 | 6 | 198 | [D.P.R. 89/2010, allegato B](https://umi.dm.unibo.it/wp-content/uploads/2013/10/2_DPR_87_88_89_2010_GU_137_15_06_10.pdf#page=117) |
 | Laboratorio audiovisivo e multimediale | Liceo artistico, D.P.R. 89/2010 | 6 | 198 | [D.P.R. 89/2010, allegato B](https://umi.dm.unibo.it/wp-content/uploads/2013/10/2_DPR_87_88_89_2010_GU_137_15_06_10.pdf#page=117) |
 
-Il riferimento congiunto delle due discipline è 396 ore annue, equivalenti a 12 ore settimanali. Discipline e laboratorio conservano identità e orari distinti. La distribuzione successiva assume una progettazione annuale congiunta sull’intero monte ore; la copertura e la progressione degli obiettivi devono essere completate e validate dai docenti prima dell’uso.
+Il riferimento congiunto delle due discipline è 396 ore annue, equivalenti a 12 ore settimanali. Discipline e laboratorio conservano identità e orari distinti. La proposta successiva distingue la copertura annuale di ciascun insegnamento, con budget separati e fasi coordinate. La corrispondenza al curricolo concreto della scuola e la fattibilità devono essere validate dai docenti prima dell’uso.
 
 **Scenario adottato per i tempi della proposta: 396 ore.** Scenario congiunto: Discipline audiovisive 198 ore + Laboratorio 198 ore. È una scelta didattica IA da approvare con i docenti. Le quote di un modulo e le scelte PTOF ipotetiche non sono prescrizioni nazionali.
 
@@ -25,43 +25,141 @@ Il riferimento congiunto delle due discipline è 396 ore annue, equivalenti a 12
 
 Confrontare due modi di raccontare lo stesso evento attraverso luce, spazio, montaggio e sonoro.
 
+
+## Prerequisiti e progressione
+
+Sceneggiatura, copertura, montaggio e acquisizione sonora dell’anno III; consolidare la continuità prima di sperimentare discontinuità.
+
+**Esito atteso a fine anno:** Motivare uno stile, coordinare spazio e suono, produrre una forma breve con revisioni documentate.
+
+Raccordo: [scheda dell’anno precedente](anno-03.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 396 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 396 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Contesto storico e scelte stilistiche — 52 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Discipline audiovisive e multimediali | 174 | 24 | 198 |
+| Laboratorio audiovisivo e multimediale | 174 | 24 | 198 |
 
-- **24 ore** — Collocare un'opera nel suo contesto e riconoscere riferimenti pittorici, teatrali o fotografici.
-- **28 ore** — Distinguere un dato documentato sull'opera da un'interpretazione personale sostenuta da esempi.
+### D1 · Discipline audiovisive e multimediali — 198 ore
 
-### Spazio scenico e illuminazione — 55 ore
+#### D1.0 · Diagnosi e raccordo — 4 ore
 
-- **25 ore** — Progettare profondità, accessi, posizione degli oggetti e traiettorie degli interpreti.
-- **30 ore** — Confrontare due schemi di luce annotando contrasto, leggibilità e coerenza espressiva.
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Suono e spazio narrativo — 52 ore
+#### D1.1 · Storia e generi — 30 ore
 
-- **24 ore** — Separare dialogo, ambiente, musica e silenzio nel piano sonoro di una scena.
-- **28 ore** — Controllare intelligibilità e continuità acustica fra riprese, motivando suoni in campo e fuori campo.
+- **6 ore** — Confrontare opere e linguaggi di epoche diverse nel loro contesto.
+- **8 ore** — Analizzare convenzioni di finzione, documentario e comunicazione promozionale.
+- **8 ore** — Collegare una scelta stilistica a una funzione senza imitazioni automatiche.
+- **8 ore** — Costruire una scheda critica con estratti e fonti lecite.
 
-### Confronto critico delle versioni — 55 ore
+#### D1.2 · Drammaturgia e spazio — 36 ore
 
-- **25 ore** — Costruire due trattamenti dello stesso episodio variando un insieme dichiarato di scelte.
-- **30 ore** — Raccogliere risposte degli spettatori e collegarle a indizi visivi e sonori specifici.
+- **6 ore** — Sviluppare un soggetto breve con ambientazione e conflitto.
+- **8 ore** — Progettare messa in scena, azioni e punti di vista.
+- **12 ore** — Disegnare uno schema di illuminazione motivandone l’effetto.
+- **10 ore** — Revisionare sceneggiatura e storyboard alla luce dei vincoli produttivi.
 
-### Attività di laboratorio e applicazione — 103 ore
+#### D1.3 · Suono e montaggio espressivo — 36 ore
 
-- **30 ore** — Analizzare una sequenza nella sua collocazione storica e individuare i rapporti con altre arti.
-- **37 ore** — Progettare una scena con due trattamenti visivi distinti e registrare separatamente voci e suoni d’ambiente.
-- **36 ore** — Montare e presentare entrambe le versioni. Verificare come cambiano l’attenzione dello spettatore e il rapporto tra suono e spazio.
+- **6 ore** — Analizzare suono in campo, fuori campo e contrappunto.
+- **8 ore** — Confrontare montaggio continuo, alternato e discontinuo.
+- **12 ore** — Progettare ritmo e paesaggio sonoro di una forma breve.
+- **10 ore** — Argomentare come una diversa colonna sonora cambia la lettura.
 
-### Verifiche, recupero e consolidamento — 79 ore
+#### D1.4 · Forme multimediali — 42 ore
 
-- **39 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **24 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **16 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **8 ore** — Analizzare relazione fra tipografia, animazione e immagine in movimento.
+- **10 ore** — Progettare una breve sigla o sequenza di titoli.
+- **12 ore** — Adattare un messaggio a schermo, rete e formato verticale.
+- **12 ore** — Confrontare interazione e accessibilità in prototipi semplici.
 
-**Totale della proposta: 396 ore = 317 ore nei nuclei e nelle applicazioni + 79 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Progetto comparato — 30 ore
+
+- **6 ore** — Definire pubblico, obiettivo e criteri di successo del progetto.
+- **8 ore** — Organizzare dossier, piano di ripresa e revisioni intermedie.
+- **8 ore** — Presentare due alternative stilistiche con motivazioni.
+- **8 ore** — Valutare la versione realizzata distinguendo intenzioni e risultati.
+
+#### D1.6 · Verifiche, restituzione e recupero — 20 ore
+
+- **6 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **6 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 198 ore = 174 ore di nuclei e applicazioni + 4 ore di diagnosi + 12 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+### D2 · Laboratorio audiovisivo e multimediale — 198 ore
+
+#### D2.0 · Diagnosi e raccordo — 4 ore
+
+- **4 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
+
+#### D2.1 · Luce e resa dell’immagine — 30 ore
+
+- **6 ore** — Provare luce principale, riempimento e controluce in set protetto.
+- **8 ore** — Controllare contrasto, temperatura colore e coerenza fra riprese.
+- **8 ore** — Sperimentare una scena interna e una esterna con mezzi disponibili.
+- **8 ore** — Registrare prove e scegliere la configurazione in base allo storyboard.
+
+#### D2.2 · Suono di scena — 36 ore
+
+- **6 ore** — Confrontare microfoni e posizionamenti senza disturbi evitabili.
+- **8 ore** — Registrare intervista, ambiente ed effetti separati.
+- **12 ore** — Sincronizzare riprese e audio verificando corrispondenze.
+- **10 ore** — Pulire e bilanciare il suono senza cancellare elementi utili.
+
+#### D2.3 · Produzione coordinata — 36 ore
+
+- **6 ore** — Suddividere il lavoro di troupe e verificare la preparazione del set.
+- **8 ore** — Riprendere una forma breve con continuità e copertura sufficiente.
+- **12 ore** — Gestire liberatorie scolastiche, materiali autorizzati e diario di lavorazione.
+- **10 ore** — Ripianificare una sessione sulla base delle criticità emerse.
+
+#### D2.4 · Montaggio e compositing — 42 ore
+
+- **8 ore** — Montare la struttura narrativa e confrontare due ritmi.
+- **10 ore** — Integrare titolazione animata e semplici sovrapposizioni.
+- **12 ore** — Uniformare colore e suono fra scene.
+- **12 ore** — Revisionare il prodotto dopo una visione di prova.
+
+#### D2.5 · Versioni e controllo — 30 ore
+
+- **6 ore** — Predisporre sottotitoli e alternative testuali coerenti.
+- **8 ore** — Adattare la versione a due formati mantenendo il messaggio.
+- **8 ore** — Controllare leggibilità, compressione e riproduzione.
+- **8 ore** — Consegnare progetto, esportazioni e confronto documentato delle versioni.
+
+#### D2.6 · Verifiche, restituzione e recupero — 20 ore
+
+- **6 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **6 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **4 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **4 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D2: 198 ore = 174 ore di nuclei e applicazioni + 4 ore di diagnosi + 12 ore di verifiche/restituzione + 8 ore di recupero/consolidamento.**
+
+**Totale della proposta: 396 ore = 348 ore nei nuclei e nelle applicazioni + 48 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Contesto storico e scelte stilistiche.** Collocare un'opera nel suo contesto e riconoscere riferimenti pittorici, teatrali o fotografici. Distinguere un dato documentato sull'opera da un'interpretazione personale sostenuta da esempi.
+
+**Spazio scenico e illuminazione.** Progettare profondità, accessi, posizione degli oggetti e traiettorie degli interpreti. Confrontare due schemi di luce annotando contrasto, leggibilità e coerenza espressiva.
+
+**Suono e spazio narrativo.** Separare dialogo, ambiente, musica e silenzio nel piano sonoro di una scena. Controllare intelligibilità e continuità acustica fra riprese, motivando suoni in campo e fuori campo.
+
+**Confronto critico delle versioni.** Costruire due trattamenti dello stesso episodio variando un insieme dichiarato di scelte. Raccogliere risposte degli spettatori e collegarle a indizi visivi e sonori specifici.
+
+**Attività di laboratorio e applicazione.** Analizzare una sequenza nella sua collocazione storica e individuare i rapporti con altre arti. Progettare una scena con due trattamenti visivi distinti e registrare separatamente voci e suoni d’ambiente. Montare e presentare entrambe le versioni. Verificare come cambiano l’attenzione dello spettatore e il rapporto tra suono e spazio.
 
 ## Compito e verifica
 
@@ -89,3 +187,6 @@ Le Indicazioni definiscono obiettivi per secondo biennio e quinto anno. La distr
 - [Corso di linguaggio audiovisivo e multimediale, Michele Corsi, ISBN 9788820378868](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159) — Hoepli; Indice pubblico: narrazione, inquadratura, messinscena, montaggio e sonoro.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

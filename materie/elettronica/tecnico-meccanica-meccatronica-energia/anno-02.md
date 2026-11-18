@@ -20,9 +20,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Seconda riformata dal 2027/28, disciplina da 66 ore nel quadro iniziale DM 29†.
+- **Ipotesi sul quadro iniziale dal 2027/28: 66 ore**: 66 = **66 ore**; Elementi di elettrotecnica ed elettronica per la meccatronica 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Elementi di elettrotecnica ed elettronica per la meccatronica](README.md)
 
@@ -30,38 +32,55 @@ Seconda riformata dal 2027/28; il quadro colloca qui la disciplina da 66 ore, no
 
 ## Programma proposto per nuclei tematici
 
-Leggere uno schema elettrico elementare, stimare tensione, corrente e potenza. Riconoscere in un sistema meccatronico un sensore di posizione, l’unità di controllo e un attuatore. Distinguere segnali e alimentazione.
+**Prerequisiti e avvio.** Secondo anno effettivo del nuovo quadro: unità, proporzioni e grafici del primo; nessun controllo avanzato presupposto.
 
-### Grandezze e alimentazione — 12 ore
+**Raccordo e progressione.** Raccordo con meccanica e tecnologie del triennio; non è una classe prima con zero ore.
 
-- **7 ore** — Interpretare tensione, corrente e potenza in un circuito elementare collegato a un dispositivo meccanico.
-- **5 ore** — Distinguere alimentazione, percorso del segnale e carico attraverso uno schema a blocchi.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi sul quadro iniziale dal 2027/28: 66 ore
 
-### Sensori di posizione — 15 ore
+#### S1D1 · Elementi di elettrotecnica ed elettronica per la meccatronica — 66 ore
 
-- **8 ore** — Confrontare un finecorsa e un sensore continuo mediante ingressi, uscite e grandezze osservabili.
-- **7 ore** — Leggere una caratteristica semplificata e associare stati o valori alla posizione di un elemento mobile.
+##### S1D1N1 · Circuiti e schemi — 16 ore
 
+- **8 ore** — Distinguere tensione, corrente, potenza e segnale in un dispositivo meccanico.
+- **8 ore** — Risolvere circuiti semplici e leggere generatore, carico e strumenti.
 
-### Attuatori e comando — 15 ore
+##### S1D1N2 · Sensori — 14 ore
 
-- **8 ore** — Descrivere la trasformazione da segnale di comando a azione meccanica, distinguendo controllore e attuatore.
-- **7 ore** — Costruire una sequenza simulata di avvio, movimento e arresto con condizioni esplicite.
+- **6 ore** — Confrontare finecorsa e sensore continuo per campo e funzione.
+- **8 ore** — Ricavare una posizione da una caratteristica e verificare errore e risoluzione.
 
+##### S1D1N3 · Comando e attuazione — 14 ore
 
-### Prova del sistema — 14 ore
+- **8 ore** — Distinguere controllore, interfaccia e attuatore e trasformazioni dell’energia.
+- **6 ore** — Rappresentare una sequenza di avvio, moto e arresto con consensi.
 
-- **8 ore** — Verificare la risposta del dimostratore a posizioni normali e condizioni limite previste.
-- **6 ore** — Consegnare schema e tabella degli stati, motivando le differenze fra modello e sistema reale.
+##### S1D1N4 · Dimostratore — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Simulare sequenza e condizioni limite su un sistema semplice.
+- **6 ore** — Confrontare risultati, schema e tabella degli stati e documentare limiti.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi sul quadro iniziale dal 2027/28: 66 ore | Elementi di elettrotecnica ed elettronica per la meccatronica | 56 | 10 | **66 ore** |
+
+**Totale Ipotesi sul quadro iniziale dal 2027/28: 66 ore: 66 ore.**
+
+**Fondamento e limite della revisione.** [DM 29/2026, profili A-1/A-3/A-6/A-7/A-8/A-9 e quadri iniziali C; limite di coordinamento DL 170 dichiarato sopra](https://www.istruzioneer.gov.it/2026/03/10/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/?download=87103). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -84,3 +103,25 @@ Usare Elettrotecnica generale e una selezione laboratoriale della parte Metrolog
 - [OpenStax, University Physics Volume 2 – 10.3 Kirchhoff’s Rules](https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Leggere uno schema elettrico elementare, stimare tensione, corrente e potenza. Riconoscere in un sistema meccatronico un sensore di posizione, l’unità di controllo e un attuatore. Distinguere segnali e alimentazione.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Interpretare tensione, corrente e potenza in un circuito elementare collegato a un dispositivo meccanico. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere alimentazione, percorso del segnale e carico attraverso uno schema a blocchi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare un finecorsa e un sensore continuo mediante ingressi, uscite e grandezze osservabili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Leggere una caratteristica semplificata e associare stati o valori alla posizione di un elemento mobile. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Descrivere la trasformazione da segnale di comando a azione meccanica, distinguendo controllore e attuatore. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire una sequenza simulata di avvio, movimento e arresto con condizioni esplicite. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Verificare la risposta del dimostratore a posizioni normali e condizioni limite previste. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Consegnare schema e tabella degli stati, motivando le differenze fra modello e sistema reale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

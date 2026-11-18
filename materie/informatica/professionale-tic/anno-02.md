@@ -28,9 +28,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Ipotesi didattica: 66 ore in I e 66 in II, totale TIC 132 nel biennio; ripartizione da validare nel PTOF, compatibile con tutti gli intervalli della tabella.
+- **Ipotesi PTOF: 66 ore annue**: 66 = **66 ore**; Tecnologie dell’informazione e della comunicazione 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie dell’informazione e della comunicazione negli istituti professionali](README.md)
 
@@ -38,38 +40,55 @@ Verificare ore, declinazione e profilo nel curricolo di istituto. La proposta se
 
 ## Programma proposto per nuclei tematici
 
-Convalidare dati e riferimenti, riconoscere duplicati, impaginare una comunicazione e scegliere come condividerla in sola lettura. Collegare più registrazioni e ottenere un riepilogo.
+**Prerequisiti e avvio.** Dalla prima: gestione dei file, documenti, formule e condivisione. Introdurre validazione e riepiloghi dopo una prova diagnostica.
 
-### Qualità e collegamenti — 12 ore
+**Raccordo e progressione.** Il caso applicativo cambia fra gli undici indirizzi del README; settore sanitario con dati sintetici, manutenzione con schede macchina, servizi con ordini. Questi sono contesti alternativi nelle stesse ore.
 
-- **7 ore** — Definire regole per codici, date, intervalli e valori mancanti di una tabella di attività.
-- **5 ore** — Collegare servizi e risorse con identificativi coerenti, correggendo duplicati con motivazione documentata.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi PTOF: 66 ore annue
 
-### Calcoli e riepiloghi — 15 ore
+#### S1D1 · Tecnologie dell’informazione e della comunicazione — 66 ore
 
-- **8 ore** — Usare riferimenti assoluti, formule condizionali e riepiloghi per tempi, materiali o richieste.
-- **7 ore** — Confrontare periodi mediante un grafico, distinguendo differenza assoluta e percentuale.
+##### S1D1N1 · Qualità dei dati — 14 ore
 
+- **6 ore** — Definire codici, tipi, unità e regole di validazione per un archivio di attività.
+- **8 ore** — Individuare duplicati e dati mancanti e conservare una traccia delle correzioni.
 
-### Lavoro condiviso — 15 ore
+##### S1D1N2 · Analisi con foglio — 16 ore
 
-- **8 ore** — Produrre una scheda operativa e un riepilogo, verificando la concordanza di nomi e valori.
-- **7 ore** — Gestire commenti, revisioni e versione approvata con ruoli espliciti nel gruppo.
+- **8 ore** — Applicare funzioni condizionali e di ricerca con riferimenti controllati.
+- **8 ore** — Costruire riepiloghi e grafici per periodo e categoria verificando totali e denominatori.
 
+##### S1D1N3 · Comunicazione del risultato — 14 ore
 
-### Consegna del prodotto — 14 ore
+- **8 ore** — Produrre un rapporto con tabella, grafico e interpretazione dei limiti.
+- **6 ore** — Costruire una pagina informativa guidata e controllare collegamenti, fonti e leggibilità.
 
-- **8 ore** — Simulare condivisione in sola lettura e collaborazione con modifica, spiegandone gli effetti.
-- **6 ore** — Presentare il lavoro e ricostruire l’origine dei dati, indicando quali decisioni restano al professionista.
+##### S1D1N4 · Collaborazione e processo — 12 ore
 
-### Riserva e quadratura
+- **6 ore** — Rappresentare una sequenza richiesta, lavorazione e risposta attraverso dati condivisi.
+- **6 ore** — Gestire commenti, ruoli e versione approvata; spiegare permessi, conservazione e ripristino senza inviare dati reali.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi PTOF: 66 ore annue | Tecnologie dell’informazione e della comunicazione | 56 | 10 | **66 ore** |
+
+**Totale Ipotesi PTOF: 66 ore annue: 66 ore.**
+
+**Fondamento e limite della revisione.** [DI 92/2018, allegato 1, competenze generali 7 e 8, da declinare per indirizzo](https://nuoviprofessionali.indire.it/wp-content/uploads/2018/12/ALLEGATO-1_-Competenze-pecup-professionali-area-generale-Def-1.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -93,3 +112,25 @@ Selezionare esercizi di gestione dati e documenti, adattati alla declinazione di
 - [The Document Foundation, Calc Guide 7.2 – Using Pivot Tables](https://books.libreoffice.org/en/CG72/CG7208-PivotTables.html).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Convalidare dati e riferimenti, riconoscere duplicati, impaginare una comunicazione e scegliere come condividerla in sola lettura. Collegare più registrazioni e ottenere un riepilogo.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Definire regole per codici, date, intervalli e valori mancanti di una tabella di attività. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Collegare servizi e risorse con identificativi coerenti, correggendo duplicati con motivazione documentata. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare riferimenti assoluti, formule condizionali e riepiloghi per tempi, materiali o richieste. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare periodi mediante un grafico, distinguendo differenza assoluta e percentuale. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Produrre una scheda operativa e un riepilogo, verificando la concordanza di nomi e valori. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Gestire commenti, revisioni e versione approvata con ruoli espliciti nel gruppo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Simulare condivisione in sola lettura e collaborazione con modifica, spiegandone gli effetti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Presentare il lavoro e ricostruire l’origine dei dati, indicando quali decisioni restano al professionista. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

@@ -20,49 +20,52 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Ricostruire un totale e motivare una scelta.** Riferimento per l’asse matematico e i compiti trasversali del percorso professionale. Consultare [DI 92/2018, allegato 1](https://www.istruzioneer.gov.it/wp-content/uploads/2019/02/d_intermin_92.pdf). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e derivate nel punto della sequenza in cui sono richiamati. Prima dell’inferenza servono variabili aleatorie, media e varianza. Il nucleo comune privilegia funzioni, geometria, dati e decisioni; analisi infinitesimale e inferenza formale non sono requisiti indistinti di tutti gli undici indirizzi. Le applicazioni devono essere scelte con i docenti di indirizzo. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (area generale comune). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Integrali, aree e accumulazione
-
-**Subtotale: 19 h.**
-
-- **6 h** — Confrontare somme di contributi, area con segno e integrale definito; distinguere integrale e primitiva.
-- **7 h** — Calcolare integrali elementari e applicare il teorema fondamentale del calcolo nei casi studiati.
-- **6 h** — Stimare un totale o un'area con rettangoli e trapezi e valutare l'effetto del passo sulla risposta numerica.
-
-### Variabili aleatorie e distribuzioni
-
-**Subtotale: 14 h.**
-
-- **4 h** — Associare una variabile numerica a un esperimento e costruirne la distribuzione; interpretare valore atteso e varianza.
-- **6 h** — Applicare il modello binomiale verificando numero di prove, probabilità costante e indipendenza.
-- **4 h** — Confrontare un modello discreto con una distribuzione continua, interpretando l'area come probabilità e discutendo l'adeguatezza ai dati.
-
-### Campionamento e inferenza introduttiva
-
-**Subtotale: 12 h.**
-
-- **4 h** — Distinguere popolazione, campione, parametro e stima; riconoscere selezione distorta e non risposta.
-- **5 h** — Simulare campioni ripetuti e osservare la variabilità della media o della proporzione campionaria.
-- **3 h** — Interpretare un intervallo di stima con le sue ipotesi; nei percorsi pertinenti introdurre il confronto con un'ipotesi nulla senza automatismi decisionali.
-
-### Ottimizzazione e ricerca operativa
-
-**Subtotale: 19 h.**
-
-- **6 h** — Tradurre una situazione in variabili, vincoli e funzione obiettivo; rappresentare una regione ammissibile in due variabili.
-- **7 h** — Risolvere semplici problemi di programmazione lineare e confrontare scelte in certezza e in rischio.
-- **6 h** — Condurre un'analisi di sensibilità e presentare una decisione motivata anche quando i dati non consentono un unico ottimo.
-
-### Misure e controllo di qualità
+### Algebra, funzioni e rappresentazioni
 
 **Subtotale: 15 h.**
 
-- **5 h** — Definire una grandezza di processo e raccogliere misure con uno schema riproducibile.
-- **6 h** — Confrontare variabilità, tolleranza e valore medio senza identificare la conformità di un pezzo con quella dell'intero lotto.
-- **4 h** — Documentare un'anomalia con dati e grafici e proporre una misura ulteriore che permetta di controllare l'ipotesi formulata.
+- **5 h** — Consolidare divisione fra polinomi, teorema del resto e scomposizioni; risolvere equazioni e disequazioni razionali semplici con condizioni esplicite.
+- **5 h** — Determinare dominio, zeri e segno di funzioni polinomiali, razionali, irrazionali e con valore assoluto in casi semplici.
+- **5 h** — Studiare composizione, inversa e trasformazioni dei grafici; confrontare tabella, formula e descrizione verbale.
+
+### Ricerca operativa
+
+**Subtotale: 20 h.**
+
+- **6 h** — Rappresentare funzioni di due variabili con tabelle e curve di livello; costruire variabili, vincoli e obiettivo.
+- **8 h** — Risolvere una programmazione lineare a due variabili graficamente; confrontare scelte in certezza e in rischio dopo il valore atteso.
+- **6 h** — Esaminare scorte, alternative e sensibilità modificando un parametro; comunicare anche una decisione non univoca.
+
+### Variabili aleatorie e distribuzioni
+
+**Subtotale: 12 h.**
+
+- **6 h** — Associare una variabile discreta agli esiti; calcolare valore atteso e varianza e interpretare un gioco equo.
+- **6 h** — Studiare binomiale e normale: verificare ipotesi, confrontare distribuzione discreta e area di probabilità e usare simulazioni.
+
+### Campioni e limiti delle conclusioni
+
+**Subtotale: 12 h.**
+
+- **6 h** — Dopo media, varianza e distribuzioni, distinguere popolazione e campione; simulare campioni diversi e osservare la variabilità dei risultati.
+- **6 h** — Confrontare stime descrittive e informazioni incomplete per una decisione professionale. Intervalli formali e test restano un possibile approfondimento di indirizzo entro queste ore, dopo i prerequisiti probabilistici.
+
+### Misure e controllo di qualità
+
+**Subtotale: 20 h.**
+
+- **10 h** — Progettare raccolta di dati e misure con unità, tolleranze e protocollo; distinguere variabilità del processo e conformità del singolo pezzo.
+- **10 h** — Analizzare un’anomalia con grafici e indici, proporre un controllo ulteriore e documentare le conclusioni con limiti espliciti.
 
 ### Declinazione per il percorso
 
@@ -70,18 +73,24 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 - **Nelle ore già assegnate** — Scegliere un unico problema professionale sufficientemente ricco: quantità accumulate, qualità del campione o scelta con vincoli. Gli integrali e l’inferenza sono strumenti da graduare, non un elenco di formalismi da svolgere integralmente.
 
+### Approfondimento alternativo di indirizzo
+
+**Nessuna ora aggiuntiva.** Se in quarta è stato adottato il ramo di analisi, integrali e accumulazione (12 h) e quadrature numeriche (6 h) possono sostituire 8 h di approfondimento delle funzioni e 10 h di applicazioni di qualità. Negli altri indirizzi il compito sui consumi usa somme e tabelle, senza richiedere integrali. La sostituzione va deliberata nel curricolo mantenendo gli obiettivi comuni; non sommare i due itinerari.
+
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 
 ### Prima unità
 
-- **Obiettivi osservabili:** Usare somme e integrali elementari per stimare un totale da una grandezza per unità di tempo.
+- **Obiettivi osservabili:** Usare somme (e, nel ramo alternativo di analisi, integrali elementari) per stimare un totale da una grandezza per unità di tempo.
 
 ### Seconda unità
 

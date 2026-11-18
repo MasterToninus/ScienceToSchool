@@ -16,9 +16,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Scienze applicate, Informatica: 66 ore.
+- **Unico**: 66 = **66 ore**; Informatica 66 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nel liceo scientifico, opzione scienze applicate](README.md)
 
@@ -26,38 +28,55 @@ Gli obiettivi nazionali dell’opzione sono articolati per bienni e quinto anno.
 
 ## Programma proposto per nuclei tematici
 
-Descrivere ingressi e uscite di un problema. Passare da diagrammi a sequenza, selezione e iterazione in Python. Confrontare casi di prova ordinari e casi limite.
+**Prerequisiti e avvio.** File, foglio elettronico, variabili e scelta dalla prima; recupero iniziale tramite un programma guidato.
 
-### Problemi e algoritmi — 12 ore
+**Raccordo e progressione.** Terza: programmazione modulare, strutture e oggetti; evitare di ripetere un intero corso introduttivo.
 
-- **7 ore** — Precisare ingressi, risultati attesi e condizioni di validità di un problema numerico o di classificazione.
-- **5 ore** — Descrivere una soluzione con pseudocodice e diagramma di flusso, eseguendola a mano su un esempio.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Variabili e selezione — 15 ore
+#### S1D1 · Informatica — 66 ore
 
-- **8 ore** — Scrivere programmi con numeri, stringhe, assegnamenti e conversioni; distinguere nome, espressione e valore.
-- **7 ore** — Usare confronti e operatori logici per verificare intervalli e ammissibilità dei dati ricevuti.
+##### S1D1N1 · Controllo del flusso — 16 ore
 
+- **6 ore** — Riprendere variabili, espressioni e scelta tramite correzione di programmi; formulare condizioni composte.
+- **10 ore** — Progettare cicli con contatore e accumulatore, prevedere arresto e verificare casi vuoti o estremi.
 
-### Iterazione e funzioni — 15 ore
+##### S1D1N2 · Scomposizione dei problemi — 16 ore
 
-- **8 ore** — Costruire cicli con contatore o condizione, somme progressive e conteggi, spiegando quando terminano.
-- **7 ore** — Raccogliere passaggi ripetuti in funzioni con parametri e risultato, usando nomi coerenti con lo scopo.
+- **8 ore** — Scrivere funzioni con parametri e risultato, separando elaborazione e interazione con l’utente.
+- **8 ore** — Elaborare liste e stringhe con scansione e ricerca semplice; costruire un insieme di test.
 
+##### S1D1N3 · Dati e riproducibilità — 14 ore
 
-### Verifica e correzione — 14 ore
+- **8 ore** — Importare misure in tabella, controllare unità e valori mancanti, confrontare grafico e modello elementare.
+- **6 ore** — Salvare dati in testo e documentare istruzioni di esecuzione e limiti; confrontare una soluzione con foglio e codice.
 
-- **8 ore** — Preparare casi ordinari, valori di confine e ingressi non validi prima dell’esecuzione.
-- **6 ore** — Distinguere errori sintattici, di esecuzione e logici; conservare prove e spiegazioni delle correzioni.
+##### S1D1N4 · Sistemi e comunicazione — 10 ore
 
-### Riserva e quadratura
+- **5 ore** — Distinguere processo, memoria e file osservando un programma in esecuzione senza anticipare la gestione interna del sistema operativo.
+- **5 ore** — Analizzare una richiesta Web e una condivisione in rete, riconoscendo identità, autorizzazioni e dati personali.
 
-- **10 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 10 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 56 | 10 | **66 ore** |
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 56 ore di nuclei + 10 ore di verifica, restituzione e recupero = **66 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Informatica | 56 | 10 | **66 ore** |
+
+**Totale Unico: 66 ore.**
+
+**Fondamento e limite della revisione.** [DM 211/2010, allegato F, Informatica; GU pp. 339–340, PDF pp. 343–344](https://umi.dm.unibo.it/wp-content/uploads/2013/10/4_DM_211_10_GU_275_-14_12_10.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -80,3 +99,25 @@ Volume primo biennio, ISBN 9788829865178.
 - [Python Software Foundation, The Python Tutorial](https://docs.python.org/3/tutorial/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Descrivere ingressi e uscite di un problema. Passare da diagrammi a sequenza, selezione e iterazione in Python. Confrontare casi di prova ordinari e casi limite.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Precisare ingressi, risultati attesi e condizioni di validità di un problema numerico o di classificazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Descrivere una soluzione con pseudocodice e diagramma di flusso, eseguendola a mano su un esempio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scrivere programmi con numeri, stringhe, assegnamenti e conversioni; distinguere nome, espressione e valore. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Usare confronti e operatori logici per verificare intervalli e ammissibilità dei dati ricevuti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire cicli con contatore o condizione, somme progressive e conteggi, spiegando quando terminano. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Raccogliere passaggi ripetuti in funzioni con parametri e risultato, usando nomi coerenti con lo scopo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare casi ordinari, valori di confine e ingressi non validi prima dell’esecuzione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere errori sintattici, di esecuzione e logici; conservare prove e spiegazioni delle correzioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

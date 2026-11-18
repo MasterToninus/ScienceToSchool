@@ -29,40 +29,77 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per Scienze sperimentali del nuovo biennio: prima dal 2026/27, seconda dal 2027/28. Coordinare fisica, chimica, biologia e scienze della Terra; nel quadro previgente la fisica del settore era collocata nel primo anno.
 
+**Prerequisiti e progressione.** In ingresso: proporzioni, equivalenze e grafici; introdurre vettori e lettura delle pendenze quando servono. Lo scenario B è il percorso disciplinare previgente completo a livello introduttivo, con dimostrazioni guidate; le voci con 0 ore in A sono escluse dalla quota ipotetica del nuovo primo anno e richiedono una scelta collegiale di copertura nel biennio. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le ore della quota integrata sono ipotesi del progetto e non certificano il completo curricolo di Scienze sperimentali/integrate. Un solo caso operativo collega raccolta, grafici e relazione; le attività finali riutilizzano quei dati. La riserva copre prova individuale, restituzione e recupero, senza sommare un nuovo progetto.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Misure per prodotti e servizi
 
-**Subtotale del nucleo: 6 / 12 ore (A / B).**
+**Subtotale del nucleo: 6 / 6 ore (A / B).**
 
-- **4 / 7 ore.** Misurare massa, volume, lunghezza, tempo e temperatura scegliendo unità e strumenti appropriati.
-- **2 / 5 ore.** Calcolare valori medi e descrivere dispersione e risoluzione, distinguendo una misura ripetuta da dati riferiti a prodotti differenti.
+- **4 / 4 ore.** Misurare massa, volume, lunghezza, tempo e temperatura scegliendo unità e strumenti appropriati.
+- **2 / 2 ore.** Calcolare valori medi e descrivere dispersione e risoluzione, distinguendo una misura ripetuta da dati riferiti a prodotti differenti.
 
-### Densità, imballaggi e trasporto
+
+### Materiali, densità ed equilibrio
 
 **Subtotale del nucleo: 4 / 9 ore (A / B).**
 
-- **2 / 5 ore.** Confrontare densità, massa e ingombro di materiali e contenitori con tabelle e grafici.
-- **2 / 4 ore.** Individuare un criterio fisico per una scelta di imballaggio o movimentazione e dichiarare le variabili economiche ancora escluse.
+- **2 / 2 ore.** Confrontare densità, massa e ingombro di materiali e contenitori con tabelle e grafici.
+- **2 / 1 ore.** Individuare un criterio fisico per una scelta di imballaggio o movimentazione e dichiarare le variabili economiche ancora escluse.
+- **0 / 3 ore.** Solo B: rappresentare forze vettoriali, peso e reazioni; applicare equilibrio e momento a una leva, distinguendo massa inerziale e gravitazionale.
+- **0 / 3 ore.** Solo B: applicare pressione, Pascal, Stevino e Archimede in casi semplici, collegando galleggiamento e densità.
+
+
+### Moto e interazioni
+
+**Subtotale del nucleo: 0 / 8 ore (A / B).**
+
+- **0 / 4 ore.** Solo B: leggere grafici di moto uniforme/accelerato e caduta; discutere riferimenti inerziali e accelerati con un esempio di forza apparente.
+- **0 / 4 ore.** Solo B: applicare Newton, impulso e quantità di moto in un urto unidimensionale, distinguendo forze tra corpi e forze sul sistema.
+
 
 ### Calore e conservazione
 
-**Subtotale del nucleo: 6 / 11 ore (A / B).**
+**Subtotale del nucleo: 6 / 7 ore (A / B).**
 
-- **4 / 7 ore.** Distinguere temperatura e calore e riconoscere passaggi di stato in una curva sperimentale.
-- **2 / 4 ore.** Descrivere scambi termici e isolamento, collegandoli a trasporto e conservazione dei prodotti senza sostituire le competenze igienico-sanitarie.
+- **4 / 3 ore.** Distinguere temperatura e calore e riconoscere passaggi di stato in una curva sperimentale.
+- **2 / 4 ore.** Distinguere calore, energia interna e temperatura; usare un bilancio calorimetrico semplice e osservare isolamento, conduzione, convezione e irraggiamento nel confronto fra contenitori.
+
 
 ### Energia, potenza e consumi
 
-**Subtotale del nucleo: 4 / 8 ore (A / B).**
+**Subtotale del nucleo: 4 / 6 ore (A / B).**
 
-- **2 / 4 ore.** Usare joule, watt e kilowattora e calcolare l’energia di un dispositivo a partire da potenza e tempo.
-- **2 / 4 ore.** Leggere la parte fisica di una bolletta o etichetta e distinguere consumo, prezzo unitario e costo totale.
+- **2 / 3 ore.** Usare joule, watt e kilowattora; nello scenario B collegare lavoro, energia cinetica/potenziale, attrito e conservazione meccanica a un sollevamento.
+- **2 / 3 ore.** Leggere la parte fisica di una bolletta o etichetta e distinguere consumo, prezzo unitario e costo totale.
+
+
+### Elettricità e magnetismo
+
+**Subtotale del nucleo: 0 / 10 ore (A / B).**
+
+- **0 / 3 ore.** Solo B: confrontare campo gravitazionale, elettrico e magnetico; osservare elettrizzazione e distinguere carica, campo e differenza di potenziale.
+- **0 / 4 ore.** Solo B: leggere circuiti in continua, generatori e resistori in serie/parallelo; usare Ohm ed effetto Joule su un circuito simulato o già predisposto.
+- **0 / 3 ore.** Solo B: osservare interazioni magnetiche e induzione; ricostruire qualitativamente la conversione di energia in un generatore.
+
+
+### Onde, suono e luce
+
+**Subtotale del nucleo: 0 / 6 ore (A / B).**
+
+- **0 / 3 ore.** Solo B: distinguere onde trasversali/longitudinali, periodo e frequenza; interpretare intensità, altezza e timbro del suono e leggere lo spettro elettromagnetico.
+- **0 / 3 ore.** Solo B: applicare riflessione e rifrazione per costruire l’immagine di una sorgente in specchio o lente mediante raggi.
+
 
 ### Confrontare due soluzioni
 
-**Subtotale del nucleo: 7 / 14 ore (A / B).**
+**Subtotale del nucleo: 7 / 2 ore (A / B).**
 
-- **4 / 7 ore.** Progettare una prova con condizioni omogenee per due contenitori o modalità di utilizzo.
-- **3 / 7 ore.** Presentare dati, grafico e limite del confronto; coordinare materiali, risorse e impatti con le altre componenti delle Scienze sperimentali.
+- **4 / 1 ore.** Progettare una prova con condizioni omogenee per due contenitori o modalità d’uso; in B usare il protocollo e i dati già raccolti nel nucleo termico.
+- **3 / 1 ore.** Presentare grafico e limite del confronto; coordinare materiali, risorse e impatti con le altre scienze. In B completare una scheda breve, non una seconda ricerca.
 
 ### Riserva per consolidamento e valutazione
 
@@ -86,6 +123,7 @@ G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli.
 
 ## Fonti consultate per questa proposta
 
+- [MIUR — Direttiva 57/2010, allegato A.1, Scienze integrate (Fisica)](https://leg16.camera.it/temiap/temi16/MIUR_dir15072010n57.pdf) — Confronto della copertura per la coorte previgente; pp. 46–47 del documento.
 - [MIM — Primi orientamenti per la progettazione curricolare degli istituti tecnici, 2026](https://www.buccarimarconi.edu.it/wp-content/uploads/2026/09/ORIENTAMENTI-ISTITUTI-TECNICI-2026.pdf) — Parte III: progettazione del biennio.
 - [MIM / USR Friuli Venezia Giulia — D.M. 71/2026, allegato 1 AFM](https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/allegati-direzione/allegati-direzione-2026/All.-1-ECONOMICO-AMMINISTRAZIONE-FINANZA-MARKETING-signed.pdf) — Scienze sperimentali nel quadro AFM.
 - [ENEA — La scienza della bolletta, 2026](https://www.efficienzaenergetica.enea.it/component/jdownloads/?Itemid=101&catid=9&id=788&task=download.send) — Energia, potenza e lettura dei consumi.

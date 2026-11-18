@@ -39,3 +39,5 @@ Il [catalogo della ricerca di fisica](../../docs/ricerca-ai/fonti-programmi/fisi
 ## Carico didattico e tempi delle proposte
 
 Il [rapporto sui carichi didattici di fisica](../../docs/ricerca-ai/carico-didattico-fisica.md) documenta ore nazionali, coorti e limiti per tutte le 51 schede. Ogni punto sostantivo ha un tempo Tentative IA; i subtotali includono una riserva esplicita e sono verificati rispetto al budget dichiarato. Quote di Fisica dentro Scienze integrate o sperimentali e ripartizioni biennali restano scenari da concordare nel curricolo d’istituto.
+
+La [revisione critica dei 51 programmi](../../docs/ricerca-ai/revisione-critica-fisica.md) confronta copertura curricolare, prerequisiti e plausibilità dei tempi. Documenta le correzioni e le differenze tra scenari, distinguendo la verifica delle somme dalla necessaria validazione docente.

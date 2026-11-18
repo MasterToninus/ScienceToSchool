@@ -20,49 +20,62 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Misura e proporzione nel lavoro.** Riferimento per l’asse matematico e i compiti trasversali del percorso professionale. Consultare [DI 92/2018, allegato 1](https://www.istruzioneer.gov.it/wp-content/uploads/2019/02/d_intermin_92.pdf). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Calcolo con interi, frazioni, unità e lettura di semplici grafici: rilevarli in ingresso prima del calcolo letterale. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **132 ore** (ipotesi annuale 132 + 132 nel biennio). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Numeri, calcolo e stime
+### Numeri, algoritmi e stime
 
-**Subtotale: 19 h.**
+**Subtotale: 16 h.**
 
-- **6 h** — Confrontare interi, frazioni e decimali sulla retta; motivare proprietà delle operazioni e ordine di esecuzione.
-- **7 h** — Usare potenze, notazione scientifica e arrotondamenti; distinguere risultato esatto e approssimazione.
-- **6 h** — Risolvere un problema con unità e ordine di grandezza espliciti, controllando il calcolo anche con una stima.
+- **6 h** — Operare con interi e razionali, frazioni e decimali; usare proprietà e precedenze per controllare una stima.
+- **4 h** — Usare divisibilità, fattori primi e algoritmo euclideo del MCD; seguire i passi e spiegare perché il procedimento termina.
+- **6 h** — Usare potenze e notazione scientifica, conversioni, arrotondamenti e ordine di grandezza; distinguere errore assoluto e relativo in esempi semplici.
 
-### Rapporti, percentuali e misure
+### Rapporti e percentuali
 
-**Subtotale: 15 h.**
+**Subtotale: 10 h.**
 
-- **5 h** — Passare fra frazione, rapporto, decimale e percentuale; riconoscere quale quantità costituisce la base.
-- **6 h** — Confrontare variazioni successive e variazioni inverse: due aumenti percentuali non si sommano automaticamente.
-- **4 h** — Convertire unità, leggere una scala e costruire una tabella che conservi le grandezze e la loro dimensione.
+- **5 h** — Tradurre rapporti, scale e percentuali in quantità e unità coerenti; identificare la base del confronto.
+- **5 h** — Confrontare variazioni successive, sconti e proporzionalità diretta o inversa mediante tabelle e un problema concreto.
 
-### Linguaggio algebrico e modelli lineari
+### Dal calcolo letterale ai modelli lineari
 
-**Subtotale: 32 h.**
+**Subtotale: 40 h.**
 
-- **10 h** — Tradurre un testo in espressioni con variabili; operare con monomi e polinomi, prodotti notevoli e semplici scomposizioni.
-- **13 h** — Risolvere equazioni e disequazioni di primo grado, esplicitando condizioni di esistenza e insieme delle soluzioni.
-- **9 h** — Verificare la soluzione per sostituzione e discutere se è ammissibile nel problema iniziale.
+- **5 h** — Usare lettere, insiemi e intervalli; tradurre una condizione in un’espressione e riconoscere identità ed equazione.
+- **10 h** — Operare con monomi e polinomi; costruire e riconoscere prodotti notevoli con esempi geometrici.
+- **10 h** — Scomporre per raccoglimento e prodotti notevoli; semplificare frazioni algebriche semplici dichiarando i denominatori non nulli.
+- **9 h** — Risolvere equazioni e disequazioni di primo grado, anche con denominatori numerici o un semplice denominatore letterale; verificare le soluzioni nel contesto.
+- **6 h** — Leggere punti e rette nel piano, pendenza e intercetta; tradurre una tariffa o un moto uniforme in tabella, grafico e formula.
 
 ### Geometria per un prodotto o uno spazio
 
-**Subtotale: 26 h.**
+**Subtotale: 24 h.**
 
-- **8 h** — Leggere quote e scale in un disegno e ricavare perimetri, aree e volumi con unità coerenti.
-- **10 h** — Usare proporzioni, similitudine e Pitagora per ricavare una dimensione mancante.
-- **8 h** — Calcolare fabbisogno di materiale e scarto in un esempio scelto con il laboratorio di indirizzo, motivando gli arrotondamenti.
+- **8 h** — Studiare rette, triangoli, quadrilateri e circonferenza con proprietà, costruzioni e misure; motivare una relazione geometrica.
+- **8 h** — Usare Pitagora, teoremi di Euclide, similitudine e isometrie per ricavare una quota; controllare scale di lunghezze e aree.
+- **8 h** — Calcolare superfici, volumi, materiale e scarto in un esempio concordato con il laboratorio; esplicitare arrotondamenti e vincoli.
 
-### Raccogliere e descrivere dati
+### Descrivere dati e variabilità
 
-**Subtotale: 14 h.**
+**Subtotale: 8 h.**
 
-- **4 h** — Definire popolazione, carattere e unità statistica; costruire tabelle di frequenza e grafici con scale leggibili.
-- **6 h** — Confrontare media, mediana, moda e campo di variazione; riconoscere l'effetto dei valori estremi.
-- **4 h** — Preparare un piccolo dataset anonimo o simulato, documentare fonte e unità e spiegare quale domanda consente di affrontare.
+- **4 h** — Raccogliere un piccolo dataset anonimo o simulato, indicare fonte, carattere e unità; costruire frequenze e grafici adeguati.
+- **4 h** — Confrontare media, mediana, moda e dispersione; introdurre varianza e deviazione standard con calcolo assistito e interpretazione delle unità.
+
+### Informatica integrata e rappresentazione dei dati
+
+**Subtotale: 8 h.**
+
+- **3 h** — Rappresentare dati numerici, testuali e immagini con esempi di codifica; distinguere informazione e rappresentazione.
+- **5 h** — Scrivere e provare un algoritmo con sequenza, condizioni e ripetizioni; confrontare esecuzione manuale e foglio di calcolo o ambiente didattico.
 
 ### Declinazione per il percorso
 
@@ -72,10 +85,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **13 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **13 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 26 h.**
 
-**Totale del piano: 132 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **13 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **13 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 132 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

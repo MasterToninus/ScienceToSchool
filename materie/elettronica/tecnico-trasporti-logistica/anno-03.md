@@ -30,9 +30,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Quadro ordinario previgente nel 2026/27: Elettrotecnica, elettronica e automazione, 99 ore; scegliere gli esempi relativi al mezzo della classe.
+- **Quadro ordinario previgente: 99 ore**: 99 = **99 ore**; Elettrotecnica, elettronica e automazione 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Elettrotecnica, elettronica e automazione nei Trasporti e logistica](README.md)
 
@@ -40,38 +42,59 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Analizzare lo schema di una rete di bordo, localizzando sorgenti, carichi e strumenti. Confrontare correnti continua e alternata rispetto alle utenze. Identificare misura nominale e tolleranza.
+**Prerequisiti e avvio.** Fisica elettrica, algebra e unità del biennio da verificare con un circuito guidato.
 
-### Rete di bordo — 18 ore
+**Raccordo e progressione.** Scegliere nel README Costruzione, Conduzione o Logistica e un solo mezzo pertinente. Il ramo CAIM/CAIE con ore aggiuntive e i futuri quadri DM 29 richiedono piano specifico; le 99 ore qui non ne certificano la completezza.
 
-- **10 ore** — Distinguere sorgenti, distribuzione, carichi e strumenti in uno schema semplificato di bordo.
-- **8 ore** — Confrontare corrente continua e alternata, valori nominali e condizioni effettive di un modello.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Quadro ordinario previgente: 99 ore
 
-### Circuiti e consumi — 22 ore
+#### S1D1 · Elettrotecnica, elettronica e automazione — 99 ore
 
-- **12 ore** — Applicare leggi circuitali a carichi semplici e calcolare potenza ed energia su un profilo di utilizzo.
-- **10 ore** — Confrontare carichi simultanei e alternati, esplicitando le ipotesi del bilancio elettrico.
+##### S1D1N1 · Circuiti e impianto — 22 ore
 
+- **8 ore** — Leggere sorgenti, distribuzione, carichi e strumenti di una rete di bordo.
+- **8 ore** — Risolvere reti continue e calcolare potenza ed energia.
+- **6 ore** — Confrontare dati nominali e condizioni del modello.
 
-### Misure e macchine — 22 ore
+##### S1D1N2 · Alternata e macchine — 22 ore
 
-- **12 ore** — Riconoscere funzioni di motori, generatori e trasformatori negli impianti del mezzo considerato.
-- **10 ore** — Preparare misure virtuali con unità, strumenti e punti di osservazione identificati sullo schema.
+- **8 ore** — Descrivere grandezze sinusoidali e impedenze su casi guidati.
+- **8 ore** — Collegare induzione, trasformatore, generatore e motore.
+- **6 ore** — Confrontare carichi, rendimenti e bilancio di potenza.
 
+##### S1D1N3 · Misura e protezione — 22 ore
 
-### Varianti e documentazione — 22 ore
+- **8 ore** — Scegliere strumenti e punti di misura sullo schema.
+- **8 ore** — Riconoscere protezioni e condizioni di esercizio nei documenti.
+- **6 ore** — Registrare dati e incertezza e interpretare anomalie.
 
-- **12 ore** — Adattare esempi a contesto navale, aeronautico o terrestre indicato dal percorso, senza sovrapporre impianti differenti.
-- **10 ore** — Produrre relazione e schema annotato distinguendo conoscenza didattica e procedure operative del mezzo.
+##### S1D1N4 · Applicazione di articolazione — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Analizzare una rete pertinente al mezzo o all’infrastruttura logistica.
+- **6 ore** — Simulare configurazioni di carico e verificare limiti.
+- **6 ore** — Consegnare schema annotato e relazione con fonti e ipotesi.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Quadro ordinario previgente: 99 ore | Elettrotecnica, elettronica e automazione | 86 | 13 | **99 ore** |
+
+**Totale Quadro ordinario previgente: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C2 Trasporti e logistica, pp. 3–4, 15–16, 32–33](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C2_Trasporti_Logistica.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -93,3 +116,25 @@ Modulo Principi di elettrotecnica.
 - [OpenStax, University Physics Volume 2 – 10.3 Kirchhoff’s Rules](https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Analizzare lo schema di una rete di bordo, localizzando sorgenti, carichi e strumenti. Confrontare correnti continua e alternata rispetto alle utenze. Identificare misura nominale e tolleranza.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Distinguere sorgenti, distribuzione, carichi e strumenti in uno schema semplificato di bordo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare corrente continua e alternata, valori nominali e condizioni effettive di un modello. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Applicare leggi circuitali a carichi semplici e calcolare potenza ed energia su un profilo di utilizzo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare carichi simultanei e alternati, esplicitando le ipotesi del bilancio elettrico. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Riconoscere funzioni di motori, generatori e trasformatori negli impianti del mezzo considerato. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare misure virtuali con unità, strumenti e punti di osservazione identificati sullo schema. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Adattare esempi a contesto navale, aeronautico o terrestre indicato dal percorso, senza sovrapporre impianti differenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Produrre relazione e schema annotato distinguendo conoscenza didattica e procedure operative del mezzo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

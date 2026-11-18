@@ -1,5 +1,7 @@
 # Fonti della ricerca autonoma — Matematica
 
+**Aggiornamento della revisione critica, 18/11/2026:** [fonti nuovamente esaminate, recuperi e correzioni](../revisione-critica-matematica.md). I limiti di accesso descritti nella ricognizione sottostante vanno letti insieme agli esiti successivi di questo rapporto; non implicano che un documento recuperato in seguito sia ancora non consultato.
+
 La ricerca è stata condotta autonomamente dall’IA il **18 novembre 2026**, procedendo dalle fonti normative alle programmazioni scolastiche e alle risorse didattiche. Questa è una bibliografia ragionata dei risultati, non un secondo registro di attività. [Attività di ricerca AI-0014](../../interazioni-ai/registro.md#ai-0014) · [Progettazione AI-0003](../../interazioni-ai/registro.md#ai-0003) · [Indice generale delle fonti](README.md).
 
 Le fonti delimitano gli obiettivi, offrono esempi o suggeriscono materiali; la selezione dei nuclei, gli esempi e la distribuzione per anno sono proposte dell’IA. Una programmazione scolastica documenta una scelta locale. Una scheda editoriale non equivale alla lettura del libro. «Consultato» indica la parte accessibile effettivamente esaminata, non una revisione integrale di ogni allegato.

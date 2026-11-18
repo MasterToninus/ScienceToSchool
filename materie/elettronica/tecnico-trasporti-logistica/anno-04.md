@@ -30,9 +30,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Quadro ordinario previgente nel 2026/27: Elettrotecnica, elettronica e automazione, 99 ore; scegliere gli esempi relativi al mezzo della classe.
+- **Quadro ordinario previgente: 99 ore**: 99 = **99 ore**; Elettrotecnica, elettronica e automazione 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Elettrotecnica, elettronica e automazione nei Trasporti e logistica](README.md)
 
@@ -40,38 +42,59 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Interpretare segnali di sensori e strumenti, amplificazione, disturbi e conversione. Scegliere il contesto navale, aeronautico o terrestre dell’articolazione. Collegare letture strumentali, schemi e procedure di prova.
+**Prerequisiti e avvio.** Dalla terza: reti continue/alternate, macchine, strumenti e schemi di impianto. Elettronica e conversione vengono introdotte prima della catena di acquisizione.
 
-### Catene di acquisizione — 18 ore
+**Raccordo e progressione.** Scegliere nel README Costruzione, Conduzione o Logistica e un solo mezzo pertinente. Il ramo CAIM/CAIE con ore aggiuntive e i futuri quadri DM 29 richiedono piano specifico; le 99 ore qui non ne certificano la completezza.
 
-- **10 ore** — Descrivere sensore, condizionamento, conversione e indicazione di una misura di bordo.
-- **8 ore** — Distinguere grandezza fisica, segnale elettrico e informazione mostrata all’operatore.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Quadro ordinario previgente: 99 ore
 
-### Elettronica dei segnali — 22 ore
+#### S1D1 · Elettrotecnica, elettronica e automazione — 99 ore
 
-- **12 ore** — Analizzare amplificazione, filtraggio e rumore attraverso semplici schemi e simulazioni.
-- **10 ore** — Confrontare campionamento e quantizzazione e riconoscere limiti di banda e saturazione.
+##### S1D1N1 · Elettronica di bordo — 22 ore
 
+- **8 ore** — Analizzare diodi, transistor e operazionali in circuiti elementari.
+- **8 ore** — Condizionare un segnale con amplificazione e filtraggio.
+- **6 ore** — Confrontare rumore, saturazione e banda.
 
-### Comunicazioni e varianti — 22 ore
+##### S1D1N2 · Acquisizione e digitale — 22 ore
 
-- **12 ore** — Rappresentare trasmissione di una misura fra apparati, distinguendo mezzo, formato e servizio.
-- **10 ore** — Adattare il caso a impianti navali, aeronautici o terrestri pertinenti all’articolazione frequentata.
+- **8 ore** — Interpretare caratteristica e risoluzione di un sensore.
+- **8 ore** — Analizzare campionamento, ADC e rappresentazione dei dati.
+- **6 ore** — Riconoscere logica digitale, bus e scambio fra apparati.
 
+##### S1D1N3 · Comunicazione e impianti — 22 ore
 
-### Controllo documentato — 22 ore
+- **8 ore** — Descrivere segnali, modulazione e mezzi trasmissivi.
+- **8 ore** — Collegare comunicazione e sistemi di condotta o gestione del mezzo.
+- **6 ore** — Consolidare macchine, distribuzione e protezioni in un caso applicato.
 
-- **12 ore** — Confrontare due strumenti virtuali o due catene di misura a parità di ingresso.
-- **10 ore** — Preparare una procedura didattica con condizioni, risultati attesi e anomalie, usando la documentazione del caso.
+##### S1D1N4 · Prova di sistema — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Integrare sensore, interfaccia e indicazione e confrontare due soluzioni.
+- **6 ore** — Eseguire prove con condizioni iniziali e anomalie definite.
+- **6 ore** — Documentare scelta del contesto, risultati e limiti.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Quadro ordinario previgente: 99 ore | Elettrotecnica, elettronica e automazione | 86 | 13 | **99 ore** |
+
+**Totale Quadro ordinario previgente: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C2 Trasporti e logistica, pp. 3–4, 15–16, 32–33](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C2_Trasporti_Logistica.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -94,3 +117,25 @@ Modulo Elettronica e telecomunicazioni. Selezionare i casi pertinenti al mezzo.
 - [Arduino, esempio ufficiale AnalogReadSerial – codice sorgente](https://github.com/arduino/arduino-examples/blob/main/examples/01.Basics/AnalogReadSerial/AnalogReadSerial.ino).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Interpretare segnali di sensori e strumenti, amplificazione, disturbi e conversione. Scegliere il contesto navale, aeronautico o terrestre dell’articolazione. Collegare letture strumentali, schemi e procedure di prova.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Descrivere sensore, condizionamento, conversione e indicazione di una misura di bordo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere grandezza fisica, segnale elettrico e informazione mostrata all’operatore. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Analizzare amplificazione, filtraggio e rumore attraverso semplici schemi e simulazioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare campionamento e quantizzazione e riconoscere limiti di banda e saturazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rappresentare trasmissione di una misura fra apparati, distinguendo mezzo, formato e servizio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Adattare il caso a impianti navali, aeronautici o terrestri pertinenti all’articolazione frequentata. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare due strumenti virtuali o due catene di misura a parità di ingresso. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare una procedura didattica con condizioni, risultati attesi e anomalie, usando la documentazione del caso. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

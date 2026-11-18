@@ -35,12 +35,19 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per la componente fisica delle Scienze integrate: selezionare le unità in base all’indirizzo, al progetto formativo e alla distribuzione locale del biennio; non si presume un monte ore separato uniforme.
 
+**Prerequisiti e progressione.** Dalla prima: misure, massa/peso, temperatura e grafici. Lavoro ed energia sono introdotti su un solo processo; le grandezze elettriche sono lette su schema guidato. Il progetto di settore usa un solo sensore o un solo insieme di consumi, senza richiedere autonomia nella progettazione elettronica. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Le ore della quota integrata sono ipotesi del progetto e non certificano il completo curricolo di Scienze sperimentali/integrate. Un solo caso operativo collega raccolta, grafici e relazione; le attività finali riutilizzano quei dati. La riserva copre prova individuale, restituzione e recupero, senza sommare un nuovo progetto.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Moto e lavoro in un processo
 
 **Subtotale del nucleo: 4 ore.**
 
 - **2 ore.** Descrivere spostamenti, tempi e velocità di una lavorazione o movimentazione; distinguere moto uniforme e variazioni di velocità.
 - **2 ore.** Collegare forza, spostamento e lavoro in una macchina semplice e riconoscere il ruolo dell’attrito.
+
 
 ### Energia, potenza e rendimento
 
@@ -49,6 +56,7 @@ Proposta per la componente fisica delle Scienze integrate: selezionare le unità
 - **4 ore.** Costruire un bilancio tra energia in ingresso, effetto utile e dispersioni; usare joule, watt e kilowattora correttamente.
 - **2 ore.** Confrontare tempi di funzionamento e rendimento di due dispositivi, senza dedurre il consumo dalla sola potenza nominale.
 
+
 ### Scambi termici e controllo
 
 **Subtotale del nucleo: 4 ore.**
@@ -56,19 +64,22 @@ Proposta per la componente fisica delle Scienze integrate: selezionare le unità
 - **2 ore.** Seguire un ciclo di riscaldamento o raffreddamento mediante un grafico temperatura-tempo.
 - **2 ore.** Individuare perdite e variabili da controllare, proponendo una modifica verificabile al processo e un confronto prima-dopo.
 
+
 ### Misure elettriche di base
 
 **Subtotale del nucleo: 4 ore.**
 
-- **2 ore.** Distinguere tensione, corrente, resistenza e potenza in uno schema semplice a bassissima tensione o in simulazione.
+- **2 ore.** Distinguere tensione, corrente, resistenza e potenza in uno schema già predisposto a bassissima tensione o in simulazione; leggere Ohm su valori guidati, senza progettare una rete.
 - **2 ore.** Leggere una targa o una scheda tecnica e collegare un consumo stimato al tempo effettivo d’uso.
+
 
 ### Un sensore nel settore professionale
 
 **Subtotale del nucleo: 5 ore.**
 
-- **2 ore.** Scegliere, in accordo con il laboratorio, una misura elettrica, ottica o acustica utile al processo studiato.
+- **2 ore.** Scegliere un sensore elettrico, ottico oppure acustico già disponibile e richiamare il fenomeno fisico che misura; le alternative non sono tre esperienze obbligatorie.
 - **3 ore.** Collegare grandezza fisica, segnale e indicazione dello strumento, valutando campo di misura, taratura e ripetibilità.
+
 
 ### Relazione di processo
 

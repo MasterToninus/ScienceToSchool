@@ -29,47 +29,77 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Per la nuova prima dal 2026/27 e la nuova seconda dal 2027/28, queste unità formano una componente delle Scienze sperimentali. L’esempio scolastico del 2020/21 serve al confronto con il quadro previgente.
 
-### Cinematica e lettura dei grafici
+**Prerequisiti e progressione.** Dalla prima del percorso: grafici del moto, Newton, energia, pressione e termologia. Verificarli prima di urti e rotazione; se mancanti, rimodulare con il consiglio di classe invece di comprimere l’intero biennio in seconda. Sinusoidi e circuiti RC sono letti graficamente; fasori e analisi differenziale non sono prerequisiti. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
 
-**Subtotale del nucleo: 8 / 12 ore (A / B).**
+**Uso dei tempi e delle attività.** Le ore della quota integrata sono ipotesi del progetto e non certificano il completo curricolo di Scienze sperimentali/integrate. Un solo caso operativo collega raccolta, grafici e relazione; le attività finali riutilizzano quei dati. La riserva copre prova individuale, restituzione e recupero, senza sommare un nuovo progetto.
 
-- **4 / 6 ore.** Ricavare velocità e accelerazione da posizioni e tempi, distinguendo traiettoria e grafici temporali.
-- **4 / 6 ore.** Confrontare modelli di moto uniforme e accelerato con una misura o un video, segnalando risoluzione spaziale e temporale.
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
 
-### Forze ed energia nei processi
+### Bilanci meccanici e urti
 
-**Subtotale del nucleo: 11 / 16 ore (A / B).**
+**Subtotale del nucleo: 10 / 14 ore (A / B).**
 
-- **4 / 6 ore.** Applicare i principi della dinamica a un sistema semplice, includendo attrito e vincoli.
-- **7 / 10 ore.** Costruire un bilancio di lavoro, energia e potenza per un trasporto o una lavorazione; distinguere rendimento e consumo totale.
+- **4 / 6 ore.** Riprendere cinematica e Newton attraverso una misura o un video: velocità e accelerazione, attrito e controllo del sistema di riferimento.
+- **3 / 4 ore.** Usare lavoro, potenza e conservazione energetica in un processo; confrontare rendimento e consumo.
+- **3 / 4 ore.** Definire impulso e quantità di moto e verificare un urto unidimensionale con dati forniti, distinguendo energia e quantità di moto conservate.
 
-### Circuiti e trasformazioni elettriche
 
-**Subtotale del nucleo: 11 / 16 ore (A / B).**
+### Rotazione e momento angolare
 
-- **7 / 10 ore.** Interpretare tensione, corrente e resistenza e risolvere reti semplici in continua.
-- **4 / 6 ore.** Confrontare valori misurati e nominali, potenza dissipata e energia nel tempo; le prove pratiche usano bassissima tensione.
+**Subtotale del nucleo: 4 / 7 ore (A / B).**
 
-### Onde, suono e luce
+- **2 / 3 ore.** Collegare momento, accelerazione angolare e momento d’inerzia fornito per un corpo con asse fisso.
+- **2 / 4 ore.** Interpretare conservazione del momento angolare e variazione della velocità di rotazione in un modello semplice; evitare dinamica tridimensionale generale.
 
-**Subtotale del nucleo: 8 / 12 ore (A / B).**
 
-- **4 / 6 ore.** Descrivere frequenza, ampiezza, lunghezza d’onda e propagazione e riconoscere riflessione e interferenza.
-- **4 / 6 ore.** Scegliere un’applicazione acustica o ottica d’indirizzo, distinguendo grandezza fisica, segnale e lettura dello strumento.
+### Campo elettrico e circuiti
+
+**Subtotale del nucleo: 8 / 14 ore (A / B).**
+
+- **2 / 3 ore.** Distinguere carica, campo, potenziale e corrente; confrontare interazione elettrica e gravitazionale.
+- **4 / 7 ore.** Risolvere serie/parallelo, usare Ohm, energia e potenza e misurare un circuito a bassissima tensione, documentando valori nominali e scarti.
+- **2 / 4 ore.** Descrivere capacità ed energia di un condensatore e la risposta qualitativa in continua e alternata; leggere una curva RC senza risolvere equazioni differenziali.
+
+
+### Magnetismo, induzione e onde elettromagnetiche
+
+**Subtotale del nucleo: 8 / 14 ore (A / B).**
+
+- **3 / 5 ore.** Confrontare magneti e campi prodotti da correnti; applicare la forza di Lorentz a cariche in configurazioni semplici.
+- **3 / 5 ore.** Interpretare induzione, autoinduzione e conversione in alternatore/trasformatore; distinguere un segnale alternato da uno continuo.
+- **2 / 4 ore.** Leggere lo spettro elettromagnetico e confrontare interazioni con materiali e tessuti a livello fisico, distinguendo frequenza, intensità ed esposizione.
+
+
+### Onde meccaniche e suono
+
+**Subtotale del nucleo: 6 / 8 ore (A / B).**
+
+- **3 / 4 ore.** Descrivere oscillazione armonica, onde trasversali e longitudinali, velocità e frequenza; leggere fase e sovrapposizione da grafici.
+- **3 / 4 ore.** Interpretare risonanza, intensità, altezza e timbro in una dimostrazione acustica e controllare la risposta del microfono.
+
+
+### Riflessione, rifrazione e immagini
+
+**Subtotale del nucleo: 6 / 8 ore (A / B).**
+
+- **3 / 4 ore.** Applicare riflessione e rifrazione a raggi, specchi e lenti; distinguere immagine reale e virtuale.
+- **3 / 4 ore.** Confrontare una costruzione geometrica con uno schermo o un dato simulato; l’applicazione ottica d’indirizzo riutilizza questa prova.
+
 
 ### Sensori e acquisizione dei dati
 
-**Subtotale del nucleo: 12 / 19 ore (A / B).**
+**Subtotale del nucleo: 6 / 8 ore (A / B).**
 
-- **6 / 10 ore.** Costruire o leggere una curva di taratura e identificare campo utile, rumore e tempo di risposta.
-- **6 / 9 ore.** Acquisire una serie temporale e confrontarla con un modello; coordinare trattamento dei dati e rappresentazioni con informatica e matematica.
+- **3 / 4 ore.** Leggere una curva di taratura e identificare campo utile, rumore, saturazione e tempo di risposta.
+- **3 / 4 ore.** Acquisire una serie temporale elettrica, termica oppure ottica e confrontarla con il modello già studiato; scegliere un solo progetto con informatica/matematica.
 
-### Raccordo con la coorte e l’indirizzo
 
-**Subtotale del nucleo: 4 / 6 ore (A / B).**
+### Gas, cicli e trasformazioni dell’energia
 
-- **4 / 6 ore.** Completare termologia o ottica secondo i contenuti già svolti e l’articolazione, evitando duplicazioni con gli Elementi di base.
-- **Criterio trasversale, senza ore aggiuntive.** Per la seconda 2026/27 raccordare la proposta al quadro previgente; per la seconda dal 2027/28 progettare l’unità nelle Scienze sperimentali del nuovo ordinamento.
+**Subtotale del nucleo: 6 / 8 ore (A / B).**
+
+- **3 / 4 ore.** Raccordare la calorimetria della prima a gas ideale e primo principio, con convenzione dei segni e diagramma p-V elementare.
+- **3 / 4 ore.** Interpretare un ciclo di motore termico, rendimento e secondo principio; confrontare una catena di trasformazioni nel settore d’indirizzo.
 
 ### Riserva per consolidamento e valutazione
 
@@ -93,6 +123,7 @@ G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli.
 
 ## Fonti consultate per questa proposta
 
+- [MIUR — Direttiva 57/2010, allegato A.2, Scienze integrate (Fisica)](https://leg16.camera.it/temiap/temi16/MIUR_dir15072010n57.pdf) — Confronto della copertura biennale previgente; pp. 66–67 del documento.
 - [MIM — Primi orientamenti per la progettazione curricolare degli istituti tecnici, 2026](https://www.buccarimarconi.edu.it/wp-content/uploads/2026/09/ORIENTAMENTI-ISTITUTI-TECNICI-2026.pdf) — Parte III: progettazione del biennio.
 - [MIM — D.M. 71 del 29 aprile 2026](https://www.ufficioscolasticoregionalelazio.it/wp-content/uploads/2026/06/m_pi.AOOGABMI.Registro-DecretiR.0000071.29-04-2026.pdf) — Testo del decreto e allegati.
 - [IIS Giorgi-Woolf, Roma — Curricolo di Fisica del tecnico, a.s. 2020/21](https://www.iisgiorgiwoolf.edu.it/gw/wp-content/uploads/2023/12/curricolo-fisica-tecnico.pdf) — Confronto con il biennio previgente.

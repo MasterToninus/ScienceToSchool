@@ -21,9 +21,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Progettazione multimediale, quadro previgente nel 2026/27: 99 ore.
+- **Unico**: 99 = **99 ore**; Progettazione multimediale 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Tecnologie digitali e progettazione multimediale nel tecnico di Grafica e comunicazione](README.md)
 
@@ -31,38 +33,59 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Passare da uno storyboard a un prototipo web o audiovisivo. Scegliere rapporto d’aspetto, formato e tempi di lettura, documentando le scelte.
+**Prerequisiti e avvio.** Dalla terza: griglia, colore, tipografia, trattamento immagini e brief. Storyboard e animazione precedono la sintesi multicanale.
 
-### Progettazione multicanale — 18 ore
+**Raccordo e progressione.** Il Web è un mezzo fra stampa, audiovisivo e 3D. In quarta e quinta si riutilizzano tipografia e metodo progettuale, senza ripartire da zero.
 
-- **10 ore** — Adattare il messaggio a web, immagine e audiovisivo considerando contesto e tempi di fruizione.
-- **8 ore** — Preparare una matrice che distingua contenuti comuni e adattamenti per ciascun supporto.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Unico
 
-### Storyboard e interazione — 22 ore
+#### S1D1 · Progettazione multimediale — 99 ore
 
-- **12 ore** — Progettare sequenze, transizioni e navigazione con un prototipo a bassa fedeltà.
-- **10 ore** — Verificare la comprensione del messaggio prima dell’aggiunta di effetti e animazioni.
+##### S1D1N1 · Identità e comunicazione — 22 ore
 
+- **8 ore** — Analizzare identità visiva e coerenza fra prodotti di una comunicazione.
+- **8 ore** — Progettare griglia, tipografia e colore per un sistema coordinato.
+- **6 ore** — Verificare il progetto rispetto a pubblico e canale.
 
-### Produzione tecnica — 22 ore
+##### S1D1N2 · Prodotti editoriali e digitali — 22 ore
 
-- **12 ore** — Scegliere proporzioni, formati e compressione documentando prove di esportazione.
-- **10 ore** — Organizzare componenti e versioni; nella variante web separare struttura, presentazione e risorse.
+- **8 ore** — Impaginare un prodotto multipagina e preparare file di consegna.
+- **8 ore** — Progettare interfaccia e navigazione di un sito o ipermedia.
+- **6 ore** — Verificare leggibilità e accessibilità iniziale con prove guidate.
 
+##### S1D1N3 · Audiovisivo e animazione — 22 ore
 
-### Valutazione — 22 ore
+- **8 ore** — Sviluppare storyboard, ritmo e montaggio di una sequenza.
+- **8 ore** — Applicare animazione e compositing elementari.
+- **6 ore** — Modellare e visualizzare una scena 3D semplice senza trasformarla in un corso specialistico.
 
-- **12 ore** — Controllare collegamenti, leggibilità, alternative testuali e sottotitoli pertinenti.
-- **10 ore** — Rivedere il prototipo dopo osservazioni di utenti simulati, distinguendo preferenze e problemi riscontrabili.
+##### S1D1N4 · Progetto multicanale — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Adattare un messaggio a stampa, video e Web con risorse comuni.
+- **6 ore** — Valutare qualità tecnica e risposta al brief.
+- **6 ore** — Documentare lavorazioni, risorse autorizzate e revisioni.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Unico | Progettazione multimediale | 86 | 13 | **99 ore** |
+
+**Totale Unico: 99 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C5 Grafica e comunicazione, Progettazione multimediale](https://www.gazzettaufficiale.it/eli/gu/2012/03/30/76/so/60/sg/pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -85,3 +108,25 @@ Volume secondo biennio, ISBN 9788808920331.
 - [W3C WAI, Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Passare da uno storyboard a un prototipo web o audiovisivo. Scegliere rapporto d’aspetto, formato e tempi di lettura, documentando le scelte.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Adattare il messaggio a web, immagine e audiovisivo considerando contesto e tempi di fruizione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Preparare una matrice che distingua contenuti comuni e adattamenti per ciascun supporto. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Progettare sequenze, transizioni e navigazione con un prototipo a bassa fedeltà. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Verificare la comprensione del messaggio prima dell’aggiunta di effetti e animazioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Scegliere proporzioni, formati e compressione documentando prove di esportazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Organizzare componenti e versioni; nella variante web separare struttura, presentazione e risorse. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Controllare collegamenti, leggibilità, alternative testuali e sottotitoli pertinenti. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rivedere il prototipo dopo osservazioni di utenti simulati, distinguendo preferenze e problemi riscontrabili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

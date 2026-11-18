@@ -29,42 +29,83 @@ Il nuovo piano prevede il Laboratorio di tecniche creative per il tessile/moda. 
 
 Nella seconda 2026/27 il piano precedente prevede Scienze e tecnologie applicate. [DM 259/2017, tabella A](https://www.unife.it/it/corsi/formazione-insegnanti/30-e-60-cfu/documenti-60-30-cfu_2025/dm-259_17_tabella-a.pdf).
 
+
+## Prerequisiti e progressione
+
+Campionario, struttura e rappresentazione del I; per la coorte previgente recuperare eventuali differenze del primo anno.
+
+**Esito atteso a fine anno:** Leggere armature e moduli, collegandoli a proprietà, colore e consumo di un semplice campione.
+
+Raccordo: [scheda dell’anno precedente](anno-01.md). Il richiamo riguarda le competenze: la coorte e l’ordinamento applicabili restano quelli della tabella del carico, non si deducono dalla numerazione dei file.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 99 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 99 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Intreccio e maglia — 12 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze e tecnologie applicate | 84 | 15 | 99 |
 
-- **5 ore** — Confrontare strutture ortogonali e a maglia attraverso campioni o modelli di carta.
-- **7 ore** — Descrivere come la struttura contribuisce al comportamento del materiale senza confonderla con la fibra.
+### D1 · Scienze e tecnologie applicate — 99 ore
 
-### Modulo e rapporto — 15 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **7 ore** — Progettare un motivo riconoscibile individuando dimensioni e bordi del modulo.
-- **8 ore** — Controllare la continuità della ripetizione lungo due direzioni.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Colore e disposizione — 15 ore
+#### D1.1 · Filiera e materiali — 18 ore
 
-- **7 ore** — Confrontare varianti cromatiche dello stesso motivo mantenendo costante la struttura.
-- **8 ore** — Valutare ritmo e leggibilità alla scala d'uso, motivando la scelta finale.
+- **4 ore** — Riconoscere fibre e filati da schede documentate.
+- **4 ore** — Confrontare proprietà e destinazioni d’uso.
+- **6 ore** — Distinguere filatura, tessitura, maglieria e finissaggio.
+- **4 ore** — Individuare rischi e controlli delle lavorazioni.
 
-### Realizzazione e consumo — 13 ore
+#### D1.2 · Intreccio e maglia — 21 ore
 
-- **6 ore** — Produrre un piccolo campione su telaio didattico o con materiali sostitutivi autorizzati.
-- **7 ore** — Registrare quantità impiegate e differenze fra progetto, prova e risultato.
+- **4 ore** — Leggere tela, saia e raso su carta quadrettata.
+- **5 ore** — Distinguere struttura a maglia e tessuto ortogonale.
+- **6 ore** — Realizzare o simulare piccoli campioni.
+- **6 ore** — Collegare struttura e comportamento osservato.
 
-### Attività di laboratorio e applicazione — 24 ore
+#### D1.3 · Modulo e colore — 21 ore
 
-- **11 ore** — Confrontare intreccio ortogonale e maglia. Esaminare rapporti modulari, colori e ripetizione su un piccolo telaio didattico o con strisce di carta.
-- **13 ore** — Creare un motivo ripetibile e confrontare due disposizioni del modulo. Annotare scala del disegno, rapporti e quantità di materiale.
+- **4 ore** — Costruire un rapporto decorativo ripetibile.
+- **5 ore** — Confrontare disposizioni cromatiche sullo stesso modulo.
+- **6 ore** — Disegnare una variante digitale semplice.
+- **6 ore** — Verificare continuità e leggibilità del rapporto.
 
-### Verifiche, recupero e consolidamento — 20 ore
+#### D1.4 · Campione e consumo — 24 ore
 
-- **10 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **6 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **4 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Scegliere una struttura per una funzione assegnata.
+- **6 ore** — Stimare dimensioni e consumo con proporzioni.
+- **8 ore** — Preparare una scheda tecnica del campione.
+- **6 ore** — Confrontare progetto e realizzazione con criteri dichiarati.
 
-**Totale della proposta: 99 ore = 79 ore nei nuclei e nelle applicazioni + 20 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 99 ore = 84 ore nei nuclei e nelle applicazioni + 15 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Intreccio e maglia.** Confrontare strutture ortogonali e a maglia attraverso campioni o modelli di carta. Descrivere come la struttura contribuisce al comportamento del materiale senza confonderla con la fibra.
+
+**Modulo e rapporto.** Progettare un motivo riconoscibile individuando dimensioni e bordi del modulo. Controllare la continuità della ripetizione lungo due direzioni.
+
+**Colore e disposizione.** Confrontare varianti cromatiche dello stesso motivo mantenendo costante la struttura. Valutare ritmo e leggibilità alla scala d'uso, motivando la scelta finale.
+
+**Realizzazione e consumo.** Produrre un piccolo campione su telaio didattico o con materiali sostitutivi autorizzati. Registrare quantità impiegate e differenze fra progetto, prova e risultato.
+
+**Attività di laboratorio e applicazione.** Confrontare intreccio ortogonale e maglia. Esaminare rapporti modulari, colori e ripetizione su un piccolo telaio didattico o con strisce di carta. Creare un motivo ripetibile e confrontare due disposizioni del modulo. Annotare scala del disegno, rapporti e quantità di materiale.
 
 ## Prova di apprendimento
 
@@ -85,3 +126,6 @@ Per il tecnico, il D.M. 29/2026 avvia le prime 2026/27; le linee guida 2012 rest
 - [Tecnologie applicate ai Materiali e ai Processi Produttivi 1, quarta edizione, ISBN 9788884885104](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-1/) — Editrice San Marco / Cosetta Grana; Sezione Contenuti e struttura dell'opera.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

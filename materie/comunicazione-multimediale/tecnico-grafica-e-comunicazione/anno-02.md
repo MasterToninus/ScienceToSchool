@@ -26,43 +26,81 @@ Il [D.L. 170/2026, art. 9, tabella 3](https://www.gazzettaufficiale.it/eli/gu/20
 
 Riconoscere come scelte di formato, risoluzione e colore si riflettano su un prodotto stampato.
 
+
+## Prerequisiti e progressione
+
+Unità di misura, rappresentazione grafica e competenze digitali del I; nel 2026/27 è STA previgente, non il nuovo biennio.
+
+**Esito atteso a fine anno:** Distinguere prodotti, filiere e formati, predisponendo un semplice elaborato verificato.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 99 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 99 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Immagine raster e vettoriale — 12 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Scienze e tecnologie applicate | 84 | 15 | 99 |
 
-- **5 ore** — Distinguere pixel, tracciati e dimensioni fisiche attraverso ingrandimenti dello stesso soggetto.
-- **7 ore** — Scegliere il tipo di immagine rispetto a fotografia, logo o schema.
+### D1 · Scienze e tecnologie applicate — 99 ore
 
-### Acquisizione e risoluzione — 15 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **7 ore** — Confrontare due acquisizioni mantenendo documentati dimensioni, risoluzione e formato.
-- **8 ore** — Separare quantità di dati e qualità percepita, riconoscendo artefatti di compressione.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Colore e destinazione — 15 ore
+#### D1.1 · Prodotti e processi — 18 ore
 
-- **7 ore** — Confrontare la resa dello stesso file a schermo e su una prova stampata.
-- **8 ore** — Annotare le condizioni di osservazione e distinguere correzione del file da limiti del dispositivo.
+- **4 ore** — Classificare prodotti stampati, fotografici e audiovisivi.
+- **4 ore** — Ricostruire filiere e ruoli essenziali.
+- **6 ore** — Confrontare supporti e tecnologie di uscita.
+- **4 ore** — Individuare comportamenti sicuri in laboratorio.
 
-### Esportazione e controllo — 13 ore
+#### D1.2 · Raster e vettore — 21 ore
 
-- **6 ore** — Preparare versioni per schermo e stampa mantenendo un originale modificabile.
-- **7 ore** — Verificare proporzioni, leggibilità e completezza della scheda tecnica.
+- **4 ore** — Confrontare pixel, tracciati e ingrandimenti.
+- **5 ore** — Acquisire un’immagine con risoluzione adeguata.
+- **6 ore** — Disegnare un segno vettoriale semplice.
+- **6 ore** — Motivare la scelta del formato per il prodotto.
 
-### Attività di laboratorio e applicazione — 24 ore
+#### D1.3 · Colore e composizione — 21 ore
 
-- **7 ore** — Confrontare un’immagine raster e una vettoriale a ingrandimenti diversi.
-- **9 ore** — Acquisire un soggetto con due impostazioni, confrontando dimensione del file e qualità percepita.
-- **8 ore** — Preparare l’immagine per schermo e per stampa, annotando il processo in una scheda tecnica.
+- **4 ore** — Distinguere sintesi additiva e sottrattiva con esempi.
+- **5 ore** — Sperimentare contrasto e gerarchia testo-immagine.
+- **6 ore** — Preparare un’impaginazione breve.
+- **6 ore** — Confrontare resa su schermo e carta.
 
-### Verifiche, recupero e consolidamento — 20 ore
+#### D1.4 · Esportazione e verifica — 24 ore
 
-- **10 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **6 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **4 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Organizzare originali, elaborati e copie.
+- **6 ore** — Controllare dimensioni, risoluzione e font.
+- **8 ore** — Esportare due versioni per destinazioni diverse.
+- **6 ore** — Presentare il prodotto e descrivere gli errori corretti.
 
-**Totale della proposta: 99 ore = 79 ore nei nuclei e nelle applicazioni + 20 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 99 ore = 84 ore nei nuclei e nelle applicazioni + 15 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Immagine raster e vettoriale.** Distinguere pixel, tracciati e dimensioni fisiche attraverso ingrandimenti dello stesso soggetto. Scegliere il tipo di immagine rispetto a fotografia, logo o schema.
+
+**Acquisizione e risoluzione.** Confrontare due acquisizioni mantenendo documentati dimensioni, risoluzione e formato. Separare quantità di dati e qualità percepita, riconoscendo artefatti di compressione.
+
+**Colore e destinazione.** Confrontare la resa dello stesso file a schermo e su una prova stampata. Annotare le condizioni di osservazione e distinguere correzione del file da limiti del dispositivo.
+
+**Esportazione e controllo.** Preparare versioni per schermo e stampa mantenendo un originale modificabile. Verificare proporzioni, leggibilità e completezza della scheda tecnica.
+
+**Attività di laboratorio e applicazione.** Confrontare un’immagine raster e una vettoriale a ingrandimenti diversi. Acquisire un soggetto con due impostazioni, confrontando dimensione del file e qualità percepita. Preparare l’immagine per schermo e per stampa, annotando il processo in una scheda tecnica.
 
 ## Compito e verifica
 
@@ -90,3 +128,6 @@ La Direttiva 4/2012 sostiene il confronto con il quadro precedente; il D.M. 29/2
 - [Immaginando, Andrea Rosati e Floriana Maruca, ISBN 9788820372644](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128) — Hoepli; Presentazione e destinazione del manuale.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

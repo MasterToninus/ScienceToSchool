@@ -27,9 +27,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Informatica, quadro previgente nel 2026/27: 198 + 132 + 132 + 99 = 561 ore.
+- **Articolazione Informatica**: 198 + 132 + 132 + 99 = **561 ore**; Informatica 198 ore; Sistemi e reti 132 ore; TPSIT 132 ore; Gestione progetto, organizzazione d’impresa 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nei tecnici di Informatica e telecomunicazioni](README.md)
 
@@ -37,38 +39,188 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Solo articolazione Informatica per le discipline qui descritte. Passare da requisiti a schema relazionale, interrogazioni e servizio applicativo. Documentare ruoli, piano dei test, costi e tempi. Nel quadro previgente Gestione progetto, organizzazione d’impresa è materia di quinta.
+**Prerequisiti e avvio.** Oggetti, interfacce, file; indirizzamento e routing; concorrenza in TPSIT. Recuperare questi nodi prima di servizi e database.
 
-### Requisiti e progetto — 105 ore
+**Raccordo e progressione.** Consegna interdisciplinare con responsabilità e ore distinte: dati in Informatica, infrastruttura in Sistemi e reti, protocollo in TPSIT, gestione in GPOI.
 
-- **57 ore** — Per Informatica definire attori, casi d’uso, vincoli e criteri di accettazione di un sistema informativo.
-- **48 ore** — Stimare attività, tempi, costi e dipendenze raccordandosi a Gestione progetto nel quadro previgente.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Articolazione Informatica
 
-### Database — 124 ore
+#### S1D1 · Informatica — 198 ore
 
-- **67 ore** — Costruire modelli concettuali e relazionali con chiavi e vincoli, discutendo anomalie e ridondanze.
-- **57 ore** — Implementare SQL per definizione, modifica e interrogazione con join e aggregazioni su dati sintetici.
+##### S1D1N1 · Analisi e progettazione dei dati — 32 ore
 
+- **10 ore** — Raccogliere requisiti e definire entità, attributi e relazioni di un dominio.
+- **12 ore** — Passare dallo schema concettuale a tabelle, chiavi e vincoli di integrità.
+- **10 ore** — Individuare ridondanze e normalizzare fino alle forme utili al caso.
 
-### Servizi distribuiti — 124 ore
+##### S1D1N2 · SQL — 32 ore
 
-- **67 ore** — Progettare l’interfaccia fra client e servizio con messaggi, validazione e gestione degli errori.
-- **57 ore** — Distinguere autenticazione e autorizzazione e descrivere ruoli, copie e ripristino del prototipo.
+- **10 ore** — Creare e popolare tabelle con vincoli e tipi appropriati.
+- **12 ore** — Scrivere selezioni, join, aggregazioni e sottointerrogazioni con risultati verificati.
+- **10 ore** — Eseguire aggiornamenti e transazioni; motivare rollback e controllo della concorrenza.
 
+##### S1D1N3 · Organizzazione e gestione — 28 ore
 
-### Collaudo e consegna — 124 ore
+- **10 ore** — Distinguere modello logico, organizzazione fisica e indice; leggere un piano di esecuzione semplice.
+- **8 ore** — Definire utenti e privilegi, backup e prova di ripristino su dati sintetici.
+- **10 ore** — Esportare e importare dati controllando qualità, provenienza e protezione dei dati personali.
 
-- **67 ore** — Eseguire prove funzionali e di integrità con casi limite, senza operare su sistemi di terzi.
-- **57 ore** — Consegnare codice, schema e rapporto; il quinto anno non estende Informatica all’articolazione Telecomunicazioni.
+##### S1D1N4 · Applicazioni lato server — 32 ore
 
-### Riserva e quadratura
+- **12 ore** — Implementare richieste, risposta, validazione server e accesso parametrizzato ai dati.
+- **10 ore** — Gestire sessione e autorizzazione, evitando credenziali nel codice.
+- **10 ore** — Costruire pagine dinamiche e separare presentazione, logica e persistenza.
 
-- **84 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Integrazione e sicurezza — 28 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 477 | 84 | **561 ore** |
+- **10 ore** — Esporre o usare un’interfaccia dati documentata raccordandola a TPSIT.
+- **10 ore** — Provare errori di input, autorizzazione e concorrenza in ambiente locale.
+- **8 ore** — Valutare usabilità, accessibilità e minimizzazione dei dati.
+
+##### S1D1N6 · Progetto conclusivo — 26 ore
+
+- **10 ore** — Realizzare un’applicazione Web con database a partire da requisiti concordati.
+- **10 ore** — Eseguire collaudo e ripristino, consegnando schema, query e documentazione.
+- **6 ore** — Argomentare limiti, alternative e manutenzione senza introdurre tecnologie nuove alla fine.
+
+##### S1D1R · Verifica, restituzione e recupero — 20 ore
+
+- **6 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **6 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **8 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 178 ore di nuclei + 20 ore di verifica, restituzione e recupero = **198 ore**.
+
+#### S1D2 · Sistemi e reti — 132 ore
+
+##### S1D2N1 · Servizi e amministrazione — 24 ore
+
+- **8 ore** — Installare e configurare servizi DNS, Web e trasferimento file in laboratorio isolato.
+- **8 ore** — Gestire utenti, autorizzazioni e integrazione tra sistemi operativi.
+- **8 ore** — Documentare dipendenze, avvio, log e ripristino dei servizi.
+
+##### S1D2N2 · Protezione delle comunicazioni — 24 ore
+
+- **8 ore** — Distinguere cifratura simmetrica, asimmetrica, hash e firma mediante esempi.
+- **8 ore** — Interpretare certificati e TLS e configurare un servizio protetto in ambiente didattico.
+- **8 ore** — Configurare una VPN di prova e motivarne limiti e autenticazione.
+
+##### S1D2N3 · Segmentazione e continuità — 26 ore
+
+- **10 ore** — Definire regole firewall e segmentazione partendo da una politica di accesso.
+- **8 ore** — Monitorare log e disponibilità, riconoscendo anomalie senza operare su sistemi altrui.
+- **8 ore** — Progettare backup, prova di ripristino e risposta a un incidente simulato.
+
+##### S1D2N4 · Virtualizzazione — 24 ore
+
+- **8 ore** — Creare macchine o servizi virtuali e progettare le reti necessarie.
+- **8 ore** — Confrontare servizio locale e remoto per costi, dipendenze e trattamento dei dati.
+- **8 ore** — Valutare risorse, disponibilità e punti singoli di guasto.
+
+##### S1D2N5 · Progetto e collaudo — 22 ore
+
+- **8 ore** — Integrare servizi, filtri e monitoraggio in uno scenario documentato.
+- **8 ore** — Eseguire prove funzionali e di accesso autorizzato; distinguere conformità e sicurezza assoluta.
+- **6 ore** — Consegnare piano di gestione e discutere scelte e limiti.
+
+##### S1D2R · Verifica, restituzione e recupero — 12 ore
+
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D2:** 120 ore di nuclei + 12 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S1D3 · TPSIT — 132 ore
+
+##### S1D3N1 · Programmazione di rete — 26 ore
+
+- **8 ore** — Implementare client e server socket su rete locale didattica.
+- **10 ore** — Definire formato dei messaggi, delimitazione e gestione degli errori.
+- **8 ore** — Gestire più client e timeout riusando la concorrenza della quarta.
+
+##### S1D3N2 · Protocolli applicativi — 24 ore
+
+- **8 ore** — Leggere richieste e risposte HTTP e distinguere metodi, stato e rappresentazione.
+- **8 ore** — Serializzare dati in JSON o XML e validare lo schema.
+- **8 ore** — Documentare un protocollo semplice e testarne compatibilità e errori.
+
+##### S1D3N3 · Servizi Web — 26 ore
+
+- **10 ore** — Progettare un servizio con interfaccia esplicita e operazioni coerenti.
+- **8 ore** — Implementare chiamate e risposta con autenticazione e autorizzazione appropriate.
+- **8 ore** — Integrare il servizio con il database sviluppato in Informatica senza duplicarne ore e obiettivi.
+
+##### S1D3N4 · Sistemi distribuiti — 24 ore
+
+- **8 ore** — Analizzare guasti parziali, latenza e duplicazione delle richieste.
+- **8 ore** — Applicare logging, test automatici e gestione della configurazione.
+- **8 ore** — Confrontare architettura monolitica e servizi senza imporre un’infrastruttura complessa.
+
+##### S1D3N5 · Integrazione finale — 22 ore
+
+- **8 ore** — Distribuire localmente una versione riproducibile del servizio.
+- **8 ore** — Verificare requisiti, errori e trattamento dei dati sintetici.
+- **6 ore** — Consegnare specifica, codice e prove; un client mobile è un’alternativa applicativa, non un ulteriore modulo obbligatorio.
+
+##### S1D3R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D3:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S1D4 · Gestione progetto, organizzazione d’impresa — 99 ore
+
+##### S1D4N1 · Impresa e processi — 22 ore
+
+- **8 ore** — Distinguere funzioni aziendali, ruoli e processi nel settore ICT.
+- **8 ore** — Rappresentare un processo con ingressi, attività, output e indicatori.
+- **6 ore** — Confrontare costi fissi e variabili, ricavi e sostenibilità di un servizio.
+
+##### S1D4N2 · Pianificazione — 22 ore
+
+- **8 ore** — Definire obiettivi, requisiti, deliverable e struttura delle attività.
+- **8 ore** — Costruire dipendenze, Gantt e un percorso critico su un esempio gestibile.
+- **6 ore** — Stimare persone, tempi e costi esplicitando l’incertezza.
+
+##### S1D4N3 · Qualità e rischi — 22 ore
+
+- **8 ore** — Definire criteri di accettazione e prove di verifica e validazione.
+- **8 ore** — Riconoscere rischi di progetto e di sicurezza sul lavoro e responsabilità dei ruoli.
+- **6 ore** — Confrontare procedure di qualità, tracciabilità e documentazione senza dichiarare certificazioni.
+
+##### S1D4N4 · Gestione di una commessa — 20 ore
+
+- **8 ore** — Monitorare avanzamento, scostamenti e richieste di modifica del progetto di classe.
+- **6 ore** — Predisporre documentazione tecnica, utente e organizzativa.
+- **6 ore** — Presentare consuntivo, decisioni e lezioni apprese; l’implementazione resta nelle discipline tecniche.
+
+##### S1D4R · Verifica, restituzione e recupero — 13 ore
+
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D4:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Articolazione Informatica | Informatica | 178 | 20 | **198 ore** |
+| Articolazione Informatica | Sistemi e reti | 120 | 12 | **132 ore** |
+| Articolazione Informatica | TPSIT | 122 | 10 | **132 ore** |
+| Articolazione Informatica | Gestione progetto, organizzazione d’impresa | 86 | 13 | **99 ore** |
+
+**Totale Articolazione Informatica: 561 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C4 Informatica e telecomunicazioni, pp. 3–8 e 10–16](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C4_Informatica_Telecomunicazioni.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -92,3 +244,25 @@ Il volume GPOI si riferisce alla disciplina del quadro previgente; nel nuovo qua
 - [MDN, Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Solo articolazione Informatica per le discipline qui descritte. Passare da requisiti a schema relazionale, interrogazioni e servizio applicativo. Documentare ruoli, piano dei test, costi e tempi. Nel quadro previgente Gestione progetto, organizzazione d’impresa è materia di quinta.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Per Informatica definire attori, casi d’uso, vincoli e criteri di accettazione di un sistema informativo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Stimare attività, tempi, costi e dipendenze raccordandosi a Gestione progetto nel quadro previgente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire modelli concettuali e relazionali con chiavi e vincoli, discutendo anomalie e ridondanze. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Implementare SQL per definizione, modifica e interrogazione con join e aggregazioni su dati sintetici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Progettare l’interfaccia fra client e servizio con messaggi, validazione e gestione degli errori. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere autenticazione e autorizzazione e descrivere ruoli, copie e ripristino del prototipo. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Eseguire prove funzionali e di integrità con casi limite, senza operare su sistemi di terzi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Consegnare codice, schema e rapporto; il quinto anno non estende Informatica all’articolazione Telecomunicazioni. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

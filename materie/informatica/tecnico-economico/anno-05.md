@@ -21,9 +21,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: SIA, quadro previgente nel 2026/27: Informatica 165 ore.
+- **SIA**: 165 = **165 ore**; Informatica — SIA 165 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica negli istituti tecnici economici](README.md)
 
@@ -31,38 +33,65 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Solo SIA. Analizzare i requisiti di un servizio aziendale e tradurli in uno schema relazionale con chiavi e vincoli. Realizzare interrogazioni aggregate e progettare una semplice interfaccia di consultazione.
+**Prerequisiti e avvio.** SIA: progettazione relazionale, SQL, interfacce e Web già affrontati in quarta. Il lavoro su ERP e processi integra queste competenze; non è il primo incontro con il database.
 
-### Requisiti SIA — 31 ore
+**Raccordo e progressione.** AFM e RIM concludono la disciplina in quarta; SIA in quinta integra database e Web con organizzazione aziendale, servizi e sicurezza.
 
-- **17 ore** — Trasformare un processo aziendale simulato in requisiti verificabili, ruoli e casi d’uso.
-- **14 ore** — Distinguere funzioni necessarie, vincoli e sviluppi possibili, stimando attività e dipendenze.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — SIA
 
-### Progetto dei dati — 37 ore
+#### S1D1 · Informatica — SIA — 165 ore
 
-- **20 ore** — Costruire schema concettuale e relazionale, motivando chiavi, cardinalità e riduzione delle ridondanze.
-- **17 ore** — Implementare tabelle e interrogazioni con join e raggruppamenti su dati sintetici.
+##### S1D1N1 · Integrazione aziendale — 28 ore
 
+- **10 ore** — Rappresentare processi e scambi tra amministrazione, magazzino e vendite.
+- **10 ore** — Analizzare funzioni di un ERP e importare o esportare dati in un ambiente dimostrativo.
+- **8 ore** — Valutare qualità, interoperabilità e dipendenze dei dati.
 
-### Applicazione e servizi — 36 ore
+##### S1D1N2 · Reti e servizi — 24 ore
 
-- **19 ore** — Collegare interfaccia, logica e persistenza, descrivendo richieste, risposte e gestione degli errori.
-- **17 ore** — Rappresentare i servizi di rete e distinguere autenticazione e autorizzazione dei diversi ruoli.
+- **8 ore** — Progettare il perimetro di una rete aziendale con ruoli e servizi.
+- **8 ore** — Confrontare servizi locali e cloud rispetto a continuità e responsabilità.
+- **8 ore** — Usare strumenti collaborativi e descrivere servizi digitali della pubblica amministrazione.
 
+##### S1D1N3 · Sicurezza e diritto — 28 ore
 
-### Collaudo e documentazione — 36 ore
+- **10 ore** — Analizzare minacce, accessi e protezione dei dati in un caso d’impresa.
+- **10 ore** — Progettare backup e recupero e discutere privacy, proprietà intellettuale e reati informatici.
+- **8 ore** — Distinguere una misura tecnica da un adempimento giuridico da verificare.
 
-- **19 ore** — Verificare funzioni e vincoli con casi normali, limiti, riepiloghi vuoti e operazioni non consentite.
-- **17 ore** — Consegnare manuale, schema e prove; il quinto anno riguarda SIA e non estende l’insegnamento ad AFM o RIM.
+##### S1D1N4 · Web e commercio elettronico — 28 ore
 
-### Riserva e quadratura
+- **10 ore** — Integrare il database della quarta in un’applicazione Web con autenticazione.
+- **10 ore** — Modellare una transazione commerciale e i servizi di pagamento senza trattare dati reali.
+- **8 ore** — Valutare accessibilità, comunicazione in rete e indicatori di efficacia.
 
-- **25 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Progetto organizzativo e tecnico — 28 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 140 | 25 | **165 ore** |
+- **10 ore** — Raccogliere requisiti e produrre una soluzione documentata per più ruoli.
+- **10 ore** — Eseguire collaudo, test di ripristino e controllo dei risultati.
+- **8 ore** — Presentare scelte, costi indicativi e piano di manutenzione.
+
+##### S1D1R · Verifica, restituzione e recupero — 29 ore
+
+- **9 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **9 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **11 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 136 ore di nuclei + 29 ore di verifica, restituzione e recupero = **165 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| SIA | Informatica — SIA | 136 | 29 | **165 ore** |
+
+**Totale SIA: 165 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, AFM, RIM e SIA; GU pp. 35, 57, 59–60](https://www.gazzettaufficiale.it/eli/gu/2012/03/30/76/so/60/sg/pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -85,3 +114,25 @@ Selezionare il volume per il quinto anno dell’edizione indicata.
 - [MDN, Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Solo SIA. Analizzare i requisiti di un servizio aziendale e tradurli in uno schema relazionale con chiavi e vincoli. Realizzare interrogazioni aggregate e progettare una semplice interfaccia di consultazione.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Trasformare un processo aziendale simulato in requisiti verificabili, ruoli e casi d’uso. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Distinguere funzioni necessarie, vincoli e sviluppi possibili, stimando attività e dipendenze. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Costruire schema concettuale e relazionale, motivando chiavi, cardinalità e riduzione delle ridondanze. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Implementare tabelle e interrogazioni con join e raggruppamenti su dati sintetici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Collegare interfaccia, logica e persistenza, descrivendo richieste, risposte e gestione degli errori. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Rappresentare i servizi di rete e distinguere autenticazione e autorizzazione dei diversi ruoli. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Verificare funzioni e vincoli con casi normali, limiti, riepiloghi vuoti e operazioni non consentite. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Consegnare manuale, schema e prove; il quinto anno riguarda SIA e non estende l’insegnamento ad AFM o RIM. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

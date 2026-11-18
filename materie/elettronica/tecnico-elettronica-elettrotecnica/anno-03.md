@@ -27,11 +27,13 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Elettronica**: Elettronica, quadro previgente nel 2026/27: totale dei tre insegnamenti 528 ore.
-- **Elettrotecnica**: Elettrotecnica, quadro previgente nel 2026/27: totale dei tre insegnamenti 528 ore.
-- **Automazione**: Automazione, quadro previgente nel 2026/27: totale dei tre insegnamenti 528 ore.
+- **Elettronica**: 231 + 132 + 165 = **528 ore**; Elettrotecnica ed elettronica 231 ore; Sistemi automatici 132 ore; Tecnologie e progettazione di sistemi elettrici ed elettronici 165 ore.
+- **Elettrotecnica**: 231 + 132 + 165 = **528 ore**; Elettrotecnica ed elettronica 231 ore; Sistemi automatici 132 ore; Tecnologie e progettazione di sistemi elettrici ed elettronici 165 ore.
+- **Automazione**: 231 + 132 + 165 = **528 ore**; Elettrotecnica ed elettronica 231 ore; Sistemi automatici 132 ore; Tecnologie e progettazione di sistemi elettrici ed elettronici 165 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Elettrotecnica, elettronica e sistemi automatici nel tecnico di indirizzo](README.md)
 
@@ -39,40 +41,432 @@ Nel 2026/27 questa classe appartiene al quadro previgente. Per le coorti entrate
 
 ## Programma proposto per nuclei tematici
 
-Analizzare reti continue e avviare lo studio dei segnali variabili. Scegliere componenti da una scheda tecnica. Descrivere un sistema con uno schema a blocchi. Articolazione Elettronica: interfacce, Elettrotecnica: carichi, Automazione: sensori e attuatori.
+**Prerequisiti e avvio.** Unità, proporzioni, equazioni semplici, circuiti e tabelle logiche del biennio. Prima dei fasori introdurre i numeri complessi in raccordo con Matematica.
 
-### Analisi circuitale — Elettronica: 161 ore; Elettrotecnica: 161 ore; Automazione: 161 ore
+**Raccordo e progressione.** Ogni articolazione ha un proprio piano. Calcolo circuitale appartiene a Elettrotecnica ed elettronica; algoritmo di controllo a Sistemi; realizzazione, organizzazione e fascicolo a TPSEE.
 
-- **Elettronica: 81 ore; Elettrotecnica: 81 ore; Automazione: 81 ore** — Risolvere reti in continua con leggi dei nodi e delle maglie, controllando segni e unità.
-- **Elettronica: 80 ore; Elettrotecnica: 80 ore; Automazione: 80 ore** — Introdurre componenti reattivi e segnali variabili attraverso transitori e misure simulate.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Elettronica
 
-### Componenti e schede tecniche — Elettronica: 126 ore; Elettrotecnica: 126 ore; Automazione: 126 ore
+#### S1D1 · Elettrotecnica ed elettronica — 231 ore
 
-- **Elettronica: 63 ore; Elettrotecnica: 63 ore; Automazione: 63 ore** — Leggere valori nominali, intervalli e condizioni di prova di componenti scelti per un circuito didattico.
-- **Elettronica: 63 ore; Elettrotecnica: 63 ore; Automazione: 63 ore** — Confrontare modello ideale e dispositivo, motivando scelte e limiti senza usare un valore massimo come normale punto di lavoro.
+##### S1D1N1 · Modelli e continua — 32 ore
 
+- **10 ore** — Usare unità, segni e convenzioni di tensione, corrente e potenza su reti note.
+- **12 ore** — Risolvere reti con nodi e maglie, verificando conservazione e bilancio energetico.
+- **10 ore** — Applicare sovrapposizione e generatori equivalenti e confrontare metodi.
 
-### Sistemi e misura — Elettronica: 126 ore; Elettrotecnica: 126 ore; Automazione: 126 ore
+##### S1D1N2 · Misure e componenti reattivi — 32 ore
 
-- **Elettronica: 63 ore; Elettrotecnica: 63 ore; Automazione: 63 ore** — Descrivere un sistema con ingressi, uscite, blocchi e grandezze osservabili.
-- **Elettronica: 63 ore; Elettrotecnica: 63 ore; Automazione: 63 ore** — Predisporre una procedura di confronto fra calcolo, simulazione e dati raccolti con parametri documentati.
+- **10 ore** — Scegliere strumenti, portate e incertezza e confrontare misura e simulazione.
+- **12 ore** — Studiare capacità e induttanza mediante energia e transitori elementari.
+- **10 ore** — Interpretare costanti di tempo senza presupporre la soluzione di equazioni differenziali.
 
+##### S1D1N3 · Regime sinusoidale — 32 ore
 
-### Varianti di articolazione — Elettronica: 36 ore; Elettrotecnica: 36 ore; Automazione: 36 ore
+- **10 ore** — Rappresentare ampiezza, fase e frequenza con funzioni trigonometriche.
+- **12 ore** — Usare fasori e impedenze dopo il raccordo sui numeri complessi.
+- **10 ore** — Calcolare potenze attiva, reattiva e apparente in semplici reti.
 
-- **Elettronica: 36 ore; Elettrotecnica: 36 ore; Automazione: 0 ore** — Per Elettronica sviluppare un’interfaccia di segnale; per Elettrotecnica confrontare carichi e potenze.
-- **Elettronica: 0 ore; Elettrotecnica: 0 ore; Automazione: 36 ore** — Per Automazione collegare sensori e attuatori a una sequenza simulata, mantenendo distinta la parte di comando.
+##### S1D1N4 · Logica digitale — 30 ore
 
-### Riserva e quadratura
+- **10 ore** — Costruire tabelle di verità e semplificare funzioni logiche elementari.
+- **10 ore** — Progettare reti combinatorie, codificatori e selettori.
+- **10 ore** — Interpretare memoria, flip-flop e contatori in sequenze semplici.
 
-- **Elettronica: 79 ore; Elettrotecnica: 79 ore; Automazione: 79 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1N5 · Dispositivi e applicazioni — 30 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Elettronica | 449 | 79 | **528 ore** |
-| Elettrotecnica | 449 | 79 | **528 ore** |
-| Automazione | 449 | 79 | **528 ore** |
+- **10 ore** — Analizzare diodo e transistor con modelli e punto di lavoro.
+- **10 ore** — Confrontare caratteristiche, limiti e dispersione dei parametri nelle schede tecniche.
+- **10 ore** — Progettare un circuito di base e verificarlo con calcolo, simulazione e misura.
+
+##### S1D1N6 · Declinazione Elettronica — 30 ore
+
+- **10 ore** — Progettare un’interfaccia di segnale con diodo o transistor e carico documentato.
+- **10 ore** — Misurare livelli, distorsione e limiti del modello.
+- **10 ore** — Confrontare due soluzioni e redigere il bilancio dei componenti.
+
+##### S1D1N7 · Sintesi tecnica — 16 ore
+
+- **8 ore** — Scegliere componenti e condizioni di prova da una specifica.
+- **8 ore** — Eseguire prove incrociate e documentare errori e scostamenti.
+
+##### S1D1R · Verifica, restituzione e recupero — 29 ore
+
+- **9 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **9 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **11 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 202 ore di nuclei + 29 ore di verifica, restituzione e recupero = **231 ore**.
+
+#### S1D2 · Sistemi automatici — 132 ore
+
+##### S1D2N1 · Modelli e segnali — 24 ore
+
+- **8 ore** — Classificare sistemi, ingressi, uscite e grandezze osservabili.
+- **8 ore** — Costruire schemi a blocchi e distinguere modello statico e dinamico.
+- **8 ore** — Rilevare risposta a gradino e costante di tempo senza anticipare Laplace.
+
+##### S1D2N2 · Algoritmi e programmazione — 26 ore
+
+- **8 ore** — Rappresentare una sequenza con diagrammi e pseudocodice.
+- **10 ore** — Programmare scelta, cicli e funzioni per un sistema simulato.
+- **8 ore** — Provare casi normali ed errori e documentare il codice.
+
+##### S1D2N3 · Sistemi programmabili — 26 ore
+
+- **8 ore** — Descrivere microprocessore, microcontrollore e periferiche.
+- **10 ore** — Gestire ingressi, uscite e temporizzazioni di un dispositivo didattico.
+- **8 ore** — Modellare stati e transizioni di un automatismo.
+
+##### S1D2N4 · Trasduttori e acquisizione — 24 ore
+
+- **8 ore** — Scegliere un sensore in base a campo, sensibilità e uscita.
+- **8 ore** — Acquisire una grandezza e associare campioni, unità e tempo.
+- **8 ore** — Riconoscere attuatore e interfaccia distinguendo controllo e potenza.
+
+##### S1D2N5 · Caso Elettronica — 22 ore
+
+- **8 ore** — Implementare un sistema a soglia o una sequenza nel contesto dell’articolazione.
+- **8 ore** — Confrontare misure e comportamento previsto.
+- **6 ore** — Consegnare schema, codice e tabella delle prove.
+
+##### S1D2R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D2:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S1D3 · Tecnologie e progettazione di sistemi elettrici ed elettronici — 165 ore
+
+##### S1D3N1 · Specifiche e documentazione — 28 ore
+
+- **10 ore** — Ricavare requisiti, grandezze e vincoli di una scheda elettronica.
+- **10 ore** — Leggere schemi, simboli e documenti tecnici e produrre disegno CAD.
+- **8 ore** — Organizzare distinta e versioni dei documenti.
+
+##### S1D3N2 · Componenti e materiali — 28 ore
+
+- **10 ore** — Selezionare componenti da schede tecniche e cataloghi.
+- **10 ore** — Confrontare tolleranze, condizioni ambientali e limiti di impiego.
+- **8 ore** — Valutare disponibilità, costo e compatibilità dei materiali.
+
+##### S1D3N3 · Realizzazione guidata — 28 ore
+
+- **10 ore** — Pianificare fasi, attrezzature e controlli di un prototipo.
+- **10 ore** — Realizzare o simulare il montaggio con procedure definite dal docente.
+- **8 ore** — Verificare connessioni e conformità allo schema prima delle prove.
+
+##### S1D3N4 · Misura e verifica — 28 ore
+
+- **10 ore** — Predisporre strumenti e procedura di misura con condizioni dichiarate.
+- **10 ore** — Confrontare prestazioni attese e misurate e localizzare un difetto.
+- **8 ore** — Redigere verbale e aggiornare documentazione.
+
+##### S1D3N5 · Qualità e responsabilità — 28 ore
+
+- **10 ore** — Individuare rischi, ruoli e riferimenti tecnici applicabili al caso.
+- **10 ore** — Distinguere manutenzione, smaltimento e recupero dei materiali.
+- **8 ore** — Presentare progetto, costo e limiti senza attribuire certificazioni al prototipo.
+
+##### S1D3R · Verifica, restituzione e recupero — 25 ore
+
+- **8 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **8 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **9 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D3:** 140 ore di nuclei + 25 ore di verifica, restituzione e recupero = **165 ore**.
+
+### Scenario 2 — Elettrotecnica
+
+#### S2D1 · Elettrotecnica ed elettronica — 231 ore
+
+##### S2D1N1 · Modelli e continua — 32 ore
+
+- **10 ore** — Usare unità, segni e convenzioni di tensione, corrente e potenza su reti note.
+- **12 ore** — Risolvere reti con nodi e maglie, verificando conservazione e bilancio energetico.
+- **10 ore** — Applicare sovrapposizione e generatori equivalenti e confrontare metodi.
+
+##### S2D1N2 · Misure e componenti reattivi — 32 ore
+
+- **10 ore** — Scegliere strumenti, portate e incertezza e confrontare misura e simulazione.
+- **12 ore** — Studiare capacità e induttanza mediante energia e transitori elementari.
+- **10 ore** — Interpretare costanti di tempo senza presupporre la soluzione di equazioni differenziali.
+
+##### S2D1N3 · Regime sinusoidale — 32 ore
+
+- **10 ore** — Rappresentare ampiezza, fase e frequenza con funzioni trigonometriche.
+- **12 ore** — Usare fasori e impedenze dopo il raccordo sui numeri complessi.
+- **10 ore** — Calcolare potenze attiva, reattiva e apparente in semplici reti.
+
+##### S2D1N4 · Logica digitale — 30 ore
+
+- **10 ore** — Costruire tabelle di verità e semplificare funzioni logiche elementari.
+- **10 ore** — Progettare reti combinatorie, codificatori e selettori.
+- **10 ore** — Interpretare memoria, flip-flop e contatori in sequenze semplici.
+
+##### S2D1N5 · Dispositivi e applicazioni — 30 ore
+
+- **10 ore** — Analizzare diodo e transistor con modelli e punto di lavoro.
+- **10 ore** — Confrontare caratteristiche, limiti e dispersione dei parametri nelle schede tecniche.
+- **10 ore** — Progettare un circuito di base e verificarlo con calcolo, simulazione e misura.
+
+##### S2D1N6 · Declinazione Elettrotecnica — 30 ore
+
+- **10 ore** — Analizzare campi magnetici, induzione e principi di trasformazione dell’energia.
+- **10 ore** — Confrontare carichi, potenze e rifasamento in un caso didattico.
+- **10 ore** — Collegare modelli circuitali e funzione di una macchina elettrica.
+
+##### S2D1N7 · Sintesi tecnica — 16 ore
+
+- **8 ore** — Scegliere componenti e condizioni di prova da una specifica.
+- **8 ore** — Eseguire prove incrociate e documentare errori e scostamenti.
+
+##### S2D1R · Verifica, restituzione e recupero — 29 ore
+
+- **9 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **9 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **11 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S2D1:** 202 ore di nuclei + 29 ore di verifica, restituzione e recupero = **231 ore**.
+
+#### S2D2 · Sistemi automatici — 132 ore
+
+##### S2D2N1 · Modelli e segnali — 24 ore
+
+- **8 ore** — Classificare sistemi, ingressi, uscite e grandezze osservabili.
+- **8 ore** — Costruire schemi a blocchi e distinguere modello statico e dinamico.
+- **8 ore** — Rilevare risposta a gradino e costante di tempo senza anticipare Laplace.
+
+##### S2D2N2 · Algoritmi e programmazione — 26 ore
+
+- **8 ore** — Rappresentare una sequenza con diagrammi e pseudocodice.
+- **10 ore** — Programmare scelta, cicli e funzioni per un sistema simulato.
+- **8 ore** — Provare casi normali ed errori e documentare il codice.
+
+##### S2D2N3 · Sistemi programmabili — 26 ore
+
+- **8 ore** — Descrivere microprocessore, microcontrollore e periferiche.
+- **10 ore** — Gestire ingressi, uscite e temporizzazioni di un dispositivo didattico.
+- **8 ore** — Modellare stati e transizioni di un automatismo.
+
+##### S2D2N4 · Trasduttori e acquisizione — 24 ore
+
+- **8 ore** — Scegliere un sensore in base a campo, sensibilità e uscita.
+- **8 ore** — Acquisire una grandezza e associare campioni, unità e tempo.
+- **8 ore** — Riconoscere attuatore e interfaccia distinguendo controllo e potenza.
+
+##### S2D2N5 · Caso Elettrotecnica — 22 ore
+
+- **8 ore** — Implementare un sistema a soglia o una sequenza nel contesto dell’articolazione.
+- **8 ore** — Confrontare misure e comportamento previsto.
+- **6 ore** — Consegnare schema, codice e tabella delle prove.
+
+##### S2D2R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S2D2:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S2D3 · Tecnologie e progettazione di sistemi elettrici ed elettronici — 165 ore
+
+##### S2D3N1 · Specifiche e documentazione — 28 ore
+
+- **10 ore** — Ricavare requisiti, grandezze e vincoli di una impianto elettrico.
+- **10 ore** — Leggere schemi, simboli e documenti tecnici e produrre disegno CAD.
+- **8 ore** — Organizzare distinta e versioni dei documenti.
+
+##### S2D3N2 · Componenti e materiali — 28 ore
+
+- **10 ore** — Selezionare componenti da schede tecniche e cataloghi.
+- **10 ore** — Confrontare tolleranze, condizioni ambientali e limiti di impiego.
+- **8 ore** — Valutare disponibilità, costo e compatibilità dei materiali.
+
+##### S2D3N3 · Realizzazione guidata — 28 ore
+
+- **10 ore** — Pianificare fasi, attrezzature e controlli di un prototipo.
+- **10 ore** — Realizzare o simulare il montaggio con procedure definite dal docente.
+- **8 ore** — Verificare connessioni e conformità allo schema prima delle prove.
+
+##### S2D3N4 · Misura e verifica — 28 ore
+
+- **10 ore** — Predisporre strumenti e procedura di misura con condizioni dichiarate.
+- **10 ore** — Confrontare prestazioni attese e misurate e localizzare un difetto.
+- **8 ore** — Redigere verbale e aggiornare documentazione.
+
+##### S2D3N5 · Qualità e responsabilità — 28 ore
+
+- **10 ore** — Individuare rischi, ruoli e riferimenti tecnici applicabili al caso.
+- **10 ore** — Distinguere manutenzione, smaltimento e recupero dei materiali.
+- **8 ore** — Presentare progetto, costo e limiti senza attribuire certificazioni al prototipo.
+
+##### S2D3R · Verifica, restituzione e recupero — 25 ore
+
+- **8 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **8 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **9 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S2D3:** 140 ore di nuclei + 25 ore di verifica, restituzione e recupero = **165 ore**.
+
+### Scenario 3 — Automazione
+
+#### S3D1 · Elettrotecnica ed elettronica — 231 ore
+
+##### S3D1N1 · Modelli e continua — 32 ore
+
+- **10 ore** — Usare unità, segni e convenzioni di tensione, corrente e potenza su reti note.
+- **12 ore** — Risolvere reti con nodi e maglie, verificando conservazione e bilancio energetico.
+- **10 ore** — Applicare sovrapposizione e generatori equivalenti e confrontare metodi.
+
+##### S3D1N2 · Misure e componenti reattivi — 32 ore
+
+- **10 ore** — Scegliere strumenti, portate e incertezza e confrontare misura e simulazione.
+- **12 ore** — Studiare capacità e induttanza mediante energia e transitori elementari.
+- **10 ore** — Interpretare costanti di tempo senza presupporre la soluzione di equazioni differenziali.
+
+##### S3D1N3 · Regime sinusoidale — 32 ore
+
+- **10 ore** — Rappresentare ampiezza, fase e frequenza con funzioni trigonometriche.
+- **12 ore** — Usare fasori e impedenze dopo il raccordo sui numeri complessi.
+- **10 ore** — Calcolare potenze attiva, reattiva e apparente in semplici reti.
+
+##### S3D1N4 · Logica digitale — 30 ore
+
+- **10 ore** — Costruire tabelle di verità e semplificare funzioni logiche elementari.
+- **10 ore** — Progettare reti combinatorie, codificatori e selettori.
+- **10 ore** — Interpretare memoria, flip-flop e contatori in sequenze semplici.
+
+##### S3D1N5 · Dispositivi e applicazioni — 30 ore
+
+- **10 ore** — Analizzare diodo e transistor con modelli e punto di lavoro.
+- **10 ore** — Confrontare caratteristiche, limiti e dispersione dei parametri nelle schede tecniche.
+- **10 ore** — Progettare un circuito di base e verificarlo con calcolo, simulazione e misura.
+
+##### S3D1N6 · Declinazione Automazione — 30 ore
+
+- **10 ore** — Collegare sensore, interfaccia e attuatore distinguendo segnale e potenza.
+- **10 ore** — Analizzare logica cablata e sequenziale per un automatismo.
+- **10 ore** — Confrontare modelli e misure del circuito di comando.
+
+##### S3D1N7 · Sintesi tecnica — 16 ore
+
+- **8 ore** — Scegliere componenti e condizioni di prova da una specifica.
+- **8 ore** — Eseguire prove incrociate e documentare errori e scostamenti.
+
+##### S3D1R · Verifica, restituzione e recupero — 29 ore
+
+- **9 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **9 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **11 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S3D1:** 202 ore di nuclei + 29 ore di verifica, restituzione e recupero = **231 ore**.
+
+#### S3D2 · Sistemi automatici — 132 ore
+
+##### S3D2N1 · Modelli e segnali — 24 ore
+
+- **8 ore** — Classificare sistemi, ingressi, uscite e grandezze osservabili.
+- **8 ore** — Costruire schemi a blocchi e distinguere modello statico e dinamico.
+- **8 ore** — Rilevare risposta a gradino e costante di tempo senza anticipare Laplace.
+
+##### S3D2N2 · Algoritmi e programmazione — 26 ore
+
+- **8 ore** — Rappresentare una sequenza con diagrammi e pseudocodice.
+- **10 ore** — Programmare scelta, cicli e funzioni per un sistema simulato.
+- **8 ore** — Provare casi normali ed errori e documentare il codice.
+
+##### S3D2N3 · Sistemi programmabili — 26 ore
+
+- **8 ore** — Descrivere microprocessore, microcontrollore e periferiche.
+- **10 ore** — Gestire ingressi, uscite e temporizzazioni di un dispositivo didattico.
+- **8 ore** — Modellare stati e transizioni di un automatismo.
+
+##### S3D2N4 · Trasduttori e acquisizione — 24 ore
+
+- **8 ore** — Scegliere un sensore in base a campo, sensibilità e uscita.
+- **8 ore** — Acquisire una grandezza e associare campioni, unità e tempo.
+- **8 ore** — Riconoscere attuatore e interfaccia distinguendo controllo e potenza.
+
+##### S3D2N5 · Caso Automazione — 22 ore
+
+- **8 ore** — Implementare un sistema a soglia o una sequenza nel contesto dell’articolazione.
+- **8 ore** — Confrontare misure e comportamento previsto.
+- **6 ore** — Consegnare schema, codice e tabella delle prove.
+
+##### S3D2R · Verifica, restituzione e recupero — 10 ore
+
+- **3 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **3 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **4 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S3D2:** 122 ore di nuclei + 10 ore di verifica, restituzione e recupero = **132 ore**.
+
+#### S3D3 · Tecnologie e progettazione di sistemi elettrici ed elettronici — 165 ore
+
+##### S3D3N1 · Specifiche e documentazione — 28 ore
+
+- **10 ore** — Ricavare requisiti, grandezze e vincoli di una sistema di automazione.
+- **10 ore** — Leggere schemi, simboli e documenti tecnici e produrre disegno CAD.
+- **8 ore** — Organizzare distinta e versioni dei documenti.
+
+##### S3D3N2 · Componenti e materiali — 28 ore
+
+- **10 ore** — Selezionare componenti da schede tecniche e cataloghi.
+- **10 ore** — Confrontare tolleranze, condizioni ambientali e limiti di impiego.
+- **8 ore** — Valutare disponibilità, costo e compatibilità dei materiali.
+
+##### S3D3N3 · Realizzazione guidata — 28 ore
+
+- **10 ore** — Pianificare fasi, attrezzature e controlli di un prototipo.
+- **10 ore** — Realizzare o simulare il montaggio con procedure definite dal docente.
+- **8 ore** — Verificare connessioni e conformità allo schema prima delle prove.
+
+##### S3D3N4 · Misura e verifica — 28 ore
+
+- **10 ore** — Predisporre strumenti e procedura di misura con condizioni dichiarate.
+- **10 ore** — Confrontare prestazioni attese e misurate e localizzare un difetto.
+- **8 ore** — Redigere verbale e aggiornare documentazione.
+
+##### S3D3N5 · Qualità e responsabilità — 28 ore
+
+- **10 ore** — Individuare rischi, ruoli e riferimenti tecnici applicabili al caso.
+- **10 ore** — Distinguere manutenzione, smaltimento e recupero dei materiali.
+- **8 ore** — Presentare progetto, costo e limiti senza attribuire certificazioni al prototipo.
+
+##### S3D3R · Verifica, restituzione e recupero — 25 ore
+
+- **8 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **8 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **9 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S3D3:** 140 ore di nuclei + 25 ore di verifica, restituzione e recupero = **165 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Elettronica | Elettrotecnica ed elettronica | 202 | 29 | **231 ore** |
+| Elettronica | Sistemi automatici | 122 | 10 | **132 ore** |
+| Elettronica | Tecnologie e progettazione di sistemi elettrici ed elettronici | 140 | 25 | **165 ore** |
+| Elettrotecnica | Elettrotecnica ed elettronica | 202 | 29 | **231 ore** |
+| Elettrotecnica | Sistemi automatici | 122 | 10 | **132 ore** |
+| Elettrotecnica | Tecnologie e progettazione di sistemi elettrici ed elettronici | 140 | 25 | **165 ore** |
+| Automazione | Elettrotecnica ed elettronica | 202 | 29 | **231 ore** |
+| Automazione | Sistemi automatici | 122 | 10 | **132 ore** |
+| Automazione | Tecnologie e progettazione di sistemi elettrici ed elettronici | 140 | 25 | **165 ore** |
+
+**Totale Elettronica: 528 ore.**
+**Totale Elettrotecnica: 528 ore.**
+**Totale Automazione: 528 ore.**
+
+**Fondamento e limite della revisione.** [Direttiva 4/2012, C3 Elettronica ed elettrotecnica, schede delle tre articolazioni](https://iisvoltapescara.edu.it/wp-content/uploads/2023/09/Linee-guida_C3_Elettronica_Elettrotecnica.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** La consegna successiva è un caso integrato del solo ramo frequentato: calcolo e misura elettrica nelle ore di Elettrotecnica ed elettronica, algoritmo e risposta nelle ore di Sistemi, realizzazione e dossier nelle ore TPSEE. I docenti dividono le fasi; non attribuiscono l’intera prova a ciascun insegnamento.
 
 ## Laboratorio e verifica
 
@@ -95,3 +489,25 @@ Riprendere l’analisi circuitale e usare il primo volume del corso sui sistemi.
 - [OpenStax, University Physics Volume 2 – 10.3 Kirchhoff’s Rules](https://openstax.org/books/university-physics-volume-2/pages/10-3-kirchhoffs-rules).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/elettronica.md). Consultazione: 18 novembre 2026. I riferimenti tecnici e i cataloghi non equivalgono a un programma obbligatorio o a procedure operative validate; la scelta delle esperienze va adattata dal docente al laboratorio disponibile.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Analizzare reti continue e avviare lo studio dei segnali variabili. Scegliere componenti da una scheda tecnica. Descrivere un sistema con uno schema a blocchi. Articolazione Elettronica: interfacce, Elettrotecnica: carichi, Automazione: sensori e attuatori.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Risolvere reti in continua con leggi dei nodi e delle maglie, controllando segni e unità. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Introdurre componenti reattivi e segnali variabili attraverso transitori e misure simulate. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Leggere valori nominali, intervalli e condizioni di prova di componenti scelti per un circuito didattico. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Confrontare modello ideale e dispositivo, motivando scelte e limiti senza usare un valore massimo come normale punto di lavoro. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Descrivere un sistema con ingressi, uscite, blocchi e grandezze osservabili. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Predisporre una procedura di confronto fra calcolo, simulazione e dati raccolti con parametri documentati. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Per Elettronica sviluppare un’interfaccia di segnale; per Elettrotecnica confrontare carichi e potenze. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Per Automazione collegare sensori e attuatori a una sequenza simulata, mantenendo distinta la parte di comando. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>

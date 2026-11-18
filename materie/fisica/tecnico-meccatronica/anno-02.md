@@ -28,6 +28,12 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Proposta per Elementi di elettrotecnica ed elettronica nella nuova seconda, dal 2027/28. Coordinare il contributo con meccanica e laboratori, selezionando solo le sezioni pertinenti del manuale.
 
+**Prerequisiti e progressione.** Dal primo anno: grandezze SI, proporzioni e lettura dei grafici; non si presume il corso di Fondamenti dell’indirizzo elettronico. Ohm e schema elettrico precedono LED e sensore, tavola di verità precede il comando. I moduli elettronici più complessi sono forniti, non progettati da zero. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** La disciplina degli Elementi di base è distinta dalle Scienze sperimentali: le ore non si sommano per finanziare due volte la stessa prova. Gli Orientamenti 2026 non fissano qui una lista annuale esaustiva; la scelta richiede curricolo d’istituto. Ogni montaggio e analisi è incluso nel punto relativo; il rapporto riusa i dati acquisiti. La riserva comprende valutazione con restituzione e recupero, non altre prove complete.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Circuiti in continua e misure
 
 **Subtotale del nucleo: 11 ore.**
@@ -35,12 +41,14 @@ Proposta per Elementi di elettrotecnica ed elettronica nella nuova seconda, dal 
 - **6 ore.** Distinguere corrente, tensione e resistenza in uno schema di comando semplice.
 - **5 ore.** Applicare la legge di Ohm e i collegamenti serie/parallelo e confrontare risultati con simulazione o misure a bassissima tensione.
 
+
 ### Energia e componenti
 
 **Subtotale del nucleo: 10 ore.**
 
 - **5 ore.** Calcolare potenza assorbita ed energia nel tempo e leggere i limiti nominali dei componenti.
-- **5 ore.** Separare circuito di comando e utilizzatore e descrivere la funzione di alimentazione, protezione e segnalazione in un modello didattico.
+- **5 ore.** Separare comando e utilizzatore; descrivere alimentazione e protezione e il principio elettromagnetico di un relè su uno schema predisposto, senza progettare un azionamento completo.
+
 
 ### Diodo e sensore di posizione
 
@@ -49,6 +57,7 @@ Proposta per Elementi di elettrotecnica ed elettronica nella nuova seconda, dal 
 - **5 ore.** Confrontare il comportamento di un diodo o LED con quello di un resistore.
 - **5 ore.** Collegare posizione meccanica e segnale di un sensore, individuando campo utile, soglia e possibili letture ambigue.
 
+
 ### Consensi e logica combinatoria
 
 **Subtotale del nucleo: 10 ore.**
@@ -56,11 +65,13 @@ Proposta per Elementi di elettrotecnica ed elettronica nella nuova seconda, dal 
 - **5 ore.** Tradurre una richiesta a due consensi in tavola di verità e rete logica.
 - **5 ore.** Verificare tutte le combinazioni degli ingressi e distinguere lo stato desiderato dell’indicatore dal segnale elettrico che lo realizza.
 
+
 ### Comando e verifica del modello
 
 **Subtotale del nucleo: 13 ore.**
 
-- **8 ore.** Progettare un indicatore di posizione in simulazione e motivare scelta dei componenti e sequenza delle prove.
+- **3 ore.** Definire requisiti dell’indicatore di posizione e scegliere valori da schede fornite, motivando almeno un componente.
+- **5 ore.** Integrare in simulazione sensore e logica già studiati; preparare ed eseguire tutte le combinazioni degli ingressi.
 - **5 ore.** Confrontare risultato atteso e osservato, documentando errori di collegamento e limiti del modello; il prototipo non costituisce un sistema di sicurezza per una macchina reale.
 
 ### Riserva per consolidamento e valutazione

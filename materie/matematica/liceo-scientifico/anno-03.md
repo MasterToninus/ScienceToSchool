@@ -22,49 +22,53 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Coniche, successioni e modelli.** Gli obiettivi del secondo biennio sono definiti per l’indirizzo nelle [Indicazioni nazionali, DM 211/2010](https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=010G0232&atto.dataPubblicazioneGazzetta=2010-12-14&tipoSerie=serie_generale&tipoVigenza=originario). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Consolidare secondo grado, disequazioni, rette e similitudine. La geometria analitica usa prima queste basi; i modelli successivi richiedono dominio e funzioni. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **132 ore** (tutte le varianti). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Funzioni e rappresentazioni
+### Algebra, funzioni e rappresentazioni
 
 **Subtotale: 27 h.**
 
-- **8 h** — Determinare dominio, immagine, zeri e segno di funzioni semplici, distinguendo la funzione dalla sua formula.
-- **11 h** — Studiare composizione, inversione e trasformazioni del grafico; verificare quando l'inversa è effettivamente una funzione.
-- **8 h** — Confrontare una descrizione verbale, una tabella e un grafico e indicare le informazioni perse in ogni rappresentazione.
+- **10 h** — Consolidare divisione fra polinomi, teorema del resto e scomposizioni; risolvere equazioni e disequazioni razionali semplici con condizioni esplicite.
+- **10 h** — Determinare dominio, zeri e segno di funzioni polinomiali, razionali, irrazionali e con valore assoluto in casi semplici.
+- **7 h** — Studiare composizione, inversa e trasformazioni dei grafici; confrontare tabella, formula e descrizione verbale.
 
-### Geometria analitica e coniche
+### Luoghi geometrici e coniche
 
-**Subtotale: 27 h.**
+**Subtotale: 29 h.**
 
-- **8 h** — Ricavare distanza, punto medio e relazioni tra rette; passare da vincoli geometrici a equazioni.
-- **11 h** — Studiare circonferenza e parabola come luoghi; introdurre ellisse e iperbole dove coerente con il percorso e i prerequisiti.
-- **8 h** — Discutere intersezioni e tangenze, controllando la costruzione con un disegno e con il calcolo.
+- **7 h** — Riprendere distanze, punti medi e rette; usare vettori e prodotto scalare per parallelismo e perpendicolarità.
+- **12 h** — Studiare parabola e circonferenza come luoghi geometrici; ricavare equazioni da dati e verificare intersezioni e tangenze.
+- **10 h** — Confrontare ellisse e iperbole, fuochi e assi, con costruzioni e semplici equazioni; distinguere verifica grafica e dimostrazione.
 
-### Successioni e processi discreti
+### Successioni e ragionamento
 
 **Subtotale: 13 h.**
 
-- **4 h** — Descrivere una successione con formula esplicita e ricorrenza; calcolare e confrontare i primi termini.
-- **5 h** — Usare progressioni aritmetiche e geometriche e somme finite in un problema di accumulazione.
-- **4 h** — Esaminare la differenza fra incremento costante e incremento percentuale; motivare la validità di una formula con un ragionamento generale.
+- **7 h** — Confrontare formule esplicite e ricorrenze, progressioni aritmetiche e geometriche; calcolare somme finite.
+- **6 h** — Usare un esempio di induzione matematica, distinguendolo dalla generalizzazione di pochi dati; applicare una progressione a un’accumulazione.
 
 ### Esponenziali e logaritmi
 
-**Subtotale: 24 h.**
+**Subtotale: 23 h.**
 
-- **7 h** — Interpretare base, esponente e condizioni del logaritmo; confrontare crescita e decadimento.
-- **10 h** — Risolvere equazioni e disequazioni elementari rispettando domini e monotonia.
-- **7 h** — Stimare un tempo di raddoppio o dimezzamento e discutere per quali intervalli il modello descrive i dati.
+- **8 h** — Costruire esponenziale e logaritmo come funzioni inverse, precisando domini, basi e monotonia.
+- **8 h** — Risolvere equazioni e disequazioni semplici, confrontando forma simbolica e grafico; usare anche scale semilogaritmiche.
+- **7 h** — Studiare crescita, decadimento e tempi di raddoppio; introdurre il numero e e i limiti di un modello ricavato da dati.
 
-### Dati a due variabili e modelli
+### Dati bivariati e modelli
 
-**Subtotale: 15 h.**
+**Subtotale: 14 h.**
 
-- **5 h** — Costruire distribuzioni congiunte, marginali e condizionate e diagrammi di dispersione.
-- **6 h** — Calcolare indicatori di dispersione e confrontare una retta di regressione con i residui dei dati.
-- **4 h** — Distinguere associazione, causalità ed estrapolazione; indicare quali altre informazioni servirebbero per sostenere una spiegazione.
+- **6 h** — Costruire distribuzioni congiunte, marginali e condizionate; confrontare medie, varianza e deviazione standard.
+- **8 h** — Studiare correlazione, regressione lineare e residui con strumenti di calcolo; distinguere associazione, causalità ed estrapolazione.
 
 ### Declinazione per il percorso
 
@@ -74,10 +78,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **13 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **13 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 26 h.**
 
-**Totale del piano: 132 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **13 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **13 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 132 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

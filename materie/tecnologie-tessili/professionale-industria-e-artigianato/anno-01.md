@@ -24,42 +24,81 @@ Tecnologie tessili. Istruzione professionale, Industria e artigianato per il Mad
 
 Il biennio prevede Tecnologie, disegno e progettazione. Per una declinazione tessile la A-44 rientra tra le classi individuate dall’allegato 3C. [Quadro nazionale degli insegnamenti professionali, allegato 3C al DM 33/2020](https://www.istruzioneer.gov.it/wp-content/uploads/2024/09/3C-Industria-e-artigianato-per-il-Made-in-Italy-QO-biennio-triennio.pdf).
 
+
+## Prerequisiti e progressione
+
+Misure, osservazione e rappresentazione semplice; nessuna modellistica presupposta.
+
+**Esito atteso a fine anno:** Descrivere un manufatto tessile e produrne una rappresentazione con materiali e misure coerenti.
+
+Le unità seguono l’ordine delle dipendenze; i blocchi dei diversi insegnamenti possono procedere in parallelo. Per il progetto comune, prima si definiscono requisiti e linguaggio, poi si eseguono prove e produzione, infine si controllano e presentano i risultati. Il docente concorda i raccordi e adatta le attività ai mezzi disponibili.
+
 ## Programma proposto
 
-**Tempi Tentative della proposta IA.** La distribuzione usa lo scenario di 99 ore dichiarato sopra. Ogni punto comprende spiegazioni, esercitazioni guidate e lavoro applicativo progressivo, anche ripetuto su casi diversi; le ore non sono la durata di un solo esercizio. I compiti, le prove e le attività descritti più avanti sono già compresi nei tempi qui assegnati.
+**Tempi Tentative della proposta IA — scenario di 99 ore.** Ogni blocco conserva il budget della propria disciplina. Le ore dei punti comprendono introduzione, esercizi graduati, applicazione e breve restituzione; non indicano la durata di un solo gesto. La diagnosi iniziale, le prove valutate e il recupero sono esplicitamente conteggiati. Le produzioni comuni non si contano due volte: ciascun insegnamento realizza e valuta la fase descritta nel proprio blocco. Compiti e prove richiamati dopo il programma rientrano nei tempi seguenti.
 
-### Lettura del manufatto — 15 ore
+| Insegnamento nello scenario | Nuclei e applicazioni | Diagnosi, verifiche e recupero | Totale |
+| --- | ---: | ---: | ---: |
+| Tecnologie, disegno e progettazione | 84 | 15 | 99 |
 
-- **7 ore** — Riconoscere corpo, fodera, chiusure e unioni di una borsa o di un astuccio semplice.
-- **8 ore** — Descrivere funzione e posizione di ogni parte con parole e disegni coerenti.
+### D1 · Tecnologie, disegno e progettazione — 99 ore
 
-### Misure e viste — 14 ore
+#### D1.0 · Diagnosi e raccordo — 3 ore
 
-- **6 ore** — Rilevare dimensioni e scegliere le viste necessarie a rappresentare l'oggetto.
-- **8 ore** — Usare unità, scala e quote evitando misure ricavate da fotografie senza riferimento.
+- **3 ore** — Verificare i prerequisiti dichiarati con una breve prova applicata a questo insegnamento; correggere i passaggi essenziali prima della prima unità e individuare il recupero necessario.
 
-### Campioni e scelta del materiale — 14 ore
+#### D1.1 · Manufatto e funzione — 18 ore
 
-- **6 ore** — Confrontare spessore e flessibilità di campioni numerati con prove ripetibili.
-- **8 ore** — Motivare una scelta rispetto alla funzione del manufatto e segnalare dati mancanti.
+- **4 ore** — Riconoscere parti e destinazione d’uso.
+- **4 ore** — Distinguere materiali, struttura e decorazione.
+- **6 ore** — Confrontare prodotti per funzione e praticità.
+- **4 ore** — Descrivere un campione con lessico essenziale.
 
-### Sagoma e prova — 13 ore
+#### D1.2 · Misure e rappresentazione — 21 ore
 
-- **6 ore** — Costruire una sagoma in carta e confrontarla con il disegno quotato.
-- **7 ore** — Annotare modifiche e controllare la corrispondenza tra dimensioni progettate e ottenute.
+- **4 ore** — Rilevare dimensioni con unità coerenti.
+- **5 ore** — Disegnare viste e particolari.
+- **6 ore** — Usare scale, proporzioni e quote.
+- **6 ore** — Controllare corrispondenza fra disegno e manufatto.
 
-### Attività di laboratorio e applicazione — 23 ore
+#### D1.3 · Materiali e campioni — 21 ore
 
-- **10 ore** — Riconoscere i componenti di un semplice astuccio o di una borsa in tessuto. Usare scala, unità di misura e simboli ricorrenti nel disegno tecnico.
-- **13 ore** — Riprodurre due viste quotate e una sagoma in carta. Scegliere il campione più adatto verificando spessore e flessibilità.
+- **4 ore** — Distinguere fibre, filati e tessuti da schede.
+- **5 ore** — Osservare trama, ordito e comportamento.
+- **6 ore** — Confrontare campioni per un impiego semplice.
+- **6 ore** — Registrare proprietà e limiti delle osservazioni.
 
-### Verifiche, recupero e consolidamento — 20 ore
+#### D1.4 · Sagoma e proposta — 24 ore
 
-- **10 ore** — Valutazione e restituzione delle attività, con l’eventuale prova autonoma descritta nella scheda; la produzione degli elaborati già prevista nei nuclei non si conteggia di nuovo.
-- **6 ore** — Recupero mirato, correzione degli errori e nuova prova dei passaggi non acquisiti.
-- **4 ore** — Consolidamento, raccordi fra attività e riserva per adattamenti al ritmo della classe.
+- **4 ore** — Definire una piccola consegna progettuale.
+- **6 ore** — Disegnare sagome e riferimenti.
+- **8 ore** — Realizzare una prova di carta o tessuto con strumenti autorizzati.
+- **6 ore** — Presentare scheda e revisione del risultato.
 
-**Totale della proposta: 99 ore = 79 ore nei nuclei e nelle applicazioni + 20 ore per verifiche, recupero e consolidamento.** Documentazione, sicurezza, accessibilità e confronto fra versioni accompagnano le attività in cui sono richiamati: non generano un ulteriore monte ore oltre ai punti indicati.
+#### D1.5 · Verifiche, restituzione e recupero — 12 ore
+
+- **3 ore** — Svolgere prove intermedie sui nuclei del blocco, con consegne comparabili agli esercizi svolti e criteri espliciti.
+- **3 ore** — Valutare la prova finale o la fase di progetto di questo insegnamento, restituendo gli esiti senza ripetere la produzione già conteggiata.
+- **3 ore** — Recuperare in modo guidato gli errori emersi, differenziando esercizi e supporti.
+- **3 ore** — Verificare il recupero e consolidare i passaggi necessari alla prosecuzione; questa è anche la riserva per adattamenti al ritmo della classe.
+
+**Subtotale D1: 99 ore = 84 ore di nuclei e applicazioni + 3 ore di diagnosi + 6 ore di verifiche/restituzione + 6 ore di recupero/consolidamento.**
+
+**Totale della proposta: 99 ore = 84 ore nei nuclei e nelle applicazioni + 15 ore di diagnosi, verifiche, recupero e consolidamento.** Sicurezza, accessibilità, documentazione e lessico tecnico sono integrati nei punti che li richiamano e non generano ore aggiuntive. Le ore per tema sono scelte progettuali IA, da rivedere dopo le prime evidenze della classe.
+
+## Applicazioni conservate e varianti
+
+Le consegne della versione precedente restano disponibili nel repertorio seguente. I loro nuclei sono sviluppati nelle unità del programma; le formulazioni operative sono **esempi alternativi, non ulteriori attività da sommare**. Se si sceglie una variante, essa sostituisce un’esercitazione o una fase di progetto del blocco competente entro le ore già assegnate. Eventuali anticipazioni si affrontano solo dopo i prerequisiti indicati.
+
+**Lettura del manufatto.** Riconoscere corpo, fodera, chiusure e unioni di una borsa o di un astuccio semplice. Descrivere funzione e posizione di ogni parte con parole e disegni coerenti.
+
+**Misure e viste.** Rilevare dimensioni e scegliere le viste necessarie a rappresentare l'oggetto. Usare unità, scala e quote evitando misure ricavate da fotografie senza riferimento.
+
+**Campioni e scelta del materiale.** Confrontare spessore e flessibilità di campioni numerati con prove ripetibili. Motivare una scelta rispetto alla funzione del manufatto e segnalare dati mancanti.
+
+**Sagoma e prova.** Costruire una sagoma in carta e confrontarla con il disegno quotato. Annotare modifiche e controllare la corrispondenza tra dimensioni progettate e ottenute.
+
+**Attività di laboratorio e applicazione.** Riconoscere i componenti di un semplice astuccio o di una borsa in tessuto. Usare scala, unità di misura e simboli ricorrenti nel disegno tecnico. Riprodurre due viste quotate e una sagoma in carta. Scegliere il campione più adatto verificando spessore e flessibilità.
 
 ## Prova di apprendimento
 
@@ -80,3 +119,6 @@ Il professionale richiede il raccordo con la declinazione produttiva e con il cu
 - [Tecnologie applicate ai Materiali e ai Processi Produttivi 1, quarta edizione, ISBN 9788884885104](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-1/) — Editrice San Marco / Cosetta Grana; Sezione Contenuti e struttura dell'opera.
 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md).
+
+
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.

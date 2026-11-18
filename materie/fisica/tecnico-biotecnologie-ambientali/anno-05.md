@@ -29,40 +29,52 @@ I monti annui sono nominali ordinamentali. «Media equivalente» significa monte
 
 Per le coorti in continuità si usa la direttiva 4/2012; il nuovo ordinamento raggiunge la terza dal 2028/29. La proposta mantiene distinti obiettivi previgenti e nuovi quadri e va raccordata con chimica e biotecnologie.
 
+**Prerequisiti e progressione.** Dalla quarta: onde e lettura dei livelli, dalla terza: energia e bilanci; dal biennio: carica, circuiti e campi da verificare nel primo nucleo elettromagnetico. Richiamare esponenziali/logaritmi prima dei decadimenti e massa-energia prima di fissione/fusione; raccordare ossidoriduzione con chimica prima delle celle a idrogeno. Le eventuali lacune iniziali si trattano nella riserva o sostituendo un approfondimento, con nuova verifica della somma.
+
+**Uso dei tempi e delle attività.** Il quadro futuro rimane subordinato al coordinamento normativo indicato nella tabella; il budget B non prova equivalenza di approfondimento con A. I dati dell’attività conclusiva sono raccolti o preparati nei nuclei e riutilizzati nel rapporto. Le ore di laboratorio includono allestimento, controlli e interpretazione; la riserva finanzia verifica e recupero. I confronti regolatori richiedono fonte, indicatore e ambito effettivamente applicabili, senza certificare un ambiente reale.
+
+[Motivi della revisione critica e limiti](../../../docs/ricerca-ai/revisione-critica-fisica.md).
+
 ### Rumore e rappresentatività dei dati
 
-**Subtotale del nucleo: 12 / 8 ore (A / B).**
+**Subtotale del nucleo: 6 / 4 ore (A / B).**
 
-- **6 / 4 ore.** Riprendere frequenza, intensità, livelli e propagazione del suono, distinguendo misure istantanee e aggregate.
-- **6 / 4 ore.** Leggere un insieme di dati acustici con posizione, durata e condizioni della misura; non confrontare automaticamente indicatori diversi.
+- **3 / 2 ore.** Riprendere frequenza, intensità, livelli e propagazione del suono, distinguendo misure istantanee e aggregate.
+- **3 / 2 ore.** Leggere un insieme di dati acustici con posizione, durata e condizioni della misura; non confrontare automaticamente indicatori diversi.
+
 
 ### Campi elettromagnetici
 
-**Subtotale del nucleo: 12 / 8 ore (A / B).**
+**Subtotale del nucleo: 18 / 12 ore (A / B).**
 
-- **6 / 4 ore.** Distinguere campi a bassa frequenza e radiofrequenze, sorgenti e grandezze misurate.
-- **6 / 4 ore.** Descrivere propagazione, interazione con la materia e funzionamento generale dei sensori; separare misura, modello e valutazione dell’esposizione.
+- **6 / 4 ore.** Richiamare campo elettrico e magnetico, sorgenti e unità; distinguere campo quasi statico e onda irradiata prima di confrontare basse frequenze e radiofrequenze.
+- **6 / 4 ore.** Descrivere produzione, propagazione e interazione con la materia; confrontare frequenza, intensità e potenza trasportata in un esempio controllato.
+- **6 / 4 ore.** Leggere la risposta di un sensore e un protocollo con banda e distanza; separare misura, modello e valutazione dell’esposizione e identificare il pertinente riferimento regolatorio.
+
 
 ### Radiazioni ionizzanti e decadimenti
 
 **Subtotale del nucleo: 12 / 8 ore (A / B).**
 
-- **6 / 4 ore.** Confrontare radiazioni alfa, beta e gamma e leggere una legge di decadimento con tempo di dimezzamento.
+- **6 / 4 ore.** Confrontare decadimenti alfa, beta e gamma, tempo di dimezzamento e famiglie radioattive; leggere una catena e una curva esponenziale, distinguendo attività del progenitore e dei prodotti.
 - **6 / 4 ore.** Distinguere attività, dose assorbita e grandezze di protezione radiologica; usare le unità appropriate senza dedurre una valutazione sanitaria da un solo numero.
+
 
 ### Radon e misure ambientali
 
 **Subtotale del nucleo: 12 / 8 ore (A / B).**
 
-- **6 / 4 ore.** Descrivere origine e diffusione del radon e interpretare dati di concentrazione con durata, luogo e condizioni del campionamento.
+- **6 / 4 ore.** Descrivere origine e diffusione del radon e interpretare dati di concentrazione con durata, luogo e condizioni del campionamento. Collegare la catena dell’uranio, il trasporto dal suolo e i prodotti del decadimento senza confondere gas e particolato.
 - **6 / 4 ore.** Confrontare variabilità temporale e spaziale, limiti strumentali e rappresentatività; usare dati pubblici con metadati e riferimenti verificabili.
+
 
 ### Nucleare e bilanci di trasformazione
 
 **Subtotale del nucleo: 10 / 8 ore (A / B).**
 
 - **5 / 4 ore.** Descrivere fissione, fusione ed energia di legame, collegando i principi a una catena di produzione energetica.
-- **5 / 4 ore.** Distinguere funzionamento fisico, gestione dei materiali e valutazioni ambientali; gli approfondimenti quantitativi dipendono dal percorso svolto.
+- **5 / 4 ore.** Ricostruire il funzionamento di una centrale nucleare: reazione, controllo, refrigerazione e conversione termoelettrica; distinguere gestione dei materiali e fattori di rischio ambientale.
+
 
 ### Idrogeno e celle a combustibile
 
@@ -71,11 +83,12 @@ Per le coorti in continuità si usa la direttiva 4/2012; il nuovo ordinamento ra
 - **5 / 3 ore.** Ricostruire produzione, stoccaggio e conversione dell’idrogeno, distinguendolo da una fonte primaria.
 - **5 / 3 ore.** Spiegare il principio della cella a combustibile e un bilancio di efficienza in raccordo con chimica; discutere le ipotesi del confronto con altre tecnologie.
 
+
 ### Rapporto su dati ambientali
 
 **Subtotale del nucleo: 13 / 8 ore (A / B).**
 
-- **8 / 5 ore.** Costruire una relazione che separi misure, inferenze, incertezze e domande ancora aperte.
+- **8 / 5 ore.** Elaborare un solo dataset acustico, elettromagnetico oppure radiologico già discusso, con mappa/grafico, metadati e incertezze; separare misure e inferenze. In B usare dati predisposti, in A confrontare anche una seconda campagna.
 - **5 / 3 ore.** Identificare quale norma e quale indicatore servirebbero per un confronto regolatorio, verificandoli per luogo e data prima dell’uso; il compito proposto non certifica conformità.
 
 ### Riserva per consolidamento e valutazione

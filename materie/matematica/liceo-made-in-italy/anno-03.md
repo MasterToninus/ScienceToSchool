@@ -20,57 +20,59 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 **Funzioni, domanda e offerta.** Gli obiettivi di matematica sono nell’[allegato 2 al DPR 222/2024](https://www.gazzettaufficiale.it/eli/id/2025/02/19/25G00020/SG). La scansione delle unità e la prova seguente sono proposte redazionali.
 
+## Prerequisiti, sequenza e sostenibilità
+
+Consolidare secondo grado, disequazioni, rette e similitudine. La geometria analitica usa prima queste basi; i modelli successivi richiedono dominio e funzioni. Le ore comprendono spiegazione, esercizio guidato e autonomo in classe e controllo formativo; le prove sommative e il recupero sono nella riserva. La riserva iniziale serve anche alla diagnosi: se non basta, semplificare le applicazioni e rimodulare con il dipartimento, senza fingere che gli obiettivi siano già acquisiti. Le attività successive sono esempi entro lo stesso budget.
+
+[Esito della revisione critica e fonti](../../../docs/ricerca-ai/revisione-critica-matematica.md).
+
 ## Programma proposto per nuclei tematici
 
 **Ripartizione Tentative generata dall’IA:** **99 ore** (percorso della scheda). I tempi comprendono spiegazione, esercitazioni e attività sul tema; le verifiche complessive e il recupero hanno una riserva distinta. La distribuzione per punto è una proposta di progettazione, non una prescrizione delle fonti. Percorso di lavoro, unità integrate e compito finale descritti più avanti utilizzano queste stesse ore e non si sommano.
 
-### Funzioni e rappresentazioni
-
-**Subtotale: 17 h.**
-
-- **5 h** — Determinare dominio, immagine, zeri e segno di funzioni semplici, distinguendo la funzione dalla sua formula.
-- **7 h** — Studiare composizione, inversione e trasformazioni del grafico; verificare quando l'inversa è effettivamente una funzione.
-- **5 h** — Confrontare una descrizione verbale, una tabella e un grafico e indicare le informazioni perse in ogni rappresentazione.
-
-### Geometria analitica e coniche
+### Algebra, funzioni e rappresentazioni
 
 **Subtotale: 16 h.**
 
-- **5 h** — Ricavare distanza, punto medio e relazioni tra rette; passare da vincoli geometrici a equazioni.
-- **6 h** — Studiare circonferenza e parabola come luoghi; introdurre ellisse e iperbole dove coerente con il percorso e i prerequisiti.
-- **5 h** — Discutere intersezioni e tangenze, controllando la costruzione con un disegno e con il calcolo.
+- **6 h** — Consolidare divisione fra polinomi, teorema del resto e scomposizioni; risolvere equazioni e disequazioni razionali semplici con condizioni esplicite.
+- **5 h** — Determinare dominio, zeri e segno di funzioni polinomiali, razionali, irrazionali e con valore assoluto in casi semplici.
+- **5 h** — Studiare composizione, inversa e trasformazioni dei grafici; confrontare tabella, formula e descrizione verbale.
 
-### Successioni e processi discreti
+### Luoghi geometrici e coniche
 
-**Subtotale: 8 h.**
+**Subtotale: 19 h.**
 
-- **3 h** — Descrivere una successione con formula esplicita e ricorrenza; calcolare e confrontare i primi termini.
-- **3 h** — Usare progressioni aritmetiche e geometriche e somme finite in un problema di accumulazione.
-- **2 h** — Esaminare la differenza fra incremento costante e incremento percentuale; motivare la validità di una formula con un ragionamento generale.
+- **5 h** — Riprendere distanze, punti medi e rette; usare vettori e prodotto scalare per parallelismo e perpendicolarità.
+- **8 h** — Studiare parabola e circonferenza come luoghi geometrici; ricavare equazioni da dati e verificare intersezioni e tangenze.
+- **6 h** — Confrontare ellisse e iperbole, fuochi e assi, con costruzioni e semplici equazioni; distinguere verifica grafica e dimostrazione.
 
-### Modelli finanziari elementari
+### Successioni e ragionamento
+
+**Subtotale: 7 h.**
+
+- **4 h** — Confrontare formule esplicite e ricorrenze, progressioni aritmetiche e geometriche; calcolare somme finite.
+- **3 h** — Usare un esempio di induzione matematica, distinguendolo dalla generalizzazione di pochi dati; applicare una progressione a un’accumulazione.
+
+### Modelli finanziari
+
+**Subtotale: 11 h.**
+
+- **6 h** — Confrontare interesse semplice e composto dopo progressioni e potenze; calcolare montante e valore attuale con unità coerenti.
+- **5 h** — Costruire rendite o un piano di versamenti con un foglio di calcolo; calcolare numericamente il tempo se i logaritmi non sono ancora acquisiti.
+
+### Modelli economici senza derivate
 
 **Subtotale: 14 h.**
 
-- **4 h** — Confrontare interesse semplice e composto con tempi e tassi espressi in unità coerenti.
-- **6 h** — Calcolare montante e valore attuale e costruire un piano di versamenti con un foglio di calcolo.
-- **4 h** — Confrontare due alternative in uno scenario didattico dichiarato, distinguendo ipotesi sui tassi, costi accessori e risultati garantiti dal modello.
+- **7 h** — Descrivere domanda, offerta, costi, ricavi e utile con funzioni lineari o quadratiche; individuare equilibrio e pareggio con sistemi.
+- **7 h** — Confrontare utilità, consumo, reddito e risparmio in un piccolo modello; usare differenze finite per grandezze marginali, riservando le derivate alla quinta.
 
-### Domanda, costi e ricavi
+### Dati bivariati e modelli
 
-**Subtotale: 14 h.**
+**Subtotale: 12 h.**
 
-- **4 h** — Costruire modelli di domanda e offerta e interpretare un equilibrio come soluzione di un sistema.
-- **6 h** — Distinguere costo fisso, variabile, medio e marginale; esplicitare il dominio economico di ogni funzione.
-- **4 h** — Esaminare un punto di pareggio o un massimo di utile e verificare come cambia modificando un parametro.
-
-### Dati a due variabili e modelli
-
-**Subtotale: 10 h.**
-
-- **3 h** — Costruire distribuzioni congiunte, marginali e condizionate e diagrammi di dispersione.
-- **4 h** — Calcolare indicatori di dispersione e confrontare una retta di regressione con i residui dei dati.
-- **3 h** — Distinguere associazione, causalità ed estrapolazione; indicare quali altre informazioni servirebbero per sostenere una spiegazione.
+- **6 h** — Costruire distribuzioni congiunte, marginali e condizionate; confrontare medie, varianza e deviazione standard.
+- **6 h** — Studiare correlazione, regressione lineare e residui con strumenti di calcolo; distinguere associazione, causalità ed estrapolazione.
 
 ### Declinazione per il percorso
 
@@ -80,10 +82,12 @@ Il monte annuo è ordinamentale; la corrispondenza settimanale usa 33 settimane 
 
 ### Verifiche, restituzione e recupero
 
-- **10 h** — Verifiche di sintesi e restituzione ragionata, incluso il compito conclusivo della scheda.
-- **10 h** — Recupero dei prerequisiti, consolidamento e rimodulazione in base agli apprendimenti.
+**Subtotale: 20 h.**
 
-**Totale del piano: 99 h.** I tempi vanno ricalibrati sul calendario effettivo e sulla classe.
+- **10 h** — Prove di sintesi, compito conclusivo e restituzione degli errori.
+- **10 h** — Diagnosi iniziale, recupero mirato e consolidamento prima di avanzare.
+
+**Totale del piano: 99 h.** Ore stimate dall’IA, da verificare nella classe e sul calendario effettivo.
 
 ## Percorso di lavoro
 

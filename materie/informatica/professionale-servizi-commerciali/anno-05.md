@@ -18,9 +18,11 @@ Le compresenze ITP sono già comprese nei monte ore: non si sommano come ore ult
 
 ### Scenari della distribuzione proposta
 
-- **Unico**: Ipotesi di Informatica attivata per 99 ore annue (estremo superiore del quadro), da verificare nel PTOF.
+- **Ipotesi PTOF: 99 ore**: 99 = **99 ore**; Informatica 99 ore.
 
-La distribuzione per punti qui sotto è una **proposta didattica IA**, non una ripartizione ministeriale per argomento. Ogni scenario è autonomo; non sommare le colonne o i rami alternativi. **0 ore** significa punto non previsto in quello scenario, conservato per il percorso alternativo. Le frasi introduttive e i criteri trasversali orientano il lavoro e non aggiungono ore. Laboratori, attività, verifiche e progetti descritti dopo il programma sono già compresi nei punti e nella riserva; non generano un secondo budget.
+Le ore per tema sono una **proposta didattica IA Tentative**, comprensiva di spiegazione, esercizi guidati, pratica e documentazione. Ogni scenario è alternativo e ogni disciplina conserva il proprio budget. Le unità interdisciplinari dividono compiti e ore fra docenti; non si contano due volte. Per nuovi quadri in transizione e quote di autonomia valgono le riserve normative e le ipotesi PTOF dichiarate sopra.
+
+I punti sono unità di lavoro distribuite su più lezioni, non lezioni frontali continue. La riserva comprende diagnosi, verifiche, restituzione e recupero e si utilizza durante l’anno. Le attività descritte dopo il programma riutilizzano questi tempi. Letture, esempi di settore e criteri trasversali non aggiungono un secondo monte ore.
 
 [Informatica nei Servizi commerciali](README.md)
 
@@ -28,38 +30,59 @@ Verificare ore, declinazione e profilo nel curricolo di istituto. La proposta se
 
 ## Programma proposto per nuclei tematici
 
-Rappresentare un processo che coinvolge più uffici, collegare le registrazioni con identificativi coerenti e produrre una sintesi per ruolo. Documentare accessi e conservazione dei dati.
+**Prerequisiti e avvio.** Dalla quarta: tabelle collegate, riepiloghi, ruoli e pagine personalizzate. Il processo fra uffici riusa strumenti già noti.
 
-### Processi integrati — 18 ore
+**Raccordo e progressione.** Uso professionale progressivamente autonomo; il quadro 0–99 ore richiede attivazione effettiva dell’insegnamento nel PTOF.
 
-- **10 ore** — Mappare ordine, magazzino e assistenza, individuando ruoli e passaggi informativi.
-- **8 ore** — Riconoscere gli aggiornamenti coordinati necessari quando cambiano disponibilità, stato dell’ordine o richiesta del cliente.
+L’ordine dei nuclei indica una dipendenza didattica; un progetto finale riusa conoscenze già esercitate. Prima di procedere, la verifica del nucleo controlla una prestazione osservabile, un esempio risolto e un errore da correggere. Se manca un prerequisito, usare il recupero e ridurre gli approfondimenti, non comprimere i passaggi fondamentali.
 
+### Scenario 1 — Ipotesi PTOF: 99 ore
 
-### Archivi e applicativi — 22 ore
+#### S1D1 · Informatica — 99 ore
 
-- **12 ore** — Collegare clienti, ordini, righe e prodotti con identificativi stabili e regole di validazione.
-- **10 ore** — Personalizzare un modello o un applicativo, documentando ingressi, operazioni e risultati attesi.
+##### S1D1N1 · Processi integrati — 22 ore
 
+- **8 ore** — Mappare ordini, magazzino e assistenza con responsabilità distinte.
+- **8 ore** — Collegare clienti, righe d’ordine e prodotti con vincoli.
+- **6 ore** — Analizzare effetti di modifiche e annullamenti.
 
-### Reti e accessi — 22 ore
+##### S1D1N2 · Applicativo gestionale — 22 ore
 
-- **12 ore** — Descrivere la rete e i servizi utilizzati, distinguendo archiviazione locale e condivisa.
-- **10 ore** — Proporre ruoli di lettura e modifica, copie e conservazione dei dati da validare con il responsabile del servizio.
+- **8 ore** — Personalizzare un modello o ambiente dimostrativo per più uffici.
+- **8 ore** — Importare dati e produrre riepiloghi per ruoli diversi.
+- **6 ore** — Verificare casi normali, prodotto mancante e assistenza.
 
+##### S1D1N3 · Servizi e protezione — 22 ore
 
-### Collaudo e consegna — 22 ore
+- **8 ore** — Descrivere rete, condivisione e servizi usati dal processo.
+- **8 ore** — Definire ruoli, backup e conservazione da sottoporre al responsabile.
+- **6 ore** — Distinguere rischio tecnico e obblighi da verificare sul caso.
 
-- **12 ore** — Verificare ordine normale, annullamento, prodotto mancante e richiesta di assistenza con dati sintetici.
-- **10 ore** — Produrre riepiloghi per ruoli diversi e consegnare istruzioni, limiti del prototipo e traccia delle modifiche.
+##### S1D1N4 · Consegna professionale — 20 ore
 
-### Riserva e quadratura
+- **8 ore** — Preparare un progetto documentato con requisiti e indicatori.
+- **6 ore** — Collaudare concordanza fra registrazioni e report.
+- **6 ore** — Presentare istruzioni, limiti e piano di aggiornamento.
 
-- **15 ore** — Verifica integrata, restituzione degli errori, recupero e adattamento dei tempi; le esercitazioni specifiche sono già nei punti tematici.
+##### S1D1R · Verifica, restituzione e recupero — 13 ore
 
-| Scenario | Punti tematici | Riserva | Totale proposto |
-| --- | ---: | ---: | ---: |
-| Unico | 84 | 15 | **99 ore** |
+- **4 ore** — Diagnosi iniziale e verifiche individuali sui risultati dei nuclei, distribuite nell’anno.
+- **4 ore** — Restituzione ragionata, correzione degli errori e nuova prova su un caso analogo.
+- **5 ore** — Recupero mirato e adattamento dei tempi sui prerequisiti emersi; eventuale consolidamento per chi li padroneggia.
+
+**Quadratura S1D1:** 86 ore di nuclei + 13 ore di verifica, restituzione e recupero = **99 ore**.
+
+### Quadratura complessiva
+
+| Scenario | Disciplina | Nuclei | Verifiche e recupero | Totale |
+| --- | --- | ---: | ---: | ---: |
+| Ipotesi PTOF: 99 ore | Informatica | 86 | 13 | **99 ore** |
+
+**Totale Ipotesi PTOF: 99 ore: 99 ore.**
+
+**Fondamento e limite della revisione.** [DD 1400/2019, risultati intermedi Servizi commerciali, competenza 2, pp. 3–4](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-SERVIZI-COMMERCIALI.pdf). Gli obiettivi della fonte orientano la copertura; ordine annuale, unità, esempi e tempi sono proposte redazionali. [Criteri, criticità e verifica delle 50 schede](../../../docs/ricerca-ai/revisione-critica-informatica-elettronica.md).
+
+**Uso delle attività successive.** Il laboratorio seguente è una possibile consegna applicativa dei nuclei già finanziati. Nei rami alternativi si svolge soltanto il caso pertinente; esercitazioni e verifica utilizzano le ore già assegnate, senza aggiungere un progetto obbligatorio indipendente.
 
 ## Laboratorio e verifica
 
@@ -82,3 +105,25 @@ Materiale di approfondimento per il docente, graduando i contenuti secondo le or
 - [MDN, Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content).
 
 [Catalogo della ricerca autonoma: perimetro, sezioni consultate e limiti](../../../docs/ricerca-ai/fonti-programmi/informatica.md). Consultazione: 18 novembre 2026. I materiali tecnici sostengono gli approfondimenti; non definiscono da soli un programma obbligatorio né certificano l’assegnazione della disciplina.
+
+## Raccordo con le tracce applicative precedenti
+
+<details>
+<summary>Contenuti conservati per confronto e scelta degli esempi</summary>
+
+Queste tracce conservano la stesura precedente; non sono un secondo programma e non hanno ore aggiuntive. Si selezionano come esempi all’interno delle unità pertinenti sopra, nella sola articolazione frequentata. Le varianti di settore richiedono il PTOF; eventuali approfondimenti eccedenti il nucleo si sostituiscono ad altri esempi nelle stesse ore, senza presentarli come obiettivi nazionali ulteriori.
+
+Rappresentare un processo che coinvolge più uffici, collegare le registrazioni con identificativi coerenti e produrre una sintesi per ruolo. Documentare accessi e conservazione dei dati.
+
+| Traccia originaria | Uso nel piano rivisto |
+| --- | --- |
+| Mappare ordine, magazzino e assistenza, individuando ruoli e passaggi informativi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Riconoscere gli aggiornamenti coordinati necessari quando cambiano disponibilità, stato dell’ordine o richiesta del cliente. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Collegare clienti, ordini, righe e prodotti con identificativi stabili e regole di validazione. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Personalizzare un modello o un applicativo, documentando ingressi, operazioni e risultati attesi. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Descrivere la rete e i servizi utilizzati, distinguendo archiviazione locale e condivisa. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Proporre ruoli di lettura e modifica, copie e conservazione dei dati da validare con il responsabile del servizio. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Verificare ordine normale, annullamento, prodotto mancante e richiesta di assistenza con dati sintetici. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+| Produrre riepiloghi per ruoli diversi e consegnare istruzioni, limiti del prototipo e traccia delle modifiche. | Esempio o criterio trasversale nelle unità della stessa materia e del ramo selezionato; tempi già inclusi. |
+
+</details>
