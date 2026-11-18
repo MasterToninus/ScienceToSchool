@@ -16,3 +16,7 @@ Nelle terze, quarte e quinte del 2026/27 si applica ancora il percorso previgent
 - [D.M. 71/2026, allegato 11, Trasporti e logistica](https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/allegati-direzione/allegati-direzione-2026/All.-11-TECNOLOGICO-TRASPORTI-LOGISTICA-signed.pdf)
 - [D.M. 29/2026, quadri orari e risultati di apprendimento](https://fc.istruzioneer.gov.it/2026/03/12/d-m-29-del-19-02-2026-riforma-istituti-tecnici-a-s-2026-27/)
 - [Requisiti per la A-33, nota 14](https://tulliobuzzi.edu.it/wp-content/uploads/2025/10/Allegato-A033_A036-requisiti.pdf)
+
+## Ricerca delle fonti
+
+Le schede annuali sono versioni Tentative generate tramite IA e da sottoporre a revisione docente. Il [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md) documenta la ricerca del 18 novembre 2026: fonti nazionali, coorti, programmazioni scolastiche effettivamente consultate, materiali didattici e limiti di accesso. La scansione annuale resta una proposta.

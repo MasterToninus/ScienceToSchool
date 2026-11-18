@@ -23,6 +23,12 @@ La cartella `D:\Codex\ScienceToSchool` è la precedente area di preparazione. Do
 | Programma | `materie/<materia>/<scuola-o-indirizzo>/README.md` descrive il perimetro e collega ogni anno. `anno-01.md`, `anno-02.md` e così via seguono gli anni della scuola in cui si insegna la materia. Per un CPIA usa i periodi didattici previsti e spiegali nel sotto-README. |
 | Interazioni e disclosure | Usa sempre [docs/interazioni-ai/registro.md](docs/interazioni-ai/registro.md). È l’unico registro Markdown cumulativo del progetto. La dichiarazione sintetica in apertura deriva dalle attività riportate nella tabella. |
 
+Ogni scheda di programma generata o ampliata con l’IA deve aprirsi, subito dopo il titolo, con il [banner condiviso AI-GENERATED DRAFT](docs/assets/ai-generated-draft.png), grande, rosso e in grassetto, e con l’avviso testuale **AI-GENERATED DRAFT — Versione Tentative generata tramite IA**, collegato alla riga pertinente del registro cumulativo. Mantieni lo stesso avviso nel README principale. Usa il PNG con testo alternativo descrittivo; il [sorgente SVG](docs/assets/ai-generated-draft.svg) ne conserva l’impaginazione modificabile. Conserva anche il testo e i link cliccabili fuori dall’immagine. La home deve precisare la natura preparatoria dell’esperimento; al 18/11/2026 l’autore riferisce che il proprio passaggio all’insegnamento non è ancora avvenuto e lo ritiene probabile al 99%. Organizza il programma in sottosezioni ed elenchi puntati, conservando attività e bibliografia. Collega le fonti per nome e URL e il catalogo disciplinare in `docs/ricerca-ai/fonti-programmi/`: distingui documenti effettivamente consultati, indici e risorse non accessibili, con data e perimetro. Le distribuzioni annuali proposte e le scelte di una scuola non vanno presentate come prescrizioni ministeriali.
+
+Ogni scheda deve riportare il **carico didattico** con ore settimanali e annue, fonte, disciplina, articolazione e coorte. Distingui monte annuale, biennale e per periodo CPIA; non attribuire a una materia l’intero contenitore integrato e non sommare le compresenze. Le forchette e le ripartizioni demandate alla scuola restano esplicite. Consulta il [rapporto sugli orari](docs/ricerca-ai/carico-didattico.md), compreso il limite di coordinamento tra DM 29/71 del 2026 e DL 170/2026.
+
+Assegna ore a ogni punto sostantivo del programma e un subtotale a ogni nucleo, dichiarando **budget, scenario e natura Tentative della distribuzione IA**. Includi verifiche, restituzione e recupero; controlla che la somma coincida con il budget. Rami e scenari alternativi non si sommano; i criteri trasversali usano ore già assegnate. Le attività descritte altrove nella scheda attuano lo stesso piano. Quando manca una quota annua nazionale, rendi esplicita l’ipotesi didattica utilizzata, da confermare sul piano della scuola. Le fonti normative non prescrivono le ore di ogni argomento.
+
 Prima di modificare un’assegnazione, rileggi il rapporto, la riga dell’indice e il sotto-README. Quando scuole o indirizzi condividono una cartella, esplicita quali contenuti e anni condividono e quali varianti occorrono. Controlla gli orari nel quadro dell’articolazione interessata.
 
 ## Ruolo di archivista
@@ -34,15 +40,17 @@ Prima di modificare un’assegnazione, rileggi il rapporto, la riga dell’indic
 
 ## Provenienza dei commit
 
+La policy globale comunicata dall’autore il 18/11/2026 richiede i prefissi `[AI]` e `[AI-Human]` per i nuovi messaggi e supera le grafie precedenti. Conserva letteralmente messaggi e registrazioni storiche. Una richiesta o approvazione non cambia da sola la provenienza del materiale.
+
 Quando proponi o crei un commit, anche di squash o merge, classifica l’origine delle modifiche effettive. Usa la grafia esatta e uno spazio dopo il prefisso. Il criterio vale anche quando l’autore copia il materiale o esegue personalmente il commit.
 
 | Prefisso | Quando usarlo | Esempio di oggetto |
 | --- | --- | --- |
-| `[Ai]` | L’IA ha prodotto il materiale. Una richiesta, la scelta fra due bozze, l’accettazione o la copia da parte dell’autore sono compatibili con questa attribuzione. | `[Ai] docs: aggiunge le proposte annuali di fisica` |
-| `[Ai-human]` | Una persona ha fornito contenuto sostanziale che l’IA ha riorganizzato, tradotto o integrato, oppure ha rielaborato in modo sostanziale una bozza dell’IA. | `[Ai-human] docs: organizza le motivazioni dettate dall’autore` |
+| `[AI]` | L’IA ha prodotto il materiale. Una richiesta, la scelta fra due bozze, l’accettazione o la copia da parte dell’autore sono compatibili con questa attribuzione. | `[AI] docs: aggiunge le proposte annuali di fisica` |
+| `[AI-Human]` | Una persona ha fornito contenuto sostanziale che l’IA ha riorganizzato, tradotto o integrato, oppure ha rielaborato in modo sostanziale una bozza dell’IA. | `[AI-Human] docs: organizza le motivazioni dettate dall’autore` |
 | Senza prefisso | Il contenuto è attribuibile interamente a lavoro umano. | `Corregge a mano un esempio di cinematica` |
 
-Il tag precede l’eventuale prefisso convenzionale come `docs:`. Per un commit che comprende contributi distinti, descrivili nel registro per materiale. Se li consegni insieme e il contributo umano al contenuto è sostanziale, usa `[Ai-human]`. Se l’origine è incerta, registra il dubbio e chiedi solo il dato necessario prima di proporre l’attribuzione definitiva. Applica la convenzione ai nuovi messaggi. L’autorizzazione a eseguire le operazioni Git segue le regole sotto.
+Il tag precede l’eventuale prefisso convenzionale come `docs:`. Per un commit che comprende contributi distinti, descrivili nel registro per materiale. Se li consegni insieme e il contributo umano al contenuto è sostanziale, usa `[AI-Human]`. Se l’origine è incerta, registra il dubbio e chiedi solo il dato necessario prima di proporre l’attribuzione definitiva. Applica la convenzione ai nuovi messaggi. L’autorizzazione a eseguire le operazioni Git segue le regole sotto.
 
 La revisione è un’informazione separata. Una persona che controlla e accetta una scheda generata dall’IA può averla verificata senza averne scritto il contenuto. Annota nel registro il controllo effettivo e il suo perimetro.
 

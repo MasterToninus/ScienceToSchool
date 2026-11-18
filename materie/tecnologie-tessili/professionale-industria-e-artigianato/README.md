@@ -23,3 +23,7 @@ Gli argomenti e le prove sono una proposta redazionale elaborata con assistenza 
 | [5° anno](anno-05.md) | Collaudare e documentare il prodotto |
 
 [Torna all’indice generale](../../../README.md)
+
+## Ricerca delle fonti
+
+Le schede annuali sono versioni Tentative generate tramite IA e da sottoporre a revisione docente. Il [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md) documenta la ricerca del 18 novembre 2026: fonti nazionali, coorti, programmazioni scolastiche effettivamente consultate, materiali didattici e limiti di accesso. La scansione annuale resta una proposta.

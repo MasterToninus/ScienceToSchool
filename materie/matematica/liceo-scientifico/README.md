@@ -23,3 +23,11 @@ Percorso ordinario, opzione Scienze applicate e sezione a indirizzo sportivo. Il
 - [Consultazione sulle nuove Indicazioni per i licei](https://umi.dm.unibo.it/nuove-indicazioni-nazionali-per-i-licei/)
 
 [Indice della materia](../README.md)
+
+## Ricerca autonoma e stato delle proposte
+
+Le schede sono versioni **Tentative generate tramite IA**, in attesa di revisione docente. Il [catalogo delle fonti](../../../docs/ricerca-ai/fonti-programmi/matematica.md) distingue documenti letti, pagine indice e risorse non accessibili. La [ricerca delle fonti](../../../docs/interazioni-ai/registro.md#ai-0014) e la [progettazione dei programmi](../../../docs/interazioni-ai/registro.md#ai-0003) sono documentate nell’unico registro cumulativo.
+
+## Carico didattico e tempi
+
+Le schede di anno o periodo riportano ore settimanali e monte ore, fonti e ripartizione Tentative dei tempi per punto. [Quadri e limiti per Matematica e scienze](../../../docs/ricerca-ai/carico-didattico-matematica.md) · [Metodo comune e coorti](../../../docs/ricerca-ai/carico-didattico.md).

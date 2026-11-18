@@ -28,3 +28,11 @@ Il DM 221 del 9 dicembre 2025 entra in applicazione dalle prime del 2026/27. Le 
 | [Terza](anno-03.md) | Algebra, funzioni, solidi, statistica e probabilità | Energia, onde, genetica, evoluzione, Terra e Universo | Confrontare il consumo di due dispositivi con un modello e dati |
 
 Le schede indicano i manuali per edizione. I rimandi ai capitoli sono legati al volume citato e vanno ricontrollati se la classe usa una diversa edizione.
+
+## Ricerca autonoma e stato delle proposte
+
+Le schede sono versioni **Tentative generate tramite IA**, in attesa di revisione docente. Il [catalogo delle fonti](../../../docs/ricerca-ai/fonti-programmi/matematica-e-scienze.md) distingue documenti letti, pagine indice e risorse non accessibili. La [ricerca delle fonti](../../../docs/interazioni-ai/registro.md#ai-0014) e la [progettazione dei programmi](../../../docs/interazioni-ai/registro.md#ai-0003) sono documentate nell’unico registro cumulativo.
+
+## Carico didattico e tempi
+
+Le schede di anno o periodo riportano carichi orari, fonti e ripartizione Tentative dei tempi per punto. [Quadri e limiti per Matematica e scienze](../../../docs/ricerca-ai/carico-didattico-matematica.md) · [Metodo comune e coorti](../../../docs/ricerca-ai/carico-didattico.md).

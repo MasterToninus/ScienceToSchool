@@ -15,3 +15,7 @@ I volumi consigliati sono manuali nautici di supporto. Integrare la selezione co
 - [D.M. 33/2020, allegato 3B, Pesca commerciale e produzioni ittiche](https://www.istruzioneer.gov.it/wp-content/uploads/2020/11/3B-Pesca-commerciale-e-produzioni-ittiche-QO-biennio-triennio.pdf)
 - [Profili, quadri orari e risultati intermedi dei professionali](https://www.istruzioneer.gov.it/nuovi-ip_aggiornato/assetto-normativo-riordino-ip/)
 - [Requisiti per la A-43, tabella trasmessa dall’amministrazione](https://servizi.istruzioneliguria.gov.it/assets/nazionali/20260922-a043-tabella-accesso.pdf)
+
+## Ricerca delle fonti
+
+Le schede annuali sono versioni Tentative generate tramite IA e da sottoporre a revisione docente. Il [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md) documenta la ricerca del 18 novembre 2026: fonti nazionali, coorti, programmazioni scolastiche effettivamente consultate, materiali didattici e limiti di accesso. La scansione annuale resta una proposta.

@@ -18,3 +18,10 @@ A-40 per Tecnologie elettrico-elettroniche e applicazioni nel triennio. Per Tecn
 
 I collegamenti ai manuali accompagnano le schede annuali. La scelta del testo e la distribuzione delle unità sono proposte redazionali.
 
+## Ricerca delle fonti e stato delle proposte
+
+Le schede annuali sono versioni **Tentative generate tramite IA**, da rivedere con un docente. Il [catalogo delle fonti di Elettronica](../../../docs/ricerca-ai/fonti-programmi/elettronica.md) distingue documenti curricolari, programmazioni scolastiche e risorse tecniche, con data e limiti della consultazione. La scansione annuale è proposta redazionale; restano validi il perimetro e le differenze fra articolazioni indicati sopra. Le attività su modelli o simulazioni non sostituiscono procedure professionali validate.
+
+## Ore e distribuzione didattica
+
+Ogni scheda riporta il carico documentato, le eventuali varianti di ordinamento e una proposta IA di ore per punto, con subtotali e riserva. Gli scenari alternativi non si sommano; gli intervalli professionali richiedono il PTOF. [Audit delle fonti orarie](../../../docs/ricerca-ai/carico-didattico-elettronica.md).

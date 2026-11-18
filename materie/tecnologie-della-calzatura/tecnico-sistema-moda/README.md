@@ -23,3 +23,7 @@ Gli argomenti e le prove sono una proposta redazionale elaborata con assistenza 
 | [5° anno](anno-05.md) | Industrializzare e verificare un modello |
 
 [Torna all’indice generale](../../../README.md)
+
+## Ricerca delle fonti
+
+Le schede annuali sono versioni Tentative generate tramite IA e da sottoporre a revisione docente. Il [catalogo delle fonti di tecnologie della calzatura](../../../docs/ricerca-ai/fonti-programmi/tecnologie-della-calzatura.md) documenta la ricerca del 18 novembre 2026: fonti nazionali, coorti, programmazioni scolastiche effettivamente consultate, materiali didattici e limiti di accesso. La scansione annuale resta una proposta.

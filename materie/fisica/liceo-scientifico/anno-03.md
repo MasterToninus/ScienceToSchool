@@ -1,12 +1,89 @@
 # Conservazione, gravitazione e fluidi
 
+![AI-GENERATED DRAFT. Versione Tentative generata tramite IA. Bozza da sottoporre a revisione docente.](../../../docs/assets/ai-generated-draft.png)
+
+> **AI-GENERATED DRAFT — Versione Tentative generata tramite IA.** Bozza di programma da sottoporre a revisione docente; la scansione annuale è una proposta, non un programma ministeriale prescritto. [Registro dell’attività IA](../../../docs/interazioni-ai/registro.md#ai-0003) · [Ricerca autonoma delle fonti](../../../docs/interazioni-ai/registro.md#ai-0014).
+
 Liceo scientifico · Anno 3 · Proposta didattica
 
-## Sequenza proposta
+## Carico didattico
 
-- Passare tra sistemi di riferimento galileiani e analizzare moti nel piano.
-- Confrontare lavoro ed energia, impulso e quantità di moto in urti e interazioni. Introdurre momento angolare e gravitazione.
-- Formulare continuità e bilanci per fluidi ideali, esplicitando quando le ipotesi cessano di valere. Avviare lo studio termodinamico dei gas.
+| Disciplina/perimetro | Coorte/ordinamento | Ore settimanali | Monte ore annuo | Fonte |
+| --- | --- | --- | --- | --- |
+| Fisica | Ordinamento quinquennale del D.P.R. 89/2010 | 3 (media equivalente su 33 settimane) | 99 ore | [D.P.R. 89/2010, allegato F, ordinario, riga Fisica](https://umi.dm.unibo.it/wp-content/uploads/2013/10/2_DPR_87_88_89_2010_GU_137_15_06_10.pdf) |
+
+I monti annui sono nominali ordinamentali. «Media equivalente» significa monte annuo ÷ 33; non descrive necessariamente l’orario settimanale reale né le ore effettivamente svolte. [Metodo, fonti e limiti della verifica al 18/11/2026](../../../docs/ricerca-ai/carico-didattico-fisica.md) · [Attività IA](../../../docs/interazioni-ai/registro.md#ai-0002).
+
+## Programma proposto per nuclei tematici
+
+**Ripartizione Tentative delle ore generata tramite IA.** Il budget di 99 ore coincide con il monte annuo ordinamentale di Fisica. Le ore di ogni punto comprendono spiegazione, esempi ed eventuale laboratorio specifico; le attività indicate più avanti sono già comprese nei nuclei o nella riserva e non si sommano una seconda volta. I criteri di raccordo e le indicazioni metodologiche sono trasversali.
+
+| Voce del budget | Ore |
+| --- | ---: |
+| Punti dei nuclei tematici | 81 |
+| Riserva trasversale | 18 |
+| **Totale programmato** | **99** |
+
+L’articolazione fra gli anni è proposta: termodinamica, onde e campi vanno raccordati fra terza e quarta in base al percorso effettivamente svolto.
+
+### Riferimenti e moti nel piano
+
+**Subtotale del nucleo: 12 ore.**
+
+- **6 ore.** Passare tra sistemi inerziali con le trasformazioni galileiane; comporre velocità e distinguere descrizione del moto e cause dinamiche.
+- **6 ore.** Riprendere moto parabolico e circolare con equazioni vettoriali, indicando le ipotesi usate e confrontando rappresentazione analitica e grafica.
+
+### Lavoro e conservazione dell’energia
+
+**Subtotale del nucleo: 12 ore.**
+
+- **6 ore.** Collegare lavoro e variazione dell’energia cinetica; usare energia potenziale e conservazione dell’energia meccanica quando le forze lo consentono.
+- **6 ore.** Inserire attrito e altri trasferimenti nei bilanci; discutere perché l’energia totale si conserva anche se quella meccanica diminuisce.
+
+### Impulso, quantità di moto e urti
+
+**Subtotale del nucleo: 12 ore.**
+
+- **6 ore.** Definire il sistema e l’impulso esterno; applicare la conservazione della quantità di moto e il moto del centro di massa.
+- **6 ore.** Confrontare urti elastici e anelastici con dati prima e dopo l’interazione; verificare separatamente il bilancio di quantità di moto e quello energetico.
+
+### Rotazione e momento angolare
+
+**Subtotale del nucleo: 12 ore.**
+
+- **6 ore.** Distinguere momento di una forza, momento d’inerzia e momento angolare in configurazioni semplici.
+- **6 ore.** Interpretare rotazioni e variazioni della velocità angolare mediante il bilancio dei momenti; dichiarare le condizioni della conservazione del momento angolare.
+
+### Gravitazione e orbite
+
+**Subtotale del nucleo: 12 ore.**
+
+- **6 ore.** Collegare leggi di Keplero e gravitazione universale; distinguere campo, forza ed energia potenziale gravitazionale.
+- **6 ore.** Studiare orbite circolari e velocità di fuga a livello introduttivo; confrontare caduta locale e moto orbitale e discutere limiti del modello a due corpi.
+
+### Fluidi in movimento
+
+**Subtotale del nucleo: 11 ore.**
+
+- **6 ore.** Ricavare la continuità da un bilancio di massa; usare Bernoulli per un fluido ideale lungo una linea di corrente.
+- **5 ore.** Confrontare previsione e flussi reali, riconoscendo perdite, viscosità e turbolenza; evitare di estendere il modello ideale senza verificare le ipotesi.
+
+### Avvio della termodinamica dei gas
+
+**Subtotale del nucleo: 10 ore.**
+
+- **5 ore.** Descrivere uno stato mediante pressione, volume e temperatura assoluta; utilizzare l’equazione dei gas ideali e rappresentare trasformazioni nel piano p-V.
+- **5 ore.** Interpretare il lavoro come area nel diagramma e distinguere variabili di stato da scambi. Raccordare questa introduzione con i principi termodinamici dell’anno successivo.
+
+### Riserva per consolidamento e valutazione
+
+**Subtotale della riserva: 18 ore.**
+
+- **6 ore.** Esercitazioni trasversali e consolidamento: collegare i nuclei e discutere gli errori ricorrenti.
+- **6 ore.** Verifiche, restituzione e autovalutazione, comprese le prove descritte nella sezione «Attività e verifica».
+- **6 ore.** Recupero mirato e adattamento della progressione alle evidenze emerse in classe.
+
+**Controllo del budget:** 81 ore nei punti + 18 ore di riserva = **99 ore**. Le ore perse per calendario o attività d’istituto richiedono una riprogrammazione; non sono già sottratte dal monte nominale.
 
 ## Attività e verifica
 
@@ -17,5 +94,14 @@ Verifica: spiegare con calcolo e diagramma perché una stessa interazione può c
 ## Libro consigliato
 
 Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Nel volume 1, collegare i capitoli 4-8 ai bilanci, alla gravitazione e ai fluidi. [Percorso di esercizi dell’editore](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166)
+
+## Fonti consultate per questa proposta
+
+- [MIUR — D.M. 211/2010, Indicazioni nazionali per i licei](https://umi.dm.unibo.it/wp-content/uploads/2013/10/4_DM_211_10_GU_275_-14_12_10.pdf) — Sezioni Fisica dell’allegato pertinente.
+- [Liceo Volterra, Ciampino — Linee programmatiche dipartimentali di Fisica 2024/25](https://www.liceovolterra.edu.it/wp-content/uploads/2024/10/2024-2025-Linee-programmatiche-dipartimentali-Fisica.pdf) — Esempio di progressione e laboratorio.
+- [Liceo Farnesina, Roma — Programmazione dipartimentale Matematica e Fisica 2025/26](https://www.liceofarnesina.edu.it/wp-content/uploads/2023/07/AS-2025-26-Programmazione-Dipartimentale-Matematica-e-Fisica.pdf) — Confronto della progressione annuale.
+- [Zanichelli — Il nuovo Amaldi per i licei scientifici.blu, percorso di esercizi](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166) — Mappa pubblica dei capitoli.
+
+La selezione e la distribuzione annuale sono una sintesi didattica del progetto. [Catalogo delle fonti di fisica: consultazione, perimetro e limiti](../../../docs/ricerca-ai/fonti-programmi/fisica.md).
 
 [Quadro di riferimento e fonti del percorso](README.md)

@@ -15,3 +15,7 @@ Programmi di lavoro per il 2026/27. Ogni scheda propone una sequenza, un compito
 | [Istituto tecnico tecnologico, Complementi di matematica](tecnico-complementi/README.md) | 3°–4° |
 
 Per i tecnici distinguere la coorte prima 2026/27, la prima della riforma, dalle altre classi attive. Nei percorsi con attribuzioni ad esaurimento, il README specifica la limitazione. [Torna a ScienceToSchool](../../README.md)
+
+## Carico didattico e tempi
+
+Le schede di anno o periodo riportano ore settimanali e monte ore, fonti e ripartizione Tentative dei tempi per punto. [Quadri e limiti per Matematica e scienze](../../docs/ricerca-ai/carico-didattico-matematica.md) · [Metodo comune e coorti](../../docs/ricerca-ai/carico-didattico.md).

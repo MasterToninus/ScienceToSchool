@@ -30,9 +30,9 @@ Usa un oggetto sintetico e descrittivo, una riga vuota e un corpo esteso quanto 
 - controlli eseguiti e relativi risultati;
 - limiti, verifiche ancora aperte e provenienza dei contributi quando rilevanti.
 
-Usa i prefissi esatti `[Ai]` e `[Ai-human]` secondo AGENTS.md, prima dell'eventuale prefisso convenzionale. Una richiesta o approvazione non rende umano un testo prodotto dall'IA. Per uno snapshot misto con contributo umano sostanziale usa `[Ai-human]` e distingui nel corpo i materiali; per materiale prodotto dall'IA senza un contributo umano sostanziale usa `[Ai]`. Non inventare percentuali, risultati o verifiche.
+Usa i prefissi esatti `[AI]` e `[AI-Human]` secondo AGENTS.md, prima dell'eventuale prefisso convenzionale. Una richiesta o approvazione non rende umano un testo prodotto dall'IA. Per uno snapshot misto con contributo umano sostanziale usa `[AI-Human]` e distingui nel corpo i materiali; per materiale prodotto dall'IA senza un contributo umano sostanziale usa `[AI]`. Non inventare percentuali, risultati o verifiche. Queste grafie si applicano ai nuovi messaggi; conserva i prefissi dei commit e delle registrazioni storiche.
 
-Per esempio, l'oggetto di uno snapshot misto può essere `[Ai-human] docs: registra lo stato iniziale di ScienceToSchool`. Il corpo deve descrivere lo snapshot reale, non ripetere un modello generico.
+Per esempio, l'oggetto di uno snapshot misto può essere `[AI-Human] docs: registra lo stato iniziale di ScienceToSchool`. Il corpo deve descrivere lo snapshot reale, non ripetere un modello generico.
 
 Scrivi il messaggio in un file UTF-8 temporaneo escluso dalla versione e passa il file a `git commit --file`. Conserva paragrafi, accenti e testo letterale; evita di assemblare un messaggio multilinea nella riga di comando. Rileggi oggetto e corpo prima del commit e controllali anche nel commit creato.
 

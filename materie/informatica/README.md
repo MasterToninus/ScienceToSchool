@@ -13,3 +13,4 @@ I programmi distinguono l’informatica liceale, le applicazioni d’indirizzo d
 | [Tecnologie dell’informazione e della comunicazione negli istituti professionali](professionale-tic/README.md) | 1, 2 |
 | [Informatica nei Servizi commerciali](professionale-servizi-commerciali/README.md) | 3, 4, 5 |
 
+Le proposte annuali sono **Tentative generate tramite IA**. Il [catalogo delle fonti consultate](../../docs/ricerca-ai/fonti-programmi/informatica.md) documenta ricerca autonoma, copertura dei percorsi e limiti.

@@ -5,10 +5,11 @@ Le schede uniscono attività di misura, lettura degli schemi, progettazione e ve
 | Scuola o indirizzo | Anni disponibili |
 | --- | --- |
 | [Elettrotecnica, elettronica e sistemi automatici nel tecnico di indirizzo](tecnico-elettronica-elettrotecnica/README.md) | 1, 2, 3, 4, 5 |
-| [Elementi di elettrotecnica ed elettronica per la meccatronica](tecnico-meccanica-meccatronica-energia/README.md) | 1 |
+| [Elementi di elettrotecnica ed elettronica per la meccatronica](tecnico-meccanica-meccatronica-energia/README.md) | 2 |
 | [Telecomunicazioni nel tecnico di Informatica e telecomunicazioni](tecnico-informatica-telecomunicazioni/README.md) | 3, 4, 5 |
 | [Elettrotecnica, elettronica e automazione nei Trasporti e logistica](tecnico-trasporti-logistica/README.md) | 3, 4, 5 |
 | [Tecnologie elettriche ed elettroniche nel professionale Manutenzione e assistenza tecnica](professionale-manutenzione/README.md) | 1, 2, 3, 4, 5 |
 | [Tecnologie, disegno e progettazione in Industria e artigianato per il Made in Italy](professionale-industria-artigianato/README.md) | 1, 2 |
 | [Gestione e controllo delle reti e degli impianti nel professionale Gestione delle acque](professionale-gestione-acque/README.md) | 3, 4, 5 |
 
+Le proposte annuali sono **Tentative generate tramite IA**. Il [catalogo delle fonti consultate](../../docs/ricerca-ai/fonti-programmi/elettronica.md) documenta ricerca autonoma, copertura dei percorsi e limiti.

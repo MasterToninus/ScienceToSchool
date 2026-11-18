@@ -27,3 +27,11 @@ Nel 2026/27 le prime seguono il nuovo quadro, le classi dalla seconda alla quint
 - [Estratti delle linee guida 2010 e 2012](https://umi.dm.unibo.it/indicazioni-nazionali-prima-del-2026/)
 
 [Indice della materia](../README.md)
+
+## Ricerca autonoma e stato delle proposte
+
+Le schede sono versioni **Tentative generate tramite IA**, in attesa di revisione docente. Il [catalogo delle fonti](../../../docs/ricerca-ai/fonti-programmi/matematica.md) distingue documenti letti, pagine indice e risorse non accessibili. La [ricerca delle fonti](../../../docs/interazioni-ai/registro.md#ai-0014) e la [progettazione dei programmi](../../../docs/interazioni-ai/registro.md#ai-0003) sono documentate nell’unico registro cumulativo.
+
+## Carico didattico e tempi
+
+Le schede di anno o periodo riportano ore settimanali e monte ore, fonti e ripartizione Tentative dei tempi per punto. [Quadri e limiti per Matematica e scienze](../../../docs/ricerca-ai/carico-didattico-matematica.md) · [Metodo comune e coorti](../../../docs/ricerca-ai/carico-didattico.md).

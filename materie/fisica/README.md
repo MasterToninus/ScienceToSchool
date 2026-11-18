@@ -31,3 +31,11 @@ Nei licei il percorso inizia in prima allo scientifico e in terza negli altri in
 - Le esperienze di laboratorio sono attività proposte nel programma. La compresenza del personale tecnico-pratico segue le specifiche classi e gli organici del percorso.
 
 [Indice generale](../../README.md)
+
+## Fonti delle proposte
+
+Il [catalogo della ricerca di fisica](../../docs/ricerca-ai/fonti-programmi/fisica.md) raccoglie fonti nazionali, programmazioni scolastiche e materiali didattici consultati per le 51 schede dei 17 percorsi. Le proposte sono Tentative e richiedono revisione docente; la ricerca è sistematica e non esaustiva.
+
+## Carico didattico e tempi delle proposte
+
+Il [rapporto sui carichi didattici di fisica](../../docs/ricerca-ai/carico-didattico-fisica.md) documenta ore nazionali, coorti e limiti per tutte le 51 schede. Ogni punto sostantivo ha un tempo Tentative IA; i subtotali includono una riserva esplicita e sono verificati rispetto al budget dichiarato. Quote di Fisica dentro Scienze integrate o sperimentali e ripartizioni biennali restano scenari da concordare nel curricolo d’istituto.
