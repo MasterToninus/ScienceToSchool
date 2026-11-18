@@ -1,0 +1,15 @@
+# Metadati locali di Windows e macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# File temporanei e blocchi degli editor
+*~
+*.swp
+*.swo
+*.tmp
+~$*
+.~lock.*#
+
+# ZIP di consegna generati nella radice del progetto
+/ScienceToSchool-*.zip
