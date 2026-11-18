@@ -1,5 +1,7 @@
 # Fonti della ricerca autonoma — Matematica
 
+**Verifica dei manuali, 18/11/2026:** [edizioni, ISBN, indici e raccordi delle 42 schede](../verifica-manuali-matematica.md), con 31 configurazioni identificate. Il rapporto aggiorna e precisa i precedenti riscontri editoriali: distingue biennio e triennio di Azzurro/Blu, diverse edizioni di Verde/Rosso, volumi o moduli da richiamare e parti soltanto digitali. Indici non consultabili e dettagli non nominati dai sommari restano espliciti; le fonti UMI documentano i curricoli, non i capitoli dei libri. [Attività bibliografica AI-0004](../../interazioni-ai/registro.md#ai-0004).
+
 **Aggiornamento della revisione critica, 18/11/2026:** [fonti nuovamente esaminate, recuperi e correzioni](../revisione-critica-matematica.md). I limiti di accesso descritti nella ricognizione sottostante vanno letti insieme agli esiti successivi di questo rapporto; non implicano che un documento recuperato in seguito sia ancora non consultato.
 
 La ricerca è stata condotta autonomamente dall’IA il **18 novembre 2026**, procedendo dalle fonti normative alle programmazioni scolastiche e alle risorse didattiche. Questa è una bibliografia ragionata dei risultati, non un secondo registro di attività. [Attività di ricerca AI-0014](../../interazioni-ai/registro.md#ai-0014) · [Progettazione AI-0003](../../interazioni-ai/registro.md#ai-0003) · [Indice generale delle fonti](README.md).

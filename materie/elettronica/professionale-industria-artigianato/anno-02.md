@@ -90,9 +90,27 @@ Documentare una revisione del contenitore che renda leggibile o sostituibile un 
 
 ## Letture consigliate
 
-- Gallotti e Rondinelli, *Tecnologie elettriche-elettroniche e applicazioni*, Hoepli, volume sui circuiti, ISBN 9788836018451. [Argomenti e indice](https://www.hoeplieditore.it/ufficio-stampa/articolo/tecnologie-elettriche-elettroniche-e-applicazioni-componenti-e-analisi-dei-circuiti-elettronica-analogica-e-digitale-sistemi-monofase-e-trifase-impianti-elettrici-sicurezza-elettrica-antonella-gallotti/9788836018451/3241).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Scegliere esempi di componenti e schemi compatibili con la declinazione locale.
+- **DRAW — Mario Aldi, Carla Monesi, Ivano Marchesini, Marzio Miliani, Tecnologie e Tecniche di Rappresentazione Grafica. Disegno, progettazione e CAD**. Hoepli, marzo 2017; ISBN 9788820378295. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/tecnologie-e-tecniche-di-rappresentazione-grafica-mario-aldi/9788820378295/2151) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw). **Sezione verificata**.
+- **FOND — Fabrizio Cerri, Antonella Gallotti, Andrea Rondinelli, Fondamenti di elettrotecnica ed elettronica**. Hoepli, maggio 2026; ISBN 9788836022830. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond). **Sezione verificata**.
+
+- **TEEA1 — Antonella Gallotti, Andrea Rondinelli, Tecnologie elettriche-elettroniche e applicazioni**. Hoepli, volume 1, febbraio 2025; ISBN 9788836018451. [Fonte primaria](https://www.hoeplieditore.it/ufficio-stampa/articolo/tecnologie-elettriche-elettroniche-e-applicazioni-componenti-e-analisi-dei-circuiti-elettronica-analogica-e-digitale-sistemi-monofase-e-trifase-impianti-elettrici-sicurezza-elettrica-antonella-gallotti/9788836018451/3241) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea1). Consultazione conservata dalla bibliografia precedente solo per esempi di componenti/schemi elettrici: **non è il manuale del corso di rappresentazione grafica**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Disegno esecutivo | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw): disegno tecnico e rappresentazione | sezione verificata; copertura parziale | Specifiche esecutive e tolleranze di prodotto non tutte visibili nel sommario. |
+| **S1D1N2** — CAD e schemi | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw): ambito CAD della scheda | sezione verificata; copertura parziale | Versione CAD, interfaccia e schemi del settore richiedono guida del software. |
+| **S1D1N3** — Progettazione produttiva | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw), [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond): DRAW tecnologia/materiali; FOND solo componenti elettrici | sezione verificata; copertura parziale | Ciclo produttivo, distinta e costi del manufatto sono integrazioni. |
+| **S1D1N4** — Realizzazione e qualità | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Realizzazione, controllo qualità e dossier sono originali; selezionare la declinazione del PTOF. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-professionale-industria-artigianato-anno-02).
 
 ## Riferimento curricolare
 

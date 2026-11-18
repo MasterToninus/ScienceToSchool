@@ -99,9 +99,29 @@ Consegnare una campagna per una mostra scolastica, con kit di materiali e istruz
 
 ## Letture consigliate
 
-- Legnani, Mastantuono, Peraglie e Soccio, *Competenze grafiche. Progettazione multimediale*, 2ª ed., Clitt. [Scheda con volumi e ISBN](https://staticmy.zanichelli.it/catalogo/assets/aP13.9788808531766.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Volume quinto anno, ISBN 9788808531766.
+- **COMP5 — Silvia Legnani, Competenze grafiche. Progettazione multimediale**. Clitt, seconda edizione 2022; quinto anno, Dall’immagine di prodotto alla comunicazione integrata; ISBN 9788808531766. [Fonte primaria](https://staticmy.zanichelli.it/catalogo/assets/aP13.9788808531766.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp5). **Affinità tematica**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+- **GIMP — GIMP Documentation Team, GIMP 3.0 User Manual**. Documentazione ufficiale, pagina aggiornata 5 novembre 2026; ISBN non applicabile. [Fonte primaria](https://docs.gimp.org/3.0/en/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp). **Sezione verificata**.
+- **CORSI — Michele Corsi, Corso di linguaggio audiovisivo e multimediale**. Hoepli, marzo 2017; volume unico; ISBN 9788820378868. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi). **Sezione verificata**.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Strategia progettuale | [COMP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp5): collana e ambito comunicazione integrata, solo affinità | affinità tematica; da verificare | Strategia, obiettivi e indicatori non attestati da un indice consultato. |
+| **S1D1N2** — Produzione coordinata | [COMP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp5), [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp): MDN Web; GIMP immagini; COMP5 affinità | sezione verificata; copertura parziale | Coordinamento della produzione e controlli di prestampa restano integrazioni. |
+| **S1D1N3** — Audiovisivo e 3D | [CORSI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi), [COMP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp5): CORSI: linguaggio e montaggio; COMP5 affinità | sezione verificata; copertura parziale | Modellazione, rendering e animazione 3D: lacuna aperta; manuale Blender 4.5 non leggibile via browser (402). |
+| **S1D1N4** — Valutazione del prodotto | [COMP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp5), [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Test, metriche e interpretazione del risultato sono progettati dal docente. |
+| **S1D1N5** — Portfolio e consegna | [COMP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp5), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Selezione e motivazione dei lavori del portfolio non sono esercizi editoriali verificati. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-grafica-comunicazione-anno-05).
 
 ## Riferimento curricolare
 

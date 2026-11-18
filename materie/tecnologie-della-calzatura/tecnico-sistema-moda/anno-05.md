@@ -175,8 +175,31 @@ Presentare un dossier per una piccola serie e confrontare due preventivi. La val
 
 ## Letture consigliate
 
-- Usare le parti dedicate alla presentazione delle linee e del portfolio per impostare il dossier. [Anna Paola Pascuzzi, *Shoe Design. Elementi di progettazione calzaturiera*, ISBN 9781720070436](https://www.abebooks.it/9781720070436/Shoe-Design-Elementi-progettazione-calzaturiera-1720070431/plp).
-- Consultare il volume per la sequenza di lavorazione, aggiornando i dati di processo sul caso reale. [Antonello Morlacchi e Giuseppe Bellotti, *L’impresa calzaturiera*, vol. 2, *La tecnica*, Editrice San Marco, ISBN 9788886285872](https://www.libreriauniversitaria.it/impresa-calzaturiera-progettazione-tecnica-organizzazione/libro/9788886285872).
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
+
+- **Shoe Design** — Anna Paola Pascuzzi, *Shoe Design. Elementi di progettazione calzaturiera*, ISBN indicato nel riferimento preesistente 9781720070436. [Fonte verificata](https://www.italianshoedesign.it/italiano/pubblicazioni-e-quaderni-di-tendenza/).
+- **L’impresa calzaturiera 2** — Antonello Morlacchi, Giuseppe Bellotti, *L’impresa calzaturiera: progettazione, tecnica, organizzazione*, vol. 2, *La tecnica*, Editrice San Marco, ISBN 9788886285872; anno dell’edizione non confermato su fonte editoriale. [Fonte verificata](https://www.ipsiafermo.edu.it/wp-content/uploads/2022/12/Classi-QUINTE-2024-2025.pdf).
+- **Un mondo di scarpe** — Anna Paola Pascuzzi (a cura di), *Un mondo di scarpe. L’evoluzione storica del design calzaturiero*, tab edizioni, 2021, ISBN cartaceo 9788892951556. [Fonte verificata](https://www.tabedizioni.it/shop/product/un-mondo-di-scarpe-505).
+
+Fonti bibliografiche confermate, indici tecnici non recuperati. Un mondo di scarpe sostiene solo ricerca storico-formale; innovazione, CAD e industrializzazione richiedono integrazioni specifiche.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Produzione e materiali innovativi | L’impresa calzaturiera 2: Riferimento bibliografico confermato da fonte scolastica; indice non reperito. | Da verificare / integrazione didattica | Non assegnare capitoli di tecnica o CAD. Predisporre materiale aggiornato su processi, qualità e sicurezza. |
+| D1.2 · Tempi e resa | L’impresa calzaturiera 2: Riferimento bibliografico confermato da fonte scolastica; indice non reperito. | Da verificare / integrazione didattica | Non assegnare capitoli di tecnica o CAD. Predisporre materiale aggiornato su processi, qualità e sicurezza. |
+| D1.3 · Qualità e non conformità | L’impresa calzaturiera 2: Riferimento bibliografico confermato da fonte scolastica; indice non reperito. | Da verificare / integrazione didattica | Non assegnare capitoli di tecnica o CAD. Predisporre materiale aggiornato su processi, qualità e sicurezza. |
+| D1.4 · Organizzazione della serie | L’impresa calzaturiera 2: Riferimento bibliografico confermato da fonte scolastica; indice non reperito. | Da verificare / integrazione didattica | Non assegnare capitoli di tecnica o CAD. Predisporre materiale aggiornato su processi, qualità e sicurezza. |
+| D1.5 · Ambiente e fascicolo tecnico | L’impresa calzaturiera 2: Riferimento bibliografico confermato da fonte scolastica; indice non reperito. | Da verificare / integrazione didattica | Non assegnare capitoli di tecnica o CAD. Predisporre materiale aggiornato su processi, qualità e sicurezza. |
+| D2.1 · Canoni e ricerca contemporanea | Un mondo di scarpe: Sommario dell’anteprima: saggi storici e design calzaturiero. | Sezione verificata nell’indice; applicazione da predisporre | Scegliere il saggio pertinente; non usare come manuale di materiali, macchine, modellistica o biomeccanica. |
+| D2.2 · Collezione e varianti | Shoe Design: Titolo confermato dall’autrice, indice non disponibile. | Da verificare / integrazione didattica | Riferimento opzionale: controllare edizione e sommario sulla copia. INAPP offre risultati professionali, non lezioni di modellistica. |
+| D2.3 · Sviluppo e CAD | Shoe Design: Nessun indice verificato di modellistica/CAD nel riferimento conservato. | Da verificare / integrazione didattica | Integrare con dimostrazioni e documentazione del CAD; RA1/RA2 INAPP definiscono prodotti attesi, non ore o capitoli scolastici. |
+| D2.4 · Industrializzazione | Shoe Design: Nessun indice verificato di modellistica/CAD nel riferimento conservato. | Da verificare / integrazione didattica | Integrare con dimostrazioni e documentazione del CAD; RA1/RA2 INAPP definiscono prodotti attesi, non ore o capitoli scolastici. |
+| D2.5 · Portfolio e argomentazione | Shoe Design: Titolo confermato dall’autrice, indice non disponibile. | Da verificare / integrazione didattica | Riferimento opzionale: controllare edizione e sommario sulla copia. INAPP offre risultati professionali, non lezioni di modellistica. |
+| D1.0, D1.6, D2.0, D2.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per precisare i risultati attesi del modello e della scheda tecnica: [INAPP, Progettazione tecnica capo calzaturiero, RA1–RA2](https://www.inapp.gov.it/atlantelavoro/competenza/?id_uc=27973). La fonte descrive competenze professionali del repertorio Lazio: non è un manuale, un corso di CAD o una prescrizione annuale.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 [Indice del percorso](README.md)
 
@@ -192,4 +215,4 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida pre
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie della calzatura](../../../docs/ricerca-ai/fonti-programmi/tecnologie-della-calzatura.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

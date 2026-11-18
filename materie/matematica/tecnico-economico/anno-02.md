@@ -104,9 +104,22 @@ Equazioni lineari e scomposizioni prima di sistemi, radicali e secondo grado; pr
 
 Predisporre un foglio che confronti due formule di noleggio o distribuzione. Testarlo sulla soglia di pareggio e su un valore esterno al dominio. Distinguere nel rapporto conclusivo l’ipotesi economica, i dati osservati e il risultato del calcolo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini e G. Barozzi, [Matematica multimediale.rosso, seconda edizione](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808764652_cartaidentita.pdf), Zanichelli, primo biennio. La lettura proposta riguarda sistemi, geometria e probabilità.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, [Matematica multimediale.rosso](https://www.zanichelli.it/ricerca/prodotti/matematica-multimediale-rosso-2ed), seconda edizione, Zanichelli, 2026; Volume 2 con laZ Tutor, ISBN **9788808532206**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro2).
+- **Richiami e integrazioni selettive:** [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): Matematica.blu2.0 — Volume 4 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808340757).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Funzioni, rette e sistemi | **Sezione verificata** — [RO2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro2): capp. 12 e 14 per sistemi lineari e geometria cartesiana. **Integrazione didattica** — richiamare il volume precedente per le funzioni; dominio e valore assoluto vanno controllati sul testo effettivo e integrati se non esplicitati. |
+| Reali, radicali e secondo grado | **Sezione verificata** — [RO2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro2): capp. 13 e 15–17 per radicali, equazioni, parabola e disequazioni; limitare i casi al piano orario. |
+| Circonferenza, misura e similitudine | **Sezione verificata** — [RO2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro2): capp. G3–G6 per circonferenza, aree, similitudine e trasformazioni. **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): capp. 15 e 17 per i richiami introduttivi a trigonometria del triangolo rettangolo e vettori; selezione anticipata, senza tutto il calcolo vettoriale avanzato. **Integrazione didattica** — il passaggio dalla scala lineare a quella cubica dei volumi va sviluppato con un modello tridimensionale: non è certificato dai soli capitoli di geometria piana. |
+| Probabilità elementare | **Sezione verificata** — [RO2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro2): cap. 18 per eventi e probabilità elementare. |
+| Algoritmi, funzioni e controllo | **Integrazione didattica** — progettare simulazioni e controlli numerici sui capitoli sopra. [RO2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro2): rubriche Python verificate nell’indice; adattare codice e test al livello della classe. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

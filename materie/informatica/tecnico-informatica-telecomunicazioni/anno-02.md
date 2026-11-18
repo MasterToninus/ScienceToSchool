@@ -91,9 +91,27 @@ Simulare a coppie la consegna di messaggi e scrivere una procedura per registrar
 
 ## Letture consigliate
 
-- Lo Russo, Bianchi, Camagni e Nikolassy, *Informatica e reti di comunicazione*, Hoepli, volume unico per il biennio, ISBN 9788836022878. [Scheda e indice](https://www.hoeplieditore.it/scuola/articolo/informatica-e-reti-di-comunicazione-volume-unico-luigi-lo-russo/9788836022878/3414).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Per il nuovo biennio il corso è dedicato a Informatica e reti di comunicazione.
+- **STA — Paolo Camagni, Riccardo Nikolassy, Ugo Bay, Ada Boni, Nuovo In@pp. Scienze e Tecnologie Applicate**. Hoepli, maggio 2026; ISBN 9788836021215. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/nuovo-in-pp-paolo-camagni/9788836021215/3314) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta). **Sezione verificata**.
+- **RETI26 — Luigi Lo Russo, Elena Bianchi, Paolo Camagni, Riccardo Nikolassy, Informatica e reti di comunicazione**. Hoepli, maggio 2026; volume unico; ISBN 9788836022878. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/informatica-e-reti-di-comunicazione-volume-unico-luigi-lo-russo/9788836022878/3414) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-reti26). **Sezione verificata**.
+- **FOND — Fabrizio Cerri, Antonella Gallotti, Andrea Rondinelli, Fondamenti di elettrotecnica ed elettronica**. Hoepli, maggio 2026; ISBN 9788836022830. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond). **Sezione verificata**.
+- **ARD — Arduino, Learn**. Documentazione ufficiale online; ISBN non applicabile. [Fonte primaria](https://docs.arduino.cc/learn/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ard). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Settore e sistemi | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta), [RETI26](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-reti26): STA sistemi e tecnologie; RETI26 come consultazione | sezione verificata; copertura parziale | RETI26 non sostituisce STA della coorte precedente. |
+| **S1D1N2** — Misure e rappresentazione | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta), [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond): STA conversioni/media; FOND misure | sezione verificata; copertura parziale | Misure e rappresentazioni specifiche richiedono strumenti e schede del laboratorio. |
+| **S1D1N3** — Problema e prototipo | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta), [ARD](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ard): STA algoritmi/physical computing; ARD pin e programmazione | sezione verificata; copertura parziale | Dimostratore e prove sono progettati con l’hardware disponibile. |
+| **S1D1N4** — Processo e orientamento | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Filiere, documenti, processo e orientamento richiedono materiale della scuola. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-informatica-telecomunicazioni-anno-02).
 
 ## Riferimento curricolare
 

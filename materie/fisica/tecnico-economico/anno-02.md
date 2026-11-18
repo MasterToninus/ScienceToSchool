@@ -100,7 +100,24 @@ Verifica: presentare una decisione motivata e indicare quale dato aggiuntivo pot
 
 ## Libro consigliato
 
-G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli. Per il bilancio energetico e le misure termiche sono identificabili le sezioni su energia, lavoro, calore e temperatura. [Percorso di esercizi](https://esercizi.zanichelli.it/corso/Fisica-Lezioni-e-problemi-Edizione-rossa/2000277786)
+Giuseppe Ruffo e Nunzio Lanotte, *Fisica. Lezioni e problemi*, **edizione rossa, 2025**, Zanichelli, volume unico, ISBN **9788808176189**. [Indice ufficiale del volume unico](https://staticmy.zanichelli.it/catalogo/assets/9788808176189_02_IND.pdf). I rinvii riguardano questo ISBN, non automaticamente i volumi separati del 2026.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Moto e mobilità | cap. 6–8 | Indice |
+| Energia del trasporto | cap. 9–10 | Indice |
+| Potenza e consumi nel tempo | cap. 9 e 16 | Indice |
+| Rumore e segnali ambientali | cap. 13 | Indice |
+| Indicatori per una filiera | integrazione: unità funzionale e dati della filiera | Integrazione didattica |
+| Confronto documentato di scenari | integrazione: dataset e confronto di scenari | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il manuale copre i fondamenti di moto, energia e rumore, non un’analisi completa della mobilità o del ciclo di vita. Servono dati documentati su distanza, carico, occupazione, tempi e confini del sistema.
+
+I capitoli 13, 14 e 19 sono presentati in forma abbreviata su carta; l’indice rinvia all’eBook per il testo completo. È verificata questa indicazione editoriale, non l’accesso personale alle risorse digitali.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-economico-2).
 
 ## Fonti consultate per questa proposta
 

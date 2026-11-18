@@ -113,7 +113,24 @@ Verifica: consegnare un grafico commentato e usare il modello per predire l’es
 
 ## Libro consigliato
 
-Ugo Amaldi, *Le traiettorie della fisica.azzurro*, 3ª ed., Zanichelli. Il volume per il secondo biennio tratta meccanica, termodinamica e onde. [Volumi e ISBN](https://staticmy.zanichelli.it/catalogo/assets/aP16.9788808961808.pdf)
+Ugo Amaldi, *Le traiettorie della fisica.azzurro*, **3ª edizione**, Zanichelli, volume per il secondo biennio, 2022, ISBN **9788808391933**. [Indice ufficiale della stessa edizione](https://staticmy.zanichelli.it/catalogo/assets/9788808391933_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Misure e rappresentazioni | cap. 1–2 | Indice |
+| Vettori, forze ed equilibrio dei solidi | cap. 5–6 | Indice |
+| Equilibrio dei fluidi | cap. 7 | Indice |
+| Moto e sistemi di riferimento | cap. 3–5 e 8 | Indice |
+| Principi della dinamica | cap. 8–9 | Indice |
+| Lavoro, energia e quantità di moto | cap. 10 | Indice |
+| Gravitazione e sviluppo dei modelli | cap. 11 | Indice |
+| Osservazione e dati | integrazione: attività e dati scelti dal docente | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il volume sostiene i nuclei comuni; il compito d’indirizzo richiede materiali, dati e criteri di valutazione propri. I richiami storici presenti non verificano da soli l’attività proposta.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#altri-licei-3).
 
 ## Fonti consultate per questa proposta
 

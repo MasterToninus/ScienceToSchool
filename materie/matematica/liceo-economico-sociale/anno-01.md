@@ -111,9 +111,23 @@ Calcolo con interi, frazioni, unità e lettura di semplici grafici: rilevarli in
 
 Confrontare due sondaggi anonimi sul tempo di studio con campioni di diversa ampiezza. Spiegare perché la media complessiva richieda pesi. Concordare fonte dei dati e significato delle variabili con il docente di scienze umane.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.azzurro, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), Zanichelli, volume 1. La lettura proposta riguarda rapporti, equazioni e frequenze.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.azzurro](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), terza edizione, Zanichelli, 2023; Volume 1, ISBN **9788808841964**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1).
+- **Richiami e integrazioni selettive:** [BL1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl1): Matematica.blu — Volume 1 (ISBN 9788808999917).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Numeri, algoritmi e stime | **Sezione verificata** — [AZ1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1): capp. 1–3 per numeri e calcolo. Il controllo di un algoritmo su casi limite richiede attività guidate. **Integrazione didattica** — l’algoritmo euclideo, la motivazione della terminazione e la distinzione fra errore assoluto/relativo vanno controllati nel dettaglio o sviluppati in una scheda; non sono certificati dal solo titolo del capitolo sui numeri. |
+| Rapporti e percentuali | **Sezione verificata** — [AZ1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1): cap. 3 per razionali, rapporti e percentuali; selezionare problemi coerenti con il contesto. **Sezione verificata** — [AZ1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1): cap. 5 per il raccordo con proporzionalità e funzioni; variazioni successive da esercitare con esempi mirati. |
+| Dal calcolo letterale ai modelli lineari | **Sezione verificata** — [AZ1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1): capp. 5–10 per espressioni, funzioni, equazioni e fattorizzazione. Non sono tutti da svolgere integralmente nel tempo del nucleo. **Sezione verificata** — [BL1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl1): cap. 11 per le disequazioni: integrazione esplicita, non capitolo del volume 1 Azzurro. |
+| Geometria euclidea e argomentazione | **Sezione verificata** — [AZ1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1): capp. G1–G3 per geometria piana e argomentazione. Modelli di oggetti, misure effettive e tolleranze sono integrazioni di laboratorio. |
+| Descrivere dati e variabilità | **Sezione verificata** — [AZ1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1): cap. 11 per statistica descrittiva. La raccolta e pulizia di dati della classe va progettata localmente. |
+| Informatica integrata e rappresentazione dei dati | **Sezione verificata** — [AZ1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az1): cap. 12 per il coding ; strutture dei dati, test e interpretazione degli output vanno raccordati al programma effettivo. **Integrazione didattica** — la codifica di testi e immagini richiede esempi dedicati: la presenza di Python o di una rubrica coding non ne attesta la copertura. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

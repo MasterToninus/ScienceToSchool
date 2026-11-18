@@ -108,7 +108,22 @@ Verifica: individuare da uno schema e da tre letture la grandezza incompatibile 
 
 ## Libro consigliato
 
-F. Cerri, A. Gallotti e A. Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, ISBN 9788836022830. Scegliere la parte di elettrotecnica generale e quella sulle misure di laboratorio. [Indice dell’editore](https://www.hoeplieditore.it/hoepli-catalogo/articolo/default/default/3416)
+Fabrizio Cerri, Antonella Gallotti e Andrea Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, **2026**, volume unico, ISBN **9788836022830**. [Scheda e indice pubblico dell’editore](https://www.hoeplieditore.it/hoepli-catalogo/articolo/default/default/3416). L’indice pubblica sezioni e argomenti, senza numerazione analitica o pagine: non si assegnano numeri di capitolo non visibili.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Grandezze e materiali elettrici | introduzione e parte Elettrotecnica generale | Indice |
+| Misure elettriche e tolleranze | parte Metrologia e Arduino | Indice |
+| Schema, circuito e legge di Ohm | Elettrotecnica generale: principi e circuiti | Indice |
+| Reti resistive in continua | Elettrotecnica generale: analisi delle reti | Indice |
+| Energia e potenza nei componenti | Elettrotecnica generale: potenza ed energia | Indice |
+| Dallo schema alla relazione | integrazione: misura, simulazione e relazione | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** L’indice attesta i fondamenti e la metrologia, ma non ogni dettaglio su tolleranze, deriva termica e specifiche del multimetro. Preparare dati di componente, intervalli ohmici e procedure locali; non attribuire l’intera prova al libro.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-elettronica-elettrotecnica-1).
 
 ## Fonti consultate per questa proposta
 

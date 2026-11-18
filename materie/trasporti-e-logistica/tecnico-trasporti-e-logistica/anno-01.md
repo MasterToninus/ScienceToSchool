@@ -110,9 +110,22 @@ Disegnare una rete con legenda e annotare dati, fonte e data. La valutazione con
 
 ## Libro consigliato
 
-Luigi Caligaris e altri, *STA. Scienze e tecnologie applicate. Trasporti e logistica*, Hoepli, ISBN 9788820346607. [Scheda del volume](https://www.hoeplieditore.it/scuola/articolo/sta-scienze-e-tecnologie-applicate-trasporti-e-logistica-luigi-caligaris/9788820346607/1906)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Manuale nato per il precedente ordinamento. Utilizzare solo materiali introduttivi selezionati dal docente per la prima.
+- **STA Trasporti** — Luigi Caligaris, Stefano Fava, Carlo Tomasello, Luciano Ferraro, *STA. Scienze e tecnologie applicate. Trasporti e logistica*, Hoepli, 2011, volume unico, ISBN 9788820346607. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/sta-scienze-e-tecnologie-applicate-trasporti-e-logistica-luigi-caligaris/9788820346607/1906).
+- **Dallari e altri 3** — Fabrizio Dallari, Fabio Toriello, Enrico Pennacino, Elena Cossu, *Corso di logistica e trasporti*, 2ª ed., Hoepli, 2024, vol. 3, *Spedizioni, normativa e commercio internazionale*, ISBN 9788836015221. [Fonte verificata](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-logistica-e-trasporti-spedizioni-normativa-e-commercio-internazionale-fabrizio-dallari/9788836015221/2096).
+
+Testo del 2011 adattato per affinità al nuovo primo anno; introduzione ai modi di trasporto tramite selezioni del volume 3 del corso di logistica, senza anticiparne il livello specialistico.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Sistema dei trasporti | STA Trasporti: Indice: materiali, misurazione/controllo, energia e organizzazione. | Sezione verificata nell’indice; applicazione da predisporre | Integrare cartografia, itinerari e sistemi specifici; nessuna conformità automatica al nuovo ordinamento. |
+| D1.2 · Mezzi e infrastrutture | Dallari e altri 3: Indice: modalità, mezzi, infrastrutture e scelta del trasporto. | Sezione verificata nell’indice; applicazione da predisporre | Selezione introduttiva dove usata prima della V; non copertura di navigazione o manutenzione. |
+| D1.3 · Misure e rappresentazione | STA Trasporti: Indice: materiali, misurazione/controllo, energia e organizzazione. | Sezione verificata nell’indice; applicazione da predisporre | Integrare cartografia, itinerari e sistemi specifici; nessuna conformità automatica al nuovo ordinamento. |
+| D1.4 · Itinerari e informazione | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -131,4 +144,4 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida e i
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di trasporti e logistica](../../../docs/ricerca-ai/fonti-programmi/trasporti-e-logistica.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

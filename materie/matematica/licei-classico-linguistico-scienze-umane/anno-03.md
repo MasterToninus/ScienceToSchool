@@ -93,9 +93,21 @@ Consolidare secondo grado, disequazioni, rette e similitudine. La geometria anal
 
 Un testo antico formula un problema in parole. Assegnare le incognite, risolverlo algebricamente e discutere se tutte le soluzioni hanno senso nel contesto. Scegliere un documento storico nel classico, una coppia di formulazioni in lingue diverse nel linguistico o una tabella di dati sociali nelle scienze umane.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.azzurro, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), Zanichelli, volume 3. La lettura proposta riguarda parabola, coniche e statistica bivariata.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.azzurro](https://www.zanichelli.it/ricerca/prodotti/bergaminiazzurro3ed), terza edizione, Zanichelli, 2021; Volume 3 con Tutor, ISBN **9788808930552**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3).
+- **Richiami e integrazioni selettive:** [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): Matematica.azzurro — Volume 4 con Tutor (ISBN 9788808490056), [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): Matematica.azzurro — Volume 5 con Tutor (ISBN 9788808451880), [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): Matematica.blu2.0 — Volume 3 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808520364).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Algebra, funzioni e rappresentazioni | **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): capp. 1–5 per algebra e parabola. **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): cap. 12 per proprietà e composizione delle funzioni: anticipazione dal volume 4. |
+| Luoghi geometrici e coniche | **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): capp. 4 e 6–9 per parabola, circonferenza, ellisse e iperbole. **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): cap. 11 §§3–4 per vettori nel piano. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): ebook C2 §3 per il prodotto scalare come integrazione distinta. |
+| Successioni e ragionamento | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): cap. 22, sezioni sulle successioni: anticipazione limitata. **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): ebook C2 per linguaggio e ragionamento; non attribuire le successioni al volume 3 senza riscontro. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): cap. 3 §2 per il principio di induzione, non dedotto dal solo titolo sulle progressioni. |
+| Dati bivariati e modelli | **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): cap. 10 per statistica, dipendenza e correlazione; esempi e residui da sviluppare nel tempo del nucleo. **Integrazione didattica** — residui, dati di controllo, distorsioni e distinzione tra correlazione e causalità vanno sviluppati con una scheda di analisi; non sono attestati integralmente dalla sola voce statistica o regressione nel sommario. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

@@ -257,9 +257,39 @@ Consegnare prodotto, preventivo e registro delle revisioni. Confrontare tempi pr
 
 ## Libro consigliato
 
-Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, seconda edizione, Clitt. [Scheda editoriale e articolazione dei volumi](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499714_cartaidentita.pdf)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-La scheda editoriale documenta il lavoro su processi produttivi e sostenibilità. Per preventivi e tempi usare dati predisposti dalla scuola.
+- **Ferrara–Ramina B** — Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. B, *Dal progetto agli strumenti tecnici per realizzarlo*, ISBN 9788808992857. [Fonte verificata](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice B](https://staticmy.zanichelli.it/catalogo/assets/9788808992857_02_IND.pdf).
+- **Ferrara–Ramina A** — Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. A, *Percorsi per comunicare tra vecchi e nuovi media*, ISBN 9788808499714. [Fonte verificata](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice A](https://staticmy.zanichelli.it/catalogo/assets/9788808499714_02_IND.pdf).
+- **Immaginando** — Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, 2016, volume unico, ISBN 9788820372644. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128).
+- **Corsi** — Michele Corsi, *Corso di linguaggio audiovisivo e multimediale*, Hoepli, 2017, volume unico, ISBN 9788820378868. [Fonte verificata](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159).
+
+B è destinato alla V; A serve per richiami tecnici. La copertura dei quattro insegnamenti non deriva automaticamente da questo unico corso editoriale.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Strategia e ricerca | Ferrara–Ramina A: Indice A, cap. 10: comunicazione digitale. | Affinità tematica; copertura solo parziale | Non equivale a corso di web design, accessibilità, UX o programmazione. |
+| D1.2 · Campagna e sistema di prodotti | Immaginando; Ferrara–Ramina A: Raccordi a grafica digitale e colore, senza indice completo di progettazione. | Da verificare / integrazione didattica | Tipografia, griglie, identità, packaging e interfacce richiedono schede, repertori visivi e un manuale specialistico selezionato dal docente. |
+| D1.3 · Web e audiovisivo | Corsi: Indice: comunicazione e narrazione cinetelevisiva. | Sezione verificata nell’indice; applicazione da predisporre | Storyboard e scrittura del progetto sono esercizi della proposta, non esercizi editoriali verificati. |
+| D1.4 · Dossier e presentazione | Ferrara–Ramina B: Indice B, cap. 1: progetto, preventivo e flusso di lavoro. | Sezione verificata nell’indice; applicazione da predisporre | Adattare dati della commessa e livello matematico; non presumere copertura completa di contabilità o marketing. |
+| D2.1 · Impianti e ciclo | Ferrara–Ramina B: Indice B, cap. 2: prestampa, stampa e finitura. | Sezione verificata nell’indice; applicazione da predisporre | Procedure, materiali e prove di laboratorio vanno aggiornati e documentati. |
+| D2.2 · Qualità e diagnosi | Ferrara–Ramina A: Indice A, cap. 9: colore e riproduzione a stampa. | Sezione verificata nell’indice; applicazione da predisporre | Integrare prove colore, profili e tolleranze del flusso realmente adottato. |
+| D2.3 · Sicurezza e ambiente | Ferrara–Ramina B: Indice B, cap. 3: impronta ambientale. | Sezione verificata nell’indice; applicazione da predisporre | Aggiornare dati e norme; non dedurre una valutazione ambientale completa da esercizi introduttivi. |
+| D2.4 · Collaborazione e collaudo | Ferrara–Ramina B: Indice B, cap. 2: prestampa, stampa e finitura. | Sezione verificata nell’indice; applicazione da predisporre | Procedure, materiali e prove di laboratorio vanno aggiornati e documentati. |
+| D3.1 · Produzione grafica | Ferrara–Ramina A: Supporto ai principi tecnici, non a tutti i comandi di software. | Da verificare / integrazione didattica | Usare documentazione ufficiale della versione disponibile; GIMP e catalogo Shotcut nel rapporto. Non attestata la visione dei video. |
+| D3.2 · Produzione audiovisiva | Ferrara–Ramina A: Indice A, cap. 8: produzione video. | Sezione verificata nell’indice; applicazione da predisporre | Riprese, file, montaggio e consegna sono attività originali; verificare software e dispositivi. |
+| D3.3 · Web e pubblicazione simulata | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D3.4 · Animazione e prototipi | Ferrara–Ramina A: Supporto ai principi tecnici, non a tutti i comandi di software. | Da verificare / integrazione didattica | Usare documentazione ufficiale della versione disponibile; GIMP e catalogo Shotcut nel rapporto. Non attestata la visione dei video. |
+| D3.5 · Consegna e portfolio | Ferrara–Ramina B: Indice B, cap. 4: condivisione delle conoscenze. | Sezione verificata nell’indice; applicazione da predisporre | Versioni, archivi, privacy, accessibilità e diritti richiedono risorse e controlli specifici. |
+| D4.1 · Impresa e commessa | Ferrara–Ramina B: Indice B, cap. 1: progetto, preventivo e flusso di lavoro. | Sezione verificata nell’indice; applicazione da predisporre | Adattare dati della commessa e livello matematico; non presumere copertura completa di contabilità o marketing. |
+| D4.2 · Preventivo | Ferrara–Ramina B: Indice B, cap. 1: progetto, preventivo e flusso di lavoro. | Sezione verificata nell’indice; applicazione da predisporre | Adattare dati della commessa e livello matematico; non presumere copertura completa di contabilità o marketing. |
+| D4.3 · Pianificazione | Ferrara–Ramina B: Indice B, cap. 1: progetto, preventivo e flusso di lavoro. | Sezione verificata nell’indice; applicazione da predisporre | Adattare dati della commessa e livello matematico; non presumere copertura completa di contabilità o marketing. |
+| D4.4 · Consuntivo e miglioramento | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.5, D2.0, D2.5, D3.0, D3.6, D4.0, D4.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per esercitazioni di elaborazione raster, [manuale ufficiale GIMP 3.0](https://docs.gimp.org/3.0/it/) (indice e due procedure esaminate); per montaggio, [catalogo ufficiale dei tutorial Shotcut](https://www.shotcut.org/tutorials/) (elenco consultato, video non visionati). Sono integrazioni operative da selezionare secondo il software effettivo, non un corso aggiuntivo.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -279,6 +309,6 @@ La Direttiva 4/2012 sostiene il confronto con il quadro precedente; il D.M. 29/2
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.
 
 - [IISS Mattei, documento V H 2024/25, contenuti disciplinari grafici pp. 12–15](https://www.iissmatteimaglie.edu.it/wp-content/uploads/2025/05/timbrato_FIRMATO_QuintaH.pdf#page=12) — confronto didattico per il raccordo verso il quinto anno; non scansione nazionale obbligatoria.

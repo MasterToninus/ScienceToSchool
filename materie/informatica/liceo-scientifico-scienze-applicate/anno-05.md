@@ -84,9 +84,27 @@ Simulare il raffreddamento di un corpo con più passi temporali e discutere erro
 
 ## Letture consigliate
 
-- Gallo e Sirsi, *Informatica App con Python*, Minerva Scuola. [Scheda e volumi](https://www.mondadorieducation.it/catalogo/informatica-app-con-python-0072182/).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Volume quinto anno, ISBN 9788829865277.
+- **SCIPY — SciPy community, SciPy User Guide**. Indice della documentazione ufficiale consultato; ISBN non applicabile. [Fonte primaria](https://docs.scipy.org/doc/scipy/tutorial/index.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-scipy). **Sezione verificata**.
+- **PY — Python Software Foundation, The Python Tutorial**. Documentazione Python 3.14; risorsa ufficiale, ISBN non applicabile. [Fonte primaria](https://docs.python.org/3.14/tutorial/index.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py). **Sezione verificata**.
+- **APP5 — Gallo, Sirsi, Gallo, Informatica App con Python**. Minerva Scuola; quinto anno; ISBN 9788829865277; scheda 2023. [Fonte primaria](https://www.mondadorieducation.it/catalogo/informatica-app-con-python-0072182/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app5). **Affinità tematica**.
+- **SR3 — Luigi Lo Russo, Elena Bianchi, Sistemi e reti**. Hoepli, quarta edizione; volume 3, 2025; ISBN 9788836018475. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/sistemi-e-reti--luigi-lo-russo/9788836018475/2015) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr3). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Calcolo numerico | [SCIPY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-scipy), [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py), [APP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app5): SCIPY: optimize/integrate/linalg; PY funzioni e file | sezione verificata; copertura parziale | Bisezione, quadrature elementari e propagazione dell’errore non risultano verificati nel manuale APP5: preparare unità dedicate. |
+| **S1D1N2** — Modelli e simulazioni | [SCIPY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-scipy), [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py), [APP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app5): SCIPY: stats e integrazione; PY strutture e moduli | sezione verificata; copertura parziale | Modello, validazione e simulazione scientifica della classe sono integrazioni. |
+| **S1D1N3** — Calcolabilità e reti | [SR3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr3), [APP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app5): SR3: reti e protezione; APP5: affinità | sezione verificata; copertura parziale | Calcolabilità e problemi non decidibili: nessuna sezione del manuale è stata verificata; occorre materiale specifico del docente. |
+| **S1D1N4** — Progetto scientifico e critica | [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py), [SCIPY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-scipy), [APP5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app5): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Riproducibilità, scelta del metodo, confronto con dati e valutazione critica richiedono dossier e rubriche originali. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-liceo-scientifico-scienze-applicate-anno-05).
 
 ## Riferimento curricolare
 

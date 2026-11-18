@@ -134,9 +134,26 @@ Preparare un dossier con una carta annotata e un registro delle fonti. Nella dis
 
 ## Libro consigliato
 
-V. Nastro, G. Messina, G. Battiato, *Scienze della navigazione, struttura e conduzione del mezzo aereo*, vol. 3, Hoepli, ISBN 9788820356798. [Scheda del volume](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-conduzione-del-mezzo-aereo-vincenzo-nastro/9788820356798/2032)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Il volume 3 è consigliato per il corso conclusivo. Aggiornare separatamente dati, carte e riferimenti regolamentari utilizzati in classe.
+- **Nastro–Messina–Battiato 3** — Vincenzo Nastro, Gabriella Messina, Giovanni Battiato, *Scienze della navigazione, struttura e conduzione del mezzo aereo*, Hoepli, 2014, vol. 3, ISBN 9788820356798. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-conduzione-del-mezzo-aereo--vincenzo-nastro/9788820356798/2032).
+
+Autori, volume, ISBN e data confermati; indice del volume 3 non esposto. Ogni raccordo tematico resta da verificare sulla copia. Per D1.5, TAF dell’Aeronautica Militare è una integrazione circoscritta.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Rotte e analisi del percorso | Nastro–Messina–Battiato 3: ISBN e volume 3 confermati; indice specifico assente nella pagina editoriale. | Da verificare / integrazione didattica | Non attribuire capitoli o pagine senza la copia; integrare fonti tecniche correnti e scenari didattici verificati. |
+| D1.2 · Autonomia e moto relativo | Nastro–Messina–Battiato 3: ISBN e volume 3 confermati; indice specifico assente nella pagina editoriale. | Da verificare / integrazione didattica | Non attribuire capitoli o pagine senza la copia; integrare fonti tecniche correnti e scenari didattici verificati. |
+| D1.3 · Sistemi di navigazione | Nastro–Messina–Battiato 3: ISBN e volume 3 confermati; indice specifico assente nella pagina editoriale. | Da verificare / integrazione didattica | Non attribuire capitoli o pagine senza la copia; integrare fonti tecniche correnti e scenari didattici verificati. |
+| D1.4 · Traffico e comunicazioni | Nastro–Messina–Battiato 3: ISBN e volume 3 confermati; indice specifico assente nella pagina editoriale. | Da verificare / integrazione didattica | Non attribuire capitoli o pagine senza la copia; integrare fonti tecniche correnti e scenari didattici verificati. |
+| D1.5 · Meteorologia e pianificazione | Nastro–Messina–Battiato 3: ISBN e volume 3 confermati; indice specifico assente nella pagina editoriale. | Da verificare / integrazione didattica | Non attribuire capitoli o pagine senza la copia; integrare fonti tecniche correnti e scenari didattici verificati. |
+| D1.6 · Prestazioni e fattore umano | Nastro–Messina–Battiato 3: ISBN e volume 3 confermati; indice specifico assente nella pagina editoriale. | Da verificare / integrazione didattica | Non attribuire capitoli o pagine senza la copia; integrare fonti tecniche correnti e scenari didattici verificati. |
+| D1.7 · Caso integrato finale | Nastro–Messina–Battiato 3: ISBN e volume 3 confermati; indice specifico assente nella pagina editoriale. | Da verificare / integrazione didattica | Non attribuire capitoli o pagine senza la copia; integrare fonti tecniche correnti e scenari didattici verificati. |
+| D1.0, D1.8 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Integrazione circoscritta per la meteorologia: [Aeronautica Militare, approfondimento TAF](https://www.meteoam.it/it/documentazione-tecnica/taf), testo tecnico consultato. Sostiene la lettura del codice e non sostituisce un manuale completo o documentazione operativa corrente.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -157,4 +174,4 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

@@ -86,9 +86,26 @@ Disegnare in scala la disposizione di un piccolo pannello didattico e affiancare
 
 ## Letture consigliate
 
-- Cerri, Gallotti e Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, 2026, ISBN 9788836022830. [Scheda con la struttura del testo](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Supporto per simbologia e rappresentazione funzionale dei componenti.
+- **DRAW — Mario Aldi, Carla Monesi, Ivano Marchesini, Marzio Miliani, Tecnologie e Tecniche di Rappresentazione Grafica. Disegno, progettazione e CAD**. Hoepli, marzo 2017; ISBN 9788820378295. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/tecnologie-e-tecniche-di-rappresentazione-grafica-mario-aldi/9788820378295/2151) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw). **Sezione verificata**.
+- **FOND — Fabrizio Cerri, Antonella Gallotti, Andrea Rondinelli, Fondamenti di elettrotecnica ed elettronica**. Hoepli, maggio 2026; ISBN 9788836022830. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond). **Sezione verificata**.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Misure e convenzioni | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw): metrologia e convenzioni del disegno | sezione verificata; copertura parziale | Esempi e strumenti di misura scelti dal laboratorio. |
+| **S1D1N2** — Disegno di apparati | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw), [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond): DRAW proiezioni; FOND esempi di circuiti | sezione verificata; copertura parziale | FOND serve come contesto, non sostituisce rappresentazione grafica. |
+| **S1D1N3** — Strumenti digitali | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): DRAW CAD; LO cap.7 Draw | sezione verificata; copertura parziale | Tutorial del CAD effettivamente usato da aggiungere; Draw non è equivalente a CAD industriale. |
+| **S1D1N4** — Verifica | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Prova di rappresentazione, controllo quote e restituzione sono attività originali. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-professionale-manutenzione-anno-01).
 
 ## Riferimento curricolare
 

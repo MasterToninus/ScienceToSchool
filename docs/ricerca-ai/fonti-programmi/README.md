@@ -1,6 +1,6 @@
 # Fonti dei programmi: ricerca autonoma sul web
 
-La successiva [revisione critica dei 196 programmi](../revisione-critica-programmi.md) documenta ulteriori letture, recuperi di allegati e correzioni. Il conteggio precedente descrive quella ricognizione, non il totale aggiornato di tutti i rapporti.
+La successiva [revisione critica dei 196 programmi](../revisione-critica-programmi.md) documenta ulteriori letture, recuperi di allegati e correzioni. La [verifica dei manuali consigliati](../verifica-manuali.md) aggiunge edizioni, ISBN, capitoli riscontrati e lacune di copertura per tutte le schede. Il conteggio precedente descrive quella ricognizione, non il totale aggiornato di tutti i rapporti.
 
 Ricerca del **18 novembre 2026** per i **54 percorsi e le 196 schede** della raccolta (194 annuali e due periodi CPIA). I programmi sono **versioni Tentative generate tramite IA**, in attesa di revisione docente. [Registro della ricerca AI-0014](../../interazioni-ai/registro.md#ai-0014) · [Progettazione dei programmi AI-0003](../../interazioni-ai/registro.md#ai-0003) · [Indice del progetto](../../../README.md).
 

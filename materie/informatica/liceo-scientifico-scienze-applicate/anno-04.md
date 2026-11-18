@@ -84,9 +84,29 @@ Organizzare un catalogo di campioni geologici con query per luogo e composizione
 
 ## Letture consigliate
 
-- Gallo e Sirsi, *Informatica App con Python*, Minerva Scuola. [Scheda e volumi](https://www.mondadorieducation.it/catalogo/informatica-app-con-python-0072182/).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Volume secondo biennio, ISBN 9788829865239.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **GIMP — GIMP Documentation Team, GIMP 3.0 User Manual**. Documentazione ufficiale, pagina aggiornata 5 novembre 2026; ISBN non applicabile. [Fonte primaria](https://docs.gimp.org/3.0/en/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp). **Sezione verificata**.
+- **APP2 — Gallo, Sirsi, Gallo, Informatica App con Python**. Minerva Scuola; secondo biennio; ISBN 9788829865239; scheda 2023. [Fonte primaria](https://www.mondadorieducation.it/catalogo/informatica-app-con-python-0072182/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2). **Affinità tematica**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+- **SIA2 — Piero Gallo, Pasquale Sirsi, SIAmo informatici**. Minerva Scuola, seconda edizione 2026; secondo biennio; ISBN 9788829869909. [Fonte primaria](https://www.mondadorieducation.it/catalogo/siamo-informatici-0076733/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia2). **Sezione verificata**.
+- **SQL — PostgreSQL Global Development Group, PostgreSQL 18 Tutorial**. Documentazione ufficiale PostgreSQL 18; ISBN non applicabile. [Fonte primaria](https://www.postgresql.org/docs/18/tutorial.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sql). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Documenti e multimedia | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [APP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2): LO cap.2,5,10; GIMP cap.3,6,8–9 | sezione verificata; copertura parziale | Audio/video e semantica dei formati non sono coperti per intero da questi indici. |
+| **S1D1N2** — Web accessibile | [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [APP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2): MDN: HTML, CSS, accessibilità | sezione verificata; copertura parziale | Test con utenti e criteri di accessibilità del sito sono attività docente. |
+| **S1D1N3** — Dati relazionali | [SIA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia2), [SQL](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sql): SIA2 D1–D4 pp.474–583; SQL §§2–3 | sezione verificata; copertura parziale | Selezione dal tecnico economico, ridotta a modello relazionale e query richieste. |
+| **S1D1N4** — Progetto e controllo | [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [SQL](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sql), [APP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Specifiche, dati e confronto fra soluzioni del progetto sono originali; usare le stesse ore già assegnate. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-liceo-scientifico-scienze-applicate-anno-04).
 
 ## Riferimento curricolare
 

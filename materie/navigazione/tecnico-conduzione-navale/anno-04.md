@@ -122,9 +122,20 @@ Produrre un rapporto su due bollettini corredato da dati e grafico. A parte, spi
 
 ## Libro consigliato
 
-Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 2, *Navigazione astronomica, meteorologia nautica e manovra della nave*, Hoepli, ISBN 9788836007967. [Scheda e indice](https://www.hoeplieditore.it/hoepli-catalogo/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-navigazione-astronomica-meteorologia-nautica-e-manovra-della-nave-lorenzo-di-franco/9788836007967/2093)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Il volume accosta navigazione astronomica, meteorologia e manovra. Selezionare gli esempi pertinenti all’articolazione.
+- **Di Franco 2** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 2, *Navigazione astronomica, meteorologia nautica e manovra della nave*, Hoepli, 2022, ISBN 9788836007967. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/nuovo-scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-lorenzo-di-franco/9788836007967/2093).
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Rotte e pianificazione | Di Franco 2: «Pianificazione della traversata». | Sezione verificata nell’indice; applicazione da predisporre | L’indice attesta il tema; dati, carte aggiornate e scenario didattico restano da predisporre. |
+| D1.2 · Astronomia e tempo | Di Franco 2: Indice: astronomia generale/sferica e astronomia nautica. | Sezione verificata nell’indice; applicazione da predisporre | Tavole, osservazioni e progressione di calcolo devono essere selezionate; nessuna padronanza professionale presunta. |
+| D1.3 · Determinazione astronomica | Di Franco 2: Indice: astronomia generale/sferica e astronomia nautica. | Sezione verificata nell’indice; applicazione da predisporre | Tavole, osservazioni e progressione di calcolo devono essere selezionate; nessuna padronanza professionale presunta. |
+| D1.4 · Meteorologia e oceanografia | Di Franco 2: «Meteorologia nautica». | Sezione verificata nell’indice; applicazione da predisporre | Integrare bollettini e dati ufficiali datati; le decisioni restano casi didattici. |
+| D1.5 · Struttura, carico e manovra | Di Franco 2: «Manovra navale». | Affinità tematica; copertura solo parziale | Struttura, carico, stabilità e impianti non sono tutti attestati dalla sola voce; servono schede e dati tecnici del mezzo. |
+| D1.0, D1.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -144,6 +155,6 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.
 
 - [Duca degli Abruzzi, programmazione Scienze della navigazione CMN 4, 2026/27](https://www.itnipiaducabruzzi.edu.it/download/859/navigazione-e-logistica-fisica-e-macchine-discipline-stcw/10170/scienze-della-navigazione-4-anno-cmn-casel.doc) — documento scaricato; consultazione testuale parziale dei moduli, non verifica di conformità STCW.

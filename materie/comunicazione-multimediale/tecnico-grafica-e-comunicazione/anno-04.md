@@ -210,9 +210,35 @@ Presentare un kit con due prodotti, bozze e scheda di controllo. Verificare la c
 
 ## Libro consigliato
 
-Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, seconda edizione, Clitt. [Scheda editoriale e articolazione dei volumi](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499714_cartaidentita.pdf)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Consultare il vol. B sui passaggi dal progetto alla realizzazione. Le prove d’animazione richiedono esercizi predisposti in laboratorio.
+- **Ferrara–Ramina A** — Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. A, *Percorsi per comunicare tra vecchi e nuovi media*, ISBN 9788808499714. [Fonte verificata](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice A](https://staticmy.zanichelli.it/catalogo/assets/9788808499714_02_IND.pdf).
+- **Immaginando** — Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, 2016, volume unico, ISBN 9788820372644. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128).
+- **Corsi** — Michele Corsi, *Corso di linguaggio audiovisivo e multimediale*, Hoepli, 2017, volume unico, ISBN 9788820378868. [Fonte verificata](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159).
+- **Ferrara–Ramina B** — Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. B, *Dal progetto agli strumenti tecnici per realizzarlo*, ISBN 9788808992857. [Fonte verificata](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice B](https://staticmy.zanichelli.it/catalogo/assets/9788808992857_02_IND.pdf).
+
+Corretto l’uso indistinto di B per la IV: A è destinato al secondo biennio; B cap. 2 resta un richiamo anticipato mirato. Web/accessibilità e design richiedono risorse specifiche.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Identità e sistema visivo | Immaginando; Ferrara–Ramina A: Raccordi a grafica digitale e colore, senza indice completo di progettazione. | Da verificare / integrazione didattica | Tipografia, griglie, identità, packaging e interfacce richiedono schede, repertori visivi e un manuale specialistico selezionato dal docente. |
+| D1.2 · Editoriale e packaging | Immaginando; Ferrara–Ramina A: Raccordi a grafica digitale e colore, senza indice completo di progettazione. | Da verificare / integrazione didattica | Tipografia, griglie, identità, packaging e interfacce richiedono schede, repertori visivi e un manuale specialistico selezionato dal docente. |
+| D1.3 · Audiovisivo e animazione | Corsi: Indice: comunicazione e narrazione cinetelevisiva. | Sezione verificata nell’indice; applicazione da predisporre | Storyboard e scrittura del progetto sono esercizi della proposta, non esercizi editoriali verificati. |
+| D1.4 · Interfacce e accessibilità | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D2.1 · Processi e supporti avanzati | Ferrara–Ramina A: Indice A, cap. 1–2: evoluzione della stampa e supporti. | Sezione verificata nell’indice; applicazione da predisporre | Integrare schede aggiornate dei materiali e campioni del laboratorio. |
+| D2.2 · Gestione del colore | Ferrara–Ramina A: Indice A, cap. 9: colore e riproduzione a stampa. | Sezione verificata nell’indice; applicazione da predisporre | Integrare prove colore, profili e tolleranze del flusso realmente adottato. |
+| D2.3 · Tecnologie audiovisive | Ferrara–Ramina A: Indice A, cap. 8: produzione video. | Sezione verificata nell’indice; applicazione da predisporre | Riprese, file, montaggio e consegna sono attività originali; verificare software e dispositivi. |
+| D2.4 · Flusso e controllo | Ferrara–Ramina B: Indice B, cap. 2: prestampa, stampa e finitura. | Sezione verificata nell’indice; applicazione da predisporre | Procedure, materiali e prove di laboratorio vanno aggiornati e documentati. |
+| D3.1 · Grafica esecutiva coordinata | Immaginando; Ferrara–Ramina A: Raccordi a grafica digitale e colore, senza indice completo di progettazione. | Da verificare / integrazione didattica | Tipografia, griglie, identità, packaging e interfacce richiedono schede, repertori visivi e un manuale specialistico selezionato dal docente. |
+| D3.2 · Set e suono | Ferrara–Ramina A: Indice A, cap. 5: suono digitale. | Sezione verificata nell’indice; applicazione da predisporre | Integrare collegamenti, acquisizione, ascolto comparativo e strumenti realmente disponibili. |
+| D3.3 · Montaggio e animazione | Ferrara–Ramina A: Supporto ai principi tecnici, non a tutti i comandi di software. | Da verificare / integrazione didattica | Usare documentazione ufficiale della versione disponibile; GIMP e catalogo Shotcut nel rapporto. Non attestata la visione dei video. |
+| D3.4 · Web e interazione | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D3.5 · Produzione e qualità | Ferrara–Ramina A: Indice A, cap. 9: colore e riproduzione a stampa. | Sezione verificata nell’indice; applicazione da predisporre | Integrare prove colore, profili e tolleranze del flusso realmente adottato. |
+| D1.0, D1.5, D2.0, D2.5, D3.0, D3.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per esercitazioni di elaborazione raster, [manuale ufficiale GIMP 3.0](https://docs.gimp.org/3.0/it/) (indice e due procedure esaminate); per montaggio, [catalogo ufficiale dei tutorial Shotcut](https://www.shotcut.org/tutorials/) (elenco consultato, video non visionati). Sono integrazioni operative da selezionare secondo il software effettivo, non un corso aggiuntivo.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -232,6 +258,6 @@ La Direttiva 4/2012 sostiene il confronto con il quadro precedente; il D.M. 29/2
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.
 
 - [IISS Mattei, documento V H 2024/25, contenuti disciplinari grafici pp. 12–15](https://www.iissmatteimaglie.edu.it/wp-content/uploads/2025/05/timbrato_FIRMATO_QuintaH.pdf#page=12) — confronto didattico per il raccordo verso il quinto anno; non scansione nazionale obbligatoria.

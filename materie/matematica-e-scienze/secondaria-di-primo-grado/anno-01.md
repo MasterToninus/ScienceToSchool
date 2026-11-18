@@ -108,8 +108,24 @@ Riprendere operazioni, lettura e misura dalla primaria; frazioni prima di rappor
 
 ## Libri consigliati
 
-- R. Vacca, B. Artuso, C. Bezzi, *Archimede*, edizione rossa, Atlas, 2026, confezione *Aritmetica 1 + Geometria 1*. Usare i due fascicoli rispettivamente per il calcolo e le costruzioni. Le attività digitali su foglio di calcolo e Scratch permettono di riprendere gli stessi dati nella quarta tappa. [Scheda dell'editore e configurazione](https://www.zanichelli.it/ricerca/prodotti/archimede-edizione-rossa-vacca)
-- S. Saraceni, G. Strumia, *Osservare e capire le scienze*, edizione rossa, Zanichelli, 2026. Scegliere un'attività di osservazione e una scheda interdisciplinare dal primo volume. Per approfondire il lavoro al microscopio, l'edizione verde, seconda edizione, volume 1, documenta la scheda B22 e il laboratorio B24. I due riferimenti editoriali hanno paginazioni diverse. [Edizione rossa](https://www.zanichelli.it/ricerca/prodotti/osservare-e-capire-le-scienze-edizione-rossa-saraceni) · [Programmazione dell'edizione verde, vol. 1](https://online.scuola.zanichelli.it/osservareecapireverde2ed/i-tuoi-contenuti/programmazione-f52302/download/media-saraceni-programmazione-volume1/Saraceni_Osservare_capire_2ed_programmazione_volume1_75333.pdf)
+- Roberto Vacca, Bruno Artuso e Claudia Bezzi, *Archimede*, edizione rossa, Atlas, **2026**, confezione *Aritmetica 1 + Geometria 1 + Laboratorio 1*, ISBN **9788808596918**. [Catalogo e configurazione](https://www.zanichelli.it/ricerca/prodotti/archimede-edizione-rossa-vacca). Metadati verificati; indice analitico non recuperato. La descrizione del corso non dimostra che ogni obiettivo della scheda sia coperto.
+
+- Silvia Saraceni e Giorgio Strumia, *Osservare e capire le scienze*, **edizione rossa, 2026**, Zanichelli, volume 1, ISBN **9788808432360**. [Indice della stessa edizione](https://staticmy.zanichelli.it/catalogo/assets/9788808432360_02_IND.pdf). Per osservare le cellule: scheda **B24**, laboratorio **B26**; queste sono le pagine dell’edizione rossa, non B22/B24 della precedente citazione verde.
+
+| Nucleo o risultato | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Numeri, operazioni, frazioni, potenze e divisibilità | Archimede, fascicolo Aritmetica 1 | Affinità: capitoli da verificare |
+| Figure, coordinate, dati e algoritmi | Archimede, Geometria 1 e Laboratorio 1 | Affinità; binario, procedure e programmazione da riscontrare |
+| Metodo, misure, massa, volume, densità, temperatura e stati | Scienze rossa 1, A1–A2 | Indice |
+| Cellule, classificazione e organismi | Scienze rossa 1, B1–B5; scheda B24 e laboratorio B26 | Indice |
+| Suolo, aria, acqua e osservazioni ambientali | Scienze rossa 1, D1–D6 | Indice |
+| Miscugli, pressione/galleggiamento, reti alimentari e distinzione calore/temperatura | Integrazioni mirate: verde 2, A4–A5 e B6; verde 3, A7 | Indice di altri volumi, non copertura del solo rosso 1 |
+
+**Integrazioni e limiti.** Per le integrazioni sono stati letti gli indici della seconda edizione verde 2025: volume 2, ISBN 9788808375391 ([A4–A5, B6](https://staticmy.zanichelli.it/catalogo/assets/9788808375391_02_IND.pdf)), e volume 3, ISBN 9788808361783 ([A7](https://staticmy.zanichelli.it/catalogo/assets/9788808361783_02_IND.pdf)). Sono fonti di preparazione per il docente, senza richiedere tutti i volumi all’alunno. L’indice del rosso 1 non attesta da solo la completa copertura di questi punti; separazione dei miscugli, decomposizione e prove quantitative richiedono una scheda operativa. Le attività digitali specifiche di Archimede non sono qui dichiarate lette o eseguite.
+
+**Esito del controllo (18/11/2026).** «Indice» significa sezione visibile nel sommario della stessa edizione, non lettura integrale del capitolo. «Affinità» indica un riscontro tematico senza capitolo verificato. Le unità integrate, i dati, i protocolli, la programmazione informatica e le prove restano integrazioni del docente, entro le ore già previste. Risorse riservate, pagine non accessibili e adozioni non sono state verificate.
+
+[Verifica bibliografica e fonti per le cinque schede](../../../docs/ricerca-ai/verifica-manuali-matematica-scienze-cpia.md#media-1).
 
 [Indice del triennio](README.md)
 

@@ -109,9 +109,22 @@ Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva
 
 In AFM ricostruire i costi totali da costi marginali e costo fisso. In Turismo applicare lo stesso ragionamento ai pernottamenti e ai ricavi. Distinguere nel rapporto conclusivo l’ipotesi economica, i dati osservati e il risultato del calcolo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.rosso](https://www.zanichelli.it/ricerca/prodotti/matematica-rosso-bergamini-barozzi-trifone), Zanichelli, volume 4. La lettura proposta riguarda analisi delle funzioni e statistica.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.rosso](https://www.zanichelli.it/ricerca/prodotti/matematica-rosso-bergamini-barozzi-trifone), terza edizione, Zanichelli, 2022; Volume 4 con Tutor, ISBN **9788808964656**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Limiti e continuità | **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): capp. 12–14. |
+| Derivata e studio di funzione | **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): capp. 15–17 per derivazione, studio e applicazioni economiche. |
+| Integrali e accumulazione | **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): cap. 18. |
+| Conteggio e probabilità condizionata | **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): capp. 19–20. |
+| Variabili aleatorie e distribuzioni | **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): cap. 21; verificare nel testo i singoli esempi non nominati nel sommario. |
+| Dati bivariati e modelli | **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): cap. 22 per statistica bivariata; ebook C4 per interpolazione, se selezionata. **Integrazione didattica** — residui, dati di controllo, distorsioni e distinzione tra correlazione e causalità vanno sviluppati con una scheda di analisi; non sono attestati integralmente dalla sola voce statistica o regressione nel sommario. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

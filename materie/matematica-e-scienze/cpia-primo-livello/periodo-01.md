@@ -96,7 +96,22 @@ La quota di Scienze di 33 h è solo un’ipotesi di ripartizione delle 66 h scie
 
 **Verifica.** Proporre un nuovo contesto con gli stessi strumenti, per esempio confrontare due consumi d'acqua e stimare l'effetto di una riduzione. Raccogliere una rappresentazione, un calcolo con unità e una spiegazione. Distinguere nella valutazione la padronanza del lessico italiano dalla qualità del ragionamento.
 
-**Testo consigliato.** S. Armati, *Il nuovo libro di matematica e scienze. Per i percorsi di primo livello dei CPIA*, Loescher, 2024. Il manuale offre quattro moduli di matematica e quattro di scienze con attività graduate e una sezione di educazione ambientale. Quest'ultima è pertinente alla terza unità. La scheda editore descrive il livello linguistico A1-B1. [Scheda dell'opera](https://www.loescher.it/dettaglio/opera/O_35050/Il-nuovo-libro-di-matematica-e-scienze)
+## Libri consigliati
+
+- Stefania Armati, *Il nuovo libro di matematica e scienze. Per i percorsi di primo livello dei CPIA*, Loescher, **2024**, ISBN **9788858350508**. [Scheda editoriale](https://www.loescher.it/dettaglio/opera/O_35050/Il-nuovo-libro-di-matematica-e-scienze). La fonte attesta quattro moduli di matematica, quattro di scienze e livello linguistico A1–B1; non pubblica un indice analitico leggibile. Le corrispondenze puntuali restano da verificare sulla copia.
+
+| Nucleo o risultato | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Numeri, percentuali, misure, problemi ed equazioni | Armati: parte matematica, quattro moduli | Affinità; capitoli e copertura puntuale da verificare |
+| Geometria, piante, dati e probabilità | Armati: parte matematica | Affinità; solidi, equazioni e probabilità non confermati singolarmente |
+| Materia, Terra, viventi, corpo, energia e ambiente | Armati: parte scienze ed educazione ambientale | Affinità; nessuna mappa analitica completa |
+| Prezzi, pianta, serie di misure e corpo/ambiente | Unità integrate della scheda | Integrazione didattica: dati e prodotti non attribuiti al libro |
+
+**Integrazioni e limiti.** La destinazione CPIA e la graduazione linguistica rendono pertinente la raccomandazione, ma non certificano tutti i risultati del periodo. Per predisporre materiali mirati sono disponibili indici verificati di [Contaci!, Geometria 2 (aree, Pitagora, rette, similitudine)](https://staticmy.zanichelli.it/catalogo/assets/9788808547477_02_IND.pdf) e di [Scienze verde 2](https://staticmy.zanichelli.it/catalogo/assets/9788808375391_02_IND.pdf) / [verde 3](https://staticmy.zanichelli.it/catalogo/assets/9788808361783_02_IND.pdf) per apparati, ambiente, genetica e Terra, nelle edizioni e ISBN documentati nel rapporto. Sono repertori di supporto da adattare agli adulti, non adozioni aggiuntive. Mancano ancora riscontri analitici di Armati per equazioni, probabilità e singoli temi scientifici; predisporre integrazioni prima dell’uso.
+
+**Esito del controllo (18/11/2026).** «Indice» significa sezione visibile nel sommario della stessa edizione, non lettura integrale del capitolo. «Affinità» indica un riscontro tematico senza capitolo verificato. Le unità integrate, i dati, i protocolli, la programmazione informatica e le prove restano integrazioni del docente, entro le ore già previste. Risorse riservate, pagine non accessibili e adozioni non sono state verificate.
+
+[Verifica bibliografica e fonti per le cinque schede](../../../docs/ricerca-ai/verifica-manuali-matematica-scienze-cpia.md#cpia-1).
 
 [Quadro del primo livello CPIA](README.md)
 

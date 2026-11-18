@@ -100,9 +100,22 @@ Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva
 
 Confrontare due spiegazioni per la crescita di un corpus testuale o demografico. Calcolare rapporti, disegnare i grafici e discutere la validità di un’estrapolazione. Scegliere un documento storico nel classico, una coppia di formulazioni in lingue diverse nel linguistico o una tabella di dati sociali nelle scienze umane.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.azzurro, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), Zanichelli, volume 4. La lettura proposta riguarda esponenziali, logaritmi, goniometria e probabilità condizionata.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.azzurro](https://www.zanichelli.it/ricerca/prodotti/bergaminiazzurro3ed), terza edizione, Zanichelli, 2021; Volume 4 con Tutor, ISBN **9788808490056**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4).
+- **Richiami e integrazioni selettive:** [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): Matematica.azzurro — Volume 3 con Tutor (ISBN 9788808930552), [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): Matematica.blu2.0 — Volume 3 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808520364).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Esponenziali e logaritmi | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): capp. 13–14; raccordare i modelli alle equazioni già studiate. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): cap. 11 §7 per scale logaritmiche e semilogaritmiche, dettaglio non esplicitato nell’indice AZ4. |
+| Trigonometria e modelli periodici | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): capp. 15–18; formule e problemi selezionati, non tutto l’eserciziario. |
+| Geometria dello spazio | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): cap. 19 per geometria euclidea tridimensionale; richiamo anche in quinta se previsto dal percorso. |
+| Conteggio e probabilità condizionata | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): capp. 20–21 per conteggio, condizionamento e probabilità. |
+| Dati bivariati e modelli | **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): cap. 10 per statistica, dipendenza e correlazione; in quarta riprendere il volume 3 con nuovi dati e interpretazione critica. **Integrazione didattica** — residui, dati di controllo, distorsioni e distinzione tra correlazione e causalità vanno sviluppati con una scheda di analisi; non sono attestati integralmente dalla sola voce statistica o regressione nel sommario. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

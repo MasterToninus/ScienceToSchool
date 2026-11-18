@@ -120,9 +120,20 @@ Consegnare carta, calcoli e legenda di un breve percorso simulato. Valutare unit
 
 ## Libro consigliato
 
-Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 1, *Fondamenti di navigazione*, Hoepli, ISBN 9788836003846. [Scheda e indice](https://www.hoeplieditore.it/hoepli-catalogo/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-fondamenti-di-navigazione-lorenzo-di-franco/9788836003846/2093)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Usare le sezioni su carte nautiche e navigazione costiera. L’indice editoriale identifica entrambe.
+- **Di Franco 1** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 1, *Fondamenti di navigazione*, Hoepli, 2021, ISBN 9788836003846. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-fondamenti-di-navigazione-lorenzo-di-franco/9788836003846/2093).
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Terra, carte e pubblicazioni | Di Franco 1: Indice: carte/pubblicazioni, posizionamento e orientamento. | Sezione verificata nell’indice; applicazione da predisporre | Carte, scale, errori e dati dell’esercitazione vanno scelti e controllati dal docente. |
+| D1.2 · Direzioni e bussole | Di Franco 1: Indice: carte/pubblicazioni, posizionamento e orientamento. | Sezione verificata nell’indice; applicazione da predisporre | Carte, scale, errori e dati dell’esercitazione vanno scelti e controllati dal docente. |
+| D1.3 · Navigazione costiera | Di Franco 1: Indice: navigazione stimata e costiera. | Sezione verificata nell’indice; applicazione da predisporre | Servono carte didattiche, esercizi graduati e analisi degli errori. |
+| D1.4 · Navigazione stimata e rotte | Di Franco 1: Indice: navigazione stimata e costiera. | Sezione verificata nell’indice; applicazione da predisporre | Servono carte didattiche, esercizi graduati e analisi degli errori. |
+| D1.5 · Ambiente e mezzo | Di Franco 1: Indice: elementi meteomarini e governo della nave. | Sezione verificata per l’ambiente; struttura/impianti da integrare | Struttura, impianti e manutenzione non sono interamente attestati; integrare documenti del mezzo scelto. |
+| D1.0, D1.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -142,6 +153,6 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.
 
 - [Duca degli Abruzzi, programmazione Scienze della navigazione CMN 3, 2026/27](https://www.itnipiaducabruzzi.edu.it/download/859/navigazione-e-logistica-fisica-e-macchine-discipline-stcw/10168/scienze-della-navigazione-3-anno-cmn-casel-2026.doc) — documento scaricato; consultazione testuale parziale dei moduli, non verifica di conformità STCW.

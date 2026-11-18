@@ -90,9 +90,30 @@ Confrontare due canali di vendita su un insieme di dati simulato. Contestualizza
 
 ## Letture consigliate
 
-- *Informatica aziendale*, Simone Scuola, S397. [Scheda e indice](https://scuola.simone.it/libri/informatica-aziendale-s397/).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Usare i nuclei dedicati ai sistemi informativi e agli applicativi d’impresa.
+I testi AFM/SIA sono consultazioni selettive adattate al professionale, non equivalenza fra i rispettivi curricoli.
+
+- **SIA2 — Piero Gallo, Pasquale Sirsi, SIAmo informatici**. Minerva Scuola, seconda edizione 2026; secondo biennio; ISBN 9788829869909. [Fonte primaria](https://www.mondadorieducation.it/catalogo/siamo-informatici-0076733/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia2). **Sezione verificata**.
+- **SQL — PostgreSQL Global Development Group, PostgreSQL 18 Tutorial**. Documentazione ufficiale PostgreSQL 18; ISBN non applicabile. [Fonte primaria](https://www.postgresql.org/docs/18/tutorial.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sql). **Sezione verificata**.
+- **AZI — Antonio De Rosa, Valerio Teta, Informatica aziendale**. Simone Scuola, 2012; S397; volume unico; ISBN 9788824431132. [Fonte primaria](https://scuola.simone.it/libri/informatica-aziendale-s397/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi). **Sezione verificata**.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Archivio e qualità | [SIA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia2), [SQL](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sql), [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi): SIA2 D1–D4; SQL §§2–3; AZI mod.3 storico | sezione verificata; copertura parziale | Interfacce Access 2012 e procedura gestionale non vengono prescritte. |
+| **S1D1N2** — Analisi e indicatori | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi): LO cap.3; AZI mod.2 | sezione verificata; copertura parziale | Indicatori, grafici corretti e analisi avanzata del caso richiedono esercizi propri. |
+| **S1D1N3** — Comunicazione digitale | [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi): MDN HTML/CSS/JavaScript; AZI mod.4 solo contesto | sezione verificata; copertura parziale | Campagna e trattamento dei dati devono essere verificati su fonti attuali. |
+| **S1D1N4** — Controllo del processo | [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Controllo di processo e report del caso sono progettati per la classe. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-professionale-servizi-commerciali-anno-04).
 
 ## Riferimento curricolare
 

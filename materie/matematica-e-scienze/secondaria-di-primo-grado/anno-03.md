@@ -113,8 +113,25 @@ Verificare razionali, proporzioni, aree e Pitagora; algebra prima di equazioni, 
 
 ## Libri consigliati
 
-- C. Bertinetto, A. Metiäinen, J. Paasonen, E. Voutilainen, *Contaci!*, seconda edizione, Zanichelli. Nel tomo di terza su numeri, funzioni e dati scegliere esercizi su equazioni, verifica della soluzione e rappresentazione grafica delle funzioni. Il tomo *Misure, spazio e figure 3* accompagna lo studio dei solidi. [Scheda dell'opera](https://www.zanichelli.it/ricerca/prodotti/contaci-2ed) · [Esercizi per volume](https://esercizi.zanichelli.it/corso/Contaci-Seconda-edizione/2000062489)
-- S. Saraceni, G. Strumia, *Osservare e capire le scienze*, edizione verde, seconda edizione, Zanichelli, vol. 3, ISBN 9788808361783. Per le prime due tappe sono pertinenti le unità A7 (energia), A8 (onde e suoni), A9 (luce) e A10 (elettricità e magnetismo). Per la terza, B8 introduce l'evoluzione e B9 le testimonianze fossili. [Indice dell'edizione citata](https://staticmy.zanichelli.it/catalogo/assets/9788808361783_02_IND.pdf)
+- Clara Bertinetto, Arja Metiäinen, Johannes Paasonen ed Eija Voutilainen, *Contaci!*, **2ª edizione, 2019**, Zanichelli, confezione *Numeri, relazioni e funzioni, dati e previsioni 3 + Misure, spazio e figure 3*, ISBN **9788808567055**. [Catalogo dell’edizione](https://www.zanichelli.it/ricerca/prodotti/contaci-2ed). Configurazione verificata; indici dei fascicoli di terza non recuperati in forma leggibile. Il portale di esercizi non ha restituito una mappa affidabile del volume selezionato.
+
+- Silvia Saraceni e Giorgio Strumia, *Osservare e capire le scienze*, **edizione verde, 2ª edizione, 2025**, Zanichelli, volume 3, ISBN **9788808361783**. [Indice del volume 3](https://staticmy.zanichelli.it/catalogo/assets/9788808361783_02_IND.pdf).
+
+| Nucleo o risultato | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Algebra, equazioni, funzioni, dati e probabilità | Contaci!, fascicolo Numeri/relazioni/funzioni/dati 3 | Affinità; indice non letto |
+| Cerchio, solidi, superfici e volumi | Contaci!, Geometria 3 | Affinità; indice non letto |
+| Algoritmi, binario e debug | Attività da predisporre e verificare nella copia disponibile | Integrazione didattica |
+| Energia, elettricità, magnetismo, suono e ottica di base | Scienze verde 3, A7–A10 | Indice |
+| Riproduzione, genetica ed evoluzione | Scienze verde 3, C8–C9 e B8–B9 | Indice |
+| Terra solida, rischi, tettonica, Sistema solare e Universo | Scienze verde 3, D7–D11 | Indice |
+| Interferenza, diffrazione, polarizzazione; confronto fissione/fusione | Attività qualitative e dati del docente | Riscontro incompleto: non dedotti dalla sola voce luce o energia nucleare |
+
+**Integrazioni e limiti.** L’indice conferma le unità scientifiche già citate e amplia il raccordo a riproduzione, genetica e Terra. Non attesta esplicitamente tutti i fenomeni ottici aggiunti per la nuova coorte: la voce sui fenomeni acustici non prova l’interferenza della luce. La scheda sull’energia nucleare A184 non dimostra da sola il confronto completo fissione/fusione. Per questi punti selezionare un’integrazione verificata e adatta all’età. Il compito su dati e modelli resta originale del docente.
+
+**Esito del controllo (18/11/2026).** «Indice» significa sezione visibile nel sommario della stessa edizione, non lettura integrale del capitolo. «Affinità» indica un riscontro tematico senza capitolo verificato. Le unità integrate, i dati, i protocolli, la programmazione informatica e le prove restano integrazioni del docente, entro le ore già previste. Risorse riservate, pagine non accessibili e adozioni non sono state verificate.
+
+[Verifica bibliografica e fonti per le cinque schede](../../../docs/ricerca-ai/verifica-manuali-matematica-scienze-cpia.md#media-3).
 
 [Indice del triennio](README.md)
 

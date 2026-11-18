@@ -126,9 +126,31 @@ Costruire un registro di funzionamento e trovare uno scostamento ricorrente. Spi
 
 ## Letture consigliate
 
-- Gallotti, Rondinelli e Tomassini, *Tecnologie elettriche-elettroniche e applicazioni*, Hoepli, volume su macchine, impianti e controllo, ISBN 9788836018468. [Argomenti e indice](https://www.hoeplieditore.it/foreign-rights/articolo/tecnologie-elettriche-elettroniche-e-applicazioni-macchine-elettriche-elettronica-di-potenza-produzione-dellenergia-impianti-e-automazione-sistemi-di-controllo-antonella-gallotti/9788836018468/3241).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Nuclei Macchine elettriche e Impianti e automazione.
+- **TEEA2 — Antonella Gallotti, Andrea Rondinelli, Danilo Tomassini, Tecnologie elettriche-elettroniche e applicazioni**. Hoepli, volume 2, maggio 2026; ISBN 9788836018468. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/tecnologie-elettriche-elettroniche-e-applicazioni-antonella-gallotti/9788836018468/3241) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea2). **Sezione verificata**.
+- **SA2 — Fabrizio Cerri, Stefano Ghisleri, Domenico Strazzeri, Corso di sistemi automatici**. Hoepli, terza edizione; volume 2, 2025; ISBN 9788836018406. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/corso-di-sistemi-automatici--fabrizio-cerri/9788836018406/2290) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa2). **Sezione verificata**.
+- **TTIM2 — Sigfrido Pilone, Paolo Bassignana, Guido Furxhi, Maurizio Liverani, Antonio Pivetta, Claudio Piviotti, Tecnologie e tecniche di installazione, manutenzione e diagnostica**. Hoepli, terza edizione; volume 2 (quarto anno), 2024; ISBN 9788836015580. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/tecnologie-e-tecniche-di-installazione-manutenzione-e-diagnostica-quarto-anno-sigfrido-pilone/9788836015580/2886) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim2). **Sezione verificata**.
+- **TTIM3 — Sigfrido Pilone, Paolo Bassignana, Guido Furxhi, Maurizio Liverani, Antonio Pivetta, Claudio Piviotti, Tecnologie e tecniche di installazione, manutenzione e diagnostica**. Hoepli, terza edizione; volume 3 (quinto anno), 2025; ISBN 9788836018574. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/tecnologie-e-tecniche-di-installazione-manutenzione-e-diagnostica-quinto-anno-sigfrido-pilone/9788836018574/2886) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Macchine elettriche | [TEEA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea2): macchine elettriche | sezione verificata; copertura parziale | Caratteristiche della macchina e prove sicure da predisporre. |
+| **S1D1N2** — Conversione e comando | [TEEA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea2): conversione e comando | sezione verificata; copertura parziale | Dimensionamento e configurazione dell’azionamento richiedono schede tecniche. |
+| **S1D1N3** — Automazione | [TEEA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea2), [SA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa2): TEEA2 PLC; SA2 automazione | sezione verificata; copertura parziale | Selezionare pochi linguaggi e piattaforme in modo coerente. |
+| **S1D1N4** — Misure e diagnosi | [TEEA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea2), [TTIM2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim2): misure/impianti e manutenzione | sezione verificata; copertura parziale | Diagnosi sul caso reale non attestata dal solo indice. |
+| **S1D2N1** — Pianificazione | [TTIM2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim2): manutenzione e TPM | sezione verificata; copertura parziale | Piano, ricambi e costi sono dati della consegna. |
+| **S1D2N2** — Installazione e configurazione | [TTIM2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim2): assemblaggi e impianti elettrici/elettronici | sezione verificata; copertura parziale | Procedure del costruttore e controlli sono necessari. |
+| **S1D2N3** — Diagnostica | [TTIM3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3): diagnostica e ricerca guasti (consultazione mirata) | sezione verificata; copertura parziale | Non anticipare il piano completo del quinto; preparare casi di quarta. |
+| **S1D2N4** — Collaudo e documentazione | [TTIM2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim2): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Collaudo, documentazione e consegna sono originali. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-professionale-manutenzione-anno-04).
 
 ## Riferimento curricolare
 

@@ -107,9 +107,23 @@ Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e der
 
 Allocare una capacità limitata fra due prodotti o pacchetti di viaggio. Consegnare modello, visualizzazione, soluzione e analisi di sensibilità. Distinguere nel rapporto conclusivo l’ipotesi economica, i dati osservati e il risultato del calcolo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.rosso](https://www.zanichelli.it/ricerca/prodotti/matematica-rosso-bergamini-barozzi-trifone), Zanichelli, volume 5. Sono disponibili [esercizi del volume 5](https://esercizi.zanichelli.it/corso/Matematica-rosso-5/2000043860). La lettura proposta riguarda ricerca operativa e modelli di scelta.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.rosso](https://www.zanichelli.it/ricerca/prodotti/matematica-rosso-bergamini-barozzi-trifone), terza edizione, Zanichelli, 2023; Volume 5, ISBN **9788808749185**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5).
+- **Richiami e integrazioni selettive:** [RO3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro3): Matematica.rosso — Volume 3 con Tutor (ISBN 9788808351456), [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): Matematica.rosso — Volume 4 con Tutor (ISBN 9788808964656).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Ricerca operativa | **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): capp. 25–28 per problemi di scelta e programmazione lineare. |
+| Campionamento e inferenza | **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): cap. 29 per campionamento, stima e test; selezionare i casi del piano. |
+| Modelli finanziari | **Sezione verificata** — [RO3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro3): capp. 10–11; in quinta richiamare rendite e ammortamenti prima dei problemi differiti del volume 5. |
+| Ottimizzazione e modelli economici | **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): capp. 23–24 e 28; il livello a due variabili va calibrato sui prerequisiti della classe. **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): ebook C8 per il modello keynesiano. **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): cap. 22 per il raccordo con regressione; selezionare i modelli reddito-consumo/equilibrio secondo il programma. |
+| Metodi numerici e algoritmi | **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): ebook C7 e C10 per approssimazione delle radici e coding; C9 per PERT soltanto se pertinente. **Integrazione didattica** — ricorsione e confronto con iterazione, analisi dei casi di arresto e approssimazione delle derivate dove prevista richiedono attività dedicate: non sono attestati integralmente dai sommari dei metodi numerici o del coding. |
+| Probabilità totale e decisioni | **Sezione verificata** — [RO4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro4): cap. 20 per condizionamento e Bayes: richiamo al volume precedente. **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): cap. 26 per decisioni nell’incertezza. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

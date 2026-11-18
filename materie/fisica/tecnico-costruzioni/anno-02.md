@@ -110,7 +110,24 @@ Verifica: scegliere una soluzione per un plastico e documentare con dati una pre
 
 ## Libro consigliato
 
-G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli, come base di fisica. Le unità sull’equilibrio dei solidi e sui fenomeni termici servono a costruire le misure. Per la parte edilizia abbinare le schede di laboratorio d’istituto. [Indice degli esercizi](https://esercizi.zanichelli.it/corso/Fisica-Lezioni-e-problemi-Edizione-rossa/2000277786)
+Giuseppe Ruffo e Nunzio Lanotte, *Fisica. Lezioni e problemi*, **edizione rossa, 2025**, Zanichelli, volume unico, ISBN **9788808176189**. [Indice ufficiale del volume unico](https://staticmy.zanichelli.it/catalogo/assets/9788808176189_02_IND.pdf). I rinvii riguardano questo ISBN, non automaticamente i volumi separati del 2026.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Misure, materiali e rappresentazione | cap. 1–2 | Indice |
+| Forze, momenti e vincoli | cap. 3–4 | Indice |
+| Deformazione e risposta meccanica | [OpenStax, College Physics 2e, §5.3](https://openstax.org/books/college-physics-2e/pages/5-3-elasticity-stress-and-strain) | Testo pubblico: integrazione |
+| Scambi termici e materiali | cap. 11; [OpenStax §14.5](https://openstax.org/books/college-physics-2e/pages/14-5-conduction) | Indice + testo pubblico |
+| Suono e comfort degli ambienti | cap. 13; [Mirri–Parente, vol. quinto, cap. 11–13](https://staticmy.zanichelli.it/catalogo/assets/9788808992222_02_IND.pdf) | Indici: integrazione |
+| Confronto di soluzioni | integrazione: campioni, dati e criteri del caso edilizio | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Ruffo non basta per tutte le applicazioni edilizie: OpenStax §5.3 esplicita sforzo, deformazione e moduli, §14.5 la conduzione nelle pareti; Mirri–Parente, 2ª ed., 2021, ISBN 9788808992222, attesta riverberazione e isolamento. Flessione del provino, schede dei materiali e confronto termico/acustico richiedono ancora una scheda operativa del docente; i rinvii non sostituiscono un manuale di progettazione.
+
+I capitoli 13, 14 e 19 sono presentati in forma abbreviata su carta; l’indice rinvia all’eBook per il testo completo. È verificata questa indicazione editoriale, non l’accesso personale alle risorse digitali.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-costruzioni-2).
 
 ## Fonti consultate per questa proposta
 

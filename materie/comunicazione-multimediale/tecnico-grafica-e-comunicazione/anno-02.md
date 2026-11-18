@@ -108,9 +108,21 @@ Consegnare i due file e una prova stampata. Verificare formato, leggibilità e s
 
 ## Libro consigliato
 
-Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, ISBN 9788820372644. [Scheda e indice](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Il manuale è specifico per questa disciplina. Utilizzare le parti su immagine digitale, colore e stampa.
+- **Immaginando** — Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, 2016, volume unico, ISBN 9788820372644. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128).
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Prodotti e processi | Immaginando: Presentazione dei processi e delle professioni grafiche. | Affinità tematica; copertura solo parziale | Non documenta ogni tecnica di disegno, geometria, prototipazione o progettazione del nucleo. |
+| D1.2 · Raster e vettore | Immaginando: Macrovoce sugli strumenti di produzione ed elaborazione grafica. | Sezione verificata nell’indice; applicazione da predisporre | Procedure per la versione del software e prove pratiche da predisporre; risorse GIMP nel rapporto. |
+| D1.3 · Colore e composizione | Immaginando: Macrovoce su luce e colore. | Sezione verificata nell’indice; applicazione da predisporre | Integrare dimostrazioni, campioni e gestione del colore nello strumento effettivamente utilizzato. |
+| D1.4 · Esportazione e verifica | Immaginando: Macrovoce «Dal progetto alla stampa». | Sezione verificata nell’indice; applicazione da predisporre | Integrare specifiche di consegna, controlli del file e attività pratica della classe. |
+| D1.0, D1.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per esercitazioni di elaborazione raster, [manuale ufficiale GIMP 3.0](https://docs.gimp.org/3.0/it/) (indice e due procedure esaminate); per montaggio, [catalogo ufficiale dei tutorial Shotcut](https://www.shotcut.org/tutorials/) (elenco consultato, video non visionati). Sono integrazioni operative da selezionare secondo il software effettivo, non un corso aggiuntivo.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -130,4 +142,4 @@ La Direttiva 4/2012 sostiene il confronto con il quadro precedente; il D.M. 29/2
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

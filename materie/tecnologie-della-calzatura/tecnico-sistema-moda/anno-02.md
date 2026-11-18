@@ -113,7 +113,23 @@ Consegnare il modello in cartoncino di un dettaglio di tomaia. Un secondo gruppo
 
 ## Letture consigliate
 
-- La descrizione editoriale documenta le schede tecniche, i materiali e la terminologia. Selezionare esempi utili al confronto con il prototipo. [Anna Paola Pascuzzi, *Shoe Design. Elementi di progettazione calzaturiera*, ISBN 9781720070436](https://www.abebooks.it/9781720070436/Shoe-Design-Elementi-progettazione-calzaturiera-1720070431/plp).
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
+
+- **Shoe Design** — Anna Paola Pascuzzi, *Shoe Design. Elementi di progettazione calzaturiera*, ISBN indicato nel riferimento preesistente 9781720070436. [Fonte verificata](https://www.italianshoedesign.it/italiano/pubblicazioni-e-quaderni-di-tendenza/).
+
+Shoe Design è conservato come riferimento opzionale; pagina dell’autrice conferma titolo e collegamento, non indice/edizione. Nessun raccordo tecnico è dichiarato verificato.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Materiali e proprietà | Materiale tecnico specialistico da reperire. | Integrazione didattica | Servono schede di materiali/macchine, procedure del laboratorio e manuale calzaturiero con indice verificato. INAPP orienta i risultati, non insegna la procedura. |
+| D1.2 · Filiera e accoppiamenti | Materiale tecnico specialistico da reperire. | Integrazione didattica | Servono schede di materiali/macchine, procedure del laboratorio e manuale calzaturiero con indice verificato. INAPP orienta i risultati, non insegna la procedura. |
+| D1.3 · Sagoma e sviluppo | Shoe Design: Titolo confermato dall’autrice, indice non disponibile. | Da verificare / integrazione didattica | Riferimento opzionale: controllare edizione e sommario sulla copia. INAPP offre risultati professionali, non lezioni di modellistica. |
+| D1.4 · Prototipo e scheda | Shoe Design: Nessun indice verificato di modellistica/CAD nel riferimento conservato. | Da verificare / integrazione didattica | Integrare con dimostrazioni e documentazione del CAD; RA1/RA2 INAPP definiscono prodotti attesi, non ore o capitoli scolastici. |
+| D1.0, D1.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per precisare i risultati attesi del modello e della scheda tecnica: [INAPP, Progettazione tecnica capo calzaturiero, RA1–RA2](https://www.inapp.gov.it/atlantelavoro/competenza/?id_uc=27973). La fonte descrive competenze professionali del repertorio Lazio: non è un manuale, un corso di CAD o una prescrizione annuale.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 [Indice del percorso](README.md)
 
@@ -128,4 +144,4 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida pre
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie della calzatura](../../../docs/ricerca-ai/fonti-programmi/tecnologie-della-calzatura.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

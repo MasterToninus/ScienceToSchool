@@ -130,9 +130,33 @@ Consegnare un foglio con dati di partenza, unità, formule, grafico e breve rela
 
 ## Letture consigliate
 
-- Lorenzi e Govoni, *Tecnologie informatiche per istituti tecnici tecnologici*, Atlas. [Presentazione editoriale](https://www.edatlas.it/it/media/service/documents/647a2b34-d70a-48a4-ab72-2011573306db).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Scegliere le attività di gestione di file, dati e strumenti di produttività.
+- **APPLI — Paolo Camagni, Riccardo Nikolassy, Appliware**. Hoepli; volume unico; ISBN 9788820396381; scheda editoriale settembre 2021. [Fonte primaria](https://www.hoeplieditore.it/storage/app/uploads/public/allegati/96/381/9788820396381%20-%209638_Appliware.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli). **Affinità tematica**.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **STA — Paolo Camagni, Riccardo Nikolassy, Ugo Bay, Ada Boni, Nuovo In@pp. Scienze e Tecnologie Applicate**. Hoepli, maggio 2026; ISBN 9788836021215. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/nuovo-in-pp-paolo-camagni/9788836021215/3314) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta). **Sezione verificata**.
+- **RETI26 — Luigi Lo Russo, Elena Bianchi, Paolo Camagni, Riccardo Nikolassy, Informatica e reti di comunicazione**. Hoepli, maggio 2026; volume unico; ISBN 9788836022878. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/informatica-e-reti-di-comunicazione-volume-unico-luigi-lo-russo/9788836022878/3414) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-reti26). **Sezione verificata**.
+- **ATLAS — Agostino Lorenzi, Massimo Govoni, Tecnologie informatiche per istituti tecnici tecnologici**. Atlas, 2015; volume unico; ISBN non esposto nella scheda consultata. [Fonte primaria](https://www.edatlas.it/it/media/service/documents/647a2b34-d70a-48a4-ab72-2011573306db) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-atlas). **Affinità tematica**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Ambiente digitale | [APPLI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): LO cap.1; Appliware: ambito introduttivo | sezione verificata; copertura parziale | Codifica binaria e hardware: solo affinità nella scheda Appliware; preparare dimostrazioni e casi. |
+| **S1D1N2** — Documenti professionali | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.2, 4–5: documenti, stili e immagini | sezione verificata; copertura parziale | Documenti di settore, accessibilità e rubriche di qualità sono adattamenti docente. |
+| **S1D1N3** — Foglio elettronico | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.3: Calc | sezione verificata; copertura parziale | Controlli incrociati, dataset e formule della consegna sono esercizi del docente. |
+| **S1D1N4** — Comunicazione e protezione | [APPLI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): LO cap.10: formati, esportazione e protezione; Appliware: rete | sezione verificata; copertura parziale | Ricerca delle fonti, licenze, cittadinanza digitale e verifica dell’IA richiedono fonti aggiornate specifiche. |
+| **S2D1N1** — Ambiente digitale | [APPLI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): LO cap.1; Appliware: ambito introduttivo | sezione verificata; copertura parziale | Codifica binaria e hardware: solo affinità nella scheda Appliware; preparare dimostrazioni e casi. |
+| **S2D1N2** — Documenti professionali | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.2, 4–5: documenti, stili e immagini | sezione verificata; copertura parziale | Documenti di settore, accessibilità e rubriche di qualità sono adattamenti docente. |
+| **S2D1N3** — Foglio elettronico | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.3: Calc | sezione verificata; copertura parziale | Controlli incrociati, dataset e formule della consegna sono esercizi del docente. |
+| **S2D1N4** — Comunicazione e protezione | [APPLI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): LO cap.10: formati, esportazione e protezione; Appliware: rete | sezione verificata; copertura parziale | Ricerca delle fonti, licenze, cittadinanza digitale e verifica dell’IA richiedono fonti aggiornate specifiche. |
+| **S2D1N5** — Applicazioni tecnologiche | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta), [RETI26](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-reti26): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Applicazione tecnologica scelta secondo indirizzo/PTOF; non ulteriore nucleo comune obbligatorio. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-tecnologico-tic-anno-01).
 
 ## Riferimento curricolare
 

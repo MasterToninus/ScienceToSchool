@@ -93,9 +93,27 @@ Realizzare una breve narrazione con una versione accessibile corredata da trascr
 
 ## Letture consigliate
 
-- Legnani, Mastantuono, Peraglie e Soccio, *Competenze grafiche. Progettazione multimediale*, 2ª ed., Clitt. [Scheda con volumi e ISBN](https://staticmy.zanichelli.it/catalogo/assets/aP13.9788808531766.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Volume secondo biennio, ISBN 9788808920331.
+- **COMP2 — Silvia Legnani, Catia Franca Mastantuono, Tiziana Peraglie, Rita Soccio, Competenze grafiche. Progettazione multimediale**. Clitt, seconda edizione 2022; secondo biennio, Dalla progettazione grafica al visual design; ISBN 9788808920331. [Fonte primaria](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808920331_cartaidentita.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2). **Affinità tematica**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+- **GIMP — GIMP Documentation Team, GIMP 3.0 User Manual**. Documentazione ufficiale, pagina aggiornata 5 novembre 2026; ISBN non applicabile. [Fonte primaria](https://docs.gimp.org/3.0/en/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp). **Sezione verificata**.
+- **CORSI — Michele Corsi, Corso di linguaggio audiovisivo e multimediale**. Hoepli, marzo 2017; volume unico; ISBN 9788820378868. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Identità e comunicazione | [COMP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2): ambito del volume, solo affinità | affinità tematica; da verificare | Identità visiva, pubblico e gerarchie richiedono verifica sul volume e casi attuali. |
+| **S1D1N2** — Prodotti editoriali e digitali | [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [COMP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2): MDN Web; GIMP immagini/testo | sezione verificata; copertura parziale | Impaginazione editoriale e workflow di prestampa richiedono strumenti/materiali dedicati. |
+| **S1D1N3** — Audiovisivo e animazione | [CORSI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi): montaggio, suono, narrazione | sezione verificata; copertura parziale | Animazione operativa e software non verificati nel manuale: aggiungere tutorial specifici dell’ambiente. |
+| **S1D1N4** — Progetto multicanale | [COMP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2), [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [CORSI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Coerenza fra canali e valutazione della campagna sono originali. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-grafica-comunicazione-anno-04).
 
 ## Riferimento curricolare
 

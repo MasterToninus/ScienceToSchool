@@ -106,7 +106,24 @@ Verifica: stimare un consumo da dati reali e indicare come controllare la stima.
 
 ## Libro consigliato
 
-G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli. Per il bilancio energetico e le misure termiche sono identificabili le sezioni su energia, lavoro, calore e temperatura. [Percorso di esercizi](https://esercizi.zanichelli.it/corso/Fisica-Lezioni-e-problemi-Edizione-rossa/2000277786)
+Giuseppe Ruffo e Nunzio Lanotte, *Fisica. Lezioni e problemi*, **edizione rossa, 2025**, Zanichelli, volume unico, ISBN **9788808176189**. [Indice ufficiale del volume unico](https://staticmy.zanichelli.it/catalogo/assets/9788808176189_02_IND.pdf). I rinvii riguardano questo ISBN, non automaticamente i volumi separati del 2026.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Moto e lavoro in un processo | cap. 6 e 9 | Indice |
+| Energia, potenza e rendimento | cap. 9–10 | Indice |
+| Scambi termici e controllo | cap. 11–12 | Indice |
+| Misure elettriche di base | cap. 16–17 | Indice |
+| Un sensore nel settore professionale | cap. 13, 14 oppure 16, secondo il sensore | Indice |
+| Relazione di processo | integrazione: dati del processo e relazione | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Scegliere un solo sensore coerente con il settore e integrare curva di taratura, portata, ripetibilità e istruzioni dell’apparecchio. Il testo non verifica l’attività operativa specifica né la relazione proposta.
+
+I capitoli 13, 14 e 19 sono presentati in forma abbreviata su carta; l’indice rinvia all’eBook per il testo completo. È verificata questa indicazione editoriale, non l’accesso personale alle risorse digitali.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#professionale-2).
 
 ## Fonti consultate per questa proposta
 

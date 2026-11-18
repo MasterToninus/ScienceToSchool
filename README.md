@@ -12,7 +12,7 @@
 
 ScienceToSchool raccoglie **196 programmi Tentative in 54 percorsi**, organizzati per materia, scuola e anno, a partire dagli sbocchi della laurea magistrale in Fisica (LM-17). Ogni scheda propone argomenti, attività, verifiche e libri, con fonti consultabili.[^ricerca-ia]
 
-Dalla tabella si raggiungono i percorsi annuali. [Fonti](docs/ricerca-ai/fonti-programmi/README.md), [carico didattico](docs/ricerca-ai/carico-didattico.md) e [revisione critica](docs/ricerca-ai/revisione-critica-programmi.md) documentano riferimenti, orari, correzioni e limiti.
+Dalla tabella si raggiungono i percorsi annuali. [Fonti](docs/ricerca-ai/fonti-programmi/README.md), [carico didattico](docs/ricerca-ai/carico-didattico.md), [revisione critica](docs/ricerca-ai/revisione-critica-programmi.md) e [verifica dei manuali](docs/ricerca-ai/verifica-manuali.md) documentano riferimenti, orari, correzioni e limiti.
 
 ## Dall’autore
 

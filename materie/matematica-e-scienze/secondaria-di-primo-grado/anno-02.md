@@ -107,8 +107,25 @@ Verificare frazioni, potenze, misure e figure della prima; radici prima di Pitag
 
 ## Libri consigliati
 
-- C. Bertinetto, A. Metiäinen, J. Paasonen, E. Voutilainen, *Contaci!*, seconda edizione, Zanichelli, volumi *Numeri, relazioni, dati 2* e *Misure, spazio e figure 2*. Per la seconda tappa usare il capitolo 2 di geometria sul teorema di Pitagora e chiedere una stima prima del calcolo. [Scheda e configurazioni](https://www.zanichelli.it/ricerca/prodotti/contaci-2ed) · [Esercizi del corso divisi per volume e capitolo](https://esercizi.zanichelli.it/corso/Contaci-Seconda-edizione/2000062489)
-- S. Saraceni, G. Strumia, *Osservare e capire le scienze*, edizione verde, seconda edizione, Zanichelli, vol. 2, ISBN 9788808375391. Il volume propone un'attività sulla concentrazione con il foglio di calcolo e una sulla frequenza cardiaca. Si prestano rispettivamente alla prima e alla terza tappa. [Scheda del volume 2](https://staticmy.zanichelli.it/catalogo/assets/9788808375391_03_ALT.pdf)
+- Clara Bertinetto, Arja Metiäinen, Johannes Paasonen ed Eija Voutilainen, *Contaci!*, **2ª edizione, 2019**, Zanichelli, confezione *Numeri, relazioni, dati 2 + Misure, spazio e figure 2*, ISBN **9788808547477**. [Catalogo](https://www.zanichelli.it/ricerca/prodotti/contaci-2ed); il [PDF di indice recuperato](https://staticmy.zanichelli.it/catalogo/assets/9788808547477_02_IND.pdf) riguarda **solo il fascicolo di geometria 2**, non tutto il pacchetto.
+
+- Silvia Saraceni e Giorgio Strumia, *Osservare e capire le scienze*, **edizione verde, 2ª edizione, 2025**, Zanichelli, volume 2, ISBN **9788808375391**. [Indice del volume 2](https://staticmy.zanichelli.it/catalogo/assets/9788808375391_02_IND.pdf). L’anno 2025 della seconda edizione è confermato dal [confronto editoriale tra edizioni](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808299710_librifratello.pdf); non va confuso con il 2020 della prima.
+
+| Nucleo o risultato | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Rapporti, percentuali, radici, formule e proporzionalità | Contaci!, Numeri 2; indice non recuperato | Affinità; dettagli da verificare |
+| Aree, Pitagora, piano cartesiano e similitudine | Contaci!, Geometria 2, cap. 1–4 | Indice; Euclide e Talete non esplicitati come voci autonome |
+| Dati e informatica | Numeri 2 per affinità; campionamento e programmazione da integrare | Affinità + integrazione didattica |
+| Trasformazioni della materia, forze, moto, equilibrio e fluidi | Scienze verde 2, A3–A6 | Indice |
+| Apparati, nutrizione, respirazione, circolazione ed escrezione | Scienze verde 2, C1–C5 | Indice |
+| Reti ecologiche, ambienti e cicli della materia | Scienze verde 2, B6–B7 | Indice; raccordo sui bilanci da predisporre |
+| Sensi, sistema nervoso e dipendenze | Scienze verde 3, C6–C7 | Indice di altro volume: integrazione |
+
+**Integrazioni e limiti.** Per sensi e coordinamento occorre il volume 3 verde 2025, ISBN 9788808361783 ([indice C6–C7](https://staticmy.zanichelli.it/catalogo/assets/9788808361783_02_IND.pdf)), oppure materiale equivalente del docente: il volume 2 da solo non documenta questi nuclei. La [presentazione editoriale del volume 2](https://staticmy.zanichelli.it/catalogo/assets/9788808375391_03_ALT.pdf) conferma attività su concentrazione con foglio di calcolo e pulsazioni, ma non ne rende leggibile l’intero protocollo. I dati corporei possono essere predisposti dal docente. Il capitolo 4 di Geometria 2 attesta similitudine e triangoli rettangoli; i teoremi di Euclide e Talete richiedono riscontro nel testo o integrazione esplicita, senza inventare una pagina.
+
+**Esito del controllo (18/11/2026).** «Indice» significa sezione visibile nel sommario della stessa edizione, non lettura integrale del capitolo. «Affinità» indica un riscontro tematico senza capitolo verificato. Le unità integrate, i dati, i protocolli, la programmazione informatica e le prove restano integrazioni del docente, entro le ore già previste. Risorse riservate, pagine non accessibili e adozioni non sono state verificate.
+
+[Verifica bibliografica e fonti per le cinque schede](../../../docs/ricerca-ai/verifica-manuali-matematica-scienze-cpia.md#media-2).
 
 [Indice del triennio](README.md)
 

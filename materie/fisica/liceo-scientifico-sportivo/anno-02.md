@@ -105,7 +105,25 @@ Verifica: leggere un grafico spazio-tempo e risolvere un bilancio energetico dic
 
 ## Libro consigliato
 
-Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Volume per il primo biennio, con nuclei dedicati a misure, equilibrio, moto, fenomeni termici e luce. [Scheda editoriale del volume](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808920577_cartaidentita.pdf)
+Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli, volume per il primo biennio, 2021, ISBN **9788808920577**. [Indice ufficiale del volume](https://staticmy.zanichelli.it/catalogo/assets/9788808920577_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Descrivere il moto | cap. 6–7 | Indice |
+| Caduta e moti nel piano | cap. 8 e 10 | Indice |
+| Dalle forze al movimento | cap. 9–10 | Indice |
+| Lavoro, energia e potenza | cap. 11 | Indice |
+| Temperatura e scambi di calore | cap. 12 | Indice |
+| Trasporto termico e controllo sperimentale | integrare con [OpenStax, Physics, §11.2](https://openstax.org/books/physics/pages/11-2-heat-specific-heat-and-heat-transfer) | Testo pubblico: integrazione |
+| Cinematica del gesto | integrazione: attività e dati scelti dal docente | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il cap. 12 attesta calorimetria e cambiamenti di stato; conduzione, convezione e irraggiamento non sono esplicitati nell’indice. La sezione OpenStax citata è stata letta per colmare questo riscontro incompleto; confronto tra modelli e procedura sperimentale restano del docente.
+
+Questo ISBN compare nell’[elenco dei volumi in uscita dal catalogo scolastico 2026](https://www.zanichelli.it/assets/download/media-fuoricatalogo_scolastico_2026_16_12-pdf): resta un riferimento utilizzabile con copia disponibile. Per una nuova adozione verificare l’edizione effettivamente ottenibile e rifare la mappa; i capitoli non si trasferiscono automaticamente a *L’Amaldi.blu*.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#scientifico-2).
 
 ## Fonti consultate per questa proposta
 

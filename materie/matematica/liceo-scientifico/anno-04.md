@@ -110,9 +110,23 @@ In quarta la geometria spaziale è sintetica: eventuali coordinate servono a vis
 
 Ricostruire ampiezza e periodo di un segnale da campioni. Discutere quali parametri siano univoci e mostrare un controesempio. Gli esempi possono provenire da esperimenti nel percorso ordinario, da simulazioni nelle scienze applicate o da dati di allenamento nello sportivo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.blu 2.0, terza edizione, triennio](https://esercizi.zanichelli.it/corso/Matematica-blu-triennio-3-edizione/2000142654), Zanichelli, volume 4. Il sito offre esercizi per tema. La lettura proposta riguarda trigonometria, numeri complessi e probabilità.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.blu2.0](https://online.scuola.zanichelli.it/bergaminiblu3ed/?p=133), terza edizione, Zanichelli, 2020; Volume 4 (configurazione senza Tutor; anno di avvio del corso), ISBN **9788808340757**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4).
+- **Richiami e integrazioni selettive:** [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): Matematica.blu2.0 — Volume 3 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808520364), [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): Matematica.blu2.0 — Volume 5 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808873620).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Trigonometria e modelli periodici | **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): capp. 12–15 per trigonometria e funzioni periodiche. |
+| Numeri complessi | **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): cap. 16; distinguere rappresentazione algebrica e geometrica. |
+| Geometria dello spazio | **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): capp. 19–20 per spazio euclideo e analitico. |
+| Conteggio e probabilità condizionata | **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): capp. α1–α2 per combinatoria e probabilità. |
+| Verso il calcolo infinitesimale | **Sezione verificata** — [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): capp. 21–23 per funzioni, limiti e continuità: anticipazione qualitativa, non esaurimento dell’analisi di quinta. |
+| Dati bivariati e modelli | **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): cap. β per statistica bivariata e regressione; in quarta si riprende lo stesso riferimento per residui e limiti del modello. **Integrazione didattica** — residui, dati di controllo, distorsioni e distinzione tra correlazione e causalità vanno sviluppati con una scheda di analisi; non sono attestati integralmente dalla sola voce statistica o regressione nel sommario. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

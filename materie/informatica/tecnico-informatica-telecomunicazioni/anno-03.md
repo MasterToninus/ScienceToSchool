@@ -226,9 +226,46 @@ Implementare un archivio in memoria con ricerca e ordinamento, riportando limiti
 
 ## Letture consigliate
 
-- Camagni e Nikolassy, *DigiCode*, Hoepli, volume C/C++/C#. [Scheda del corso](https://www.hoeplieditore.it/scuola/articolo/digicode-paolo-camagni/opera/3370).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Scegliere i moduli di programmazione imperativa.
+Bibliografie separate per Informatica, Sistemi e reti e TPSIT; il ramo Telecomunicazioni qui contiene solo Informatica.
+
+- **DIGI — Paolo Camagni, Riccardo Nikolassy, DigiCode. Linguaggio C, C++ e C#**. Hoepli, maggio 2026; ISBN 9788836022052. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/digicode-paolo-camagni/9788836022052/3370) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi). **Sezione verificata**.
+- **PY — Python Software Foundation, The Python Tutorial**. Documentazione Python 3.14; risorsa ufficiale, ISBN non applicabile. [Fonte primaria](https://docs.python.org/3.14/tutorial/index.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py). **Sezione verificata**.
+- **SR1 — Luigi Lo Russo, Elena Bianchi, Sistemi e reti**. Hoepli, quarta edizione; volume 1, 2023; ISBN 9788836012091. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/sistemi-e-reti--luigi-lo-russo/9788836012091/2015) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr1). **Sezione verificata**.
+- **TPS1 — Paolo Camagni, Riccardo Nikolassy, Tecnologie e progettazione di sistemi informatici e di telecomunicazioni**. Hoepli; articolazione Informatica; volume 1, 2023; ISBN 9788836011728. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/tecnologie-e-progettazione-di-sistemi-informatici-e-di-telecomunicazioni-per-larticolazione-informatica--paolo-camagni/9788836011728/2012) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps1). **Sezione verificata**.
+- **TPS2 — Paolo Camagni, Riccardo Nikolassy, Tecnologie e progettazione di sistemi informatici e di telecomunicazioni**. Hoepli; articolazione Informatica; volume 2, 2024; ISBN 9788836015122. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/tecnologie-e-progettazione-di-sistemi-informatici-e-di-telecomunicazioni-per-larticolazione-informatica--paolo-camagni/9788836015122/2012) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps2). **Sezione verificata**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Specifiche e linguaggio | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): algoritmi e C/C++ | sezione verificata; copertura parziale | Specifiche e casi di prova sono della classe. |
+| **S1D1N2** — Programmazione modulare | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): funzioni e programmazione modulare | sezione verificata; copertura parziale | Interfacce, contratti e test da integrare. |
+| **S1D1N3** — Dati in memoria | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): strutture, array/record e STL | sezione verificata; copertura parziale | Gestione della memoria richiesta dal programma da verificare nei dettagli del volume. |
+| **S1D1N4** — Algoritmi | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): ricerca e ordinamento | sezione verificata; copertura parziale | Correttezza e costo sperimentale sono esercizi aggiuntivi. |
+| **S1D1N5** — File e robustezza | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi), [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py): DIGI file; PY §§7–8 | sezione verificata; copertura parziale | Validazione dei dati e gestione degli errori richiedono prove proprie. |
+| **S1D1N6** — Applicazione completa | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Applicazione, interfacce, test e documentazione sono originali. |
+| **S1D2N1** — Architettura dell’elaboratore | [SR1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr1): architetture dei sistemi | sezione verificata; copertura parziale | Configurazione reale e confronto prestazioni da integrare. |
+| **S1D2N2** — Configurazione | [SR1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr1), [TPS1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps1): SR1 architetture; TPS1 sistemi operativi | sezione verificata; copertura parziale | Procedure sul sistema installato e permessi devono essere testate in laboratorio. |
+| **S1D2N3** — Reti locali | [SR1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr1): networking, dispositivi LAN, Ethernet | sezione verificata; copertura parziale | Topologia concreta, indirizzi e apparati della prova sono del docente. |
+| **S1D2N4** — Prove e diagnosi | [SR1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr1): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Diagnosi, misure e report della LAN sono esercitazioni originali. |
+| **S1D2N5** — Consegna tecnica | [SR1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr1): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Consegna e documentazione del sistema sono costruite per la classe. |
+| **S1D3N1** — Informazione digitale | [TPS1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps1): rappresentazione e codici | sezione verificata; copertura parziale | Esercizi di conversione da graduare. |
+| **S1D3N2** — Sistema operativo | [TPS1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps1): sistemi operativi | sezione verificata; copertura parziale | Processi, memoria e file system vanno collegati al sistema disponibile. |
+| **S1D3N3** — Ciclo di sviluppo | [TPS1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps1), [TPS2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps2): TPS1 ciclo di vita; TPS2 requisiti/documentazione | sezione verificata; copertura parziale | Versionamento e test dettagliati si selezionano dal volume 2; non anticipare l’intero corso concorrente. |
+| **S1D3N4** — Laboratorio di sistema | [TPS1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps1): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Laboratorio di sistema e report sono progettati dal docente. |
+| **S2D1N1** — Programmazione | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): programmazione e funzioni | sezione verificata; copertura parziale | Selezionare il ramo Telecomunicazioni. |
+| **S2D1N2** — Strutture e algoritmi | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): strutture, ricerca e ordinamento | sezione verificata; copertura parziale | Casi e test del problema tecnico sono originali. |
+| **S2D1N3** — Oggetti e file | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi): oggetti e file | sezione verificata; copertura parziale | Gradualità della modellazione da concordare. |
+| **S2D1N4** — Web e progetto | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi), [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Web e progetto si appoggiano ai linguaggi verificati; specifica e test sono propri. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-informatica-telecomunicazioni-anno-03).
 
 ## Riferimento curricolare
 

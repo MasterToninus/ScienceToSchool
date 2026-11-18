@@ -110,8 +110,24 @@ Preparare una tavola annotata relativa a una calzatura quotidiana con cinque com
 
 ## Letture consigliate
 
-- Utilizzare l’inquadramento storico del design per confrontare due tipologie funzionali. [Anna Paola Pascuzzi, *Un mondo di scarpe*, tab edizioni](https://tablick.it/shop/un-mondo-di-scarpe-2269).
-- Usare la panoramica dei materiali tessili per le parti in tessuto. [Cosetta Grana, *Scienze e tecnologie applicate. Sistema Moda*, Editrice San Marco, ISBN 9788884881205](https://editricesanmarco.it/catalogo/scienze-e-tecnologie-applicate-sistema-moda/).
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
+
+- **Grana STA Moda** — Cosetta Grana, *Scienze e tecnologie applicate. Sistema Moda*, Editrice San Marco, volume unico, ISBN 9788884881205; anno/numero di edizione non esplicitati nella pagina consultata. [Fonte verificata](https://editricesanmarco.it/catalogo/scienze-e-tecnologie-applicate-sistema-moda/).
+- **Un mondo di scarpe** — Anna Paola Pascuzzi (a cura di), *Un mondo di scarpe. L’evoluzione storica del design calzaturiero*, tab edizioni, 2021, ISBN cartaceo 9788892951556. [Fonte verificata](https://www.tabedizioni.it/shop/product/un-mondo-di-scarpe-505).
+
+Grana sostiene solo la componente tessile del laboratorio comune; Un mondo di scarpe è una raccolta storica curata da Pascuzzi. La raccolta storica sostiene le varianti di ricerca sul design, non la tecnica dei quattro nuclei. Per componenti, forma e disegno servono altri materiali.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Materiali e filiera comune | Grana STA Moda: CONTENUTI: filiera, materiali e analisi del tessile-abbigliamento. | Sezione verificata nell’indice; applicazione da predisporre | Disegno, colore, prototipazione e prove pratiche richiedono risorse distinte. |
+| D1.2 · Componenti e uso | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.3 · Disegno e forma | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.4 · Proposta orientativa | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per precisare i risultati attesi del modello e della scheda tecnica: [INAPP, Progettazione tecnica capo calzaturiero, RA1–RA2](https://www.inapp.gov.it/atlantelavoro/competenza/?id_uc=27973). La fonte descrive competenze professionali del repertorio Lazio: non è un manuale, un corso di CAD o una prescrizione annuale.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 [Indice del percorso](README.md)
 
@@ -126,4 +142,4 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida pre
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie della calzatura](../../../docs/ricerca-ai/fonti-programmi/tecnologie-della-calzatura.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

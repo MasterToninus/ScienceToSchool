@@ -93,10 +93,27 @@ Progettare un avviso per schermo e stampa, esportando due versioni coerenti. Mot
 
 ## Letture consigliate
 
-- Lorenzi e Govoni, *Tecnologie informatiche per istituti tecnici tecnologici*, Atlas. [Presentazione editoriale](https://www.edatlas.it/it/media/service/documents/647a2b34-d70a-48a4-ab72-2011573306db).
-- Federle e Stefani, *Progettazione grafica e multimediale*, 4ª ed., Clitt. Risorsa per il docente della classe. [Carta d’identità dell’opera](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499417_cartaidentita.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Usare il secondo testo come supporto del docente.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **ATLAS — Agostino Lorenzi, Massimo Govoni, Tecnologie informatiche per istituti tecnici tecnologici**. Atlas, 2015; volume unico; ISBN non esposto nella scheda consultata. [Fonte primaria](https://www.edatlas.it/it/media/service/documents/647a2b34-d70a-48a4-ab72-2011573306db) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-atlas). **Affinità tematica**.
+- **GIMP — GIMP Documentation Team, GIMP 3.0 User Manual**. Documentazione ufficiale, pagina aggiornata 5 novembre 2026; ISBN non applicabile. [Fonte primaria](https://docs.gimp.org/3.0/en/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp). **Sezione verificata**.
+- **GRAPH — Giovanni Federle, Carla Stefani, Progettazione grafica e multimediale**. Clitt, quarta edizione 2025; ISBN 9788808499417. [Fonte primaria](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499417_cartaidentita.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph). **Affinità tematica**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Strumenti e file | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [ATLAS](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-atlas): LO cap.1 e 10; ATLAS affinità | sezione verificata; copertura parziale | Organizzazione degli asset e nomenclatura sono regole del laboratorio. |
+| **S1D1N2** — Immagine e testo | [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [GRAPH](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph): GIMP cap.3,8–9; LO cap.2,5 | sezione verificata; copertura parziale | Tipografia professionale e grafica vettoriale non completamente coperte. |
+| **S1D1N3** — Colore e media | [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [GRAPH](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph): GIMP cap.3,6: risoluzione e formati | sezione verificata; copertura parziale | Gestione colore di stampa, audio e video necessitano integrazioni; indice GRAPH non recuperato. |
+| **S1D1N4** — Prodotto guidato | [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [GRAPH](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Prodotto, destinatario, vincoli e verifica sono attività del docente. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-grafica-comunicazione-anno-01).
 
 ## Riferimento curricolare
 

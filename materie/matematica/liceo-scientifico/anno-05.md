@@ -120,9 +120,24 @@ Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e der
 
 Ricavare un modello di raffreddamento da un’ipotesi sulla velocità di variazione, stimarne il parametro e confrontarlo con misure escluse dalla stima. Gli esempi possono provenire da esperimenti nel percorso ordinario, da simulazioni nelle scienze applicate o da dati di allenamento nello sportivo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.blu 2.0, terza edizione, triennio](https://esercizi.zanichelli.it/corso/Matematica-blu-triennio-3-edizione/2000142654), Zanichelli, volume 5. Il sito offre esercizi per tema. La lettura proposta riguarda limiti, derivate, integrali e distribuzioni.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.blu2.0](https://online.scuola.zanichelli.it/bergaminiblu3ed/?p=133), terza edizione, Zanichelli, 2020; Volume 5 (configurazione senza Tutor; anno di avvio del corso), ISBN **9788808873620**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5).
+- **Richiami e integrazioni selettive:** [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): Matematica.blu2.0 — Volume 3 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808520364), [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): Matematica.blu2.0 — Volume 4 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808340757), [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): Matematica.verde — Modulo K (ISBN 9788808850607).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Limiti e continuità | **Sezione verificata** — [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): capp. 21–23. |
+| Derivata e studio di funzione | **Sezione verificata** — [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): capp. 24–27. |
+| Costruzione e applicazioni del calcolo integrale | **Sezione verificata** — [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): capp. 28–29 per integrali e applicazioni. |
+| Coordinate nello spazio | **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): cap. 20: conservare il volume di quarta per il raccordo analitico di quinta. |
+| Variabili aleatorie e distribuzioni | **Sezione verificata** — [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): cap. σ, sezioni sulle distribuzioni discrete e continue. L’indice sintetico non nomina separatamente Poisson e normale: controllare gli esempi nel testo prima di dichiararne la copertura integrale; predisporre una scheda integrativa se necessario. |
+| Metodi numerici e algoritmi | **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): ebook C1 per calcolo approssimato. **Sezione verificata** — [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): cap. 29 per ricerca di radici e integrazione numerica: riferimento integrativo selettivo. **Integrazione didattica** — ricorsione e confronto con iterazione, analisi dei casi di arresto e approssimazione delle derivate dove prevista richiedono attività dedicate: non sono attestati integralmente dai sommari dei metodi numerici o del coding. |
+| Modelli di variazione | **Sezione verificata** — [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): cap. 30 per equazioni differenziali; limitarsi ai modelli e ai prerequisiti indicati nel programma. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

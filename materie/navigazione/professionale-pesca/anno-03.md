@@ -115,9 +115,22 @@ Annotare una carta e una pianta del mezzo. Verificare correttezza della terminol
 
 ## Libro consigliato
 
-Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 1, *Fondamenti di navigazione*, Hoepli, ISBN 9788836003846. [Scheda e indice](https://www.hoeplieditore.it/hoepli-catalogo/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-fondamenti-di-navigazione-lorenzo-di-franco/9788836003846/2093)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Selezionare dal volume le parti su posizionamento, carte e navigazione costiera. Il riferimento applicativo va adattato ai mezzi da pesca.
+- **Di Franco 1** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 1, *Fondamenti di navigazione*, Hoepli, 2021, ISBN 9788836003846. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-fondamenti-di-navigazione-lorenzo-di-franco/9788836003846/2093).
+
+Selezione semplificata da un manuale per tecnici nautici; non copre da solo pesca, impianti e manutenzione.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Imbarcazione e attività | Di Franco 1: Indice: elementi meteomarini e governo della nave. | Sezione verificata per l’ambiente; struttura/impianti da integrare | Struttura, impianti e manutenzione non sono interamente attestati; integrare documenti del mezzo scelto. |
+| D1.2 · Coordinate e carta costiera | Di Franco 1: Indice: carte/pubblicazioni, posizionamento e orientamento. | Sezione verificata nell’indice; applicazione da predisporre | Carte, scale, errori e dati dell’esercitazione vanno scelti e controllati dal docente. |
+| D1.3 · Orientamento e osservazione | Di Franco 1: Indice: navigazione stimata e costiera. | Sezione verificata nell’indice; applicazione da predisporre | Servono carte didattiche, esercizi graduati e analisi degli errori. |
+| D1.4 · Servizi di bordo e manutenzione | Di Franco 1: Il manuale di navigazione non attesta impianti e manutenzione della pesca. | Da verificare / integrazione didattica | Servono schede funzionali, manuali del costruttore e procedure del mezzo; non esercitazioni operative autonome. |
+| D1.5 · Uscita e documentazione | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -137,4 +150,4 @@ Il quadro del professionale e il profilo di uscita orientano il percorso. Le ind
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

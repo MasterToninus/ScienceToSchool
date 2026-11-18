@@ -102,7 +102,24 @@ Verifica: raccomandare un intervento confrontando energia utile annua, incertezz
 
 ## Libro consigliato
 
-L. Mirri e M. Parente, *Fisica ambientale*, 2ª ed., Zanichelli. Volume per il secondo biennio; per l’acustica occorre anticipare la parte pertinente del volume di quinta o usare materiali d’istituto. L’editore documenta un caso applicativo sul fotovoltaico condominiale. [Scheda editoriale](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808320216_cartaidentita.pdf)
+Luigi Mirri e Michele Parente, *Fisica ambientale*, **2ª edizione, 2021**, Zanichelli, volume per il secondo biennio, *Energie alternative e rinnovabili*, ISBN **9788808320216**. [Indice ufficiale del secondo biennio](https://staticmy.zanichelli.it/catalogo/assets/9788808320216_02_IND.pdf).
+
+Per l’acustica occorre anche il volume del quinto anno, ISBN **9788808992222**: [indice dei capitoli 11–14](https://staticmy.zanichelli.it/catalogo/assets/9788808992222_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Risorsa solare e rendimento | cap. 2–4 | Indice |
+| Altre fonti e accumulo | cap. 5 e 8–10; accumulo da integrare | Indice |
+| Trasferimento del calore | cap. 7 per contesto; [OpenStax, College Physics 2e, §14.5](https://openstax.org/books/college-physics-2e/pages/14-5-conduction) per conduzione quantitativa | Affinità + testo pubblico |
+| Involucro e impianti | cap. 7 | Indice |
+| Onde sonore e inquinamento acustico | vol. quinto, cap. 11–14 | Indice |
+| Confronto energetico stagionale | integrazione: dati stagionali e confrontabilità | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il volume del secondo biennio da solo non copre il nucleo acustico: il rinvio al volume di quinta è intenzionale. Capacità/rendimento degli accumuli, resistenze termiche di strati e trasmittanza richiedono schede tecniche e un modello esplicito del docente; non sono certificati dalla sola voce sugli impianti. Aggiornare i riferimenti normativi del libro prima dell’uso.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#ambientale-4).
 
 ## Fonti consultate per questa proposta
 

@@ -126,9 +126,31 @@ Confrontare un circuito integro con uno simulato in anomalia e compilare una sch
 
 ## Letture consigliate
 
-- Gallotti e Rondinelli, *Tecnologie elettriche-elettroniche e applicazioni*, Hoepli, volume sui circuiti, ISBN 9788836018451. [Argomenti e indice](https://www.hoeplieditore.it/ufficio-stampa/articolo/tecnologie-elettriche-elettroniche-e-applicazioni-componenti-e-analisi-dei-circuiti-elettronica-analogica-e-digitale-sistemi-monofase-e-trifase-impianti-elettrici-sicurezza-elettrica-antonella-gallotti/9788836018451/3241).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Nuclei Componenti e analisi dei circuiti e Elettronica analogica e digitale.
+- **TEEA1 — Antonella Gallotti, Andrea Rondinelli, Tecnologie elettriche-elettroniche e applicazioni**. Hoepli, volume 1, febbraio 2025; ISBN 9788836018451. [Fonte primaria](https://www.hoeplieditore.it/ufficio-stampa/articolo/tecnologie-elettriche-elettroniche-e-applicazioni-componenti-e-analisi-dei-circuiti-elettronica-analogica-e-digitale-sistemi-monofase-e-trifase-impianti-elettrici-sicurezza-elettrica-antonella-gallotti/9788836018451/3241) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea1). **Sezione verificata**.
+- **FOND — Fabrizio Cerri, Antonella Gallotti, Andrea Rondinelli, Fondamenti di elettrotecnica ed elettronica**. Hoepli, maggio 2026; ISBN 9788836022830. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond). **Sezione verificata**.
+- **TTIM1 — Sigfrido Pilone, Paolo Bassignana, Guido Furxhi, Maurizio Liverani, Antonio Pivetta, Claudio Piviotti, Tecnologie e tecniche di installazione, manutenzione e diagnostica**. Hoepli, terza edizione; volume 1 (terzo anno), 2023; ISBN 9788836012114. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/tecnologie-e-tecniche-di-installazione-manutenzione-e-diagnostica-terzo-anno-sigfrido-pilone/9788836012114/2886) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim1). **Sezione verificata**.
+- **TTIM3 — Sigfrido Pilone, Paolo Bassignana, Guido Furxhi, Maurizio Liverani, Antonio Pivetta, Claudio Piviotti, Tecnologie e tecniche di installazione, manutenzione e diagnostica**. Hoepli, terza edizione; volume 3 (quinto anno), 2025; ISBN 9788836018574. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/tecnologie-e-tecniche-di-installazione-manutenzione-e-diagnostica-quinto-anno-sigfrido-pilone/9788836018574/2886) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Reti e misure | [TEEA1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea1), [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond): circuiti e misure | sezione verificata; copertura parziale | Procedure e strumenti concreti richiedono schede del laboratorio. |
+| **S1D1N2** — Alternata e magnetismo | [TEEA1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea1): sistemi monofase/trifase | sezione verificata; copertura parziale | Gradualità dei modelli e collegamenti col magnetismo da controllare nel volume. |
+| **S1D1N3** — Componenti e logica | [TEEA1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea1): digitale e analogica | sezione verificata; copertura parziale | Taratura e prova dei componenti sono attività docente. |
+| **S1D1N4** — Applicazioni | [TEEA1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-teea1): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Applicazioni, schemi e collaudo sono casi originali. |
+| **S1D2N1** — Preparazione intervento | [TTIM1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim1): manutenzione, sicurezza e ambiente | sezione verificata; copertura parziale | Dossier macchina e autorizzazioni sono della scuola. |
+| **S1D2N2** — Installazione guidata | [TTIM1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim1): dispositivi e impianti | sezione verificata; copertura parziale | Installazione guidata sul banco specifico non sostituisce procedure del costruttore. |
+| **S1D2N3** — Ricerca del guasto | [TTIM1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim1), [TTIM3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3): TTIM1 interventi; TTIM3 ricerca guasti come consultazione | sezione verificata; copertura parziale | Per la terza usare diagnosi elementare; non anticipare l’intero quinto. |
+| **S1D2N4** — Ripristino e consegna | [TTIM1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim1): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Ripristino, prove e consegna devono essere progettati dal docente. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-professionale-manutenzione-anno-03).
 
 ## Riferimento curricolare
 

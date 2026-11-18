@@ -111,14 +111,32 @@ Verifica: relazione schematica con diagramma ottico e analisi di un limite strum
 
 ## Libro consigliato
 
-F. Catalano, *Elementi di ottica generale*, Zanichelli, ISBN 9788808097866. Per l’applicazione agli strumenti confrontare [l’introduzione di *Ottica applicata e strumenti*](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf).
+Ferdinando Catalano, *Elementi di ottica generale*, Zanichelli, volume unico, **2002**, ISBN **9788808097866**. La [presentazione editoriale](https://staticmy.zanichelli.it/catalogo/assets/aP2.9788808097866.pdf) identifica i capitoli 2–12 come parte geometrica e 13–23 come parte ondulatoria; non è stato recuperato un sommario analitico leggibile della stessa edizione.
+
+Per la strumentazione e le aberrazioni: Ferdinando Catalano, *Ottica applicata e strumenti*, Zanichelli, volume unico, **2001**, ISBN **9788808089519**. [Indice ufficiale](https://staticmy.zanichelli.it/catalogo/assets/a03.9788808089519.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Sistemi centrati e vergenza | parte geometrica di Elementi: dettaglio da verificare | Affinità |
+| Associazione di due lenti | parte geometrica; Ottica applicata, cap. 3–5 per sistemi strumentali | Affinità + indice |
+| Strumenti ottici | Ottica applicata, cap. 4–5 | Indice |
+| Apertura e qualità dell’immagine | Ottica applicata, cap. 2–5 | Indice |
+| Aberrazioni e materiali | Ottica applicata, cap. 1 e 9 | Indice |
+| Occhio ridotto e lenti oftalmiche | [OpenStax, College Physics 2e, §26.1](https://openstax.org/books/college-physics-2e/pages/26-1-physics-of-the-eye) per il modello dell’occhio; lenti professionali da integrare | Testo pubblico + integrazione |
+| Taratura di un sistema | integrazione: taratura e incertezza del banco | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Vergenza e piani principali, trasposizione sferocilindrica, Prentice e geometrie multifocali non risultano verificati da un sommario analitico di Elementi. Servono sezioni controllate sul manuale disponibile e schede del laboratorio professionale; numero di Abbe e tolleranze vanno collegati ai materiali effettivi. Il testo pubblico sull’occhio non sostituisce optometria.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#ottico-3).
 
 ## Fonti consultate per questa proposta
 
 - [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
-- [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.
+- [Zanichelli — Catalano, Ottica applicata e strumenti, indice](https://staticmy.zanichelli.it/catalogo/assets/a03.9788808089519.pdf) — Indice della stessa edizione, ISBN 9788808089519; sezioni pertinenti e integrazioni documentate nella bibliografia.
 - [OpenStax / Rice University — Physics, 16.2 Refraction](https://openstax.org/books/physics/pages/16-2-refraction) — Integrazione didattica sulla rifrazione, in inglese.
 
 La selezione e la distribuzione annuale sono una sintesi didattica del progetto. [Catalogo delle fonti di fisica: consultazione, perimetro e limiti](../../../docs/ricerca-ai/fonti-programmi/fisica.md).

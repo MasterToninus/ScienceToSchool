@@ -136,9 +136,25 @@ Presentare la ricostruzione di una tratta con carta, serie temporale, fonti e un
 
 ## Libro consigliato
 
-Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 3, *Navigazione moderna, maree ed emergenze a bordo*, Hoepli, ISBN 9788836012299. [Scheda e indice](https://www.hoeplieditore.it/hoepli-catalogo/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-navigazione-moderna-maree-ed-emergenze-a-bordo-lorenzo-di-franco/9788836012299/2093)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Raccordo verificabile nell’indice per navigazione integrata e maree e correnti. Il percorso tecnico di bordo va raccordato alla programmazione STCW dell’istituto.
+- **Di Franco 3** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 3, *Navigazione moderna, maree ed emergenze a bordo*, Hoepli, 2023, ISBN 9788836012299. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-navigazione-moderna-maree-ed-emergenze-a-bordo-lorenzo-di-franco/9788836012299/2093).
+- **Di Franco 2** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 2, *Navigazione astronomica, meteorologia nautica e manovra della nave*, Hoepli, 2022, ISBN 9788836007967. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/nuovo-scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-lorenzo-di-franco/9788836007967/2093).
+
+Mantenuto il richiamo al volume 2 per astronomia. Gestione del carico del volume 3 è materiale online annunciato: non è stato consultato e non viene presentato come capitolo cartaceo.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Raccordo astronomico e controllo della posizione | Di Franco 2: Indice: astronomia generale/sferica e astronomia nautica. | Sezione verificata nell’indice; applicazione da predisporre | Tavole, osservazioni e progressione di calcolo devono essere selezionate; nessuna padronanza professionale presunta. |
+| D1.2 · Radar e cinematica | Di Franco 3: «Navigazione radioelettronica». | Sezione verificata nell’indice; applicazione da predisporre | La cinematica applicata richiede esercizi controllati; non equivalenza con addestramento radar. |
+| D1.3 · Navigazione integrata | Di Franco 3: «Navigazione integrata». | Sezione verificata nell’indice; applicazione da predisporre | Integrare simulatore, incertezze e documentazione dei sensori; uso didattico. |
+| D1.4 · Maree, meteo e pianificazione | Di Franco 3: Indice: maree, correnti e navigazione meteorologica. | Sezione verificata nell’indice; applicazione da predisporre | Integrare tavole e bollettini ufficiali; gestione del carico non implicitamente inclusa. |
+| D1.5 · Carico e stabilità | Di Franco 3: Gestione del carico: risorsa online annunciata, non consultata. | Da verificare / integrazione didattica | Verificare accesso e contenuto prima dell’uso; integrare stabilità e carico con documenti didattici legittimi e aggiornati. |
+| D1.6 · Guardia e comunicazioni | Di Franco 3: «Tenuta della guardia». | Sezione verificata nell’indice; applicazione da predisporre | Comunicazioni e procedure aggiornate da fonti ufficiali; non certificazione STCW. |
+| D1.7 · Emergenze, ambiente e rapporto | Di Franco 3: Indice: emergenze, ricerca e salvataggio. | Sezione verificata nell’indice; applicazione da predisporre | Ambiente, registri e casi operativi richiedono risorse specifiche e revisione docente. |
+| D1.0, D1.8 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -158,6 +174,6 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.
 
 - [Duca degli Abruzzi, programmazione Scienze della navigazione CMN 5, 2026/27](https://www.itnipiaducabruzzi.edu.it/download/859/navigazione-e-logistica-fisica-e-macchine-discipline-stcw/10171/scienze-della-navigazione-5-anno-cmn-casel-2026.doc) — documento scaricato; consultazione testuale parziale dei moduli, non verifica di conformità STCW.

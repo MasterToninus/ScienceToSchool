@@ -110,7 +110,25 @@ Verifica: giustificare una stima da dati ondulatori, poi spiegare la differenza 
 
 ## Libro consigliato
 
-Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Riprendere i capitoli 9–10 come prerequisiti e usare il capitolo 11 per macchine e secondo principio, poi il capitolo 12 sulle onde. Integrare col volume successivo per i campi. [Esercizi organizzati per capitolo](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166)
+Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, **3ª edizione**, Zanichelli, volume 2 del triennio, 2021, ISBN **9788808566683**. [Indice ufficiale del volume 2](https://staticmy.zanichelli.it/catalogo/assets/9788808566683_02_IND.pdf). Per il secondo principio conservare il volume 1, ISBN **9788808938060**, [capitolo 11](https://staticmy.zanichelli.it/catalogo/assets/9788808938060_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Macchine termiche e irreversibilità | vol. 1, cap. 11; richiamo cap. 9–10 | Indice |
+| Oscillazioni e onde | vol. 1, cap. 3; vol. 2, cap. 12 | Indice |
+| Suono e ottica ondulatoria | vol. 2, cap. 12–13 | Indice |
+| Cariche, campo e potenziale | vol. 2, cap. 14–17 | Indice |
+| Corrente e circuiti | vol. 2, cap. 18 | Indice |
+| Campo magnetico | vol. 2, cap. 20–21 | Indice |
+| Analisi dei segnali | integrazione: attività e dati scelti dal docente | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Onde, elettricità e magnetismo sono nello stesso volume 2; il secondo principio è nel volume 1. Non occorre rinviare i campi a un terzo volume. Acquisizione di segnali, cablaggio e analisi di dati reali restano da predisporre.
+
+Questo ISBN compare nell’[elenco dei volumi in uscita dal catalogo scolastico 2026](https://www.zanichelli.it/assets/download/media-fuoricatalogo_scolastico_2026_16_12-pdf): resta un riferimento utilizzabile con copia disponibile. Per una nuova adozione verificare l’edizione effettivamente ottenibile e rifare la mappa; i capitoli non si trasferiscono automaticamente a *L’Amaldi.blu*.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#scientifico-4).
 
 ## Fonti consultate per questa proposta
 

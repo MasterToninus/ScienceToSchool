@@ -110,9 +110,23 @@ Consolidare secondo grado, disequazioni, rette e similitudine. La geometria anal
 
 Adattare una curva a dati di taratura, crescita o deformazione. Riservare alcune osservazioni al controllo dell’errore di previsione. Concordare unità, risoluzione e intervallo d’uso con il laboratorio dell’indirizzo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.verde, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergaminiverde3ed), Zanichelli, volume 3. La lettura proposta riguarda funzioni e rappresentazioni analitiche.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.verde](https://www.zanichelli.it/ricerca/prodotti/bergaminiverde3ed), terza edizione, Zanichelli, 2022; Confezione 3A+3B con Tutor, ISBN **9788808868893**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3).
+- **Richiami e integrazioni selettive:** [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): Matematica.azzurro — Volume 3 con Tutor (ISBN 9788808930552), [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): Matematica.blu2.0 — Volume 3 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808520364), [VE3G](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3g): Matematica.verde — Volume 3G (ISBN 9788808603616).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Algebra, funzioni e rappresentazioni | **Affinità tematica; da verificare** — [VE3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3): confezione 3A+3B identificata, indice analitico non leggibile. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): capp. 1–2 come consultazione integrativa per algebra e funzioni. **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): cap. 1 per divisione fra polinomi, teorema del resto e scomposizioni: richiamo esplicito ai prerequisiti non attestati dal solo capitolo sulle equazioni. |
+| Luoghi geometrici e coniche | **Sezione verificata** — [VE3G](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3g): capp. 3–6; numeri verificati nella configurazione 3G, non trasferiti alla confezione 3A+3B. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): ebook C2 per vettori e prodotto scalare, non attestati dal solo elenco delle coniche di 3G. |
+| Esponenziali e logaritmi | **Sezione verificata** — [VE3G](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3g): capp. 7–8; riscontro nella configurazione 3G. |
+| Trigonometria e modelli periodici | **Sezione verificata** — [VE3G](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3g): capp. 9–12; riscontro nella configurazione 3G. |
+| Successioni e ragionamento | **Affinità tematica; da verificare** — [VE3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3): collocazione analitica da riscontrare nel volume disponibile. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): cap. 3 come riferimento verificato per successioni e progressioni. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): cap. 3 §2 per il principio di induzione, non dedotto dal solo titolo sulle progressioni. |
+| Dati bivariati e modelli | **Sezione verificata** — [VE3G](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve3g): cap. 13 per statistica, regressione e correlazione; riscontro nella configurazione 3G. **Integrazione didattica** — residui, dati di controllo, distorsioni e distinzione tra correlazione e causalità vanno sviluppati con una scheda di analisi; non sono attestati integralmente dalla sola voce statistica o regressione nel sommario. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

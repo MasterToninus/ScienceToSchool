@@ -119,7 +119,26 @@ Verifica: breve scheda di confronto per un acquirente con risultato, incertezza 
 
 ## Libro consigliato
 
-G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli. Nella raccolta digitale del volume unico scegliere le unità su misura, dati, forze e fluidi. [Percorso di esercizi](https://esercizi.zanichelli.it/corso/Fisica-Lezioni-e-problemi-Edizione-rossa/2000277786)
+Giuseppe Ruffo e Nunzio Lanotte, *Fisica. Lezioni e problemi*, **edizione rossa, 2025**, Zanichelli, volume unico, ISBN **9788808176189**. [Indice ufficiale del volume unico](https://staticmy.zanichelli.it/catalogo/assets/9788808176189_02_IND.pdf). I rinvii riguardano questo ISBN, non automaticamente i volumi separati del 2026.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Misure per prodotti e servizi | cap. 1–2 | Indice |
+| Materiali, densità ed equilibrio | cap. 1 e 3–5 | Indice |
+| Moto e interazioni | cap. 6–8 | Indice |
+| Calore e conservazione | cap. 11 | Indice |
+| Energia, potenza e consumi | cap. 9–10 e 16 | Indice |
+| Elettricità e magnetismo | cap. 15–19 | Indice |
+| Onde, suono e luce | cap. 13–14 | Indice |
+| Confrontare due soluzioni | integrazione: dati di prodotto/servizio | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Seguire le alternative e lo scenario orario della scheda: la mappa non rende obbligatorio l’intero volume. Consumi, tassi d’uso, dati economici e confronto tra soluzioni sono integrazioni; non sono verificati prezzi o tariffe.
+
+I capitoli 13, 14 e 19 sono presentati in forma abbreviata su carta; l’indice rinvia all’eBook per il testo completo. È verificata questa indicazione editoriale, non l’accesso personale alle risorse digitali.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-economico-1).
 
 ## Fonti consultate per questa proposta
 

@@ -118,9 +118,22 @@ Su una carta didattica annotare i punti, misurare un segmento e stimare il tempo
 
 ## Libro consigliato
 
-V. Nastro, G. Messina, G. Battiato, *Scienze della navigazione, struttura e conduzione del mezzo aereo*, vol. 1, Hoepli, ISBN 9788820356361. [Scheda e indice](https://www.hoeplieditore.it/varia/articolo/scienze-della-navigazione-struttura-e-conduzione-del-mezzo-aereo--vincenzo-nastro/9788820356361/2032)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Abbinamento verificabile nell’indice per coordinate, atmosfera, altimetria e navigazione stimata.
+- **Nastro–Messina–Battiato 1** — Vincenzo Nastro, Gabriella Messina, Giovanni Battiato, *Scienze della navigazione, struttura e conduzione del mezzo aereo*, Hoepli, 2013, vol. 1, ISBN 9788820356361. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-conduzione-del-mezzo-aereo--vincenzo-nastro/9788820356361/2032).
+
+Recuperato l’indice editoriale del volume 1. La consultazione non certifica conformità delle norme del 2013 a quelle correnti né abilità operative.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Geometria terrestre e tempo | Nastro–Messina–Battiato 1: Indice: Terra, coordinate e misura del tempo. | Sezione verificata nell’indice; applicazione da predisporre | Integrare calcoli, carte e verifica degli errori; fonti aeronautiche correnti per i dati variabili. |
+| D1.2 · Direzioni e navigazione stimata | Nastro–Messina–Battiato 1: Indice: direzioni/percorsi e navigazione stimata. | Affinità tematica; dettaglio da verificare sulla copia | Problemi del vento e vettori: affinità con la stima, dettaglio e esercizi da verificare sulla copia. |
+| D1.3 · Vettori e vento | Nastro–Messina–Battiato 1: Indice: direzioni/percorsi e navigazione stimata. | Affinità tematica; dettaglio da verificare sulla copia | Problemi del vento e vettori: affinità con la stima, dettaglio e esercizi da verificare sulla copia. |
+| D1.4 · Atmosfera e strumenti | Nastro–Messina–Battiato 1: Indice: atmosfera e altimetria barometrica. | Sezione verificata nell’indice; applicazione da predisporre | Strumenti e codici correnti richiedono documentazione aggiornata. |
+| D1.5 · Aeromobile e infrastrutture | Nastro–Messina–Battiato 1: Indice: mezzi di trasporto aereo, spazio aereo e servizi. | Sezione verificata nell’indice; applicazione da predisporre | Integrare prestazioni specifiche, carte e normativa aggiornata; non addestramento abilitante. |
+| D1.0, D1.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -141,4 +154,4 @@ La Direttiva 4/2012 riguarda il quadro precedente; il D.M. 29/2026 avvia le nuov
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

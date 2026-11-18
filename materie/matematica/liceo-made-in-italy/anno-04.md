@@ -107,9 +107,23 @@ Riprendere funzioni e grafici, trigonometria elementare e statistica descrittiva
 
 Stimare la probabilità che un prodotto sia difettoso dati i risultati di un controllo, distinguendo sensibilità della prova e frequenza dei difetti. Concordare i vincoli economici del caso con il docente dell’area giuridico-economica.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.azzurro, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), Zanichelli, volume 4. Per gli esempi economici, integrare con i dati del compito proposto. La lettura proposta riguarda logaritmi e probabilità condizionata.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.azzurro](https://www.zanichelli.it/ricerca/prodotti/bergaminiazzurro3ed), terza edizione, Zanichelli, 2021; Volume 4 con Tutor, ISBN **9788808490056**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4).
+- **Richiami e integrazioni selettive:** [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): Matematica.azzurro — Volume 3 con Tutor (ISBN 9788808930552), [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): Matematica.azzurro — Volume 5 con Tutor (ISBN 9788808451880), [AZL](../../../docs/ricerca-ai/verifica-manuali-matematica.md#azl): Matematica.azzurro — Modulo Lambda (ISBN 9788808813428), [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): Matematica.blu2.0 — Volume 3 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808520364).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Esponenziali e logaritmi | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): capp. 13–14; raccordare i modelli alle equazioni già studiate. **Sezione verificata** — [BL3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl3): cap. 11 §7 per scale logaritmiche e semilogaritmiche, dettaglio non esplicitato nell’indice AZ4. |
+| Trigonometria e modelli periodici | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): capp. 15–18; formule e problemi selezionati, non tutto l’eserciziario. |
+| Conteggio e probabilità condizionata | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): capp. 20–21 per conteggio, condizionamento e probabilità. |
+| Dati bivariati e modelli | **Sezione verificata** — [AZ3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az3): cap. 10 per statistica, dipendenza e correlazione; in quarta riprendere il volume 3 con nuovi dati e interpretazione critica. **Integrazione didattica** — residui, dati di controllo, distorsioni e distinzione tra correlazione e causalità vanno sviluppati con una scheda di analisi; non sono attestati integralmente dalla sola voce statistica o regressione nel sommario. |
+| Variabili aleatorie e distribuzioni | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): cap. 31 per distribuzioni di probabilità; in quarta LES/Made in Italy è un’anticipazione selettiva dal volume 5. Verificare nel testo i singoli modelli richiesti prima di attribuirgli tutti gli esempi del programma. |
+| Grafi e procedure | **Integrazione didattica** — grafi, percorsi e procedure non risultano coperti in modo specifico dagli indici AZ3–AZ5 consultati; predisporre una scheda con piccoli grafi, algoritmo e controllo manuale. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. **Sezione verificata** — [AZL](../../../docs/ricerca-ai/verifica-manuali-matematica.md#azl): cap. λ3 §5 per il raccordo reddito-consumo; la rete di fornitori resta l’applicazione del nucleo sui grafi. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

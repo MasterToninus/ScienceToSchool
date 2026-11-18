@@ -99,9 +99,30 @@ Modellare clienti, contratti e rinnovi. Ricavare da dati fittizi un report sulle
 
 ## Letture consigliate
 
-- Gallo e Sirsi, *SIAmo informatici*, Minerva Scuola. [Relazione editoriale sulla versione per secondo biennio e quinto anno](https://www.mondadorieducation.it/content/uploads/2022/10/Libro-in-chiaro_SIAmo_informatici_22.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Selezionare il volume per il quinto anno dell’edizione indicata.
+- **AZI — Antonio De Rosa, Valerio Teta, Informatica aziendale**. Simone Scuola, 2012; S397; volume unico; ISBN 9788824431132. [Fonte primaria](https://scuola.simone.it/libri/informatica-aziendale-s397/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi). **Sezione verificata**.
+- **SIA5 — Piero Gallo, Pasquale Sirsi, SIAmo informatici**. Minerva Scuola; edizione precedente documentata nel Libro in chiaro 2022; quinto anno; ISBN 9788829863020. [Fonte primaria](https://www.mondadorieducation.it/content/uploads/2022/10/Libro-in-chiaro_SIAmo_informatici_22.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5). **Affinità tematica**.
+- **SR3 — Luigi Lo Russo, Elena Bianchi, Sistemi e reti**. Hoepli, quarta edizione; volume 3, 2025; ISBN 9788836018475. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/sistemi-e-reti--luigi-lo-russo/9788836018475/2015) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr3). **Sezione verificata**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+- **TPS3 — Paolo Camagni, Riccardo Nikolassy, Tecnologie e progettazione di sistemi informatici e di telecomunicazioni**. Hoepli; articolazione Informatica; volume 3, 2025; ISBN 9788836018376. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/tecnologie-e-progettazione-di-sistemi-informatici-e-di-telecomunicazioni-per-larticolazione-informatica--paolo-camagni/9788836018376/2012) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps3). **Sezione verificata**.
+- **GPOI — Maria Conte, Paolo Camagni, Riccardo Nikolassy, Nuovo Gestione del progetto e organizzazione d’impresa**. Hoepli, seconda edizione maggio 2026; ISBN 9788836021352. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/default/default/3353) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gpoi). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Integrazione aziendale | [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi), [SIA5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5): AZI mod.1; SIA5 affinità | sezione verificata; copertura parziale | ERP/CRM e integrazione attuale richiedono esempi aggiornati. |
+| **S1D1N2** — Reti e servizi | [SR3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr3), [SIA5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5): SR3: applicazioni, cloud e distribuzione | sezione verificata; copertura parziale | Configurazione concreta e profondità vanno adeguate al SIA. |
+| **S1D1N3** — Sicurezza e diritto | [SR3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr3), [SIA5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5): SR3: crittografia e sicurezza; SIA5 non indicizzato | sezione verificata; copertura parziale | Diritto, GDPR e responsabilità richiedono fonti normative attuali, non il solo manuale. |
+| **S1D1N4** — Web e commercio elettronico | [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [TPS3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tps3), [SIA5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5): MDN client; TPS3 server, servizi e database | sezione verificata; copertura parziale | E-commerce e sicurezza applicativa del progetto sono integrazioni da collaudare. |
+| **S1D1N5** — Progetto organizzativo e tecnico | [GPOI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gpoi), [SIA5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | GPOI sostiene processo, pianificazione e qualità; commessa, indicatori e presentazione sono originali. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-economico-anno-05).
 
 ## Riferimento curricolare
 

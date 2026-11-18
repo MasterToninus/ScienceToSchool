@@ -195,7 +195,30 @@ Consegnare una scheda di produzione e un confronto tra preventivo e consuntivo. 
 
 ## Letture consigliate
 
-- Adoperare le sezioni su piazzamento, confezione e tempi e metodi come riferimento per il ciclo. [Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 2*, Editrice San Marco, ISBN 9788884882585](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-2-tessili-abbigliament/).
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
+
+- **Grana 2** — Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 2. Tessili, abbigliamento e moda*, Editrice San Marco, 2015, ISBN 9788884882585. [Fonte verificata](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-2-tessili-abbigliament/).
+- **Forte–Stasolla–Roussin** — Concetta Forte, Rosalba Stasolla, Letizia L. J. Roussin, *La moda. Progettazione & produzione*, Editrice San Marco, 2020, volume unico, ISBN 9788884883681. [Fonte verificata](https://editricesanmarco.it/catalogo/la-moda-progettazione-and-produzione/).
+
+La moda integra la progettazione; la gestione si appoggia solo parzialmente a tempi/metodi di Grana 2 e richiede dati di commessa e contabilità elementare.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Nobilitazioni e completamento | Grana 2: CONTENUTI: materiali di completamento. | Sezione verificata nell’indice; applicazione da predisporre | Integrare prove di compatibilità e schede dei prodotti. |
+| D1.2 · Taglio e confezione | Grana 2: CONTENUTI: sala taglio e processi di confezione. | Sezione verificata nell’indice; applicazione da predisporre | Non attesta tutte le procedure macchina, il CAD o la costruzione del cartamodello. |
+| D1.3 · Tempi e metodi | Grana 2: «Tempi e metodi nella filiera tessile». | Sezione verificata nell’indice; applicazione da predisporre | Costi, preventivi e consuntivi sono casi didattici; non copertura completa della gestione aziendale. |
+| D1.4 · Qualità del lotto | Grana 2: CONTENUTI: etichettatura e certificazione. | Sezione verificata nell’indice; applicazione da predisporre | Riferimento del 2015: aggiornare norme e requisiti applicabili prima di usare etichette o dichiarazioni. |
+| D2.1 · Tema e requisiti | Forte–Stasolla–Roussin: «La collezione moda». | Sezione verificata nell’indice; applicazione da predisporre | Brief, disegni, campioni e portfolio sono elaborazioni didattiche; non presunta copertura di CAD o modellistica esecutiva. |
+| D2.2 · Modellistica e CAD | Grana 2; Forte–Stasolla–Roussin: Progettazione e piazzamento attestati solo a livello generale. | Da verificare / integrazione didattica | Costruzione del modello, trasformazioni, sviluppo taglie, CAD e fitting richiedono dispense/manuale specialistico e prove docente. |
+| D2.3 · Piazzamento e approvvigionamento | Grana 2: CONTENUTI: dalla progettazione al piazzamento. | Sezione verificata nell’indice; applicazione da predisporre | Modello, sviluppo taglie e software richiedono esercizi e risorse specifiche. |
+| D2.4 · Prova e piccola serie | Grana 2: CONTENUTI: sala taglio e processi di confezione. | Sezione verificata nell’indice; applicazione da predisporre | Non attesta tutte le procedure macchina, il CAD o la costruzione del cartamodello. |
+| D2.5 · Documentazione | Forte–Stasolla–Roussin: «La collezione moda». | Sezione verificata nell’indice; applicazione da predisporre | Brief, disegni, campioni e portfolio sono elaborazioni didattiche; non presunta copertura di CAD o modellistica esecutiva. |
+| D3.1 · Ordine e risorse | Grana 2: «Tempi e metodi nella filiera tessile». | Sezione verificata nell’indice; applicazione da predisporre | Costi, preventivi e consuntivi sono casi didattici; non copertura completa della gestione aziendale. |
+| D3.2 · Tempi e costi | Grana 2: «Tempi e metodi nella filiera tessile». | Sezione verificata nell’indice; applicazione da predisporre | Costi, preventivi e consuntivi sono casi didattici; non copertura completa della gestione aziendale. |
+| D3.3 · Consuntivo | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.5, D2.0, D2.6, D3.0, D3.4 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 [Indice del percorso](README.md)
 
@@ -211,4 +234,4 @@ Il professionale richiede il raccordo con la declinazione produttiva e con il cu
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

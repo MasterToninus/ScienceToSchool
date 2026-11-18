@@ -99,9 +99,28 @@ Produrre locandina e versione mobile per un evento culturale. Valutare leggibili
 
 ## Letture consigliate
 
-- Legnani, Mastantuono, Peraglie e Soccio, *Competenze grafiche. Progettazione multimediale*, 2ª ed., Clitt. [Scheda con volumi e ISBN](https://staticmy.zanichelli.it/catalogo/assets/aP13.9788808531766.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Volume secondo biennio, ISBN 9788808920331.
+- **COMP2 — Silvia Legnani, Catia Franca Mastantuono, Tiziana Peraglie, Rita Soccio, Competenze grafiche. Progettazione multimediale**. Clitt, seconda edizione 2022; secondo biennio, Dalla progettazione grafica al visual design; ISBN 9788808920331. [Fonte primaria](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808920331_cartaidentita.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2). **Affinità tematica**.
+- **CORSI — Michele Corsi, Corso di linguaggio audiovisivo e multimediale**. Hoepli, marzo 2017; volume unico; ISBN 9788820378868. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi). **Sezione verificata**.
+- **GIMP — GIMP Documentation Team, GIMP 3.0 User Manual**. Documentazione ufficiale, pagina aggiornata 5 novembre 2026; ISBN non applicabile. [Fonte primaria](https://docs.gimp.org/3.0/en/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp). **Sezione verificata**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Linguaggio visivo | [COMP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2), [CORSI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi): COMP2 affinità; CORSI: comunicazione e inquadratura | sezione verificata; copertura parziale | Semiotica grafica e composizione statica da controllare sul volume COMP2. |
+| **S1D1N2** — Tipografia e immagine | [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [COMP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2): GIMP cap.3,8–9: immagine e testo | sezione verificata; copertura parziale | Microtipografia, impaginazione e prestampa non confermate dal solo indice della guida. |
+| **S1D1N3** — Metodo progettuale | [COMP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2): destinazione progettazione, solo affinità | affinità tematica; da verificare | Brief, ricerca visiva e iterazioni non hanno capitoli verificati; preparare metodo e rubriche. |
+| **S1D1N4** — Multimedia introduttivo | [CORSI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-corsi), [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn): CORSI: narrazione, montaggio e suono; MDN HTML/CSS | sezione verificata; copertura parziale | Realizzazione e applicazione al canale scelto sono esercizi originali. |
+| **S1D1N5** — Consegna | [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [COMP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-comp2): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Controlli del file, attribuzioni e consegna sono rubriche del docente. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-grafica-comunicazione-anno-03).
 
 ## Riferimento curricolare
 

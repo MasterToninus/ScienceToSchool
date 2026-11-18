@@ -105,7 +105,23 @@ Verifica: rappresentare campi o circuiti con un disegno annotato e spiegare qual
 
 ## Libro consigliato
 
-Ugo Amaldi, *Le traiettorie della fisica.azzurro*, 3ª ed., Zanichelli. Nel volume per il quinto anno scegliere i nuclei su elettromagnetismo, relatività e quanti. [Volumi e ISBN](https://staticmy.zanichelli.it/catalogo/assets/aP16.9788808961808.pdf)
+Ugo Amaldi, *Le traiettorie della fisica.azzurro*, **3ª edizione**, Zanichelli, volume per il quinto anno con elettromagnetismo, relatività e quanti, 2023, ISBN **9788808961808**. [Indice ufficiale della stessa edizione](https://staticmy.zanichelli.it/catalogo/assets/9788808961808_02_IND.pdf). Il volume limitato al solo elettromagnetismo, ISBN 9788808629968, non è equivalente per il percorso sul Novecento.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Cariche e campo elettrico | cap. 17–19 | Indice |
+| Corrente, resistenza e potenza | cap. 20 | Indice |
+| Magnetismo e interazioni | cap. 21 | Indice |
+| Induzione e conversione dell’energia | cap. 22 | Indice |
+| Onde elettromagnetiche | cap. 23 | Indice |
+| Un percorso nel Novecento | cap. 24 oppure cap. 25, secondo il ramo scelto | Indice |
+| Luce e allestimento | integrazione: attività e dati scelti dal docente | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il nucleo sul Novecento è un percorso selettivo: non richiede tutti i capitoli 24–26. L’applicazione d’indirizzo necessita schede di dispositivi, dati e una consegna propri; non è attribuita al manuale.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#altri-licei-5).
 
 ## Fonti consultate per questa proposta
 

@@ -91,9 +91,26 @@ Modellare il passaggio da misura a segnale e predisporre una tabella di collaudo
 
 ## Letture consigliate
 
-- Cerri, Gallotti e Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, 2026, ISBN 9788836022830. [Scheda con la struttura del testo](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Parti Elettronica di segnale e Metrologia e Arduino.
+- **STA — Paolo Camagni, Riccardo Nikolassy, Ugo Bay, Ada Boni, Nuovo In@pp. Scienze e Tecnologie Applicate**. Hoepli, maggio 2026; ISBN 9788836021215. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/nuovo-in-pp-paolo-camagni/9788836021215/3314) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta). **Sezione verificata**.
+- **FOND — Fabrizio Cerri, Antonella Gallotti, Andrea Rondinelli, Fondamenti di elettrotecnica ed elettronica**. Hoepli, maggio 2026; ISBN 9788836022830. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond). **Sezione verificata**.
+- **ARD — Arduino, Learn**. Documentazione ufficiale online; ISBN non applicabile. [Fonte primaria](https://docs.arduino.cc/learn/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ard). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Logica e rappresentazione | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta), [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond): STA logica; FOND digitale | sezione verificata; copertura parziale | Rappresentazione e schemi di settore richiedono convenzioni fornite dal docente. |
+| **S1D1N2** — Segnali e sensori | [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond), [ARD](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ard): sensori, analogica e ingressi Arduino | sezione verificata; copertura parziale | Taratura, segnali e limiti dei componenti del banco vanno documentati. |
+| **S1D1N3** — Prototipo | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta), [ARD](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ard): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Prototipo, algoritmo e test sono costruiti sulla dotazione disponibile. |
+| **S1D1N4** — Tecnologia e processo | [STA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sta): sistemi/tecnologie, selezione | sezione verificata; copertura parziale | Filiera, materiali, sicurezza e orientamento non coperti integralmente dal titolo informatico. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-tecnico-elettronica-elettrotecnica-anno-02).
 
 ## Riferimento curricolare
 

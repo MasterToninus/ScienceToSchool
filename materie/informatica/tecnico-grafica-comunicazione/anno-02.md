@@ -93,9 +93,26 @@ Raccontare con quattro immagini un esperimento eseguito in laboratorio. Consegna
 
 ## Letture consigliate
 
-- Federle e Stefani, *Progettazione grafica e multimediale*, 4ª ed., Clitt. Risorsa per il docente della classe. [Carta d’identità dell’opera](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499417_cartaidentita.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Selezionare le attività sulla comunicazione visiva in funzione del biennio.
+- **GRAPH — Giovanni Federle, Carla Stefani, Progettazione grafica e multimediale**. Clitt, quarta edizione 2025; ISBN 9788808499417. [Fonte primaria](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808499417_cartaidentita.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph). **Affinità tematica**.
+- **DRAW — Mario Aldi, Carla Monesi, Ivano Marchesini, Marzio Miliani, Tecnologie e Tecniche di Rappresentazione Grafica. Disegno, progettazione e CAD**. Hoepli, marzo 2017; ISBN 9788820378295. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/tecnologie-e-tecniche-di-rappresentazione-grafica-mario-aldi/9788820378295/2151) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw). **Sezione verificata**.
+- **GIMP — GIMP Documentation Team, GIMP 3.0 User Manual**. Documentazione ufficiale, pagina aggiornata 5 novembre 2026; ISBN non applicabile. [Fonte primaria](https://docs.gimp.org/3.0/en/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Filiera e materiali | [GRAPH](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph): ambito editoriale, solo affinità | affinità tematica; da verificare | Materiali, supporti, macchine e filiera di produzione non hanno una sezione verificata: servono schede tecniche. |
+| **S1D1N2** — Rappresentazione | [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw), [GIMP](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-gimp), [GRAPH](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph): DRAW: rappresentazione; GIMP composizione raster | sezione verificata; copertura parziale | Adattare il disegno tecnico al prodotto grafico; CAD/impaginazione non coperti integralmente. |
+| **S1D1N3** — Processo tecnologico | [GRAPH](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph): presentazione editoriale, non indice | affinità tematica; da verificare | Prestampa, tecnologie di stampa e controllo colore richiedono risorse di laboratorio dedicate. |
+| **S1D1N4** — Orientamento progettuale | [GRAPH](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-graph), [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Confronto di filiere e progetto orientativo sono integrazione didattica. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-grafica-comunicazione-anno-02).
 
 ## Riferimento curricolare
 

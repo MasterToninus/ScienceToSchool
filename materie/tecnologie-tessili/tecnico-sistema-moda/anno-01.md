@@ -110,7 +110,21 @@ Costruire un campionario di sei materiali. Per ciascuno separare ciò che si oss
 
 ## Letture consigliate
 
-- Usare i contenuti sui materiali per abbigliamento e sulle analisi di laboratorio per compilare il campionario. [Cosetta Grana, *Scienze e tecnologie applicate. Sistema Moda*, Editrice San Marco, ISBN 9788884881205](https://editricesanmarco.it/catalogo/scienze-e-tecnologie-applicate-sistema-moda/).
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
+
+- **Grana STA Moda** — Cosetta Grana, *Scienze e tecnologie applicate. Sistema Moda*, Editrice San Marco, volume unico, ISBN 9788884881205; anno/numero di edizione non esplicitati nella pagina consultata. [Fonte verificata](https://editricesanmarco.it/catalogo/scienze-e-tecnologie-applicate-sistema-moda/).
+
+Riferimento STA del precedente ordinamento adattato al nuovo laboratorio comune 2026/27; non copre da solo disegno e prototipazione.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Materiali e filiera comune | Grana STA Moda: CONTENUTI: filiera, materiali e analisi del tessile-abbigliamento. | Sezione verificata nell’indice; applicazione da predisporre | Disegno, colore, prototipazione e prove pratiche richiedono risorse distinte. |
+| D1.2 · Proprietà e struttura | Grana STA Moda: CONTENUTI: filiera, materiali e analisi del tessile-abbigliamento. | Sezione verificata nell’indice; applicazione da predisporre | Disegno, colore, prototipazione e prove pratiche richiedono risorse distinte. |
+| D1.3 · Disegno e colore | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.4 · Campionario e prototipo | Grana STA Moda: CONTENUTI: filiera, materiali e analisi del tessile-abbigliamento. | Sezione verificata nell’indice; applicazione da predisporre | Disegno, colore, prototipazione e prove pratiche richiedono risorse distinte. |
+| D1.0, D1.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 [Indice del percorso](README.md)
 
@@ -125,4 +139,4 @@ Per il tecnico, il D.M. 29/2026 avvia le prime 2026/27; le linee guida 2012 rest
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

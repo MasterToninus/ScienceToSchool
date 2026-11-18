@@ -108,9 +108,23 @@ Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e der
 
 Da una serie di misure di portata, potenza o produzione stimare il totale con trapezi. Confrontare due intervalli di campionamento e motivare eventuali differenze. Concordare unità, risoluzione e intervallo d’uso con il laboratorio dell’indirizzo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.verde, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergaminiverde3ed), Zanichelli, volume 5. La lettura proposta riguarda integrali e applicazioni statistiche.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.verde](https://www.zanichelli.it/ricerca/prodotti/bergaminiverde3ed), terza edizione, Zanichelli, 2023; Volume 5 con Tutor, ISBN **9788808122506**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve5).
+- **Richiami e integrazioni selettive:** [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): Matematica.blu2.0 — Volume 4 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808340757), [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): Matematica.blu2.0 — Volume 5 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808873620), [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): Matematica.rosso — Volume 5 (ISBN 9788808749185), [VE4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve4): Matematica.verde — Confezione 4A+4B con Tutor (ISBN 9788808928702).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Tecniche e applicazioni integrali | **Affinità tematica; da verificare** — [VE4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve4): riprendere il volume 4 per gli integrali: non attribuirli al volume 5 il cui indice contiene i capp. 28–31. **Sezione verificata** — [BL5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl5): capp. 28–29 come raccordo analitico verificato. |
+| Coordinate nello spazio | **Sezione verificata** — [VE5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve5): cap. 30 per geometria solida euclidea. **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): cap. 20 per geometria analitica: il cap. 30 verde non basta a documentare vettori, rette e piani cartesiani. |
+| Campionamento e inferenza | **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): cap. 29 come integrazione; l’indice del volume 5 verde non comprende un capitolo di inferenza. |
+| Modelli a più variabili e strutture discrete | **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): capp. 23 e 25–28 per due variabili, scelte in certezza/rischio e programmazione lineare; ebook C10 per coding. **Integrazione didattica** — ricorsione, cardinalità e modelli discreti specifici non sono attestati dal solo indice: servono esempi e schede dedicate. |
+| Modelli di variazione | **Sezione verificata** — [VE5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve5): cap. 28 per equazioni differenziali; subordinare le applicazioni al calcolo integrale di quarta. |
+| Metodi numerici e algoritmi | **Sezione verificata** — [VE5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve5): cap. 29 per approssimazione di radici e integrali; selezione di algoritmi con controllo dell’errore. **Sezione verificata** — [RO5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro5): ebook C7 per bisezione e metodo delle tangenti. **Integrazione didattica** — approssimazione delle derivate, iterazione e ricorsione non sono attestati come percorso completo da questi indici: predisporre codice, criteri di arresto e casi di controllo. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

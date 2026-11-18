@@ -102,9 +102,27 @@ Analizzare un sistema simulato e identificare quali misure permettono di disting
 
 ## Letture consigliate
 
-- Flaccavento, *Elettrotecnica Elettronica Automazione*, Hoepli, ISBN 9788820378592. [Scheda dei quattro moduli](https://www.hoeplieditore.it/hoepli-catalogo/articolo/elettrotecnica-elettronica-automazione-michelangelo-flaccavento/9788820378592/2156).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Approfondimenti su automazione e sistemi di navigazione come applicazioni dell’elettronica.
+- **TRAN — Michelangelo Flaccavento, Francesca Dell’Acqua, Elettrotecnica Elettronica Automazione. Per la Logistica e i Trasporti**. Hoepli, marzo 2017; ISBN 9788820378592. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/elettrotecnica-elettronica-automazione-michelangelo-flaccavento/9788820378592/2156) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran). **Sezione verificata**.
+- **SA3 — Fabrizio Cerri, Stefano Ghisleri, Domenico Strazzeri, Salvino Zocco, Corso di sistemi automatici**. Hoepli, terza edizione; volume 3, 2026; ISBN 9788836021437. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-sistemi-automatici--fabrizio-cerri/9788836021437/2290) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa3). **Sezione verificata**.
+- **SR3 — Luigi Lo Russo, Elena Bianchi, Sistemi e reti**. Hoepli, quarta edizione; volume 3, 2025; ISBN 9788836018475. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/sistemi-e-reti--luigi-lo-russo/9788836018475/2015) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr3). **Sezione verificata**.
+- **TTIM3 — Sigfrido Pilone, Paolo Bassignana, Guido Furxhi, Maurizio Liverani, Antonio Pivetta, Claudio Piviotti, Tecnologie e tecniche di installazione, manutenzione e diagnostica**. Hoepli, terza edizione; volume 3 (quinto anno), 2025; ISBN 9788836018574. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/tecnologie-e-tecniche-di-installazione-manutenzione-e-diagnostica-quinto-anno-sigfrido-pilone/9788836018574/2886) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Controllo e automazione | [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran), [SA3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa3): TRAN automazione; SA3 controllo | sezione verificata; copertura parziale | Selezionare modelli coerenti con i prerequisiti del ramo. |
+| **S1D1N2** — Sistemi di bordo e infrastruttura | [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran), [SR3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sr3): TRAN navigazione/impianti; SR3 protezione reti | sezione verificata; copertura parziale | Bus di bordo, infrastrutture e sicurezza operativa specifica non coperti dal solo SR3. |
+| **S1D1N3** — Diagnostica e manutenzione | [TTIM3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3), [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran): TTIM3 diagnosi/affidabilità; TRAN contesto | sezione verificata; copertura parziale | Procedure reali del costruttore, standard e abilitazioni restano fuori dalla verifica. |
+| **S1D1N4** — Progetto e qualità | [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran), [SA3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa3): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Progetto, rischio, qualità e collaudo del sistema sono attività docente. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-tecnico-trasporti-logistica-anno-05).
 
 ## Riferimento curricolare
 

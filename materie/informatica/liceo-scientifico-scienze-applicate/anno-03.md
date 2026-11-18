@@ -84,9 +84,26 @@ Costruire un indice di osservazioni astronomiche e misurare il numero di confron
 
 ## Letture consigliate
 
-- Gallo e Sirsi, *Informatica App con Python*, Minerva Scuola. [Scheda e volumi](https://www.mondadorieducation.it/catalogo/informatica-app-con-python-0072182/).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Volume secondo biennio, ISBN 9788829865239.
+- **PY — Python Software Foundation, The Python Tutorial**. Documentazione Python 3.14; risorsa ufficiale, ISBN non applicabile. [Fonte primaria](https://docs.python.org/3.14/tutorial/index.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py). **Sezione verificata**.
+- **APP2 — Gallo, Sirsi, Gallo, Informatica App con Python**. Minerva Scuola; secondo biennio; ISBN 9788829865239; scheda 2023. [Fonte primaria](https://www.mondadorieducation.it/catalogo/informatica-app-con-python-0072182/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2). **Affinità tematica**.
+- **DIGI — Paolo Camagni, Riccardo Nikolassy, DigiCode. Linguaggio C, C++ e C#**. Hoepli, maggio 2026; ISBN 9788836022052. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/digicode-paolo-camagni/9788836022052/3370) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Metodi e strutture | [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py), [APP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2): PY §§4–7: funzioni, strutture e file | sezione verificata; copertura parziale | Il manuale scolastico resta per affinità; sviluppare esempi di decomposizione. |
+| **S1D1N2** — Algoritmi e costo | [DIGI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-digi), [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py): DIGI: strutture, ricerca/ordinamento; PY §5 | sezione verificata; copertura parziale | Costo degli algoritmi e confronto sperimentale non confermati integralmente dall’indice. |
+| **S1D1N3** — Oggetti e robustezza | [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py), [APP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2): PY §§8–9: errori e classi | sezione verificata; copertura parziale | Scelte di modellazione e test di robustezza sono integrazione. |
+| **S1D1N4** — Applicazione scientifica | [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py), [APP2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-app2): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Dataset scientifico, modello, tolleranze e relazione devono essere preparati dal docente. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-liceo-scientifico-scienze-applicate-anno-03).
 
 ## Riferimento curricolare
 

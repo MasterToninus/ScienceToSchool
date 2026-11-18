@@ -101,9 +101,22 @@ Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e der
 
 Stimare l’area di un profilo scenografico, oppure lo spostamento a partire dal grafico della velocità di un gesto. Verificare l’unità e la sensibilità alla discretizzazione. All’artistico conservare i file delle costruzioni, al musicale anche le rappresentazioni temporali e al coreutico la notazione del movimento scelta dagli studenti.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.azzurro, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), Zanichelli, volume 5. La lettura proposta riguarda limiti, tangenti e integrali elementari.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.azzurro](https://www.zanichelli.it/ricerca/prodotti/bergaminiazzurro3ed), terza edizione, Zanichelli, 2021; Volume 5 con Tutor, ISBN **9788808451880**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5).
+- **Richiami e integrazioni selettive:** [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): Matematica.azzurro — Volume 4 con Tutor (ISBN 9788808490056), [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): Matematica.verde — Modulo K (ISBN 9788808850607).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Limiti e continuità | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 22–24 per funzioni, limiti e continuità. |
+| Derivata e studio di funzione | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 25–27; distinguere definizione, tecniche e applicazioni. |
+| Integrali e accumulazione | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 28–29; scegliere costruzione concettuale e tecniche compatibili con le ore. **Sezione verificata** — [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): cap. 29 per quadrature numeriche; scegliere rettangoli e trapezi, controllando nel testo il dettaglio del confronto dell’errore. |
+| Coordinate nello spazio | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): cap. 30 per coordinate e geometria analitica nello spazio. **Integrazione didattica** — l’equazione della sfera del programma non è nominata nell’indice AZ5: predisporre la derivazione dalla distanza o verificare il dettaglio nel cap. 20 di BL4; non attribuirla automaticamente al cap. 30 Azzurro. |
+| Modulo per il percorso: distribuzioni o modellazione spaziale | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): cap. 31 per il ramo distribuzioni; cap. 30 per quello spaziale. **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): cap. 19 ed ebook C4 per il raccordo geometrico/prospettico; l’attività di progetto richiede materiali del docente. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

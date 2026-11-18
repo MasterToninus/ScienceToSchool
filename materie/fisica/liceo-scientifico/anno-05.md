@@ -108,7 +108,23 @@ Verifica: scegliere il modello che interpreta una tabella di dati, sostenerlo co
 
 ## Libro consigliato
 
-Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli, volume 3. Per la relatività l’editore identifica i capitoli 25 e 26. [Scheda della specifica edizione](https://staticmy.zanichelli.it/catalogo/assets/a94.9788808938060.pdf)
+Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, **3ª edizione**, Zanichelli, volume 3 del triennio, 2020, ISBN **9788808914057**. [Indice ufficiale del volume 3](https://staticmy.zanichelli.it/catalogo/assets/9788808914057_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Induzione elettromagnetica | cap. 22 e selezione cap. 23 | Indice |
+| Campi variabili e onde elettromagnetiche | cap. 24 | Indice |
+| Relatività ristretta | cap. 25–26 | Indice |
+| Evidenze della quantizzazione | cap. 27 | Indice |
+| Atomo e descrizione quantistica | cap. 27–28 | Indice |
+| Nuclei, materia e applicazioni | cap. 29; sezione «La fisica dello stato solido» nelle frontiere della ricerca | Indice |
+| Un progetto sui dati del Novecento | integrazione: attività e dati scelti dal docente | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il progetto sul Novecento richiede un dataset e una domanda circoscritti; non comporta lo svolgimento di tutte le frontiere del volume. Selezionare gli approfondimenti matematici coerenti con i prerequisiti e i tempi della scheda.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#scientifico-5).
 
 ## Fonti consultate per questa proposta
 

@@ -108,9 +108,23 @@ Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e der
 
 Proporre la quantità di produzione per un’impresa simulata. Motivare vincoli e dominio e mostrare come l’esito dipenda da un parametro. Concordare i vincoli economici del caso con il docente dell’area giuridico-economica.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.azzurro, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), Zanichelli, volume 5. Per gli esempi economici, integrare con i dati del compito proposto. La lettura proposta riguarda calcolo infinitesimale e distribuzioni.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.azzurro](https://www.zanichelli.it/ricerca/prodotti/bergaminiazzurro3ed), terza edizione, Zanichelli, 2021; Volume 5 con Tutor, ISBN **9788808451880**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5).
+- **Richiami e integrazioni selettive:** [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): Matematica.azzurro — Volume 4 con Tutor (ISBN 9788808490056), [AZL](../../../docs/ricerca-ai/verifica-manuali-matematica.md#azl): Matematica.azzurro — Modulo Lambda (ISBN 9788808813428), [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): Matematica.verde — Modulo K (ISBN 9788808850607).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Limiti e continuità | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 22–24 per funzioni, limiti e continuità. |
+| Derivata e studio di funzione | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 25–27; distinguere definizione, tecniche e applicazioni. |
+| Integrali e accumulazione | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 28–29; scegliere costruzione concettuale e tecniche compatibili con le ore. **Sezione verificata** — [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): cap. 29 per quadrature numeriche; scegliere rettangoli e trapezi, controllando nel testo il dettaglio del confronto dell’errore. |
+| Ottimizzazione e modelli economici | **Sezione verificata** — [AZL](../../../docs/ricerca-ai/verifica-manuali-matematica.md#azl): cap. λ2 §6 e cap. λ3 per applicazioni economiche e scelta; dopo le derivate del volume 5. **Sezione verificata** — [AZL](../../../docs/ricerca-ai/verifica-manuali-matematica.md#azl): cap. λ1 §5 per statistica bivariata e λ3 §5 per il modello keynesiano. **Integrazione didattica** — utilità marginale e connessioni econometriche specifiche richiedono selezione/verifica ulteriore, non garantita dall’indice sintetico. |
+| Campionamento e inferenza | **Sezione verificata** — [AZL](../../../docs/ricerca-ai/verifica-manuali-matematica.md#azl): cap. λ1 §4 per statistica inferenziale e §6 per l’indagine; usare un’introduzione ai limiti delle conclusioni, non un intero corso inferenziale. |
+| Geometria dello spazio | **Sezione verificata** — [AZ4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az4): cap. 19 per geometria euclidea tridimensionale; richiamo anche in quinta se previsto dal percorso. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

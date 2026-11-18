@@ -117,7 +117,24 @@ Verifica: relazione tecnica con dati grezzi, grafico, ipotesi e una previsione s
 
 ## Libro consigliato
 
-G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli. Nella raccolta digitale del volume unico scegliere le unità su misura, dati, forze e fluidi. [Percorso di esercizi](https://esercizi.zanichelli.it/corso/Fisica-Lezioni-e-problemi-Edizione-rossa/2000277786)
+Giuseppe Ruffo e Nunzio Lanotte, *Fisica. Lezioni e problemi*, **edizione rossa, 2025**, Zanichelli, volume unico, ISBN **9788808176189**. [Indice ufficiale del volume unico](https://staticmy.zanichelli.it/catalogo/assets/9788808176189_02_IND.pdf). I rinvii riguardano questo ISBN, non automaticamente i volumi separati del 2026.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Misure e organizzazione dei dati | cap. 1–2 | Indice |
+| Materiali e proprietà fisiche | cap. 1, 3 e 11 | Indice |
+| Forze ed equilibrio | cap. 3–4 | Indice |
+| Fluidi e pressione | cap. 5 | Indice |
+| Cinematica e riferimenti | cap. 6–7 | Indice |
+| Dinamica e primo bilancio meccanico | cap. 8–9 | Indice |
+| Energia e fenomeni termici | cap. 9 e 11 | Indice |
+| Prova integrata sui materiali | integrazione: campioni e protocollo locali | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** La legge elastica e le proprietà termiche sono attestate; caratteristiche dei materiali reali, prova integrata e raccordo con chimica/biologia richiedono materiali aggiuntivi del docente.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-tecnologico-1).
 
 ## Fonti consultate per questa proposta
 

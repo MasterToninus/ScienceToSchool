@@ -96,14 +96,30 @@ Verifica: indicare un caso in cui la messa a fuoco con schermo fallisce e preved
 
 ## Libro consigliato
 
-F. Catalano, *Elementi di ottica generale*, Zanichelli, ISBN 9788808097866. Selezionare la parte di geometria delle lenti. [Catalogo](https://www.zanichelli.it/ricerca/prodotti/elementi-di-ottica-generale)
+Ferdinando Catalano, *Elementi di ottica generale*, Zanichelli, volume unico, **2002**, ISBN **9788808097866**. La [presentazione editoriale](https://staticmy.zanichelli.it/catalogo/assets/aP2.9788808097866.pdf) identifica i capitoli 2–12 come parte geometrica e 13–23 come parte ondulatoria; non è stato recuperato un sommario analitico leggibile della stessa edizione.
+
+Per gli strumenti integrare con Ferdinando Catalano, *Ottica applicata e strumenti*, Zanichelli, volume unico, **2001**, ISBN **9788808089519**. [Indice ufficiale](https://staticmy.zanichelli.it/catalogo/assets/a03.9788808089519.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Rifrazione e indice | parte geometrica; [OpenStax, indice cap. 25](https://openstax.org/books/college-physics-2e/pages/25-introduction-to-geometric-optics), §25.3–25.4 | Affinità + indice |
+| Diottri, prismi e dispersione | parte geometrica; OpenStax, indice §25.5 | Affinità + indice |
+| Lenti sottili | parte geometrica; OpenStax, indice §25.6 | Affinità + indice |
+| Distanze coniugate e potere diottrico | parte geometrica: dettaglio su poteri cilindrici da verificare | Affinità; dettaglio aperto |
+| Misura e controllo delle lenti | Ottica applicata, §5.1 e §6.1 | Indice |
+
+**Integrazioni e scelta del materiale.** L’indice di Ottica applicata attesta sferometro/diottrometro e frontifocometro. Meridiani, asse, lettura delle schede e protocolli del singolo apparecchio vanno integrati con il laboratorio; non si attribuisce al solo indice una copertura professionale completa.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#ottico-2).
 
 ## Fonti consultate per questa proposta
 
 - [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
-- [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.
+- [Zanichelli — Catalano, Ottica applicata e strumenti, indice](https://staticmy.zanichelli.it/catalogo/assets/a03.9788808089519.pdf) — Indice della stessa edizione, ISBN 9788808089519; sezioni pertinenti e integrazioni documentate nella bibliografia.
 - [OpenStax / Rice University — Physics, 16.2 Refraction](https://openstax.org/books/physics/pages/16-2-refraction) — Integrazione didattica sulla rifrazione, in inglese.
 
 La selezione e la distribuzione annuale sono una sintesi didattica del progetto. [Catalogo delle fonti di fisica: consultazione, perimetro e limiti](../../../docs/ricerca-ai/fonti-programmi/fisica.md).

@@ -104,9 +104,22 @@ Equazioni lineari e scomposizioni prima di sistemi, radicali e secondo grado; pr
 
 In CAT o moda rilevare distanze da una pianta in scala. Negli altri indirizzi stimare una dimensione da dati di laboratorio e verificarne la compatibilità. Concordare unità, risoluzione e intervallo d’uso con il laboratorio dell’indirizzo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini e G. Barozzi, [Matematica multimediale.verde, terza edizione](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808632531_cartaidentita.pdf), Zanichelli, primo biennio. La lettura proposta riguarda sistemi, similitudine e probabilità.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, [Matematica multimediale.verde](https://www.zanichelli.it/ricerca/prodotti/matematica-multimediale-verde-3ed), terza edizione, Zanichelli, 2025; Volume 2 con laZ Tutor, ISBN **9788808394088**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve2).
+- **Richiami e integrazioni selettive:** [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): Matematica.blu2.0 — Volume 4 (configurazione senza Tutor; anno di avvio del corso) (ISBN 9788808340757).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Funzioni, rette e sistemi | **Sezione verificata** — [VE2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve2): capp. 12 e 14 per sistemi lineari e geometria cartesiana. **Integrazione didattica** — richiamare il volume precedente per le funzioni; dominio e valore assoluto vanno controllati sul testo effettivo e integrati se non esplicitati. |
+| Reali, radicali e secondo grado | **Sezione verificata** — [VE2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve2): capp. 13 e 15–17 per radicali, equazioni, parabola e disequazioni; limitare i casi al piano orario. |
+| Circonferenza, misura e similitudine | **Sezione verificata** — [VE2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve2): capp. G4–G7 per circonferenza, aree, similitudine e trasformazioni. **Sezione verificata** — [BL4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#bl4): capp. 15 e 17 per i richiami introduttivi a trigonometria del triangolo rettangolo e vettori; selezione anticipata, senza tutto il calcolo vettoriale avanzato. **Integrazione didattica** — il passaggio dalla scala lineare a quella cubica dei volumi va sviluppato con un modello tridimensionale: non è certificato dai soli capitoli di geometria piana. |
+| Probabilità elementare | **Sezione verificata** — [VE2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve2): cap. 18 per eventi e probabilità elementare. |
+| Algoritmi, funzioni e controllo | **Integrazione didattica** — progettare simulazioni e controlli numerici sui capitoli sopra. [VE2](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ve2): rubriche Python verificate nell’indice; adattare codice e test al livello della classe. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

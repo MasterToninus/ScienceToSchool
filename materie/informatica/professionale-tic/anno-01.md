@@ -96,9 +96,25 @@ Preparare una scheda digitale con data, identificativo, quantità, unità e alle
 
 ## Letture consigliate
 
-- Camagni e Nikolassy, *Appliware*, Hoepli, ISBN 9788820396381. [Scheda per il biennio di Made in Italy e Manutenzione](https://www.hoeplieditore.it/storage/app/uploads/public/allegati/96/381/9788820396381%20-%209638_Appliware.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Il testo è specifico per due indirizzi. Per gli altri riusare solo le tecniche comuni e sostituire il caso professionale.
+- **APPLI — Paolo Camagni, Riccardo Nikolassy, Appliware**. Hoepli; volume unico; ISBN 9788820396381; scheda editoriale settembre 2021. [Fonte primaria](https://www.hoeplieditore.it/storage/app/uploads/public/allegati/96/381/9788820396381%20-%209638_Appliware.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli). **Affinità tematica**.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Ambiente digitale | [APPLI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): LO cap.1; Appliware: ambito introduttivo | sezione verificata; copertura parziale | Codifica binaria e hardware: solo affinità nella scheda Appliware; preparare dimostrazioni e casi. |
+| **S1D1N2** — Documenti professionali | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.2, 4–5: documenti, stili e immagini | sezione verificata; copertura parziale | Documenti di settore, accessibilità e rubriche di qualità sono adattamenti docente. |
+| **S1D1N3** — Foglio elettronico | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.3: Calc | sezione verificata; copertura parziale | Controlli incrociati, dataset e formule della consegna sono esercizi del docente. |
+| **S1D1N4** — Comunicazione e protezione | [APPLI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): LO cap.10: formati, esportazione e protezione; Appliware: rete | sezione verificata; copertura parziale | Ricerca delle fonti, licenze, cittadinanza digitale e verifica dell’IA richiedono fonti aggiornate specifiche. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-professionale-tic-anno-01).
 
 ## Riferimento curricolare
 

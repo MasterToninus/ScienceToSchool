@@ -108,9 +108,24 @@ Consegnare disegno, prototipo e correzioni annotate. Valutare coerenza geometric
 
 ## Libro consigliato
 
-Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, ISBN 9788820372644. [Scheda e indice](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Usare le parti dell’indice dedicate al percorso dal progetto alla stampa. La costruzione del prototipo è un’attività elaborata dalla scuola.
+- **Immaginando** — Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, 2016, volume unico, ISBN 9788820372644. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128).
+- **Ferrara–Ramina A** — Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. A, *Percorsi per comunicare tra vecchi e nuovi media*, ISBN 9788808499714. [Fonte verificata](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice A](https://staticmy.zanichelli.it/catalogo/assets/9788808499714_02_IND.pdf).
+
+Immaginando resta introduttivo. Per materiali cartacei è aggiunta una consultazione mirata di Ferrara–Ramina A; geometria del packaging e prototipo non sono coperti integralmente.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Geometria della confezione | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.2 · Sviluppo e file | Immaginando: Macrovoce sugli strumenti di produzione ed elaborazione grafica. | Sezione verificata nell’indice; applicazione da predisporre | Procedure per la versione del software e prove pratiche da predisporre; risorse GIMP nel rapporto. |
+| D1.3 · Materiali e prototipo | Ferrara–Ramina A: Indice A, cap. 1–2: evoluzione della stampa e supporti. | Sezione verificata nell’indice; applicazione da predisporre | Integrare schede aggiornate dei materiali e campioni del laboratorio. |
+| D1.4 · Grafica applicata | Immaginando: Macrovoce «Dal progetto alla stampa». | Sezione verificata nell’indice; applicazione da predisporre | Integrare specifiche di consegna, controlli del file e attività pratica della classe. |
+| D1.0, D1.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per esercitazioni di elaborazione raster, [manuale ufficiale GIMP 3.0](https://docs.gimp.org/3.0/it/) (indice e due procedure esaminate); per montaggio, [catalogo ufficiale dei tutorial Shotcut](https://www.shotcut.org/tutorials/) (elenco consultato, video non visionati). Sono integrazioni operative da selezionare secondo il software effettivo, non un corso aggiuntivo.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -130,4 +145,4 @@ La proposta riguarda la declinazione grafica del professionale. Profili e quadro
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

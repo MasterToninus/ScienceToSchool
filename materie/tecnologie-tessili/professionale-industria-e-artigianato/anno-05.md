@@ -198,8 +198,31 @@ Consegnare fascicolo tecnico e prototipo o simulazione documentata. Difendere la
 
 ## Letture consigliate
 
-- Usare le sezioni su preparazione alla vendita e qualità per progettare la consegna e i controlli. [Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 3*, Editrice San Marco, ISBN 9788884882745](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-3-tessili-abbigliament/).
-- Le parti sul progetto di collezione forniscono esempi per comunicare la proposta al cliente. [Roussin, *La moda. Progettazione & produzione*, Editrice San Marco](https://editricesanmarco.it/catalogo/la-moda-progettazione-and-produzione/).
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
+
+- **Grana 3** — Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 3. Tessili, abbigliamento e moda*, Editrice San Marco, 2016, ISBN 9788884882745. [Fonte verificata](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-3-tessili-abbigliament/).
+- **Forte–Stasolla–Roussin** — Concetta Forte, Rosalba Stasolla, Letizia L. J. Roussin, *La moda. Progettazione & produzione*, Editrice San Marco, 2020, volume unico, ISBN 9788884883681. [Fonte verificata](https://editricesanmarco.it/catalogo/la-moda-progettazione-and-produzione/).
+- **Grana 2** — Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 2. Tessili, abbigliamento e moda*, Editrice San Marco, 2015, ISBN 9788884882585. [Fonte verificata](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-2-tessili-abbigliament/).
+
+Corretto il riferimento alle tre autrici; richiami a Grana 2 per industrializzazione e tempi, senza presumere copertura integrale della gestione.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Materiali e prestazioni | Grana 3: CONTENUTI: innovazione e tessili tecnici. | Sezione verificata nell’indice; applicazione da predisporre | Verificare prestazioni e aggiornamento delle schede tecniche; non semplice equivalenza tra nome del materiale e sostenibilità. |
+| D1.2 · Controlli e difetti | Grana 3: «Qualità di processo e di prodotto». | Sezione verificata nell’indice; applicazione da predisporre | Prove, non conformità e indicatori quantitativi da predisporre. |
+| D1.3 · Tracciabilità e manutenzione | Grana 3: CONTENUTI: preparazione alla vendita e lavoro nel settore. | Affinità tematica; copertura solo parziale | Tracciabilità, manutenzione, costi e sostenibilità integrale non sono tutti dimostrati dall’indice. |
+| D1.4 · Sostenibilità del ciclo | Grana 3: CONTENUTI: preparazione alla vendita e lavoro nel settore. | Affinità tematica; copertura solo parziale | Tracciabilità, manutenzione, costi e sostenibilità integrale non sono tutti dimostrati dall’indice. |
+| D2.1 · Progetto finale | Forte–Stasolla–Roussin: «La collezione moda». | Sezione verificata nell’indice; applicazione da predisporre | Brief, disegni, campioni e portfolio sono elaborazioni didattiche; non presunta copertura di CAD o modellistica esecutiva. |
+| D2.2 · Modello e varianti | Grana 2; Forte–Stasolla–Roussin: Progettazione e piazzamento attestati solo a livello generale. | Da verificare / integrazione didattica | Costruzione del modello, trasformazioni, sviluppo taglie, CAD e fitting richiedono dispense/manuale specialistico e prove docente. |
+| D2.3 · Industrializzazione | Grana 2: CONTENUTI: dalla progettazione al piazzamento. | Sezione verificata nell’indice; applicazione da predisporre | Modello, sviluppo taglie e software richiedono esercizi e risorse specifiche. |
+| D2.4 · Consegna al cliente simulato | Forte–Stasolla–Roussin: «La collezione moda». | Sezione verificata nell’indice; applicazione da predisporre | Brief, disegni, campioni e portfolio sono elaborazioni didattiche; non presunta copertura di CAD o modellistica esecutiva. |
+| D2.5 · Portfolio | Forte–Stasolla–Roussin: «La collezione moda». | Sezione verificata nell’indice; applicazione da predisporre | Brief, disegni, campioni e portfolio sono elaborazioni didattiche; non presunta copertura di CAD o modellistica esecutiva. |
+| D3.1 · Impresa e preventivo | Grana 2: «Tempi e metodi nella filiera tessile». | Sezione verificata nell’indice; applicazione da predisporre | Costi, preventivi e consuntivi sono casi didattici; non copertura completa della gestione aziendale. |
+| D3.2 · Programmazione e controllo | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D3.3 · Consuntivo e comunicazione | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.5, D2.0, D2.6, D3.0, D3.4 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 [Indice del percorso](README.md)
 
@@ -215,4 +238,4 @@ Il professionale richiede il raccordo con la declinazione produttiva e con il cu
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

@@ -98,7 +98,21 @@ Verifica: compilare un rapporto con procedura ripetibile, unità corrette e spie
 
 ## Libro consigliato
 
-G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli. Nella raccolta digitale del volume unico scegliere le unità su misura, dati, forze e fluidi. [Percorso di esercizi](https://esercizi.zanichelli.it/corso/Fisica-Lezioni-e-problemi-Edizione-rossa/2000277786)
+Giuseppe Ruffo e Nunzio Lanotte, *Fisica. Lezioni e problemi*, **edizione rossa, 2025**, Zanichelli, volume unico, ISBN **9788808176189**. [Indice ufficiale del volume unico](https://staticmy.zanichelli.it/catalogo/assets/9788808176189_02_IND.pdf). I rinvii riguardano questo ISBN, non automaticamente i volumi separati del 2026.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Strumenti e procedura di misura | cap. 1–2 | Indice |
+| Materiali e densità | cap. 1; schede tecniche da integrare | Indice |
+| Forze, pressione e uso dei materiali | cap. 3–5 | Indice |
+| Temperatura e trasformazioni | cap. 11 | Indice |
+| Dati per una decisione operativa | cap. 2; confronto operativo da progettare | Indice |
+
+**Integrazioni e scelta del materiale.** La selezione è una componente fisica dell’area integrata. Materiali, tolleranze, attrezzature e criteri decisionali devono provenire dal settore professionale effettivo, non da una presunta copertura di tutti gli indirizzi nel libro.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#professionale-1).
 
 ## Fonti consultate per questa proposta
 

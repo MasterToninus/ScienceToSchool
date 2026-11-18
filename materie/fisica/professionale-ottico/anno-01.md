@@ -95,14 +95,28 @@ Verifica: ricostruire un percorso da due punti noti e giustificare gli angoli.
 
 ## Libro consigliato
 
-F. Catalano, *Elementi di ottica generale*, Zanichelli, ISBN 9788808097866. Usare il nucleo di ottica geometrica. [Descrizione editoriale](https://www.zanichelli.it/ricerca/prodotti/elementi-di-ottica-generale)
+Ferdinando Catalano, *Elementi di ottica generale*, Zanichelli, volume unico, **2002**, ISBN **9788808097866**. La [presentazione editoriale](https://staticmy.zanichelli.it/catalogo/assets/aP2.9788808097866.pdf) identifica i capitoli 2–12 come parte geometrica e 13–23 come parte ondulatoria; non è stato recuperato un sommario analitico leggibile della stessa edizione.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Misurare sul banco ottico | integrazione: metrologia e allineamento del banco | Integrazione didattica |
+| Luce, sorgenti e modello a raggi | parte geometrica; [OpenStax, College Physics 2e, indice cap. 25](https://openstax.org/books/college-physics-2e/pages/25-introduction-to-geometric-optics), §25.1 | Affinità + indice |
+| Riflessione e specchio piano | parte geometrica; OpenStax, indice §25.2 | Affinità + indice |
+| Specchi sferici | parte geometrica; OpenStax, indice §25.7 | Affinità + indice |
+| Immagini e verifica delle previsioni | integrazione: previsioni, dati e prova a schermo | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il documento Catalano consente un raccordo alla parte, non a singoli capitoli su specchi o immagini. L’indice pubblico OpenStax identifica sezioni più precise, ma la prova e la convenzione dei segni devono essere controllate sul materiale effettivamente usato.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#ottico-1).
 
 ## Fonti consultate per questa proposta
 
 - [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
-- [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.
+- [Zanichelli — Catalano, Ottica applicata e strumenti, indice](https://staticmy.zanichelli.it/catalogo/assets/a03.9788808089519.pdf) — Indice della stessa edizione, ISBN 9788808089519; sezioni pertinenti e integrazioni documentate nella bibliografia.
 - [OpenStax / Rice University — Physics, 16.2 Refraction](https://openstax.org/books/physics/pages/16-2-refraction) — Integrazione didattica sulla rifrazione, in inglese.
 
 La selezione e la distribuzione annuale sono una sintesi didattica del progetto. [Catalogo delle fonti di fisica: consultazione, perimetro e limiti](../../../docs/ricerca-ai/fonti-programmi/fisica.md).

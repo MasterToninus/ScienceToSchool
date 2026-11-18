@@ -198,9 +198,34 @@ Presentare un provino a contatto, le immagini finali e una scheda di consegna. V
 
 ## Libro consigliato
 
-Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, ISBN 9788820372644. [Scheda e indice](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Adattamento dei materiali sull’immagine digitale e sull’elaborazione grafica al prodotto fotografico.
+- **Immaginando** — Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, 2016, volume unico, ISBN 9788820372644. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128).
+- **Corsi** — Michele Corsi, *Corso di linguaggio audiovisivo e multimediale*, Hoepli, 2017, volume unico, ISBN 9788820378868. [Fonte verificata](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159).
+- **Ferrara–Ramina A** — Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. A, *Percorsi per comunicare tra vecchi e nuovi media*, ISBN 9788808499714. [Fonte verificata](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice A](https://staticmy.zanichelli.it/catalogo/assets/9788808499714_02_IND.pdf).
+- **Ferrara–Ramina B** — Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. B, *Dal progetto agli strumenti tecnici per realizzarlo*, ISBN 9788808992857. [Fonte verificata](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice B](https://staticmy.zanichelli.it/catalogo/assets/9788808992857_02_IND.pdf).
+
+Immaginando è conservato come richiamo: il solo testo introduttivo era insufficiente per fotografia, produzione e linguaggi del triennio. Integrati indici di Corsi e Ferrara–Ramina A.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Catena fotografica | Ferrara–Ramina A: Indice A, cap. 3–4: smartphone e macchine fotografiche. | Sezione verificata nell’indice; applicazione da predisporre | Manuale dell’apparecchio, prove di esposizione e valutazione docente necessari. |
+| D1.2 · Illuminazione e registrazione | Ferrara–Ramina A: Indice A, cap. 7: illuminazione. | Sezione verificata nell’indice; applicazione da predisporre | Le configurazioni e la sicurezza del set vanno adattate al laboratorio. |
+| D1.3 · File e postproduzione | Immaginando: Macrovoce sugli strumenti di produzione ed elaborazione grafica. | Sezione verificata nell’indice; applicazione da predisporre | Procedure per la versione del software e prove pratiche da predisporre; risorse GIMP nel rapporto. |
+| D1.4 · Controllo tecnico | Ferrara–Ramina A: Indice A, cap. 9: colore e riproduzione a stampa. | Sezione verificata nell’indice; applicazione da predisporre | Integrare prove colore, profili e tolleranze del flusso realmente adottato. |
+| D2.1 · Committenza e preproduzione | Corsi: Linguaggio e narrazione, come supporto teorico al progetto. | Affinità tematica; copertura solo parziale | Budget, contratti, organizzazione dell’evento, archivi, distribuzione e portfolio non risultano coperti integralmente. |
+| D2.2 · Servizio fotografico | Ferrara–Ramina A: Indice A, cap. 3–4: smartphone e macchine fotografiche. | Sezione verificata nell’indice; applicazione da predisporre | Manuale dell’apparecchio, prove di esposizione e valutazione docente necessari. |
+| D2.3 · Prodotto audiovisivo breve | Ferrara–Ramina A: Indice A, cap. 8: produzione video. | Sezione verificata nell’indice; applicazione da predisporre | Riprese, file, montaggio e consegna sono attività originali; verificare software e dispositivi. |
+| D2.4 · Postproduzione del servizio | Corsi: «Il montaggio» e «Il sonoro». | Sezione verificata nell’indice; applicazione da predisporre | Software, sessioni di montaggio e controlli di accessibilità richiedono materiali integrativi. |
+| D2.5 · Consegna simulata | Ferrara–Ramina B: Indice B, cap. 4: condivisione delle conoscenze. | Sezione verificata nell’indice; applicazione da predisporre | Versioni, archivi, privacy, accessibilità e diritti richiedono risorse e controlli specifici. |
+| D3.1 · Generi e funzione | Corsi: Lettura del linguaggio e della narrazione audiovisiva. | Affinità tematica; copertura solo parziale | La successione storica di autori/generi e il corpus delle opere non sono attestati dal sommario generale. |
+| D3.2 · Narrazione visiva | Corsi: Indice: comunicazione e narrazione cinetelevisiva. | Sezione verificata nell’indice; applicazione da predisporre | Storyboard e scrittura del progetto sono esercizi della proposta, non esercizi editoriali verificati. |
+| D3.3 · Lettura critica del prodotto | Corsi: Indice: inquadratura e costruzione dell’immagine. | Sezione verificata nell’indice; applicazione da predisporre | Selezionare opere, fotografie e prove; l’indice non attesta gli esercizi qui proposti. |
+| D1.0, D1.5, D2.0, D2.6, D3.0, D3.4 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Per esercitazioni di elaborazione raster, [manuale ufficiale GIMP 3.0](https://docs.gimp.org/3.0/it/) (indice e due procedure esaminate); per montaggio, [catalogo ufficiale dei tutorial Shotcut](https://www.shotcut.org/tutorials/) (elenco consultato, video non visionati). Sono integrazioni operative da selezionare secondo il software effettivo, non un corso aggiuntivo.
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -220,4 +245,4 @@ Il profilo nazionale sostiene la produzione di servizi culturali e audiovisivi. 
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di comunicazione multimediale](../../../docs/ricerca-ai/fonti-programmi/comunicazione-multimediale.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

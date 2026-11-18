@@ -7,7 +7,7 @@ Questo indice è utilizzabile sia da un docente sia da un assistente AI. Scegli 
 | Quale disposizione vale per questa classe, in questo anno scolastico? | [Verificare una modifica normativa](.agents/skills/verifica-normativa/SKILL.md) | Fonte primaria, decorrenza, prima coorte interessata e testo da aggiornare. |
 | Quale parte di un libro sostiene questa unità? | [Incrociare programma e manuale](.agents/skills/mappa-manuale/SKILL.md) | Righe obiettivo, edizione, sezione, stato della verifica. |
 | A quale scuola, insegnamento e anno porta una classe di concorso? | [Verificare un’assegnazione](.agents/skills/verifica-assegnazioni/SKILL.md) | Cella dell’indice documentata e collegamento al programma pertinente. |
-| Come registrare e pubblicare uno stato del progetto? | [Creare un commit e fare push](.agents/skills/git-commit-push/SKILL.md) | Commit con messaggio esteso in italiano, provenienza documentata e verifica del push autorizzato. |
+| Come registrare e pubblicare uno stato del progetto? | [Creare un commit e fare push](.agents/skills/git-commit-push/SKILL.md) | SHA delle attività precedenti aggiornati nello stesso commit utile, messaggio esteso in italiano e verifica del push autorizzato. |
 
 ## Come eseguire le procedure
 
@@ -17,7 +17,7 @@ Questo indice è utilizzabile sia da un docente sia da un assistente AI. Scegli 
 
 **Assegnazione.** Verifica prima il titolo e le note di accesso alla classe di concorso. Apri poi il quadro dell’ordine di scuola, dell’indirizzo, dell’articolazione e della coorte. Leggi insieme la riga della disciplina, gli anni con ore, gli altri codici ammessi e le relative note. Distingui accesso ordinario, salvaguardia di titolarità e compresenza. Nella home collega il sotto-README che documenta la riga. Nel sotto-README conserva la fonte e i limiti dell’assegnazione.
 
-**Commit e push.** Applica la skill Git quando devi registrare o pubblicare modifiche. Prepara un messaggio esteso in italiano con oggetto sintetico, motivazioni, modifiche, verifiche, limiti e provenienza. Commit e push seguono le autorizzazioni effettivamente ricevute; una richiesta esplicita che include entrambi autorizza entrambi. Aggiorna il registro cumulativo e verifica il risultato sul remoto. Risolvi gli SHA delle attività precedenti nel successivo commit IA già necessario per altre modifiche; evita commit aggiuntivi dedicati alla sola tracciabilità.
+**Commit e push.** Applica la skill Git quando devi registrare o pubblicare modifiche. Prepara un messaggio esteso in italiano con oggetto sintetico, motivazioni, modifiche, verifiche, limiti e provenienza. Commit e push seguono le autorizzazioni effettivamente ricevute; una richiesta esplicita che include entrambi autorizza entrambi. Prima dello staging, risolvi nel registro gli SHA delle attività e delle fasi precedenti già versionate, verificandone il contenuto nella storia e conservando il primo commit storico. Includi il registro nello stesso commit utile; le fasi correnti restano `PENDING` fino al successivo intervento. Verifica il push autorizzato e comunica subito lo SHA corrente in chat, senza commit aggiuntivi o amend dedicati alla sola tracciabilità.
 
 ## Come registrare il risultato
 

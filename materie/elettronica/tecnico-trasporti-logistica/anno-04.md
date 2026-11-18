@@ -102,9 +102,28 @@ Confrontare due strumenti virtuali per la stessa grandezza e analizzare uno scos
 
 ## Letture consigliate
 
-- Flaccavento, *Elettrotecnica Elettronica Automazione*, Hoepli, ISBN 9788820378592. [Scheda dei quattro moduli](https://www.hoeplieditore.it/hoepli-catalogo/articolo/elettrotecnica-elettronica-automazione-michelangelo-flaccavento/9788820378592/2156).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Modulo Elettronica e telecomunicazioni. Selezionare i casi pertinenti al mezzo.
+- **TRAN — Michelangelo Flaccavento, Francesca Dell’Acqua, Elettrotecnica Elettronica Automazione. Per la Logistica e i Trasporti**. Hoepli, marzo 2017; ISBN 9788820378592. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/elettrotecnica-elettronica-automazione-michelangelo-flaccavento/9788820378592/2156) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran). **Sezione verificata**.
+- **EA2 — Gaetano Conte, Fabrizio Cerri, Danilo Tomassini, Nuovo Elettronica ed elettrotecnica**. Hoepli; volume 2, 2023; ISBN 9788836011858. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/nuovo-elettronica-ed-elettrotecnica--gaetano-conte/9788836011858/1992) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ea2). **Sezione verificata**.
+- **SA1 — Fabrizio Cerri, Stefano Ghisleri, Domenico Strazzeri, Corso di sistemi automatici**. Hoepli, terza edizione; volume 1, 2025; ISBN 9788836018390. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/corso-di-sistemi-automatici--fabrizio-cerri/9788836018390/2290) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa1). **Sezione verificata**.
+- **EA3 — Gaetano Conte, Fabrizio Cerri, Danilo Tomassini, Nuovo Elettronica ed elettrotecnica**. Hoepli; volume 3, 2024; ISBN 9788836015160. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/nuovo-elettronica-ed-elettrotecnica--gaetano-conte/9788836015160/1992) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ea3). **Sezione verificata**.
+- **TLC26 — Danilo Tomassini, Nuovo Telecomunicazioni**. Hoepli, maggio 2026; volume unico; ISBN 9788836021659. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/nuovo-telecomunicazioni-danilo-tomassini/9788836021659/3313) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tlc26). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Elettronica di bordo | [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran), [EA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ea2): TRAN elettronica; EA2 semiconduttori/operazionali | sezione verificata; copertura parziale | Componenti di bordo e schede tecniche da aggiungere. |
+| **S1D1N2** — Acquisizione e digitale | [SA1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa1), [EA3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ea3), [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran): SA1 trasduttori; EA3 acquisizione; TRAN contesto | sezione verificata; copertura parziale | Architettura e protocollo del mezzo reale non attestati interamente. |
+| **S1D1N3** — Comunicazione e impianti | [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran), [TLC26](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tlc26): TRAN telecomunicazioni/navigazione; TLC26 mezzi | sezione verificata; copertura parziale | Standard, impianti e comunicazioni del settore richiedono guide specifiche. |
+| **S1D1N4** — Prova di sistema | [TRAN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tran): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Prove e diagnosi del sistema scelto sono originali. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-tecnico-trasporti-logistica-anno-04).
 
 ## Riferimento curricolare
 

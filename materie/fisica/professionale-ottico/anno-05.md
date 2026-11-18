@@ -107,14 +107,29 @@ Verifica: redigere una relazione con schemi, intervallo di misura e motivazione 
 
 ## Libro consigliato
 
-F. Catalano, *Ottica applicata e strumenti*, Zanichelli, ISBN 9788808089519. Affiancare le schede dello strumento disponibile in istituto. [Introduzione dell’editore](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf)
+Ferdinando Catalano, *Ottica applicata e strumenti*, Zanichelli, volume unico, **2001**, ISBN **9788808089519**. [Indice ufficiale](https://staticmy.zanichelli.it/catalogo/assets/a03.9788808089519.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Occhio come sistema ottico | [OpenStax, College Physics 2e, §26.1](https://openstax.org/books/college-physics-2e/pages/26-1-physics-of-the-eye) | Testo pubblico: integrazione |
+| Lenti sferiche, cilindriche e centratura | integrazione professionale: meridiani, Prentice e centratura | Da verificare e integrare |
+| Strumenti di misura oftalmica | Ottica applicata, cap. 6, in particolare §6.1–6.2 | Indice |
+| Fotometria e colore | [Oleari, Misurare il colore, sommario](https://www.hoepli.it/libro/misurare-il-colore/9788820341268.html) | Indice: integrazione per il docente |
+| Sorgenti, rivelatori e luce quantizzata | Ottica applicata, cap. 7–8; [OpenStax §29.2](https://openstax.org/books/college-physics-2e/pages/29-2-the-photoelectric-effect) e [§30.5](https://openstax.org/books/college-physics-2e/pages/30-5-applications-of-atomic-excitations-and-de-excitations) | Indice + testi pubblici |
+| Ripetibilità e valutazione tecnica | integrazione: protocollo, specifiche e rapporto | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il sommario di Ottica applicata non attesta un trattamento organico di fotometria/colore o delle lenti sferocilindriche. Per il primo nucleo integrare con Claudio Oleari (a cura di), Misurare il colore, Hoepli, 2ª ed., 2008, ISBN 9788820341268: le sezioni «Fotometria» e «Colorimetria» sono verificate nel sommario; testo avanzato di consultazione per il docente, da reperire in copia disponibile, non adozione aggiuntiva per l’alunno. Le norme citate nel 2008 non sono verificate attuali. Trasposizione, Prentice, tolleranze e geometrie multifocali restano da riscontrare sul materiale professionale; rivelatori e tarature richiedono la scheda dello strumento.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#ottico-5).
 
 ## Fonti consultate per questa proposta
 
 - [MIUR / INDIRE — Linee guida 2019, risultati intermedi dell’indirizzo Ottico](https://nuoviprofessionali.indire.it/wp-content/uploads/2019/10/Competenze-OTTICO.pdf) — Raccordi d’asse per biennio e triennio; non ripartizione esclusiva tra discipline.
 - [MIUR — D.M. 92/2018, profili e quadri degli istituti professionali](https://www.gazzettaufficiale.it/eli/gu/2018/07/27/173/so/35/sg/pdf) — Profili e quadri; per Ottico allegati 2-M e 3-M.
 - [IIS Plana, Torino — Documento del 15 maggio 5BOT, 2024/25](https://plana.edu.it/wp-content/uploads/2025/05/timbro__Doc-15-maggio-5BOT-signed.pdf) — Ottica e Ottica applicata, pagine 31-32.
-- [Zanichelli — Catalano, Ottica applicata e strumenti, introduzione](https://staticmy.zanichelli.it/catalogo/assets/a04.9788808089519.pdf) — Introduzione; capitoli specifici da verificare.
+- [Zanichelli — Catalano, Ottica applicata e strumenti, indice](https://staticmy.zanichelli.it/catalogo/assets/a03.9788808089519.pdf) — Indice della stessa edizione, ISBN 9788808089519; sezioni pertinenti e integrazioni documentate nella bibliografia.
 - [OpenStax / Rice University — Physics, 16.2 Refraction](https://openstax.org/books/physics/pages/16-2-refraction) — Integrazione didattica sulla rifrazione, in inglese.
 
 La selezione e la distribuzione annuale sono una sintesi didattica del progetto. [Catalogo delle fonti di fisica: consultazione, perimetro e limiti](../../../docs/ricerca-ai/fonti-programmi/fisica.md).

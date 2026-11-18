@@ -142,8 +142,29 @@ Le 99 h scientifico-tecnologiche del secondo periodo sono qui articolate su Terr
 
 ## Libri consigliati
 
-- M. Bergamini, G. Barozzi, *Matematica multimediale.verde*, seconda edizione, Zanichelli, 2020, manuale di biennio. Scegliere esercizi sui sistemi e sulle funzioni di secondo grado per le prime due unità secondo il livello in ingresso. [Scheda editoriale](https://www.zanichelli.it/ricerca/prodotti/matematica-multimediale-verde-bergamini-barozzi?hl=matematica)
-- S. Armati, *Il nuovo libro di matematica e scienze*, Loescher, 2024. Usare le attività di educazione ambientale e scienze come supporto al lessico. Integrare con serie di dati e letture adeguate agli obiettivi del secondo periodo. [Scheda editoriale](https://www.loescher.it/dettaglio/opera/O_35050/Il-nuovo-libro-di-matematica-e-scienze)
+- Massimo Bergamini e Graziella Barozzi, *Matematica multimediale.verde*, **2ª edizione, 2020**, Zanichelli: volume 1, ISBN **9788808757173**, e volume 2 con Tutor, ISBN **9788808541819**. Sono stati letti gli [indici del volume 1](https://staticmy.zanichelli.it/catalogo/assets/9788808757173_02_IND.pdf) e [del volume 2](https://staticmy.zanichelli.it/catalogo/assets/9788808541819_02_IND.pdf); la numerazione non viene trasferita alla terza edizione.
+
+- Stefania Armati, *Il nuovo libro di matematica e scienze. Per i percorsi di primo livello dei CPIA*, Loescher, **2024**, ISBN **9788858350508**. [Scheda editoriale](https://www.loescher.it/dettaglio/opera/O_35050/Il-nuovo-libro-di-matematica-e-scienze). La fonte attesta quattro moduli di matematica, quattro di scienze e livello linguistico A1–B1; non pubblica un indice analitico leggibile. Le corrispondenze puntuali restano da verificare sulla copia.
+
+- Per un’integrazione di biologia del secondo periodo: Helena Curtis, N. Sue Barnes, Adriana Schnek, Alicia Massarini, Giuseppe Valitutti, Marco Falasca e Patrizia Amadio, *Il nuovo Invito alla biologia.blu — Chimica, organismi, cellule*, **seconda edizione**, Zanichelli, ISBN **9788808476685**; anno della specifica configurazione da riscontrare. [Indice](https://staticmy.zanichelli.it/catalogo/assets/9788808476685_02_IND.pdf) e [identificazione del volume](https://staticmy.zanichelli.it/catalogo/assets/9788808476685_03_ALT.pdf). Proposta di selezione per il docente da una copia disponibile, non adozione aggiuntiva obbligatoria.
+
+| Nucleo o risultato | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Calcolo, algebra, equazioni, disequazioni e sistemi | Verde 1: cap. 1–2, 4–6, 8–10; Verde 2: cap. 12–13, 15 e 17 | Indice |
+| Funzioni, dominio, composizione, inversa, rette e quadratiche | Verde 1: cap. 3 e 7; Verde 2: cap. 14 e 16 | Indice; selezionare i casi semplici della scheda |
+| Geometria e argomentazione | Verde 1: G1–G3; Verde 2: G4–G7 | Indice per il piano; solidi e volumi da integrare |
+| Statistica e probabilità | Verde 1: cap. 11; Verde 2: cap. 18 | Indice |
+| Applicazioni, tariffe, foglio di calcolo e comunicazione | Selezione dai problemi e consegne del docente | Integrazione didattica; non lettura di tutti gli esercizi |
+| Sistema Terra | Supporto lessicale Armati; integrazione verde 3, D7–D11, e rosso 1, D1–D6 | Affinità + indici per prerequisiti; livello del secondo periodo da integrare |
+| Biologia ed evoluzione | Invito alla biologia: A1–A3, A7–A8, A10–A11 | Indice; virus, sintesi proteica e biotecnologie non integralmente attestati |
+| Ecosistemi, energia e risorse | Invito alla biologia: A5–A6 e A9 | Indice per ecologia e metabolismo; consumi/rifiuti da integrare |
+| Corpo, salute e indagine | Armati per accessibilità; Scienze verde 2 C1–C5 e verde 3 C6–C9 per richiami | Affinità + indici; livello, fonti sanitarie pubbliche e protocollo da integrare |
+
+**Integrazioni e limiti.** Armati sostiene il lessico, ma i suoi otto moduli e il livello A1–B1 non provano la copertura del secondo periodo. Anche i volumi del primo ciclo sono qui solo repertori di prerequisiti: non sostituiscono le integrazioni di livello biennale su Terra, apparati e salute. I riferimenti di scienze sono [rosso 1, 2026, ISBN 9788808432360](https://staticmy.zanichelli.it/catalogo/assets/9788808432360_02_IND.pdf), [verde 2, 2025, ISBN 9788808375391](https://staticmy.zanichelli.it/catalogo/assets/9788808375391_02_IND.pdf) e [verde 3, 2025, ISBN 9788808361783](https://staticmy.zanichelli.it/catalogo/assets/9788808361783_02_IND.pdf). L’indice dell’Invito consente un sostegno più specifico per cellule, evoluzione, ecosistemi e metabolismo, ma non una certificazione di tutti i punti. I solidi non sono attestati dai soli capitoli G1–G7 della Verde: occorre un’integrazione con superfici/volumi. Protocolli d’indagine, dati ambientali attuali, infezioni e prevenzione richiedono selezione di fonti aggiornate e accessibili, senza aggiungere ore al piano.
+
+**Esito del controllo (18/11/2026).** «Indice» significa sezione visibile nel sommario della stessa edizione, non lettura integrale del capitolo. «Affinità» indica un riscontro tematico senza capitolo verificato. Le unità integrate, i dati, i protocolli, la programmazione informatica e le prove restano integrazioni del docente, entro le ore già previste. Risorse riservate, pagine non accessibili e adozioni non sono state verificate.
+
+[Verifica bibliografica e fonti per le cinque schede](../../../docs/ricerca-ai/verifica-manuali-matematica-scienze-cpia.md#cpia-2).
 
 [Quadro del primo livello CPIA](README.md)
 

@@ -117,9 +117,23 @@ Redigere una scheda con disegno del modello, osservazioni e annotazioni meteomar
 
 ## Libro consigliato
 
-Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 2, *Navigazione astronomica, meteorologia nautica e manovra della nave*, Hoepli, ISBN 9788836007967. [Scheda e indice](https://www.hoeplieditore.it/hoepli-catalogo/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-navigazione-astronomica-meteorologia-nautica-e-manovra-della-nave-lorenzo-di-franco/9788836007967/2093)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Usare le sezioni di meteorologia e manovra come riferimento, integrandole con schede di imbarcazioni tipiche della marineria locale.
+- **Di Franco 2** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 2, *Navigazione astronomica, meteorologia nautica e manovra della nave*, Hoepli, 2022, ISBN 9788836007967. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/nuovo-scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-lorenzo-di-franco/9788836007967/2093).
+- **Di Franco 1** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 1, *Fondamenti di navigazione*, Hoepli, 2021, ISBN 9788836003846. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-fondamenti-di-navigazione-lorenzo-di-franco/9788836003846/2093).
+
+Astronomia del volume 2 non è assegnata automaticamente a questo anno di pesca. Consultazione selettiva per meteo/manovra; carico, impianti e lavoro a bordo richiedono risorse specifiche.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Carico e stabilità elementare | Di Franco 2: «Manovra navale». | Affinità tematica; copertura solo parziale | Struttura, carico, stabilità e impianti non sono tutti attestati dalla sola voce; servono schede e dati tecnici del mezzo. |
+| D1.2 · Meteo e correnti | Di Franco 2: «Meteorologia nautica». | Sezione verificata nell’indice; applicazione da predisporre | Integrare bollettini e dati ufficiali datati; le decisioni restano casi didattici. |
+| D1.3 · Spazi e organizzazione a bordo | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.4 · Impianti e lavoro a bordo | Di Franco 1: Il manuale di navigazione non attesta impianti e manutenzione della pesca. | Da verificare / integrazione didattica | Servono schede funzionali, manuali del costruttore e procedure del mezzo; non esercitazioni operative autonome. |
+| D1.5 · Simulazione e registrazioni | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -139,4 +153,4 @@ Il quadro del professionale e il profilo di uscita orientano il percorso. Le ind
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di navigazione](../../../docs/ricerca-ai/fonti-programmi/navigazione.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

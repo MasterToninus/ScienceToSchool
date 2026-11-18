@@ -112,9 +112,22 @@ Calcolo con interi, frazioni, unità e lettura di semplici grafici: rilevarli in
 
 Per AFM confrontare listini con ribassi successivi. Per Turismo confrontare due itinerari a costi fissi e variabili documentando quale sia più conveniente. Distinguere nel rapporto conclusivo l’ipotesi economica, i dati osservati e il risultato del calcolo.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini e G. Barozzi, [Matematica multimediale.rosso, seconda edizione](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808764652_cartaidentita.pdf), Zanichelli, primo biennio. La lettura proposta riguarda percentuali, equazioni e statistica.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, [Matematica multimediale.rosso](https://www.zanichelli.it/ricerca/prodotti/matematica-multimediale-rosso-2ed), seconda edizione, Zanichelli, 2025; Volume 1 con laZ Tutor, ISBN **9788808764652**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Numeri, algoritmi e stime | **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): capp. 1–2 per numeri e calcolo. Il controllo di un algoritmo su casi limite richiede attività guidate. **Integrazione didattica** — l’algoritmo euclideo, la motivazione della terminazione e la distinzione fra errore assoluto/relativo vanno controllati nel dettaglio o sviluppati in una scheda; non sono certificati dal solo titolo del capitolo sui numeri. |
+| Rapporti e percentuali | **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): cap. 2 per razionali, rapporti e percentuali; selezionare problemi coerenti con il contesto. **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): cap. 7 per il raccordo con proporzionalità e funzioni; variazioni successive da esercitare con esempi mirati. |
+| Dal calcolo letterale ai modelli lineari | **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): capp. 4–10 per espressioni, funzioni, equazioni e fattorizzazione. Non sono tutti da svolgere integralmente nel tempo del nucleo. **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): cap. 3 per insiemi e logica, oltre ai capitoli algebrici indicati. |
+| Geometria euclidea e argomentazione | **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): capp. G1–G2 per geometria piana e argomentazione. Modelli di oggetti, misure effettive e tolleranze sono integrazioni di laboratorio. |
+| Descrivere dati e variabilità | **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): cap. 11 per statistica descrittiva. La raccolta e pulizia di dati della classe va progettata localmente. |
+| Informatica integrata e rappresentazione dei dati | **Sezione verificata** — [RO1](../../../docs/ricerca-ai/verifica-manuali-matematica.md#ro1): rubriche di coding con Python e attività collegate a funzioni e statistica ; strutture dei dati, test e interpretazione degli output vanno raccordati al programma effettivo. **Integrazione didattica** — la codifica di testi e immagini richiede esempi dedicati: la presenza di Python o di una rubrica coding non ne attesta la copertura. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

@@ -106,7 +106,23 @@ Verifica: spiegare quantitativamente un fenomeno termico e motivare la scelta de
 
 ## Libro consigliato
 
-Ugo Amaldi, *Le traiettorie della fisica.azzurro*, 3ª ed., Zanichelli. Il volume per il secondo biennio tratta meccanica, termodinamica e onde. [Volumi e ISBN](https://staticmy.zanichelli.it/catalogo/assets/aP16.9788808961808.pdf)
+Ugo Amaldi, *Le traiettorie della fisica.azzurro*, **3ª edizione**, Zanichelli, volume per il secondo biennio, 2022, ISBN **9788808391933**. [Indice ufficiale della stessa edizione](https://staticmy.zanichelli.it/catalogo/assets/9788808391933_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Temperatura, calore e materia | cap. 12–13 | Indice |
+| Gas e trasformazioni | cap. 12 | Indice |
+| Energia, macchine e irreversibilità | cap. 14 | Indice |
+| Oscillazioni, onde e suono | cap. 5, 9 e 15; integrazione OpenStax §16.8 e §16.10 | Indice + testi pubblici |
+| Immagini e ottica geometrica | cap. 16 | Indice |
+| Luce come onda e confronto tra modelli | cap. 16 | Indice |
+| Suono, percezione e ambiente | integrazione: attività e dati scelti dal docente | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il cap. 15 attesta onde periodiche, suono e un approfondimento sugli strumenti musicali, ma non rende espliciti risonanza e onde stazionarie. Integrare con i testi pubblici letti di [OpenStax, College Physics 2e, §16.8](https://openstax.org/books/college-physics-2e/pages/16-8-forced-oscillations-and-resonance) e [§16.10](https://openstax.org/books/college-physics-2e/pages/16-10-superposition-and-interference). Analisi della voce, riverberazione, materiali e colore richiedono inoltre una consegna e dati selezionati dal docente.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#altri-licei-4).
 
 ## Fonti consultate per questa proposta
 

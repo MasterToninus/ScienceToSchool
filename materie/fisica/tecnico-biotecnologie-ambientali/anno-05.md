@@ -109,7 +109,23 @@ Verifica: redigere un rapporto con mappa o grafico, grandezze misurate e limiti 
 
 ## Libro consigliato
 
-L. Mirri e M. Parente, *Fisica ambientale*, 2ª ed., Zanichelli. Il volume per il quinto anno comprende inquinamento acustico ed elettromagnetico, energia nucleare, radon e celle a idrogeno. [Scheda della 2ª edizione](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808320216_cartaidentita.pdf)
+Luigi Mirri e Michele Parente, *Fisica ambientale*, **2ª edizione, 2021**, Zanichelli, volume per il quinto anno, ISBN **9788808992222**. [Indice ufficiale del quinto anno](https://staticmy.zanichelli.it/catalogo/assets/9788808992222_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Rumore e rappresentatività dei dati | cap. 11–14 | Indice |
+| Campi elettromagnetici | cap. 15–17 | Indice |
+| Radiazioni ionizzanti e decadimenti | cap. 18–19 | Indice |
+| Radon e misure ambientali | cap. 21 | Indice |
+| Nucleare e bilanci di trasformazione | cap. 18 e 20 | Indice |
+| Idrogeno e celle a combustibile | cap. 22 | Indice |
+| Rapporto su dati ambientali | integrazione: dataset ambientale e metadati | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** L’indice attesta decadimento, dosimetria, radon, fissione/fusione e celle a combustibile. Le famiglie radioattive, la rappresentatività dei dati e le specifiche delle campagne richiedono verifica sul testo completo e integrazioni mirate. Limiti di legge, mappe e tecnologie citate nel 2021 non sono certificati attuali da questa verifica.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#ambientale-5).
 
 ## Fonti consultate per questa proposta
 

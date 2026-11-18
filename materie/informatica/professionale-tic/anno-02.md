@@ -96,9 +96,27 @@ Trasformare un registro ipotetico di interventi, prenotazioni o forniture in una
 
 ## Letture consigliate
 
-- Camagni e Nikolassy, *Appliware*, Hoepli, ISBN 9788820396381. [Scheda per il biennio di Made in Italy e Manutenzione](https://www.hoeplieditore.it/storage/app/uploads/public/allegati/96/381/9788820396381%20-%209638_Appliware.pdf).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Selezionare esercizi di gestione dati e documenti, adattati alla declinazione di istituto.
+Declinazioni dei diversi indirizzi professionali: esempi scelti nel PTOF, non capitoli editoriali confermati per ciascun settore.
+
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **APPLI — Paolo Camagni, Riccardo Nikolassy, Appliware**. Hoepli; volume unico; ISBN 9788820396381; scheda editoriale settembre 2021. [Fonte primaria](https://www.hoeplieditore.it/storage/app/uploads/public/allegati/96/381/9788820396381%20-%209638_Appliware.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli). **Affinità tematica**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Qualità dei dati | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.3 e 8: fogli e basi di dati | sezione verificata; copertura parziale | Pulizia del dataset e criteri di qualità sono integrazione didattica. |
+| **S1D1N2** — Analisi con foglio | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.3: Calc | sezione verificata; copertura parziale | Tabelle pivot/analisi avanzate non confermate dal solo indice introduttivo. |
+| **S1D1N3** — Comunicazione del risultato | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.2, 6 e 10: relazione, presentazione e formati | sezione verificata; copertura parziale | Scelte comunicative e interpretazione degli indicatori sono guidate dal docente. |
+| **S1D1N4** — Collaborazione e processo | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [APPLI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-appli): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Collaborazione, ruoli, versioni e caso professionale richiedono consegna e documenti della scuola. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-professionale-tic-anno-02).
 
 ## Riferimento curricolare
 

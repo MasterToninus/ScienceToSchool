@@ -92,7 +92,21 @@ Verifica: giustificare il valore di un componente e consegnare lo schema con le 
 
 ## Libro consigliato
 
-F. Cerri, A. Gallotti e A. Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, ISBN 9788836022830. Selezione per il percorso meccatronico dalle sezioni sulle reti resistive, i diodi e la logica binaria. [Indice dell’editore](https://www.hoeplieditore.it/hoepli-catalogo/articolo/default/default/3416)
+Fabrizio Cerri, Antonella Gallotti e Andrea Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, **2026**, volume unico, ISBN **9788836022830**. [Scheda e indice pubblico dell’editore](https://www.hoeplieditore.it/hoepli-catalogo/articolo/default/default/3416). L’indice pubblica sezioni e argomenti, senza numerazione analitica o pagine: non si assegnano numeri di capitolo non visibili.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Circuiti in continua e misure | Elettrotecnica generale: grandezze e circuiti; Metrologia e Arduino | Indice |
+| Energia e componenti | Elettrotecnica generale: potenza e componenti | Indice |
+| Diodo e sensore di posizione | Elettronica di segnale: diodi; sensore specifico da integrare | Affinità; dettaglio aperto |
+| Consensi e logica combinatoria | Elettronica di segnale: parte digitale | Indice |
+| Comando e verifica del modello | integrazione: comando, schede e tabella di prova | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Il corso è presentato per Elettronica ed elettrotecnica: qui se ne propone una selezione per Meccatronica. Relè, protezione, sensore di posizione e comando concreto sono affinità da completare con schede tecniche e protocollo; non risultano verificati puntualmente dal sommario generale.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-meccatronica-2).
 
 ## Fonti consultate per questa proposta
 

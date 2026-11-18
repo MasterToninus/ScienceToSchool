@@ -64,6 +64,10 @@ La data di consultazione **2026-11-18** si applica a ciascuna riga.
 - [Arduino, pagina AnalogReadSerial](https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial/): il lettore mostrava soltanto la struttura della pagina; usato invece il codice ufficiale leggibile E13.
 - [PhET, Circuit Construction Kit DC](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc): pagina raggiunta ma contenuto didattico non leggibile dal lettore; simulazione non eseguita e non usata come riscontro di un risultato.
 - [FreeCAD, Features](https://www.freecad.org/features.php): tentativo con risposta 403; non fonte di funzionalità verificate in questa ricerca.
-- [Hoepli, Elettrotecnica Elettronica Automazione, Flaccavento](https://www.hoeplieditore.it/hoepli-catalogo/articolo/elettrotecnica-elettronica-automazione-michelangelo-flaccavento/9788820378592/2156): recupero fallito; la bibliografia preesistente resta conservata senza dichiarare una nuova verifica di capitoli o pagine.
+- Primo tentativo non riuscito per *Elettrotecnica Elettronica Automazione*. Nel successivo controllo del 18/11/2026 è stata aperta la [scheda Hoepli di Michelangelo Flaccavento e Francesca Dell’Acqua, 2017, ISBN 9788820378592](https://www.hoeplieditore.it/scuola/articolo/elettrotecnica-elettronica-automazione-michelangelo-flaccavento/9788820378592/2156), con indice dei quattro moduli. [Riscontro aggiornato e limiti](../verifica-manuali-informatica-elettronica.md#manuale-tran): indice consultato, testo integrale non letto.
 
 I tentativi falliti non sono conteggiati come testi letti. Non sono state raccolte credenziali, richiesti accessi riservati o eseguite attività su apparati reali.
+
+## Verifica dei manuali e della copertura — 18 novembre 2026
+
+La bibliografia delle schede annuali è stata ricontrollata per edizione, volume e ISBN disponibile, distinguendo indice consultato, affinità tematica, riscontri incompleti e attività originali. Il [rapporto con fonti editoriali, limiti e matrice di tutte le 50 schede](../verifica-manuali-informatica-elettronica.md) documenta i raccordi per ciascun nucleo, incluse le discipline e le articolazioni alternative. Le guide ufficiali aggiunte coprono aspetti operativi specifici; non certificano da sole la copertura completa del programma. Nessun manuale è stato letto integralmente e nessuna adozione è attestata.

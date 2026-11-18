@@ -90,9 +90,28 @@ Simulare un ordine con tre prodotti e due aliquote fornite nella consegna. Rical
 
 ## Letture consigliate
 
-- *Informatica aziendale*, Simone Scuola, S397. [Scheda e indice](https://scuola.simone.it/libri/informatica-aziendale-s397/).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Selezione applicativa per un curricolo professionale.
+I testi AFM/SIA sono consultazioni selettive adattate al professionale, non equivalenza fra i rispettivi curricoli.
+
+- **AZI — Antonio De Rosa, Valerio Teta, Informatica aziendale**. Simone Scuola, 2012; S397; volume unico; ISBN 9788824431132. [Fonte primaria](https://scuola.simone.it/libri/informatica-aziendale-s397/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi). **Sezione verificata**.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **MDN — Mozilla/MDN, Core learning modules**. Documentazione Web ufficiale in aggiornamento continuo; ISBN non applicabile. [Fonte primaria](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Catalogo e dati | [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): AZI mod.2; LO cap.3: catalogo e foglio | sezione verificata; copertura parziale | Dati, prezzi e procedure di acquisto sono simulazioni didattiche, non dati commerciali attuali. |
+| **S1D1N2** — Processo commerciale | [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi): mod.1: processi e sistema informativo | sezione verificata; copertura parziale | Caso professionale, responsabilità e documenti vanno aggiornati. |
+| **S1D1N3** — Comunicazione | [MDN](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-mdn), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi): MDN HTML/CSS; LO cap.2,6; AZI mod.4 storico | sezione verificata; copertura parziale | Marketing, copyright e comunicazione legale richiedono fonti attuali. |
+| **S1D1N4** — Commessa simulata | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [AZI](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Brief, preventivo e verifica della commessa sono attività del docente. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-professionale-servizi-commerciali-anno-03).
 
 ## Riferimento curricolare
 

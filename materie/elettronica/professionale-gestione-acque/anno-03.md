@@ -92,7 +92,29 @@ Usare una tabella di prove ipotetiche per verificare la relazione fra volume acc
 
 ## Letture consigliate
 
-Cerri, Gallotti e Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, 2026, ISBN 9788836022830. [Scheda con la struttura del testo](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416). Per la parte strumentale usare esempi di conversione del segnale e metrologia.
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
+
+- **EPA — Lewis A. Rossman et al., EPANET 2.2 User Manual**. US EPA, 2020; manuale ufficiale; ISBN non applicabile. [Fonte primaria](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P10113EM.txt) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa). **Sezione verificata**.
+- **FOND — Fabrizio Cerri, Antonella Gallotti, Andrea Rondinelli, Fondamenti di elettrotecnica ed elettronica**. Hoepli, maggio 2026; ISBN 9788836022830. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/fondamenti-di-elettrotecnica-ed-elettronica-fabrizio-cerri/9788836022830/3416) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond). **Sezione verificata**.
+- **DRAW — Mario Aldi, Carla Monesi, Ivano Marchesini, Marzio Miliani, Tecnologie e Tecniche di Rappresentazione Grafica. Disegno, progettazione e CAD**. Hoepli, marzo 2017; ISBN 9788820378295. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/tecnologie-e-tecniche-di-rappresentazione-grafica-mario-aldi/9788820378295/2151) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw). **Sezione verificata**.
+- **SA1 — Fabrizio Cerri, Stefano Ghisleri, Domenico Strazzeri, Corso di sistemi automatici**. Hoepli, terza edizione; volume 1, 2025; ISBN 9788836018390. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/corso-di-sistemi-automatici--fabrizio-cerri/9788836018390/2290) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa1). **Sezione verificata**.
+- **ARD — Arduino, Learn**. Documentazione ufficiale online; ISBN non applicabile. [Fonte primaria](https://docs.arduino.cc/learn/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ard). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Reti idrauliche | [EPA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa): cap.2–3: rete e componenti | sezione verificata; copertura parziale | Reti in pressione soltanto; portate, perdite e schemi di impianti reali richiedono materiale di processo. |
+| **S1D1N2** — Pompe ed energia | [EPA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa), [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond): EPA cap.3 pompe; FOND energia/circuiti | sezione verificata; copertura parziale | Selezione pompe, rendimento e manutenzione non coperti integralmente dall’indice. |
+| **S1D1N3** — Misura e schemi | [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond), [DRAW](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-draw): FOND misure; DRAW rappresentazione tecnica | sezione verificata; copertura parziale | Simboli di processo e schemi P&ID specifici vanno forniti. |
+| **S1D1N4** — Controllo elementare | [SA1](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa1), [ARD](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ard): SA1 sistemi nel tempo, trasduttori e automazione; ARD ingressi/uscite | sezione verificata; copertura parziale | Dimostratore di livello/portata e soglie sono attività docente. |
+| **S1D1N5** — Gestione e verifica | [EPA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa), [FOND](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-fond): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Bilanci e verifica del caso idrico sono originali, non validazione di un impianto reale. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-professionale-gestione-acque-anno-03).
 
 ## Riferimento curricolare
 

@@ -106,7 +106,23 @@ Verifica: spiegare con calcolo e diagramma perché una stessa interazione può c
 
 ## Libro consigliato
 
-Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Nel volume 1, usare i capitoli 4–8 per meccanica e fluidi e 9–10 per gas e primo principio; il capitolo 11 è ripreso in quarta. La mappa pubblica dei capitoli è verificata, non le pagine o gli esercizi riservati. [Percorso di esercizi dell’editore](https://esercizi.zanichelli.it/corso/Il-nuovo-Amaldi-per-i-licei-scientifici-blu-Volumi-1-2-e-3/2000082166)
+Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, **3ª edizione**, Zanichelli, volume 1 del triennio, 2020, ISBN **9788808938060**. [Indice ufficiale del volume 1](https://staticmy.zanichelli.it/catalogo/assets/9788808938060_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Riferimenti e moti nel piano | cap. 1–3 | Indice |
+| Lavoro e conservazione dell’energia | cap. 4 | Indice |
+| Impulso, quantità di moto e urti | cap. 5 | Indice |
+| Rotazione e momento angolare | cap. 6 | Indice |
+| Gravitazione e orbite | cap. 7 | Indice |
+| Fluidi in movimento | cap. 8 | Indice |
+| Gas, modello cinetico e primo principio | cap. 9–10 | Indice |
+
+**Integrazioni e scelta del materiale.** Selezionare la profondità prevista dalla scheda, senza anticipare tutto il formalismo del testo. Dataset, simulazione e verifica sperimentale dei bilanci richiedono consegna e materiali del docente.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#scientifico-3).
 
 ## Fonti consultate per questa proposta
 

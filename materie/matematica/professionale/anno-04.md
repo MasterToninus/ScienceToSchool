@@ -105,9 +105,23 @@ Gli esempi di calcolo differenziale seguenti riguardano soltanto il ramo alterna
 
 Da una serie di tempi e quantità, individuare il tratto di massima velocità. Giustificare la scelta con una differenza finita e un controllo grafico. Concordare con i docenti di laboratorio il documento di lavoro da compilare e i criteri per considerarlo utilizzabile.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-L. Sasso, [La matematica a colori, edizione gialla leggera](https://deascuola.it/docenti/secondaria-di-secondo-grado/materie-scientifiche/matematica/matematica-ii-biennio-e-v-anno/la-matematica-a-colori-edizione-gialla-leggera-secondo-biennio-e-quinto-anno-15047/), Petrini, volume 4. L’indice dell’editore riporta le unità citate. Nel relativo indice si trovano le unità 3–8 per analisi e 10 per probabilità.
+- **Riferimento di base:** Leonardo Sasso, [La matematica a colori](https://cms.deascuola.it/docenti/secondaria-di-secondo-grado/materie-scientifiche/matematica/matematica-ii-biennio-e-v-anno/la-matematica-a-colori-edizione-gialla-leggera-secondo-biennio-e-quinto-anno-15047/), edizione gialla leggera, Petrini / Deascuola, 2016; Volume 4 + ebook, ISBN **9788849421095**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi4).
+- **Richiami e integrazioni selettive:** [GI3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi3): La matematica a colori — Volume 3 + ebook (ISBN 9788849421088), [GI5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi5): La matematica a colori — Volume 5 + ebook (ISBN 9788849421101).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Esponenziali e logaritmi | **Sezione verificata** — [GI3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi3): unità 4–5: riprendere il volume di terza, non cercare questi capitoli nel volume 4. |
+| Conteggio e probabilità condizionata | **Sezione verificata** — [GI4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi4): unità 9–10 per combinatoria e probabilità; il dettaglio di condizionamento/Bayes va riscontrato nel testo. |
+| Variabili aleatorie e distribuzioni | **Sezione verificata** — [GI5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi5): unità 3 per complementi di probabilità, anticipazione selettiva in quarta. **Integrazione didattica** — il sommario non elenca i singoli modelli: verificarli prima di dichiarare coperta ogni distribuzione. |
+| Dati bivariati e modelli | **Sezione verificata** — [GI3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi3): unità 6 per statistica. **Integrazione didattica** — regressione, residui e lettura critica vanno controllati nel testo o integrati; il sommario sintetico non li dettaglia. **Integrazione didattica** — residui, dati di controllo, distorsioni e distinzione tra correlazione e causalità vanno sviluppati con una scheda di analisi; non sono attestati integralmente dalla sola voce statistica o regressione nel sommario. |
+| Misure e controllo di qualità | **Sezione verificata** — [GI3](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi3): unità 6 per statistica descrittiva. **Integrazione didattica** — tolleranze, misure di oggetti e decisioni di qualità richiedono dati e protocolli dell’indirizzo; l’indice non certifica un capitolo tecnico dedicato. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Approfondimento alternativo di indirizzo | **Sezione verificata** — [GI4](../../../docs/ricerca-ai/verifica-manuali-matematica.md#gi4): unità 3–8 per l’alternativa di analisi in quarta. L’organizzazione del manuale non rende obbligatorio questo ramo: valgono le sostituzioni e le ore del programma. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

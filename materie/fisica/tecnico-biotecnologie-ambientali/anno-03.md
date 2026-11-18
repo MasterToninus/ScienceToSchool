@@ -102,7 +102,22 @@ Verifica: presentare un bilancio per un giorno e stimare come cambierebbe per un
 
 ## Libro consigliato
 
-L. Mirri e M. Parente, *Fisica ambientale*, 2ª ed., Zanichelli. Volume per il secondo biennio, sulle fonti energetiche alternative e rinnovabili. [Scheda della 2ª edizione](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808320216_cartaidentita.pdf)
+Luigi Mirri e Michele Parente, *Fisica ambientale*, **2ª edizione, 2021**, Zanichelli, volume per il secondo biennio, *Energie alternative e rinnovabili*, ISBN **9788808320216**. [Indice ufficiale del secondo biennio](https://staticmy.zanichelli.it/catalogo/assets/9788808320216_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Sistema e bilancio energetico | cap. 1; confini e unità funzionale da integrare | Indice |
+| Lavoro, potenza ed energia | cap. 1 | Indice |
+| Calore e macchine termiche | cap. 1; integrare [OpenStax, College Physics 2e, §15.4](https://openstax.org/books/college-physics-2e/pages/15-4-carnots-perfect-heat-engine-the-second-law-of-thermodynamics-restated) e [§15.5](https://openstax.org/books/college-physics-2e/pages/15-5-applications-of-thermodynamics-heat-pumps-and-refrigerators) | Indice + testo pubblico |
+| Fonti e trasformazioni | selezione cap. 2–5 e 8–10 | Indice |
+| Fabbisogni ed efficienza | cap. 6–7 | Indice |
+| Audit didattico | integrazione: audit, dati e condizioni del servizio | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** L’indice non attesta nel dettaglio il ciclo di Carnot e il COP: le due sezioni OpenStax sono state lette per questi punti. Primo principio e diagrammi del gas richiedono il richiamo dal biennio o dal manuale di fisica generale; etichette e atti applicabili vanno controllati alla data dell’attività, non assunti aggiornati al 2026 dal testo del 2021.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#ambientale-3).
 
 ## Fonti consultate per questa proposta
 

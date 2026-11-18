@@ -92,7 +92,29 @@ Consegna finale: quadro delle misure, breve relazione sulle prestazioni, ipotesi
 
 ## Letture consigliate
 
-*Manuale del trattamento delle acque di scarico*, FrancoAngeli. [Scheda con indice analitico](https://www.francoangeli.it/Libro/Manuale-del-trattamento-delle-acque-di-scarico?Id=4823). Approfondimento per il docente nella parte sugli strumenti di controllo. Per la normativa di esercizio si consultano gli atti vigenti.
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
+
+- **IMHOFF — Karl Imhoff, Klaus R. Imhoff, Manuale del trattamento delle acque di scarico**. FrancoAngeli, ventiquattresima edizione 1996; ISBN 9788820497279. [Fonte primaria](https://www.francoangeli.it/Libro/Manuale-del-trattamento-delle-acque-di-scarico?Id=4823) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-imhoff). **Sezione verificata**.
+- **EPA — Lewis A. Rossman et al., EPANET 2.2 User Manual**. US EPA, 2020; manuale ufficiale; ISBN non applicabile. [Fonte primaria](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P10113EM.txt) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa). **Sezione verificata**.
+- **SA3 — Fabrizio Cerri, Stefano Ghisleri, Domenico Strazzeri, Salvino Zocco, Corso di sistemi automatici**. Hoepli, terza edizione; volume 3, 2026; ISBN 9788836021437. [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-sistemi-automatici--fabrizio-cerri/9788836021437/2290) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa3). **Sezione verificata**.
+- **TTIM3 — Sigfrido Pilone, Paolo Bassignana, Guido Furxhi, Maurizio Liverani, Antonio Pivetta, Claudio Piviotti, Tecnologie e tecniche di installazione, manutenzione e diagnostica**. Hoepli, terza edizione; volume 3 (quinto anno), 2025; ISBN 9788836018574. [Fonte primaria](https://www.hoeplieditore.it/foreign-rights/articolo/tecnologie-e-tecniche-di-installazione-manutenzione-e-diagnostica-quinto-anno-sigfrido-pilone/9788836018574/2886) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3). **Sezione verificata**.
+- **TPT3 — Gaetano Conte, Maria Conte, Fabrizio Cerri, Maurilio Bortolussi, Nuovo Tecnologie e progettazione di sistemi elettrici ed elettronici per l’articolazione Elettrotecnica**. Hoepli; volume 3, 2024; ISBN 9788836015184. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/nuovo-tecnologie-e-progettazione-di-sistemi-elettrici-ed-elettronici-per-larticolazione-elettrotecnica--gaetano-conte/9788836015184/1991) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tpt3). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Assetto e conduzione | [IMHOFF](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-imhoff), [EPA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa): IMHOFF esercizio/trattamento reflui; EPA cap.3/8 | sezione verificata; copertura parziale | Ambiti distinti: manuale reflui storico, EPANET solo reti in pressione; norme e processi attuali da integrare. |
+| **S1D1N2** — Monitoraggio | [SA3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sa3), [EPA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa): SA3 acquisizione; EPA cap.9 e §5.3 | sezione verificata; copertura parziale | Monitoraggio e calibrazione reali richiedono procedure dell’impianto. |
+| **S1D1N3** — Manutenzione delle reti | [TTIM3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3), [IMHOFF](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-imhoff): TTIM3 affidabilità/diagnostica; IMHOFF manutenzione | sezione verificata; copertura parziale | Casi, parametri e sicurezza specifici del servizio idrico da predisporre. |
+| **S1D1N4** — Efficienza e responsabilità | [EPA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa), [TPT3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-tpt3): EPA rapporti energetici; TPT3 utilizzazione energia | sezione verificata; copertura parziale | Indicatori ambientali, responsabilità e bilanci del caso non certificati dall’indice. |
+| **S1D1N5** — Progetto conclusivo | [EPA](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-epa), [IMHOFF](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-imhoff), [TTIM3](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-ttim3): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Progetto di gestione originale: separare simulazione idrica, trattamento reflui e automazione. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#elettronica-professionale-gestione-acque-anno-05).
 
 ## Riferimento curricolare
 

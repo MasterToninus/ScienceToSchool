@@ -109,7 +109,22 @@ Verifica: schema, tabella di verità e confronto fra misura e simulazione in un 
 
 ## Libro consigliato
 
-F. Cerri, A. Gallotti e A. Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, ISBN 9788836022830. Usare le sezioni sull’elettronica digitale e analogica e sulle misure in simulazione. [Indice dell’editore](https://www.hoeplieditore.it/hoepli-catalogo/articolo/default/default/3416)
+Fabrizio Cerri, Antonella Gallotti e Andrea Rondinelli, *Fondamenti di elettrotecnica ed elettronica*, Hoepli, **2026**, volume unico, ISBN **9788836022830**. [Scheda e indice pubblico dell’editore](https://www.hoeplieditore.it/hoepli-catalogo/articolo/default/default/3416). L’indice pubblica sezioni e argomenti, senza numerazione analitica o pagine: non si assegnano numeri di capitolo non visibili.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Segnali nel tempo | Elettrotecnica generale: grandezze alternate; dettaglio temporale da verificare | Affinità; dettaglio aperto |
+| Condensatori, induttori e transitori | Elettrotecnica generale: componenti capacitivi/induttivi; RC da verificare | Affinità; dettaglio aperto |
+| Diodi e componenti non lineari | Elettronica di segnale: parte analogica | Indice |
+| Logica combinatoria | Elettronica di segnale: parte digitale | Indice |
+| Sensori e interfacce | Metrologia e Arduino: interfacciamento; sensore specifico da integrare | Affinità; dettaglio aperto |
+| Prototipo e verifica | integrazione: prototipo e tabella di prova | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** L’indice pubblico non consente di verificare singolarmente campionamento, costante RC, protezione del relè o tempo di risposta del sensore. Integrare curve e schede tecniche; la copertura generale non giustifica trasferire fasori, sintesi MSI o dimensionamento completo nella sequenza ridotta.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-elettronica-elettrotecnica-2).
 
 ## Fonti consultate per questa proposta
 

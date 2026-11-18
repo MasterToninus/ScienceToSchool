@@ -167,9 +167,29 @@ Consegnare al committente simulato un confronto con tabella e analisi di sensibi
 
 ## Libro consigliato
 
-F. Dallari, F. Toriello, E. Pennacino, E. Cossu, *Corso di logistica e trasporti*, vol. 3, seconda edizione, Hoepli, ISBN 9788836015221. [Scheda editoriale](https://www.hoeplieditore.it/storage/app/uploads/public/allegati/15/221/9788836015221%20-%20HOEPLI_Corso_logistica_trasporti_3.pdf)
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
 
-Testo per la quinta di Logistica. Nella scheda del volume verificare la pertinenza del caso scelto, soprattutto se riferito ad altra articolazione.
+- **Dallari e altri 3** — Fabrizio Dallari, Fabio Toriello, Enrico Pennacino, Elena Cossu, *Corso di logistica e trasporti*, 2ª ed., Hoepli, 2024, vol. 3, *Spedizioni, normativa e commercio internazionale*, ISBN 9788836015221. [Fonte verificata](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-logistica-e-trasporti-spedizioni-normativa-e-commercio-internazionale-fabrizio-dallari/9788836015221/2096).
+- **Dallari–Cossu 2** — Fabrizio Dallari, Elena Cossu, *Corso di logistica e trasporti*, 2ª ed. rivista e aggiornata, Hoepli, 2023, vol. 2, *Organizzazione e gestione della supply chain e della sicurezza*, ISBN 9788836012275. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/corso-di-logistica-e-trasporti-fabrizio-dallari/9788836012275/2096).
+- **STA Trasporti** — Luigi Caligaris, Stefano Fava, Carlo Tomasello, Luciano Ferraro, *STA. Scienze e tecnologie applicate. Trasporti e logistica*, Hoepli, 2011, volume unico, ISBN 9788820346607. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/sta-scienze-e-tecnologie-applicate-trasporti-e-logistica-luigi-caligaris/9788820346607/1906).
+- **Di Franco 3** — Lorenzo Di Franco, *Scienze della navigazione, struttura e costruzione del mezzo navale*, vol. 3, *Navigazione moderna, maree ed emergenze a bordo*, Hoepli, 2023, ISBN 9788836012299. [Fonte verificata](https://www.hoeplieditore.it/scuola/articolo/scienze-della-navigazione-struttura-e-costruzione-del-mezzo-navale-navigazione-moderna-maree-ed-emergenze-a-bordo-lorenzo-di-franco/9788836012299/2093).
+
+Costi e KPI restano raccordati al volume 2. Il volume 3 documenta spedizioni e commercio; il blocco di navigazione richiede risorse distinte. Risorsa online sul carico di Di Franco 3 soltanto annunciata, non consultata.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Catena e livello di servizio | Dallari–Cossu 2: Indice: flussi informativi e indicatori di prestazione. | Sezione verificata nell’indice; applicazione da predisporre | Il software e i dataset della simulazione non sono stati consultati nel testo. |
+| D1.2 · Costi e programmazione | Dallari–Cossu 2: Indice: costi della logistica e indicatori di prestazione. | Sezione verificata nell’indice; applicazione da predisporre | Integrare calcoli e decisioni con ipotesi esplicite; richiamo del volume 2 anche in V. |
+| D1.3 · Merci e documenti | Dallari e altri 3: Indice: spedizioni, contratti, commercio e dogane. | Sezione verificata nell’indice; applicazione da predisporre | Controllare norme e documenti vigenti su fonti ufficiali; il manuale 2024 non certifica aggiornamento al 2026. |
+| D1.4 · Tecnologie e tracciabilità | Dallari–Cossu 2: Indice: flussi informativi e indicatori di prestazione. | Sezione verificata nell’indice; applicazione da predisporre | Il software e i dataset della simulazione non sono stati consultati nel testo. |
+| D1.5 · Resilienza e sostenibilità | Dallari e altri 3: Indice: impatto ambientale e logistica inversa. | Sezione verificata nell’indice; applicazione da predisporre | Integrare indicatori, scenari di resilienza e dati aggiornati. |
+| D2.1 · Piano integrato di trasporto | Dallari e altri 3: Indice: modalità, mezzi, infrastrutture e scelta del trasporto. | Sezione verificata nell’indice; applicazione da predisporre | Selezione introduttiva dove usata prima della V; non copertura di navigazione o manutenzione. |
+| D2.2 · Sistemi e comunicazioni | STA Trasporti; Dallari e altri 3: Raccordi generali a mezzi e infrastrutture. | Da verificare / integrazione didattica | Cartografia, meteo, localizzazione, equilibrio/carico e comunicazioni richiedono fonti specialistiche del mezzo scelto; il manuale di logistica non li copre da solo. |
+| D2.3 · Gestione del carico | Di Franco 3: Gestione del carico: risorsa online annunciata, non consultata. | Da verificare / integrazione didattica | Verificare accesso e contenuto prima dell’uso; integrare stabilità e carico con documenti didattici legittimi e aggiornati. |
+| D2.4 · Qualità e fattore umano | Nessuna sezione del manuale consigliato attestata per questo nucleo. | Integrazione didattica | Predisporre una risorsa specifica, esercitazioni e criteri di controllo; non attribuire questa copertura al libro per analogia con il titolo. |
+| D1.0, D1.6, D2.0, D2.5 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 ## Riferimento curricolare
 
@@ -189,6 +209,6 @@ Il D.M. 29/2026 avvia le prime del nuovo tecnico nel 2026/27. Le linee guida e i
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di trasporti e logistica](../../../docs/ricerca-ai/fonti-programmi/trasporti-e-logistica.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.
 
 - [Duca degli Abruzzi, Scienze della navigazione III Logistica, 2026/27](https://www.itnipiaducabruzzi.edu.it/download/859/navigazione-e-logistica-fisica-e-macchine-discipline-stcw/10169/scienze-della-navigazione-3-anno-log-casel.docx) — DOCX consultato; confronto sui prerequisiti di posizione, orientamento, carte e struttura del mezzo.

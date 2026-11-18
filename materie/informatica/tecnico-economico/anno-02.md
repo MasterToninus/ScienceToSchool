@@ -91,9 +91,28 @@ Produrre una scheda di andamento su dodici mesi da un archivio simulato. Control
 
 ## Letture consigliate
 
-- *Informatica aziendale*, Simone Scuola, S397. [Scheda e indice](https://scuola.simone.it/libri/informatica-aziendale-s397/).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
 
-Materiale per il docente per collegare gli strumenti d’ufficio agli sviluppi successivi.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **PY — Python Software Foundation, The Python Tutorial**. Documentazione Python 3.14; risorsa ufficiale, ISBN non applicabile. [Fonte primaria](https://docs.python.org/3.14/tutorial/index.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py). **Sezione verificata**.
+- **RETI26 — Luigi Lo Russo, Elena Bianchi, Paolo Camagni, Riccardo Nikolassy, Informatica e reti di comunicazione**. Hoepli, maggio 2026; volume unico; ISBN 9788836022878. [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/informatica-e-reti-di-comunicazione-volume-unico-luigi-lo-russo/9788836022878/3414) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-reti26). **Sezione verificata**.
+- **AZI — Antonio De Rosa, Valerio Teta, Informatica aziendale**. Simone Scuola, 2012; S397; volume unico; ISBN 9788824431132. [Fonte primaria](https://scuola.simone.it/libri/informatica-aziendale-s397/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-azi). **Sezione verificata**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Qualità dei dati | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.3 e 8: fogli e basi di dati | sezione verificata; copertura parziale | Pulizia del dataset e criteri di qualità sono integrazione didattica. |
+| **S1D1N2** — Analisi con foglio | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.3: Calc | sezione verificata; copertura parziale | Tabelle pivot/analisi avanzate non confermate dal solo indice introduttivo. |
+| **S1D1N3** — Algoritmi e codice | [PY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-py), [RETI26](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-reti26): PY §§3–4; RETI26: algoritmi | sezione verificata; copertura parziale | Programmi e tracce introduttive vanno adattati all’economico. |
+| **S1D1N4** — Comunicazione | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): cap.2, 6 e 10: relazione, presentazione e formati | sezione verificata; copertura parziale | Scelte comunicative e interpretazione degli indicatori sono guidate dal docente. |
+| **S1D1N5** — Sistemi e protezione | [RETI26](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-reti26): blocchi su sistemi, reti e sicurezza | sezione verificata; copertura parziale | Ruoli, rischi e uso dei servizi richiedono casi attuali. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-economico-anno-02).
 
 ## Riferimento curricolare
 

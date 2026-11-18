@@ -119,7 +119,26 @@ Verifica: prevedere l’andamento di un segnale quando varia un solo parametro e
 
 ## Libro consigliato
 
-G. Ruffo e N. Lanotte, *Fisica. Lezioni e problemi*, edizione rossa, Zanichelli. Per il bilancio energetico e le misure termiche sono identificabili le sezioni su energia, lavoro, calore e temperatura. [Percorso di esercizi](https://esercizi.zanichelli.it/corso/Fisica-Lezioni-e-problemi-Edizione-rossa/2000277786)
+Giuseppe Ruffo e Nunzio Lanotte, *Fisica. Lezioni e problemi*, **edizione rossa, 2025**, Zanichelli, volume unico, ISBN **9788808176189**. [Indice ufficiale del volume unico](https://staticmy.zanichelli.it/catalogo/assets/9788808176189_02_IND.pdf). I rinvii riguardano questo ISBN, non automaticamente i volumi separati del 2026.
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Bilanci meccanici e urti | cap. 9–10 | Indice |
+| Rotazione e momento angolare | [OpenStax, College Physics 2e, §10.5](https://openstax.org/books/college-physics-2e/pages/10-5-angular-momentum-and-its-conservation) | Testo pubblico: integrazione |
+| Campo elettrico e circuiti | cap. 15–17 | Indice |
+| Magnetismo, induzione e onde elettromagnetiche | cap. 18–19 | Indice |
+| Onde meccaniche e suono | cap. 13 | Indice |
+| Riflessione, rifrazione e immagini | cap. 14 | Indice |
+| Sensori e acquisizione dei dati | integrazione: scheda e taratura del sensore | Integrazione didattica |
+| Gas, cicli e trasformazioni dell’energia | cap. 12 | Indice |
+
+**Integrazioni e scelta del materiale.** Il cap. 10 attesta quantità di moto e conservazioni, non il momento angolare: per questo nucleo è stato letto OpenStax §10.5. Il sensore richiede dati tecnici e procedura specifici. La selezione riguarda il solo contributo fisico al contenitore integrato.
+
+I capitoli 13, 14 e 19 sono presentati in forma abbreviata su carta; l’indice rinvia all’eBook per il testo completo. È verificata questa indicazione editoriale, non l’accesso personale alle risorse digitali.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#tecnico-tecnologico-2).
 
 ## Fonti consultate per questa proposta
 

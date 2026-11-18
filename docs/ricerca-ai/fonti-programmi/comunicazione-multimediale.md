@@ -1,5 +1,7 @@
 # Fonti per i programmi di comunicazione multimediale
 
+**Verifica bibliografica, 18/11/2026:** [edizioni, indici, correzioni e matrice annuale](../verifica-manuali-settori.md). Questo controllo aggiorna i limiti bibliografici della ricognizione precedente: distingue indice consultato, metadati confermati e contenuti non verificati; nessun manuale è stato letto integralmente.
+
 **Aggiornamento della revisione critica, 18/11/2026:** [fonti nuovamente esaminate, recuperi e correzioni](../revisione-critica-settori.md). I limiti di accesso descritti nella ricognizione sottostante vanno letti insieme agli esiti successivi di questo rapporto; non implicano che un documento recuperato in seguito sia ancora non consultato.
 
 Ricerca autonoma assistita dall’IA, consultazione del **18 novembre 2026**. Il percorso di ricerca è stato: atti nazionali → indirizzi e coorti → programmazioni scolastiche → materiali di enti e cataloghi editoriali. È una ricerca sistematica e non esaustiva. I nuclei delle schede sono proposte originali di organizzazione didattica; la consultazione non equivale a validazione docente.
@@ -39,7 +41,7 @@ In questo catalogo: **12 risorse distinte**, di cui **11 con testo utile consult
 
 Nel liceo artistico il biennio è orientativo e il triennio distingue discipline e laboratorio. La programmazione Bramante documenta il triennio liceale; l'indice Valle è stato aperto ma i programmi in Drive non erano leggibili. Per le declinazioni professionali e la grafica tecnica sono stati quindi incrociati profili nazionali e documentazione editoriale, senza attribuire a una scuola una scansione non letta. La pagina ministeriale storica delle Indicazioni citata nelle schede ha restituito un limite di accesso: i testi dell'allegato B sono stati consultati direttamente in Gazzetta Ufficiale.
 
-Le schede preservano i manuali già consigliati. Il catalogo identifica soltanto le nuove consultazioni effettive: non afferma che ogni testo preesistente sia stato letto, acquistato o adottato. I capitoli e le pagine sono indicati soltanto quando visibili nella risorsa consultata. Le attività, i compiti e le griglie proposte richiedono controllo docente, attrezzature appropriate e adattamento alla classe.
+Le schede conservano i riferimenti validi, rettificano dati e raccordi e distinguono le consultazioni integrative. La verifica bibliografica del 18/11/2026, riportata qui sotto, non è lettura integrale, acquisto o adozione dei libri. I capitoli e le pagine sono indicati soltanto quando visibili nella risorsa consultata. Le attività, i compiti e le griglie proposte richiedono controllo docente, attrezzature appropriate e adattamento alla classe.
 
 ## Percorsi aggiornati
 
@@ -47,3 +49,14 @@ Le schede preservano i manuali già consigliati. Il catalogo identifica soltanto
 - [professionale servizi culturali](../../../materie/comunicazione-multimediale/professionale-servizi-culturali/README.md)
 - [professionale industria artigianato](../../../materie/comunicazione-multimediale/professionale-industria-artigianato/README.md)
 - [tecnico grafica e comunicazione](../../../materie/comunicazione-multimediale/tecnico-grafica-e-comunicazione/README.md)
+
+## Aggiornamento bibliografico del 18/11/2026
+
+I conteggi della ricerca curricolare precedente non comprendono automaticamente questa distinta verifica dei manuali. Per il confronto di tutti i nuclei annuali e i tentativi di accesso consultare il [rapporto sui manuali dei settori](../verifica-manuali-settori.md).
+
+| Riferimento identificato | Fonte e riscontro consultati il 18/11/2026 | Limite |
+| --- | --- | --- |
+| M01 · Andrea Rosati, Floriana Maruca, *Immaginando. Tecnologie applicate per la grafica e la comunicazione*, Hoepli, 2016, volume unico, ISBN 9788820372644 | [Fonte primaria](https://www.hoeplieditore.it/scuola/articolo/immaginando-andrea-rosati/9788820372644/2128). Indice editoriale: immagine digitale, strumenti grafici, luce e colore, stampa e passaggio dal progetto alla stampa. | Manuale per il biennio tecnico; adattamento nei licei/professionali. Indice sintetico, senza pagine dei capitoli. Non copre da solo cinematografia, modellistica di packaging o tutti i laboratori. |
+| M02 · Michele Corsi, *Corso di linguaggio audiovisivo e multimediale*, Hoepli, 2017, volume unico, ISBN 9788820378868 | [Fonte primaria](https://www.hoeplieditore.it/hoepli-catalogo/articolo/corso-di-linguaggio-audiovisivo-e-multimediale-michele-corsi/9788820378868/2159). Indice editoriale: comunicazione, narrazione, inquadratura, messinscena, montaggio e sonoro. Destinazione: secondo biennio e quinta. | Indice verificato; selezione docente per il biennio. Linguaggio audiovisivo non equivale a manuale completo di software, attrezzature, organizzazione o diritto. |
+| M03 · Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. A, *Percorsi per comunicare tra vecchi e nuovi media*, ISBN 9788808499714 | [Fonte primaria](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice A](https://staticmy.zanichelli.it/catalogo/assets/9788808499714_02_IND.pdf). Indice PDF della stessa edizione aperto: stampa/supporti (cap. 1–2), fotografia (3–4), suono (5), luce (7), video (8), colore (9), comunicazione digitale (10), sicurezza (11). | Destinazione editoriale III–IV; non basta per ogni disciplina accorpata. Letto l’indice, non il volume intero. |
+| M04 · Mario Ferrara, Graziano Ramina, *Tecnologie dei processi di produzione*, 2ª ed., Clitt/Zanichelli, 2023, vol. B, *Dal progetto agli strumenti tecnici per realizzarlo*, ISBN 9788808992857 | [Fonte primaria](https://www.zanichelli.it/ricerca/prodotti/tecnologie-processi-produzione) · [Indice B](https://staticmy.zanichelli.it/catalogo/assets/9788808992857_02_IND.pdf). Indice PDF: cap. 1 progetto, preventivo e workflow; cap. 2 prestampa, stampa e finitura; cap. 3 impatto ambientale; cap. 4 condivisione delle conoscenze. | Destinazione editoriale V. Eventuali selezioni in IV professionale sono anticipazioni motivate dal programma locale, non destinazione editoriale ordinaria. Non è un trattato completo di organizzazione aziendale. |

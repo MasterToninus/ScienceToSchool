@@ -105,7 +105,25 @@ Consegna individuale: grafico con unità e stima dell’incertezza, più un conf
 
 ## Libro consigliato
 
-Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli. Volume per il primo biennio, con nuclei dedicati a misure, equilibrio, moto, fenomeni termici e luce. [Scheda editoriale del volume](https://staticmy.zanichelli.it/catalogo/assets/Zanichelli_9788808920577_cartaidentita.pdf)
+Ugo Amaldi, *Il nuovo Amaldi per i licei scientifici.blu*, Zanichelli, volume per il primo biennio, 2021, ISBN **9788808920577**. [Indice ufficiale del volume](https://staticmy.zanichelli.it/catalogo/assets/9788808920577_02_IND.pdf).
+
+| Nucleo della scheda | Raccordo documentato | Stato |
+| --- | --- | --- |
+| Misure, unità e incertezza | cap. 1–2 | Indice |
+| Dati, densità e modelli | introduzione e cap. 1–2 | Indice |
+| Vettori e forze | cap. 3 | Indice |
+| Equilibrio dei solidi | cap. 4 | Indice |
+| Pressione ed equilibrio dei fluidi | cap. 5 | Indice |
+| Raggi, specchi e lenti | cap. 13 | Indice |
+| Equilibrio e gesto sportivo | integrazione: attività e dati scelti dal docente | Integrazione didattica |
+
+**Integrazioni e scelta del materiale.** Protocolli di misura, scelta dei campioni e analisi delle incertezze nelle prove proposte richiedono adattamento alla dotazione locale.
+
+Questo ISBN compare nell’[elenco dei volumi in uscita dal catalogo scolastico 2026](https://www.zanichelli.it/assets/download/media-fuoricatalogo_scolastico_2026_16_12-pdf): resta un riferimento utilizzabile con copia disponibile. Per una nuova adozione verificare l’edizione effettivamente ottenibile e rifare la mappa; i capitoli non si trasferiscono automaticamente a *L’Amaldi.blu*.
+
+**Limite della verifica (18/11/2026).** Sono stati letti gli indici o i documenti indicati, non i manuali integrali né tutti gli esercizi. «Indice» attesta il tema nella precisa edizione; «affinità» non conferma il dettaglio del testo. Le prove, i dataset, le rubriche e il recupero della scheda sono integrazioni del docente, già comprese nel budget.
+
+[Verifica delle edizioni, fonti e matrice delle 51 schede](../../../docs/ricerca-ai/verifica-manuali-fisica.md#scientifico-1).
 
 ## Fonti consultate per questa proposta
 

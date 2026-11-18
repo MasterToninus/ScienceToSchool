@@ -101,9 +101,22 @@ Verificare funzioni e probabilità; per l’analisi occorrono anche limiti e der
 
 Scegliere un dato storico variabile nel tempo. Distinguere graficamente tasso medio, tasso istantaneo e quantità cumulata, con le rispettive unità. Scegliere un documento storico nel classico, una coppia di formulazioni in lingue diverse nel linguistico o una tabella di dati sociali nelle scienze umane.
 
-## Libro consigliato
+## Libri consigliati e copertura verificata
 
-M. Bergamini, G. Barozzi e A. Trifone, [Matematica.azzurro, terza edizione](https://www.zanichelli.it/ricerca/prodotti/bergamini-azzurro3ed), Zanichelli, volume 5. La lettura proposta riguarda calcolo differenziale e integrale, geometria nello spazio.
+- **Riferimento di base:** Massimo Bergamini, Graziella Barozzi, Anna Trifone, [Matematica.azzurro](https://www.zanichelli.it/ricerca/prodotti/bergaminiazzurro3ed), terza edizione, Zanichelli, 2021; Volume 5 con Tutor, ISBN **9788808451880**. [Identità e riscontro](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5).
+- **Richiami e integrazioni selettive:** [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): Matematica.verde — Modulo K (ISBN 9788808850607).
+
+**Verifica IA del 18 novembre 2026.** I raccordi seguenti distinguono indice consultato, affinità tematica e materiali da integrare. Non attestano la lettura integrale dei manuali né un’adozione scolastica. I volumi aggiuntivi sono riferimenti di consultazione, non una lista di acquisti o ore da sommare. [Metodo, fonti e limiti](../../../docs/ricerca-ai/verifica-manuali-matematica.md) · [Registro IA, AI-0004](../../../docs/interazioni-ai/registro.md#ai-0004).
+
+| Nucleo del programma | Capitoli pertinenti, riscontro e copertura |
+| --- | --- |
+| Limiti e continuità | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 22–24 per funzioni, limiti e continuità. |
+| Derivata e studio di funzione | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 25–27; distinguere definizione, tecniche e applicazioni. |
+| Integrali e accumulazione | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): capp. 28–29; scegliere costruzione concettuale e tecniche compatibili con le ore. **Sezione verificata** — [VEK](../../../docs/ricerca-ai/verifica-manuali-matematica.md#vek): cap. 29 per quadrature numeriche; scegliere rettangoli e trapezi, controllando nel testo il dettaglio del confronto dell’errore. |
+| Coordinate nello spazio | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): cap. 30 per coordinate e geometria analitica nello spazio. **Integrazione didattica** — l’equazione della sfera del programma non è nominata nell’indice AZ5: predisporre la derivazione dalla distanza o verificare il dettaglio nel cap. 20 di BL4; non attribuirla automaticamente al cap. 30 Azzurro. |
+| Variabili aleatorie e distribuzioni | **Sezione verificata** — [AZ5](../../../docs/ricerca-ai/verifica-manuali-matematica.md#az5): cap. 31 per distribuzioni di probabilità; in quarta LES/Made in Italy è un’anticipazione selettiva dal volume 5. Verificare nel testo i singoli modelli richiesti prima di attribuirgli tutti gli esempi del programma. |
+| Declinazione per il percorso | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
+| Verifiche, restituzione e recupero | **Integrazione didattica** — esercizi e materiali contestualizzati da selezionare nei nuclei sopra; la presenza di una rubrica non certifica la copertura delle attività, delle prove o di ogni applicazione di indirizzo proposta dall’IA. |
 
 [Scheda del percorso e fonti](README.md)
 

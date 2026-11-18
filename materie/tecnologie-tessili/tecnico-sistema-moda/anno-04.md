@@ -166,7 +166,28 @@ Consegnare due file di piazzamento e un confronto numerico. La scelta finale va 
 
 ## Letture consigliate
 
-- Il volume tratta i materiali di completamento, il piazzamento, il taglio e il successivo processo di confezione. [Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 2*, Editrice San Marco, ISBN 9788884882585](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-2-tessili-abbigliament/).
+Controllo del 18/11/2026 su schede, indici o anteprime pubbliche: **non lettura integrale dei manuali**. Un tema presente nell’indice non prova che il libro contenga tutti gli esercizi, gli strumenti o il livello di approfondimento della proposta. Le consultazioni integrative sotto indicate non implicano acquisti aggiuntivi né adozioni scolastiche verificate.
+
+- **Grana 2** — Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 2. Tessili, abbigliamento e moda*, Editrice San Marco, 2015, ISBN 9788884882585. [Fonte verificata](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-2-tessili-abbigliament/).
+- **Forte–Stasolla–Roussin** — Concetta Forte, Rosalba Stasolla, Letizia L. J. Roussin, *La moda. Progettazione & produzione*, Editrice San Marco, 2020, volume unico, ISBN 9788884883681. [Fonte verificata](https://editricesanmarco.it/catalogo/la-moda-progettazione-and-produzione/).
+- **Grana 1, 4ª ed.** — Cosetta Grana, *Tecnologie applicate ai materiali e ai processi produttivi 1. Tessile, abbigliamento e moda*, Editrice San Marco, 4ª ed. (scheda editoriale aggiornata a maggio 2026), ISBN 9788884885104. [Fonte verificata](https://editricesanmarco.it/catalogo/tecnologie-applicate-ai-materiali-e-ai-processi-produttivi-1/).
+
+Volume 2 del 2015, non quarta edizione. Volume 1 è richiamo per nobilitazioni; La moda integra progetto e comunicazione. CAD e sviluppo taglie non sono attestati in dettaglio.
+
+| Nucleo del programma | Raccordo al manuale o alla fonte | Stato del raccordo | Integrazione necessaria |
+| --- | --- | --- | --- |
+| D1.1 · Nobilitazioni e compatibilità | Grana 1, 4ª ed.: CONTENUTI: nobilitazioni. | Sezione verificata nell’indice; applicazione da predisporre | Selezionare processi coerenti con il materiale; sicurezza e impianti da documentare. |
+| D1.2 · Materiali di completamento | Grana 2: CONTENUTI: materiali di completamento. | Sezione verificata nell’indice; applicazione da predisporre | Integrare prove di compatibilità e schede dei prodotti. |
+| D1.3 · Taglio e confezione | Grana 2: CONTENUTI: sala taglio e processi di confezione. | Sezione verificata nell’indice; applicazione da predisporre | Non attesta tutte le procedure macchina, il CAD o la costruzione del cartamodello. |
+| D1.4 · Produzione e qualità | Grana 2: CONTENUTI: etichettatura e certificazione. | Sezione verificata nell’indice; applicazione da predisporre | Riferimento del 2015: aggiornare norme e requisiti applicabili prima di usare etichette o dichiarazioni. |
+| D2.1 · Moda e comunicazione | Forte–Stasolla–Roussin: CONTENUTI: moda, storia, arte e costume. | Sezione verificata nell’indice; applicazione da predisporre | Selezionare epoche e casi; non attestata copertura completa della cronologia proposta. |
+| D2.2 · Modello e trasformazioni | Grana 2; Forte–Stasolla–Roussin: Progettazione e piazzamento attestati solo a livello generale. | Da verificare / integrazione didattica | Costruzione del modello, trasformazioni, sviluppo taglie, CAD e fitting richiedono dispense/manuale specialistico e prove docente. |
+| D2.3 · CAD e sviluppo | Grana 2; Forte–Stasolla–Roussin: Progettazione e piazzamento attestati solo a livello generale. | Da verificare / integrazione didattica | Costruzione del modello, trasformazioni, sviluppo taglie, CAD e fitting richiedono dispense/manuale specialistico e prove docente. |
+| D2.4 · Piazzamento e industrializzazione | Grana 2: CONTENUTI: dalla progettazione al piazzamento. | Sezione verificata nell’indice; applicazione da predisporre | Modello, sviluppo taglie e software richiedono esercizi e risorse specifiche. |
+| D2.5 · Mini-collezione e dossier | Forte–Stasolla–Roussin: «La collezione moda». | Sezione verificata nell’indice; applicazione da predisporre | Brief, disegni, campioni e portfolio sono elaborazioni didattiche; non presunta copertura di CAD o modellistica esecutiva. |
+| D1.0, D1.5, D2.0, D2.6 · diagnosi, verifiche e recupero | Non attribuiti a capitoli o esercizi editoriali non consultati. | Integrazione didattica | Prove, rubriche, restituzione e recupero predisposti dal docente entro le ore già assegnate. |
+
+Edizioni, sezioni esatte esemplificative, tentativi di accesso e lacune: [verifica dei manuali dei settori](../../../docs/ricerca-ai/verifica-manuali-settori.md). Le attività nelle altre sezioni attuano questo stesso programma e non aggiungono ore.
 
 [Indice del percorso](README.md)
 
@@ -182,4 +203,4 @@ Per il tecnico, il D.M. 29/2026 avvia le prime 2026/27; le linee guida 2012 rest
 Per stato delle letture, data, limiti e ricerca delle programmazioni scolastiche: [catalogo delle fonti di tecnologie tessili](../../../docs/ricerca-ai/fonti-programmi/tecnologie-tessili.md).
 
 
-La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. I libri già indicati sono conservati: per le unità aggiunte il raccordo è tematico o da verificare sull’edizione posseduta, senza attribuire pagine o esercizi non consultati.
+La [revisione critica dei programmi di settore](../../../docs/ricerca-ai/revisione-critica-settori.md) documenta prerequisiti, integrazioni, fonti e controllo delle ore di questa scheda. Il raccordo bibliografico è aggiornato nel [controllo dei manuali](../../../docs/ricerca-ai/verifica-manuali-settori.md), distinguendo indici consultati e lacune.

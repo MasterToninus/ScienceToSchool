@@ -89,8 +89,32 @@ Da un archivio ipotetico di due vendemmie, ricostruire la storia di un lotto dop
 
 ## Letture consigliate
 
-- Gallo e Sirsi, *SIAmo informatici*, Minerva Scuola. Materiale di consultazione per modellazione, interrogazioni e report. [Presentazione editoriale](https://www.mondadorieducation.it/content/uploads/2022/10/Libro-in-chiaro_SIAmo_informatici_22.pdf).
-- Pietro e Giorgio De Vita, *Manuale di meccanica enologica*, Hoepli. Selezione per il docente sui flussi di cantina e la rintracciabilità, da usare per costruire il caso di studio. [Scheda dell’editore](https://www.hoeplieditore.it/hoepli-catalogo/ricerca/autore/giorgio-de-vita).
+Verifica bibliografica del **18 novembre 2026**. Sono stati controllati schede editoriali, indici e guide pubbliche; **nessun manuale è stato letto integralmente**. La presenza di un tema nell’indice non garantisce profondità, esercizi o copertura completa del nucleo. I testi sotto sono consultazioni selettive e alternative secondo il ramo, non una lista di acquisti o adozioni.
+
+Corso post-diploma: selezioni informatiche e riferimenti di settore hanno funzioni differenti; nessun manuale unico copre il percorso.
+
+- **SIA2 — Piero Gallo, Pasquale Sirsi, SIAmo informatici**. Minerva Scuola, seconda edizione 2026; secondo biennio; ISBN 9788829869909. [Fonte primaria](https://www.mondadorieducation.it/catalogo/siamo-informatici-0076733/) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia2). **Sezione verificata**.
+- **SQL — PostgreSQL Global Development Group, PostgreSQL 18 Tutorial**. Documentazione ufficiale PostgreSQL 18; ISBN non applicabile. [Fonte primaria](https://www.postgresql.org/docs/18/tutorial.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sql). **Sezione verificata**.
+- **ENO — Pietro De Vita, Giorgio De Vita, Manuale di meccanica enologica**. Hoepli, seconda edizione 2011; ISBN 9788820348748. [Fonte primaria](https://www.hoeplieditore.it/index.php/hoepli-catalogo/articolo/manuale-di-meccanica-enologica-pietro-de-vita/9788820348748/0584) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-eno). **Sezione verificata**.
+- **LO — The Document Foundation, Getting Started Guide 24.8**. Guida ufficiale LibreOffice 24.8; ISBN non utilizzato. [Fonte primaria](https://books.libreoffice.org/en/GS248/GS248.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo). **Sezione verificata**.
+- **SCIPY — SciPy community, SciPy User Guide**. Indice della documentazione ufficiale consultato; ISBN non applicabile. [Fonte primaria](https://docs.scipy.org/doc/scipy/tutorial/index.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-scipy). **Sezione verificata**.
+- **QGIS — QGIS Project, Training Manual**. Versione 3.40; guida ufficiale, ISBN non applicabile. [Fonte primaria](https://docs.qgis.org/3.40/en/docs/training_manual/index.html) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-qgis). **Sezione verificata**.
+- **SIA5 — Piero Gallo, Pasquale Sirsi, SIAmo informatici**. Minerva Scuola; edizione precedente documentata nel Libro in chiaro 2022; quinto anno; ISBN 9788829863020. [Fonte primaria](https://www.mondadorieducation.it/content/uploads/2022/10/Libro-in-chiaro_SIAmo_informatici_22.pdf) · [Riscontro e limiti](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5). **Affinità tematica**.
+
+### Raccordo ai nuclei del programma
+
+Gli identificatori rinviano ai nuclei e alle discipline sopra; le descrizioni del raccordo sono sintesi, non titoli di capitoli inventati. I nomi, i numeri e le pagine effettivamente osservati sono nel rapporto collegato.
+
+| Nucleo | Risorsa e raccordo | Esito del riscontro | Integrazione necessaria |
+| --- | --- | --- | --- |
+| **S1D1N1** — Tracciabilità | [SIA2](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia2), [SQL](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sql), [ENO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-eno): SIA2 D1–D4; SQL §§2–3; ENO: rintracciabilità come contesto | sezione verificata; copertura parziale | Modello lotti e conformità normativa attuale richiedono verifica di settore. |
+| **S1D1N2** — Qualità e analisi | [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo), [SCIPY](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-scipy): LO cap.3; SCIPY stats | sezione verificata; copertura parziale | Indicatori enologici, taratura e interpretazione dei risultati sono integrazione specialistica. |
+| **S1D1N3** — Vigneto e territorio | [QGIS](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-qgis): moduli 3,6–7 e 10: dati/analisi/servizi | sezione verificata; copertura parziale | Vigneto, precisione dei dati e scenari agrari richiedono dataset adeguati. |
+| **S1D1N4** — Rapporto riproducibile | [SIA5](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-sia5), [ENO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-eno), [LO](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#manuale-lo): Risorse di base per l’attività originale, non esercizio editoriale verificato. | integrazione didattica | Dossier tecnico e decisione enologica sono del docente; SIA5 non è un manuale di enologia. |
+
+**Attività, verifiche e recupero.** Le consegne progettuali, i dati, le prove, le rubriche e tutti i blocchi R di verifica/restituzione/recupero sono integrazioni del docente. Non sono esercizi del libro attestati da questa ricerca e non aggiungono ore ai budget del programma.
+
+[Matrice della scheda e controllo delle edizioni](../../../docs/ricerca-ai/verifica-manuali-informatica-elettronica.md#informatica-tecnico-agrario-anno-06).
 
 ## Fonti consultate per questa proposta
 

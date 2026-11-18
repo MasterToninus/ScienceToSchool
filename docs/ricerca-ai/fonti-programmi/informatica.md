@@ -8,7 +8,7 @@ Ricerca autonoma tramite IA consultata il **18 novembre 2026 (2026-11-18)**. Que
 
 L’esplorazione ha seguito l’albero **ordinamenti → indirizzi e coorti → programmazioni delle scuole → documentazione degli strumenti**. I documenti curricolari definiscono risultati e perimetri; la loro ripartizione fra anni, le sequenze e i casi di laboratorio nelle schede sono proposte Tentative dell’IA. Le fonti scolastiche sono esempi locali e datati, non disposizioni nazionali. La ricerca è ampia ma non costituisce un censimento dell’intero web.
 
-La consultazione del testo significa lettura delle sezioni indicate, non verifica integrale del sito o esecuzione dei software. «Indice consultato» significa che sono stati letti titoli, descrizioni e collegamenti disponibili: non attribuisce contenuti agli allegati non aperti. Le risorse commerciali già presenti nelle bibliografie sono conservate, ma i capitoli e le pagine dei libri non sono nuovamente certificati da questa ricerca.
+La consultazione del testo significa lettura delle sezioni indicate, non verifica integrale del sito o esecuzione dei software. «Indice consultato» significa che sono stati letti titoli, descrizioni e collegamenti disponibili: non attribuisce contenuti agli allegati non aperti. La prima esplorazione curricolare conservava le risorse commerciali senza una nuova verifica analitica. La successiva [verifica bibliografica delle 50 schede](../verifica-manuali-informatica-elettronica.md) identifica edizioni e volumi, documenta gli indici recuperati e distingue i temi ancora non verificabili.
 
 Il DM 29/2026, art. 9, avvia la riforma tecnica dalle prime del 2026/27: in quell’anno le classi successive restano nella coorte previgente. Non si trasferiscono automaticamente alle coorti nuove i contenuti delle linee guida 2012 o delle programmazioni 2022/23. L’anno Enotecnico è una specializzazione post-diploma distinta dal quinquennio. Questa ricerca non ha modificato attribuzioni alle classi di concorso o monte ore dei README.
 
@@ -66,3 +66,7 @@ La data di consultazione **2026-11-18** si applica a ogni riga; la data nel tito
 - Profili del DM 29/2026 distribuiti come ZIP nella pagina USR: allegato individuato, formato non leggibile dal lettore web. Il decreto è letto; il pacchetto non è certificato integralmente.
 
 Questi recuperi non sono conteggiati come testi letti e non sostengono nuove attribuzioni disciplinari. La selezione dei libri preesistenti conserva il precedente stato di verifica, senza implicare consultazione integrale delle opere.
+
+## Verifica dei manuali e della copertura — 18 novembre 2026
+
+La bibliografia delle schede annuali è stata ricontrollata per edizione, volume e ISBN disponibile, distinguendo indice consultato, affinità tematica, riscontri incompleti e attività originali. Il [rapporto con fonti editoriali, limiti e matrice di tutte le 50 schede](../verifica-manuali-informatica-elettronica.md) documenta i raccordi per ciascun nucleo, incluse le discipline e le articolazioni alternative. Le guide ufficiali aggiunte coprono aspetti operativi specifici; non certificano da sole la copertura completa del programma. Nessun manuale è stato letto integralmente e nessuna adozione è attestata.
